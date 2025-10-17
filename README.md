@@ -6,7 +6,7 @@ I cannot guarantee all of these can still be considered AI but we do basic check
 
 Contributing
 ============
-Feel free to create PR with additions or request removal of some domain (with reasons). Or just send me a direct message on X or Reddit.
+Feel free to create a pull request (PR) with additions or request removal of entries (with reasons). Or just send me a direct message on X or Reddit.
 
 **Specifically, please cite in your message why you suspect the band is AI generated along with links to the bands Spotify/Apple Music/Youtube page and additional social media accounts.**
 
