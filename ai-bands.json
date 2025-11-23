@@ -466,6 +466,19 @@
     "urls": []
   },
   {
+    "name": "MightyW Project",
+    "dateAdded": "2025-11-22",
+    "comments": null,
+    "spotify": "https://open.spotify.com/artist/6WXmNu9tMCJZIMipvgbxgw",
+    "apple": "https://music.apple.com/us/artist/mightyw-project/1741954514",
+    "youtube": "https://www.youtube.com/channel/UCLYQfqsC-rW1HMNGwRQt9Sw",
+    "instagram": null,
+    "tiktok": null,
+    "urls": [
+      "https://www.reddit.com/r/musicsuggestions/comments/1ocwfrf/music_made_by_humans_that_sounds_like_mighty_w/"
+    ]
+  },
+  {
     "name": "NEON ONI",
     "dateAdded": "2025-11-01",
     "comments": null,
@@ -668,6 +681,17 @@
     "urls": []
   },
   {
+    "name": "Spade Of Sparta",
+    "dateAdded": "2025-11-22",
+    "comments": null,
+    "spotify": "https://open.spotify.com/artist/6ug4L6nKdx03Mrej6KLkjH",
+    "apple": "https://music.apple.com/us/artist/spade-of-sparta/1842800165",
+    "youtube": "https://www.youtube.com/channel/UCPfF8DWFzQLciXE6Xsa_KEA",
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
     "name": "StrikingBlue",
     "dateAdded": "2025-11-01",
     "comments": null,
@@ -774,30 +798,6 @@
     "apple": "https://music.apple.com/us/artist/virelia/1838323607",
     "youtube": null,
     "instagram": "https://www.instagram.com/vireliamusic",
-    "tiktok": null,
-    "urls": []
-  },
-  {
-    "name": "MightyW Project",
-    "dateAdded": "2025-11-22",
-    "comments": null,
-    "spotify": "https://open.spotify.com/artist/6WXmNu9tMCJZIMipvgbxgw",
-    "apple": "https://music.apple.com/us/artist/mightyw-project/1741954514",
-    "youtube": "https://www.youtube.com/channel/UCLYQfqsC-rW1HMNGwRQt9Sw",
-    "instagram": null,
-    "tiktok": null,
-    "urls": [
-      "https://www.reddit.com/r/musicsuggestions/comments/1ocwfrf/music_made_by_humans_that_sounds_like_mighty_w/"
-    ]
-  },
-  {
-    "name": "Spade Of Sparta",
-    "dateAdded": "2025-11-22",
-    "comments": null,
-    "spotify": "https://open.spotify.com/artist/6ug4L6nKdx03Mrej6KLkjH",
-    "apple": "https://music.apple.com/us/artist/spade-of-sparta/1842800165",
-    "youtube": "https://www.youtube.com/channel/UCPfF8DWFzQLciXE6Xsa_KEA",
-    "instagram": null,
     "tiktok": null,
     "urls": []
   }
