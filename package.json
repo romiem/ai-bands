@@ -1,0 +1,24 @@
+{
+  "name": "souloverai",
+  "version": "1.0.0",
+  "description": "This repo contains a [list of AI generated bands](ai-bands.json) often found on Spotify, Youtube, Apple Music etc.\r It is used to power the website [https://souloverai.com](https://souloverai.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romiem/ai-bands.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romiem/ai-bands/issues"
+  },
+  "homepage": "https://github.com/romiem/ai-bands#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
