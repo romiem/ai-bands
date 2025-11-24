@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/romiem/ai-bands#readme",
   "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
     "husky": "^9.1.7"
   }
 }

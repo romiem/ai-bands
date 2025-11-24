@@ -1,0 +1,74 @@
+{
+  "title": "Artist",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "dateAdded": {
+      "type": "string",
+      "format": "date"
+    },
+    "dateUpdated": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "comments": {
+      "type": ["string", "null"]
+    },
+    "spotify": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "apple": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "youtube": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "instagram": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "tiktok": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "urls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "ai-art",
+          "human-lyrics",
+          "no-member-info"
+        ]
+      },
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "name",
+    "dateAdded",
+    "dateUpdated",
+    "comments",
+    "spotify",
+    "apple",
+    "youtube",
+    "instagram",
+    "tiktok",
+    "urls",
+    "tags"
+  ],
+  "additionalProperties": false
+}
