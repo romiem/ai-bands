@@ -35,6 +35,17 @@
     "urls": []
   },
   {
+    "name": "Ameiro Garden",
+    "dateAdded": "2025-11-24",
+    "comments": null,
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@AmeiroGarden",
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
     "name": "andi_404",
     "dateAdded": "2025-11-13",
     "comments": null,
@@ -68,6 +79,17 @@
     "urls": []
   },
   {
+    "name": "Bards of Ethernia",
+    "dateAdded": "2025-11-24",
+    "comments": null, 
+    "spotify": "https://open.spotify.com/artist/0GwxloWI2QIHXtEWJeTsKU",
+    "apple": null,
+    "youtube": "https://www.youtube.com/@LaLeLoBard",
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
     "name": "Berserk Fall",
     "dateAdded": "2025-11-01",
     "comments": null,
@@ -85,6 +107,17 @@
     "spotify": "https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4",
     "apple": "https://music.apple.com/us/artist/beyond-disdain/1828078019",
     "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "Blackbeards Tavern",
+    "dateAdded": "2025-11-24",
+    "comments": "Music created by AI, lyrics made by human",
+    "spotify": "https://open.spotify.com/artist/5wI5SeZBRJ9nWKgS9oJAQc",
+    "apple": "https://music.apple.com/ca/artist/blackbeards-tavern/1778555396",
+    "youtube": "https://www.youtube.com/@BlackbeardsTavern",
     "instagram": null,
     "tiktok": null,
     "urls": []
@@ -233,6 +266,17 @@
     "urls": []
   },
   {
+    "name": "EchoesOfVelandria",
+    "dateAdded": "2025-11-24",
+    "comments": null,
+    "spotify": "https://open.spotify.com/artist/7vfaikWkQ79OwYJlKJoK7S",
+    "apple": "https://music.apple.com/us/artist/echoesofvelandria/1781097096",
+    "youtube": "https://www.youtube.com/@EchoesOfVelandria",
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
     "name": "ELBO",
     "dateAdded": "2025-11-01",
     "comments": null,
@@ -307,6 +351,17 @@
     "spotify": "https://open.spotify.com/artist/5erVxDsEUKaWVQgNLgpHv9",
     "apple": "https://music.apple.com/us/artist/glum-aleks/1762229581",
     "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "Guwelia",
+    "dateAdded": "2025-11-24",
+    "comments": null,
+    "spotify": "https://open.spotify.com/artist/5dp5ihfnSAwX2Ww7oGasiV",
+    "apple": "https://music.apple.com/us/artist/guwelia/1776769585",
+    "youtube": "https://www.youtube.com/@Guwelia",
     "instagram": null,
     "tiktok": null,
     "urls": []
@@ -417,6 +472,17 @@
     "spotify": "https://open.spotify.com/artist/61iqx6GNeb3n5I1XlmK3oq",
     "apple": "https://music.apple.com/us/artist/lethalculture/1832187545",
     "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "Lyra Vesperi",
+    "dateAdded": "2025-11-24",
+    "comments": null,
+    "spotify": "https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE",
+    "apple": "https://music.apple.com/us/artist/lyra-vesperi/1844277874",
+    "youtube": "https://www.youtube.com/@LyraVesperi",
     "instagram": null,
     "tiktok": null,
     "urls": []
@@ -736,12 +802,34 @@
     "urls": []
   },
   {
+    "name": "The Riverside Tavern",
+    "dateAdded": "2025-11-24",
+    "comments": "Uses a mix of AI and people, a team of 3.",
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@TheRiversideTavern",
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
     "name": "The Sowers",
     "dateAdded": "2025-11-01",
     "comments": null,
     "spotify": "https://open.spotify.com/artist/0dYOdESA00EJVxrtE06vrG",
     "apple": "https://music.apple.com/us/artist/the-sowers/1765799666",
     "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "The Traveling Tankard",
+    "dateAdded": "2025-11-24",
+    "comments": "Lyrics done by human.",
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@TheTravelingTankard",
     "instagram": null,
     "tiktok": null,
     "urls": []
@@ -798,6 +886,17 @@
     "apple": "https://music.apple.com/us/artist/virelia/1838323607",
     "youtube": null,
     "instagram": "https://www.instagram.com/vireliamusic",
+    "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "Zen Vibes Station",
+    "dateAdded": "2025-11-24",
+    "comments": "Lyrics composed by human.",
+    "spotify": "https://open.spotify.com/artist/2EIzLYKGqaNqpH33T0EJk4",
+    "apple": "https://music.apple.com/us/artist/zen-vibes-station/1814397489",
+    "youtube": "https://www.youtube.com/@Zen_vibes_station",
+    "instagram": null,
     "tiktok": null,
     "urls": []
   }
