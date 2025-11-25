@@ -466,7 +466,7 @@
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5erVxDsEUKaWVQgNLgpHv9",
     "apple": "https://music.apple.com/us/artist/glum-aleks/1762229581",
-    "youtube": null,
+    "youtube": "https://www.youtube.com/@Glum_Aleks",
     "instagram": null,
     "tiktok": null,
     "urls": []
@@ -651,6 +651,19 @@
     "youtube": "https://www.youtube.com/@LyraVesperi",
     "instagram": null,
     "tiktok": null,
+    "urls": []
+  },
+  {
+    "name": "Machina Aeon",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/6IU9SrkKQPhkpD03PZzUeP",
+    "apple": "https://music.apple.com/us/artist/machina-aeon/1788393916",
+    "youtube": "https://www.youtube.com/@MachinaAeonAI",
+    "instagram": "https://www.instagram.com/machinaaeon",
+    "tiktok": "https://www.tiktok.com/@machina_aeon",
     "urls": []
   },
   {
