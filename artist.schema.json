@@ -20,32 +20,38 @@
     },
     "comments": {
       "type": ["string", "null"],
-      "description": "Additional notes or context about why this artist is considered AI-generated, or null if no comments"
+      "description": "Additional notes or context about why this artist is considered AI-generated, or null if no comments",
+      "updatable": true
     },
     "spotify": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Spotify artist URL (use clean link), or null if not available"
+      "description": "Spotify artist URL (use clean link), or null if not available",
+      "updatable": true
     },
     "apple": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Apple Music artist URL (prefer US link), or null if not available"
+      "description": "Apple Music artist URL (prefer US link), or null if not available",
+      "updatable": true
     },
     "youtube": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "YouTube channel URL, or null if not available"
+      "description": "YouTube channel URL, or null if not available",
+      "updatable": true
     },
     "instagram": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Instagram profile URL, or null if not available"
+      "description": "Instagram profile URL, or null if not available",
+      "updatable": true
     },
     "tiktok": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "TikTok profile URL, or null if not available"
+      "description": "TikTok profile URL, or null if not available",
+      "updatable": true
     },
     "urls": {
       "type": "array",
