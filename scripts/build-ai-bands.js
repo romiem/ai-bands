@@ -5,7 +5,10 @@ const addFormats = require('ajv-formats');
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
 
-const schema = JSON.parse(fs.readFileSync('artist.schema.json', 'utf8'));
+const schemaRaw = fs.readFileSync('./artist.schema.json', 'utf8');
+delete schemaRaw["$schema"]; // schema seems to have caused github CI to fail
+
+const schema = JSON.parse(schemaRaw);
 const validate = ajv.compile(schema);
 
 const files = fs.readdirSync('src').filter(f => f.endsWith('.json'));

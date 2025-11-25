@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "This repo contains a [list of AI generated bands](ai-bands.json) often found on Spotify, Youtube, Apple Music etc.\r It is used to power the website [https://souloverai.com](https://souloverai.com).",
   "scripts": {
-    "build": "node scripts/build-ai-bands.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky"
+    "build": "node scripts/build-ai-bands.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +18,6 @@
   "homepage": "https://github.com/romiem/ai-bands#readme",
   "devDependencies": {
     "ajv": "^8.17.1",
-    "ajv-formats": "^3.0.1",
-    "husky": "^9.1.7"
+    "ajv-formats": "^3.0.1"
   }
 }
