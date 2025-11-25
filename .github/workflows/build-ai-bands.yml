@@ -36,12 +36,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build combined JSON
-        run: node scripts/combine.js
+      - name: Build ai-bands.json
+        run: node scripts/build-ai-bands.js
 
-      - name: Commit and push combined JSON (main branch only)
+      - name: Commit and push ai-bands.json (main branch only)
         if: github.ref == 'refs/heads/main' && success()
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Auto-build: update combined ai-bands.json"
+          commit_message: "Auto-build: update ai-bands.json"
           file_pattern: dist/ai-bands.json
