@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "src/**/*.json"
+      ],
+      "url": "./artist.schema.json"
+    }
+  ]
+}
