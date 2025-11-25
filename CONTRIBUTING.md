@@ -6,7 +6,7 @@ If you want to contribute by adding new bands, please create a pull request (PR)
 
 Each JSON file should follow this schema:
 
-```json
+```javascript
 {
   "name": "Artist name goes here",
   "dateAdded": "2025-11-24", // Date in ISO yyyy-mm-dd format
