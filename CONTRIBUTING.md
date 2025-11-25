@@ -9,8 +9,6 @@ Each JSON file should follow this schema:
 ```javascript
 {
   "name": "Artist name goes here",
-  "dateAdded": "2025-11-24", // Date in ISO yyyy-mm-dd format
-  "dateUpdated": null, // Date in ISO yyyy-mm-dd format if updating an existing JSON file, or null if it's a new entry
   "comments": "Self-declared as an AI project.", // Set to null if there are no comments
   "tags": [], // String tags (this is a new feature coming shortly)
   "spotify": "https://open.spotify.com/artist/1s7brFQBWfA9z2YR7bl9nh", // Spotify link (ensure to use a clean link)
