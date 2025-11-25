@@ -1,0 +1,5 @@
+# Prevent committing dist/ai-bands.json
+if git diff --cached --name-only | grep -q "dist/ai-bands.json"; then
+  echo "❌ dist/ai-bands.json is auto-generated. Please do not commit it with your PR."
+  exit 1
+fi
