@@ -2,7 +2,8 @@
   "json.schemas": [
     {
       "fileMatch": [
-        "src/**/*.json"
+        "src/**/*.json",
+        "scripts/.temp-artist.json"
       ],
       "url": "./artist.schema.json"
     }
