@@ -5,6 +5,7 @@
   "scripts": {
     "build": "node scripts/build-ai-bands.js",
     "new": "node scripts/add-artist.js"
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",

@@ -39,8 +39,9 @@ jobs:
       - name: Build ai-bands.json
         run: node scripts/build-ai-bands.js
 
-      - name: Commit and push ai-bands.json (main branch only)
-        if: github.ref == 'refs/heads/main' && success()
+        # Only commit if not a pull request
+      - name: Commit and push ai-bands.json
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && success()
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Auto-build: update ai-bands.json"
