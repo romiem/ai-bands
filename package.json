@@ -4,7 +4,7 @@
   "description": "This repo contains a [list of AI generated bands](ai-bands.json) often found on Spotify, Youtube, Apple Music etc.\r It is used to power the website [https://souloverai.com](https://souloverai.com).",
   "scripts": {
     "build": "node scripts/build-ai-bands.js",
-    "new": "node scripts/add-artist.js"
+    "new": "node scripts/add-artist.js",
     "prepare": "husky"
   },
   "repository": {
