@@ -1,5 +1,8 @@
+#!/usr/bin/env sh
+
 # Prevent committing dist/ai-bands.json
-if git diff --cached --name-only | grep -q "dist/ai-bands.json"; then
-  echo "❌ dist/ai-bands.json is auto-generated. Please do not commit it with your PR."
-  exit 1
+if git diff --cached --name-only | node -e "process.stdin.on('data', d => process.exit(d.toString().split('\n').some(f => f === 'dist/ai-bands.json') ? 0 : 1))"; then
+  echo "dist/ai-bands.json is auto-generated. Please do not commit it with your PR."
+  git restore --staged -- dist/ai-bands.json
+  echo "dist/ai-bands.json has been unstaged from this commit."
 fi
