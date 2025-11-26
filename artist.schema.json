@@ -47,6 +47,11 @@
       "format": "uri",
       "description": "TikTok profile URL, or null if not available"
     },
+    "amazon": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Amazon profile URL, or null if not available"
+    },
     "urls": {
       "type": "array",
       "description": "Supporting evidence URLs (e.g., Reddit posts, blog articles, etc.)",
