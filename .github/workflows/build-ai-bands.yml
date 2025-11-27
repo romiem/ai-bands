@@ -16,7 +16,7 @@ on:
       - "src/**/*.json"
       - "artist.schema.json"
       - "scripts/build-ai-bands.js"
-      - ".github/workflows/build-ai-bands-json.yml"
+      - ".github/workflows/build-ai-bands.yml"
 
 jobs:
   validate_and_build:
@@ -46,3 +46,4 @@ jobs:
         with:
           commit_message: "Auto-build: update ai-bands.json"
           file_pattern: dist/ai-bands.json
+          commit_options: '--no-verify'
