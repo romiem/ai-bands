@@ -46,4 +46,4 @@ jobs:
         with:
           commit_message: "Auto-build: update ai-bands.json"
           file_pattern: dist/ai-bands.json
-          commit_options: '--no-verify'
+          commit_options: '--no-verify' # skips Husky precommit task
