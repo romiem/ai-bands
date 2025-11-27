@@ -25,32 +25,38 @@
     "spotify": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Spotify artist URL (use clean link), or null if not available"
+      "description": "Spotify artist URL (use clean link), or null if not available",
+      "githubTag": [ "Spotify", "#18d600" ]
     },
     "apple": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Apple Music artist URL (prefer US link), or null if not available"
+      "description": "Apple Music artist URL (prefer US link), or null if not available",
+      "githubTag": ["Apple Music", "#eb5361" ]
     },
     "youtube": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "YouTube channel URL, or null if not available"
+      "description": "YouTube channel URL, or null if not available",
+      "githubTag": [ "YouTube", "#ff0000" ]
     },
     "instagram": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Instagram profile URL, or null if not available"
+      "description": "Instagram profile URL, or null if not available",
+      "githubTag": [ "Instagram", "#e1306c" ]
     },
     "tiktok": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "TikTok profile URL, or null if not available"
+      "description": "TikTok profile URL, or null if not available",
+      "githubTag": [ "TikTok", "#000000" ]
     },
     "amazon": {
       "type": ["string", "null"],
       "format": "uri",
-      "description": "Amazon profile URL, or null if not available"
+      "description": "Amazon profile URL, or null if not available",
+      "githubTag": [ "Amazon Music", "#4cb3be" ]
     },
     "urls": {
       "type": "array",

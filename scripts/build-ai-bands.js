@@ -6,9 +6,15 @@ const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);
 
 const schemaRaw = fs.readFileSync('./artist.schema.json', 'utf8');
-delete schemaRaw["$schema"]; // schema seems to have caused github CI to fail
-
 const schema = JSON.parse(schemaRaw);
+
+// Cleanup fields ajv doesn't support
+delete schemaRaw["$schema"];
+for (const key in schema.properties) {
+  if (schema.properties[key].githubTag) {
+    delete schema.properties[key].githubTag;
+  }
+}
 const validate = ajv.compile(schema);
 
 const files = fs.readdirSync('src').filter(f => f.endsWith('.json'));
