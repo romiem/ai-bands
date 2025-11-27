@@ -142,6 +142,20 @@
     "urls": []
   },
   {
+    "name": "Badger Sounds",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/64XVZA95MFE7smlQOsEQX4",
+    "apple": null,
+    "youtube": "https://www.youtube.com/@badgersoundsofficial",
+    "instagram": "https://www.instagram.com/badgersoundsmusic",
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
     "name": "Bards of Ethernia",
     "dateAdded": "2025-11-24",
     "dateUpdated": null,
@@ -338,6 +352,20 @@
     "urls": []
   },
   {
+    "name": "Dark Sea Ambience",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@DarkSeaAmbience",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
     "name": "DEADLUVE",
     "dateAdded": "2025-11-01",
     "dateUpdated": null,
@@ -360,9 +388,9 @@
     "spotify": "https://open.spotify.com/artist/07XIuuPrpw0kcGrJApsbQp",
     "apple": "https://music.apple.com/us/artist/deathly-hours/1816210423",
     "youtube": "https://www.youtube.com/@deathlyhours",
-    "instagram": null,
-    "tiktok": null,
-    "amazon": null,
+    "instagram": "https://www.instagram.com/deathly_hours",
+    "tiktok": "https://www.tiktok.com/@deathly_hours",
+    "amazon": "https://music.amazon.com/artists/B0F9Q1V8CL/deathly-hours",
     "urls": []
   },
   {
@@ -450,6 +478,20 @@
     "urls": []
   },
   {
+    "name": "Eternal Fantasy Sounds",
+    "dateAdded": "2025-11-26",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/2Bld4sMlfbeqUkZRNYfRvQ",
+    "apple": "https://music.apple.com/us/artist/eternal-fantasy-sounds/1829228957",
+    "youtube": "https://www.youtube.com/@EternalFantasySounds",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0FK3K4BSH/eternal-fantasy-sounds",
+    "urls": []
+  },
+  {
     "name": "Exiles Of Eden",
     "dateAdded": "2025-11-01",
     "dateUpdated": null,
@@ -488,6 +530,20 @@
     "spotify": "https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk",
     "apple": "https://music.apple.com/us/artist/false-saints/1817456479",
     "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
+    "name": "Fantasy Celtic Music",
+    "dateAdded": "2025-11-26",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@FantasyCeltic_Music",
     "instagram": null,
     "tiktok": null,
     "amazon": null,
@@ -662,6 +718,20 @@
     "urls": []
   },
   {
+    "name": "King's Echoes",
+    "dateAdded": "2025-11-26",
+    "dateUpdated": null,
+    "comments": "Human lyrics.",
+    "tags": [],
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@KingEchoes83",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
     "name": "Kuroi Riquid",
     "dateAdded": "2025-11-26",
     "dateUpdated": null,
@@ -802,6 +872,20 @@
     "urls": []
   },
   {
+    "name": "Medieval Tavern Tunes",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": null,
+    "apple": null,
+    "youtube": "https://www.youtube.com/@MedievalTavernTunes",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
     "name": "MightyW Project",
     "dateAdded": "2025-11-22",
     "dateUpdated": null,
@@ -916,6 +1000,20 @@
     "urls": []
   },
   {
+    "name": "Pirates of the Horizon",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": null,
+    "apple": "https://music.apple.com/us/artist/pirates-of-the-horizon/1784013546",
+    "youtube": "https://www.youtube.com/@PiratesoftheHorizon",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
     "name": "Puppet Spider",
     "dateAdded": "2025-11-26",
     "dateUpdated": null,
@@ -1000,6 +1098,20 @@
     "youtube": null,
     "instagram": null,
     "tiktok": null,
+    "amazon": null,
+    "urls": []
+  },
+  {
+    "name": "Runtime Studios",
+    "dateAdded": "2025-11-25",
+    "dateUpdated": null,
+    "comments": "Appeared in the channel description of Medieval Tavern Tunes.",
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/6A8qm0PPLu3zPL2w7ZF8gB",
+    "apple": null,
+    "youtube": "https://www.youtube.com/@RuntimeStudios",
+    "instagram": "https://www.instagram.com/runtimestudios",
+    "tiktok": "https://www.tiktok.com/@runtime_studios",
     "amazon": null,
     "urls": []
   },
