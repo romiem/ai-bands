@@ -36,15 +36,21 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+        # Update dates
+      - name: Update artist dates
+        run: node scripts/update-artist-dates.js
+
         # Compile dist file
       - name: Build ai-bands.json
         run: node scripts/build-ai-bands.js
 
         # Only commit if not a pull request
-      - name: Commit and push ai-bands.json
+      - name: Commit and push changes
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && success()
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Auto-build: update ai-bands.json"
-          file_pattern: dist/ai-bands.json
+          file_pattern: |
+            src/
+            dist/ai-bands.json
           commit_options: '--no-verify' # skips Husky precommit task
