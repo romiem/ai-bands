@@ -1,6 +1,6 @@
-const fs = require('fs');
-const Ajv = require('ajv');
-const addFormats = require('ajv-formats');
+import fs from 'fs';
+import Ajv from 'ajv';
+import addFormats from 'ajv-formats';
 
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);

@@ -36,6 +36,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+        # Compile dist file
       - name: Build ai-bands.json
         run: node scripts/build-ai-bands.js
 
