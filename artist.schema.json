@@ -68,7 +68,7 @@
         "enum": [
           "ai-art",
           "human-lyrics",
-          "no-member-info"
+          "partial-ai"
         ]
       },
       "uniqueItems": true
