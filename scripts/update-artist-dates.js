@@ -15,27 +15,43 @@ function getGitDate(filePath, args) {
   }
 }
 
-// Get all .json files in /src
 const files = fs.readdirSync(SRC_DIR).filter(f => f.endsWith('.json'));
 
 for (const file of files) {
   const fullPath = path.join(SRC_DIR, file);
 
-  const dateAdded = getGitDate(fullPath, '--diff-filter=A'); // first added commit
-  const dateUpdated = getGitDate(fullPath, '-1'); // latest commit
+  const dateAdded = getGitDate(fullPath, '--diff-filter=A');
+  const dateUpdated = getGitDate(fullPath, '-1');
 
   if (!dateAdded || !dateUpdated) {
     console.warn(`Skipping ${file} — no git history found`);
     continue;
   }
 
+  // Calculate new values
+  const newDateAdded = dateAdded;
+  const newDateUpdated = dateUpdated === dateAdded ? null : dateUpdated;
+
+  // Read existing JSON
   const json = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-  json.dateAdded = dateAdded;
 
-  // If the file was never updated (only added), set dateUpdated to null
-  json.dateUpdated = dateUpdated === dateAdded ? null : dateUpdated;
+  const oldDateAdded = json.dateAdded || null;
+  const oldDateUpdated = json.dateUpdated || null;
 
+  // Check if anything changed
+  const changed = (oldDateAdded !== newDateAdded) || (oldDateUpdated !== newDateUpdated);
+
+  if (!changed) {
+    // No console.log → stays silent
+    continue;
+  }
+
+  // Apply updates
+  json.dateAdded = newDateAdded;
+  json.dateUpdated = newDateUpdated;
+
+  // Write file
   fs.writeFileSync(fullPath, JSON.stringify(json, null, 2) + '\n');
 
-  console.log(`Updated ${file}: dateAdded=${dateAdded}, dateUpdated=${json.dateUpdated}`);
+  console.log(`Updated ${file}: dateAdded ${oldDateAdded} → ${newDateAdded}, dateUpdated ${oldDateUpdated} → ${newDateUpdated}`);
 }
