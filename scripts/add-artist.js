@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const path = require('path');
-const { spawn } = require('child_process');
+import { readFileSync, writeFileSync, unlinkSync, existsSync } from 'fs';
+import { join, dirname } from 'path';
+import { spawn } from 'child_process';
+import { fileURLToPath } from 'url';
 
-const schemaPath = path.join(__dirname, '..', 'artist.schema.json');
-const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const schemaPath = join(__dirname, '..', 'artist.schema.json');
+const schema = JSON.parse(readFileSync(schemaPath, 'utf8'));
 
 const execCommand = (command, args = []) => {
     return new Promise((resolve, reject) => {
@@ -123,30 +127,30 @@ const openEditor = async (filePath) => {
 
 const main = async () => {
     try {
-        const tempFile = path.join(__dirname, '.temp-artist.json');
+        const tempFile = join(__dirname, '.temp-artist.json');
         const template = createTemplate();
-        fs.writeFileSync(tempFile, JSON.stringify(template, null, 2));
+        writeFileSync(tempFile, JSON.stringify(template, null, 2));
 
         console.log('Opening editor with artist template...');
         console.log('\x1b[32mFill in the artist details and close the editor tab when done.\x1b[0m');
 
         await openEditor(tempFile);
 
-        const editedContent = fs.readFileSync(tempFile, 'utf8');
+        const editedContent = readFileSync(tempFile, 'utf8');
         let artistData;
 
         try {
             artistData = JSON.parse(editedContent);
         } catch (e) {
             console.error('Error: Invalid JSON format');
-            fs.unlinkSync(tempFile);
+            unlinkSync(tempFile);
             process.exit(1);
         }
 
         // Validate artist name
         if (!artistData.name || artistData.name.trim() === '') {
             console.error('Error: Artist name is required');
-            fs.unlinkSync(tempFile);
+            unlinkSync(tempFile);
             process.exit(1);
         }
 
@@ -165,20 +169,20 @@ const main = async () => {
 
         // Create filename
         let fileName = sanitizeFileName(artistData.name) + '.json';
-        let filePath = path.join(__dirname, '..', 'src', fileName);
+        let filePath = join(__dirname, '..', 'src', fileName);
 
         // Make sure the filename is unique
         let counter = 2;
-        while (fs.existsSync(filePath)) {
+        while (existsSync(filePath)) {
             fileName = sanitizeFileName(artistData.name) + `-${counter}.json`;
-            filePath = path.join(__dirname, '..', 'src', fileName);
+            filePath = join(__dirname, '..', 'src', fileName);
             counter++;
         }
 
         // Write artist file
-        fs.writeFileSync(filePath, JSON.stringify(orderedData, null, 2) + '\n');
+        writeFileSync(filePath, JSON.stringify(orderedData, null, 2) + '\n');
         console.log(`\nArtist file created: src/${fileName}`);
-        fs.unlinkSync(tempFile);
+        unlinkSync(tempFile);
 
         const branchName = `artist/${sanitizeFileName(artistData.name)}`;
         console.log(`\nCreating branch: ${branchName}`);
