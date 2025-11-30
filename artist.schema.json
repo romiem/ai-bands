@@ -14,41 +14,65 @@
       "description": "Date this artist was added to the database (YYYY-MM-DD format)"
     },
     "dateUpdated": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "date",
       "description": "Date this entry was last updated (YYYY-MM-DD format), or null if never updated"
     },
     "comments": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Additional notes or context about why this artist is considered AI-generated, or null if no comments"
     },
     "spotify": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "Spotify artist URL (use clean link), or null if not available"
     },
     "apple": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "Apple Music artist URL (prefer US link), or null if not available"
     },
     "youtube": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "YouTube channel URL, or null if not available"
     },
     "instagram": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "Instagram profile URL, or null if not available"
     },
     "tiktok": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "TikTok profile URL, or null if not available"
     },
     "amazon": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "uri",
       "description": "Amazon profile URL, or null if not available"
     },
@@ -66,9 +90,11 @@
       "items": {
         "type": "string",
         "enum": [
-          "ai-art",
+          "partial-ai",
           "human-lyrics",
-          "partial-ai"
+          "anon-project",
+          "high-output",
+          "inconsistent-style"
         ]
       },
       "uniqueItems": true
