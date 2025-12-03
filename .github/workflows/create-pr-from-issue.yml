@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-      issues: read
+      issues: write
 
     steps:
       - name: Checkout repo
