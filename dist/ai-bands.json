@@ -523,6 +523,20 @@
     "urls": []
   },
   {
+    "name": "Endless Soul",
+    "dateAdded": "2025-12-03",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/50bJcvFo5AyB33K7Bhkjwz",
+    "apple": "https://music.apple.com/us/artist/1778304509",
+    "youtube": null,
+    "instagram": "https://www.instagram.com/endlesssoulofficial",
+    "tiktok": "https://www.tiktok.com/@endlesssoulofficial",
+    "amazon": "https://music.amazon.com/artists/B0DM6QRBSK",
+    "urls": []
+  },
+  {
     "name": "Endless Taverns",
     "dateAdded": "2025-11-26",
     "dateUpdated": null,
@@ -737,15 +751,15 @@
   {
     "name": "Inhuman 666",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-03",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0CUZIIXfh6lAXwBJTg4OUX",
     "apple": "https://music.apple.com/us/artist/inhuman-666/1748157941",
-    "youtube": null,
+    "youtube": "https://www.youtube.com/@inhuman666music",
     "instagram": null,
-    "tiktok": null,
-    "amazon": null,
+    "tiktok": "https://www.tiktok.com/@inhuman666music",
+    "amazon": "https://music.amazon.com/artists/B0D54TTQ85/inhuman-666",
     "urls": []
   },
   {
