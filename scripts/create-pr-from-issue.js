@@ -73,6 +73,9 @@ const transformAndOrder = (input) => {
   // Ensure tags is an array
   data.tags ??= [];
 
+  // Ensure urls is an array
+  data.urls ??= [];
+
   // Order properties
   const orderedKeys = [
     'name', 'dateAdded', 'dateUpdated', 'comments', 'tags',
