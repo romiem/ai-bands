@@ -47,6 +47,7 @@ jobs:
           create_branch: true
           file_pattern: 'src/*.json'
           commit_options: '--no-verify'
+          push_options: '--force' # in case of branch name already exists
 
       - name: Create PR
         uses: actions/github-script@v7
