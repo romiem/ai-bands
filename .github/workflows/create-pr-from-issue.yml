@@ -7,8 +7,8 @@ on:
 jobs:
   create_pr:
     runs-on: ubuntu-latest
-    # Only run when comment is exactly "/create-pr"
-    if: github.event.comment.body == '/create-pr'
+    # Only run when comment is exactly "/create-pr" and commenter is a repo owner
+    if: github.event.comment.body == '/create-pr' && github.event.comment.author_association == 'OWNER'
 
     permissions:
       contents: write
