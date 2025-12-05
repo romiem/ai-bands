@@ -7,4 +7,4 @@ I cannot guarantee all of these can *still* be considered AI, but we do check al
 
 Contributing
 ============
-See the `CONTRIBUTING` tab for how to contribute, by reporting new AI artists or sending us Pull Requests.
+To contribute to the list, please fill in the form at https://souloverai.com/contribute
