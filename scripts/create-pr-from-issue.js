@@ -94,27 +94,11 @@ const transformAndOrder = (input) => {
 };
 
 /**
- * Get content to parse from last prior comment or issue body
+ * Get content to parse from issue body
  */
-const getContentToParse = async () => {
-  const { data: comments } = await octokit.issues.listComments({
-    owner,
-    repo,
-    issue_number: Number(ISSUE_NUMBER),
-  });
-
-  // Filter out current comment and /create-pr commands
-  const priorComments = comments.filter(c =>
-    c.id.toString() !== COMMENT_ID && c.body.trim() !== '/create-pr'
-  );
-
-  if (priorComments.length > 0) {
-    console.log('Using last prior comment');
-    return priorComments.at(-1).body;
-  }
-
+const getContentToParse = () => {
+  if (!ISSUE_BODY) throw new Error('No content found in issue body');
   console.log('Using issue body');
-  if (!ISSUE_BODY) throw new Error('No content found in comments or issue body');
   return ISSUE_BODY;
 };
 
@@ -151,7 +135,7 @@ const setOutput = (key, value) => {
 const main = async () => {
   try {
     // Get and parse content
-    const content = await getContentToParse();
+    const content = getContentToParse();
     console.log('Received content:', content, '\n---');
 
     const artistData = parseKeyValueFormat(content);
