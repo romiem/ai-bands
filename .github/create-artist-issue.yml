@@ -1,0 +1,22 @@
+name: Create Artist Submission Issue
+
+on:
+  repository_dispatch:
+    types: [artist-submission]
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Install dependencies
+        run: npm install @octokit/rest
+
+      - name: Create Issue
+        run: node .github/scripts/create-artist-issue.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
