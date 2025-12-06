@@ -6,11 +6,20 @@ import { fileURLToPath } from 'url';
 import { Octokit } from '@octokit/rest';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+const SRC_DIR = join(__dirname, '../../src');
 
 const { GITHUB_TOKEN, REPO, ISSUE_NUMBER, ISSUE_BODY, COMMENT_ID, GITHUB_OUTPUT } = process.env;
 const [owner, repo] = REPO?.split('/') || [];
 
 const octokit = new Octokit({ auth: GITHUB_TOKEN });
+
+/**
+ * Required keys for artist data (also used for ordering output)
+ * Note: dateAdded and dateUpdated are auto-generated, not required in input
+ */
+const requiredKeys = [
+  'name', 'comments', 'tags', 'spotify', 'apple', 'youtube', 'instagram', 'tiktok', 'amazon', 'urls'
+];
 
 /**
  * Sanitize artist name to create a valid filename
@@ -76,11 +85,8 @@ const transformAndOrder = (input) => {
   // Ensure urls is an array
   data.urls ??= [];
 
-  // Order properties
-  const orderedKeys = [
-    'name', 'dateAdded', 'dateUpdated', 'comments', 'tags',
-    'spotify', 'apple', 'youtube', 'instagram', 'tiktok', 'amazon', 'urls'
-  ];
+  // Order properties: dateAdded and dateUpdated come after name
+  const orderedKeys = requiredKeys.toSpliced(1, 0, 'dateAdded', 'dateUpdated');
 
   const ordered = {};
   for (const key of orderedKeys) {
@@ -108,12 +114,12 @@ const getContentToParse = () => {
 const createUniqueFilePath = (artistName) => {
   const baseName = sanitizeFileName(artistName);
   let fileName = `${baseName}.json`;
-  let filePath = join(__dirname, '..', 'src', fileName);
+  let filePath = join(SRC_DIR, fileName);
 
   let counter = 2;
   while (existsSync(filePath)) {
     fileName = `${baseName}-${counter}.json`;
-    filePath = join(__dirname, '..', 'src', fileName);
+    filePath = join(SRC_DIR, fileName);
     counter++;
   }
 
@@ -130,6 +136,16 @@ const setOutput = (key, value) => {
 };
 
 /**
+ * Validate that all required keys are present in the parsed data
+ */
+const validateRequiredKeys = (data) => {
+  const missingKeys = requiredKeys.filter(key => !(key in data));
+  if (missingKeys.length > 0) {
+    throw new Error(`Missing required keys: ${missingKeys.join(', ')}`);
+  }
+};
+
+/**
  * Main execution
  */
 const main = async () => {
@@ -139,6 +155,9 @@ const main = async () => {
     console.log('Received content:', content, '\n---');
 
     const artistData = parseKeyValueFormat(content);
+
+    // Validate all required keys are present
+    validateRequiredKeys(artistData);
 
     if (!artistData.name?.trim()) {
       throw new Error('Artist name is required');

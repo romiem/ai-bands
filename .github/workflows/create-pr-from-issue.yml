@@ -37,7 +37,7 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_BODY: ${{ github.event.issue.body }}
           COMMENT_ID: ${{ github.event.comment.id }}
-        run: node scripts/create-pr-from-issue.js
+        run: node .github/scripts/create-pr-from-issue.js
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
