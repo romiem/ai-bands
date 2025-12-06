@@ -4,7 +4,7 @@
   "description": "A list of AI-generated artists. It is used to power the website [https://souloverai.com](https://souloverai.com).",
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-ai-bands.js",
+    "build": "node .github/scripts/build-ai-bands.js",
     "new": "node scripts/add-artist.js",
     "prepare": "husky"
   },

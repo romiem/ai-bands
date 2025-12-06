@@ -7,7 +7,7 @@ on:
     paths:
       - "src/**/*.json"
       - "artist.schema.json"
-      - "scripts/build-ai-bands.js"
+      - ".github/scripts/build-ai-bands.js"
       - ".github/workflows/build-ai-bands.yml"
   pull_request:
     branches:
@@ -15,7 +15,7 @@ on:
     paths:
       - "src/**/*.json"
       - "artist.schema.json"
-      - "scripts/build-ai-bands.js"
+      - ".github/scripts/build-ai-bands.js"
       - ".github/workflows/build-ai-bands.yml"
 
 jobs:
@@ -38,11 +38,11 @@ jobs:
 
         # Update dates
       - name: Update artist dates
-        run: node scripts/update-artist-dates.js
+        run: node .github/scripts/update-artist-dates.js
 
         # Compile dist file
       - name: Build ai-bands.json
-        run: node scripts/build-ai-bands.js
+        run: node .github/scripts/build-ai-bands.js
 
         # Only commit if not a pull request
       - name: Commit and push changes
