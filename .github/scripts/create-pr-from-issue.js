@@ -32,14 +32,14 @@ const sanitizeFileName = (name) =>
     .replace(/^-+|-+$/g, '');
 
 /**
- * Parse key-value format: [key]: value
+ * Parse key-value format: {key}: value
  */
 const parseKeyValueFormat = (text) => {
   const data = {};
   const lines = text.split('\n');
 
   for (const line of lines) {
-    const match = line.match(/^\[([^\]]+)\]:\s*(.*)$/);
+    const match = line.match(/^\{([^}]+)\}:\s*(.*)$/);
     if (match) {
       const [, key, value] = match;
       const trimmedValue = value.trim();
