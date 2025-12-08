@@ -7,4 +7,4 @@ I cannot guarantee all of these can *still* be considered AI, but we do check al
 
 Contributing
 ============
-To contribute to the list, please fill in the form at https://souloverai.com/contribute
+To contribute to the list, please fill in the form at https://souloverai.com/contribute. Please try to fill in as many of the input fields as possible to reduce our burden of researching all of the music platform urls. Thanks in advance!
