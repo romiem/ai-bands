@@ -378,6 +378,22 @@
     "urls": []
   },
   {
+    "name": "Broken Avenue",
+    "dateAdded": "2025-12-08",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/0zcfo3QWQw4OLLmMuKiDep",
+    "apple": "https://music.apple.com/us/artist/489840116",
+    "youtube": "https://www.youtube.com/channel/UCVE9UMO6H8b6GQJ_Aa1CvKg",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B01MYAHX8L",
+    "urls": []
+  },
+  {
     "name": "Call Me Christian",
     "dateAdded": "2025-11-25",
     "dateUpdated": "2025-12-07",
