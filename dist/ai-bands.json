@@ -354,6 +354,22 @@
     "urls": []
   },
   {
+    "name": "BardStrike",
+    "dateAdded": "2025-12-11",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/1WuGn0jCPDAovbnnia18hk",
+    "apple": "https://music.apple.com/us/artist/1762475451",
+    "youtube": "https://www.youtube.com/@bardstrike",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DCX5WVNZ",
+    "urls": []
+  },
+  {
     "name": "Bent Ardi",
     "dateAdded": "2025-12-10",
     "dateUpdated": null,
