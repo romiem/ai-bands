@@ -1032,6 +1032,20 @@
     "urls": []
   },
   {
+    "name": "FAKE MUSIC",
+    "dateAdded": "2025-12-11",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/2ohbNcJ4nbwEbWFuruSX9C",
+    "apple": "https://music.apple.com/us/artist/1837965429",
+    "youtube": "https://www.youtube.com/@FakemusicBr",
+    "instagram": "https://www.instagram.com/fakemusic_br",
+    "tiktok": "https://www.tiktok.com/@fakemusicbr",
+    "amazon": "https://music.amazon.com/artists/B00SIKWIWC",
+    "urls": []
+  },
+  {
     "name": "Fall To Pieces",
     "dateAdded": "2025-11-25",
     "dateUpdated": "2025-12-07",
