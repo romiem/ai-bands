@@ -9,7 +9,10 @@
       "description": "The name of the artist or band"
     },
     "dateAdded": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "date",
       "description": "Date this artist was added to the database (YYYY-MM-DD format)"
     },
@@ -88,13 +91,21 @@
       "type": "array",
       "description": "Special tags/flags for this artist",
       "items": {
-        "type": "string",
-        "enum": [
-          "partial-ai",
-          "human-lyrics",
-          "anon-project",
-          "high-output",
-          "inconsistent-style"
+        "anyOf": [
+          {
+            "type": "string",
+            "enum": [
+              "partial-ai",
+              "human-lyrics",
+              "anon-project",
+              "high-output",
+              "inconsistent-style",
+              "external"
+            ]
+          },
+          {
+            "type": "string"
+          }
         ]
       },
       "uniqueItems": true
