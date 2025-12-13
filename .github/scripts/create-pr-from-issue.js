@@ -6,15 +6,17 @@ import { fileURLToPath } from 'url';
 import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
-const fs = require('fs');
-const path = require('path');
-const artistSchema = JSON.parse(fs.readFileSync(path.join(__dirname, '../../artist.schema.json'), 'utf-8'));
+import path from 'path';
+
+const ROOT_DIR = process.cwd();
+const SRC_DIR = path.join(ROOT_DIR, 'src');
+const SCHEMA_PATH = path.join(ROOT_DIR, 'artist.schema.json');
+
+const schemaRaw = fs.readFileSync(SCHEMA_PATH, 'utf8');
+const schema = JSON.parse(schemaRaw);
 
 const ajv = new Ajv();
-const validate = ajv.compile(artistSchema);
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const SRC_DIR = join(__dirname, '../../src');
+const validate = ajv.compile(schema);
 
 const { GITHUB_TOKEN, REPO, ISSUE_NUMBER, ISSUE_BODY, COMMENT_ID, GITHUB_OUTPUT } = process.env;
 const [owner, repo] = REPO?.split('/') || [];
@@ -47,7 +49,7 @@ const transformAndOrder = (input) => {
   const data = { ...input };
 
   // Use the artist schema's required keys for ordering
-  const orderedKeys = artistSchema.required;
+  const orderedKeys = schema.required;
 
   const ordered = {};
   for (const key of orderedKeys) {
