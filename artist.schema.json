@@ -14,7 +14,10 @@
       "description": "The name of the artist or band"
     },
     "dateAdded": {
-      "type": "string",
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "date",
       "description": "Date this artist was added to the database (YYYY-MM-DD format)"
     },
