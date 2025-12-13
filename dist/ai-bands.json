@@ -1,8 +1,9 @@
 [
   {
+    "id": "the-professor-nick-harrison",
     "name": "\"The Professor\" Nick Harrison",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2ASUkH9fgw0WkVQYYZWP10",
@@ -14,6 +15,7 @@
     "urls": []
   },
   {
+    "id": "10mm",
     "name": "10mm",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -28,9 +30,10 @@
     "urls": []
   },
   {
+    "id": "a-shrine-to-failure",
     "name": "A Shrine to Failure",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0nXYxiS5VC7eoz5YR986oS",
@@ -44,9 +47,10 @@
     ]
   },
   {
+    "id": "a-wildhearts-tale",
     "name": "A Wildheart's Tale",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb",
@@ -58,9 +62,10 @@
     "urls": []
   },
   {
+    "id": "a7m",
     "name": "A7M",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0N16MVt8vXzNVIMFtCS72P",
@@ -72,9 +77,10 @@
     "urls": []
   },
   {
+    "id": "action-cop",
     "name": "Action Cop",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1Z68j75hNrsmmwuwOX2aRy",
@@ -86,9 +92,10 @@
     "urls": []
   },
   {
+    "id": "aeriel",
     "name": "Aeriel",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2PD0BR1xfo5KhUYni6hU7R",
@@ -100,9 +107,10 @@
     "urls": []
   },
   {
+    "id": "aiphonic",
     "name": "AIphonic",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "human-lyrics",
@@ -117,9 +125,10 @@
     "urls": []
   },
   {
+    "id": "aleister-temple",
     "name": "Aleister Temple",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "No information or photos of members; generic AI art",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0EVrCbMQybkg7m8vZFbQTJ",
@@ -131,9 +140,10 @@
     "urls": []
   },
   {
+    "id": "ameiro-garden",
     "name": "Ameiro Garden",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -145,9 +155,10 @@
     "urls": []
   },
   {
+    "id": "andi-404",
     "name": "andi_404",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6w0h4tqsfi0ZwYfrHbV3cf",
@@ -159,9 +170,10 @@
     "urls": []
   },
   {
+    "id": "angelofanarchy",
     "name": "AngelofAnarchy",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5dt8gRLDwIgSS0uwxvxqqJ",
@@ -173,9 +185,10 @@
     "urls": []
   },
   {
+    "id": "ansi",
     "name": "ANSI",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -190,9 +203,10 @@
     "urls": []
   },
   {
+    "id": "apexwolf-beats",
     "name": "Apexwolf Beats",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -206,9 +220,10 @@
     "urls": []
   },
   {
+    "id": "apukat",
     "name": "Apukat",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -222,9 +237,10 @@
     "urls": []
   },
   {
+    "id": "ash-paradise",
     "name": "Ash & Paradise",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -239,9 +255,10 @@
     "urls": []
   },
   {
+    "id": "ash-and-echo",
     "name": "Ash and Echo",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0EyCnWOctgTmSzl1Oy5DxR",
@@ -253,9 +270,10 @@
     "urls": []
   },
   {
+    "id": "ashes-of-angst",
     "name": "Ashes of Angst",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "AI Vocals",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2UJm5tXcmflQFMi6hPyzvn",
@@ -267,9 +285,10 @@
     "urls": []
   },
   {
+    "id": "ashes-of-eden",
     "name": "Ashes of Eden",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5Cw0RywOrfPAzlLEsrBC73",
@@ -281,9 +300,10 @@
     "urls": []
   },
   {
+    "id": "aurenza",
     "name": "AURENZA",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -298,9 +318,10 @@
     "urls": []
   },
   {
+    "id": "aventhis",
     "name": "Aventhis",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj",
@@ -312,9 +333,10 @@
     "urls": []
   },
   {
+    "id": "aya-thorn",
     "name": "Aya Thorn",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0M24mDAFdTyVOHET99WEIF",
@@ -326,9 +348,10 @@
     "urls": []
   },
   {
+    "id": "bad-apples",
     "name": "Bad Apples",
     "dateAdded": "2025-11-24",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Self-declared as an AI project.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1s7brFQBWfA9z2YR7bl9nh",
@@ -340,9 +363,10 @@
     "urls": []
   },
   {
+    "id": "badger-sounds",
     "name": "Badger Sounds",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/64XVZA95MFE7smlQOsEQX4",
@@ -354,9 +378,10 @@
     "urls": []
   },
   {
+    "id": "bards-of-ethernia",
     "name": "Bards of Ethernia",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0GwxloWI2QIHXtEWJeTsKU",
@@ -368,9 +393,10 @@
     "urls": []
   },
   {
+    "id": "bardstrike",
     "name": "BardStrike",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -384,9 +410,10 @@
     "urls": []
   },
   {
+    "id": "bent-ardi",
     "name": "Bent Ardi",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3lV9DEl0qO3WdezMwkJsqw",
@@ -398,9 +425,10 @@
     "urls": []
   },
   {
+    "id": "berserk-fall",
     "name": "Berserk Fall",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5IXCNpWO1SNGQOyid2DSd2",
@@ -412,9 +440,10 @@
     "urls": []
   },
   {
+    "id": "beyond-awake",
     "name": "BEYOND AWAKE",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2R1ak4jDCjXlksuQ2S5DxH",
@@ -426,9 +455,10 @@
     "urls": []
   },
   {
+    "id": "beyond-disdain",
     "name": "Beyond Disdain",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4",
@@ -440,9 +470,10 @@
     "urls": []
   },
   {
+    "id": "biodrive",
     "name": "Biodrive",
     "dateAdded": "2025-12-03",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1Xj8Qf3AK2KBn7AF98OC78",
@@ -454,9 +485,10 @@
     "urls": []
   },
   {
+    "id": "bitter-ends",
     "name": "Bitter Ends",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -470,9 +502,10 @@
     "urls": []
   },
   {
+    "id": "bjorgamus",
     "name": "Bjorgamus",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/44eEnZAdy8zmwXcTDKnFhf",
@@ -484,9 +517,10 @@
     "urls": []
   },
   {
+    "id": "blackbeards-tavern",
     "name": "Blackbeards Tavern",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Music created by AI, lyrics made by human",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5wI5SeZBRJ9nWKgS9oJAQc",
@@ -498,9 +532,10 @@
     "urls": []
   },
   {
+    "id": "bleed-token",
     "name": "Bleed Token",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5X2de7IcUobSTy6B9IAXoP",
@@ -512,9 +547,10 @@
     "urls": []
   },
   {
+    "id": "bleeding-verse",
     "name": "Bleeding Verse",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6CrsGj3Zj4gIM3rQSU7DeW",
@@ -526,9 +562,10 @@
     "urls": []
   },
   {
+    "id": "breaking-rust",
     "name": "Breaking Rust",
     "dateAdded": "2025-11-28",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3h9rLaviiFj1TeEhdIRpP5",
@@ -543,9 +580,10 @@
     ]
   },
   {
+    "id": "brewing-chaos",
     "name": "Brewing Chaos",
     "dateAdded": "2025-12-05",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0bcpelgVpxL1I8L6d0VWF7",
@@ -557,9 +595,10 @@
     "urls": []
   },
   {
+    "id": "broken-altar",
     "name": "Broken Altar",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3WSvhkwOXQCzqutMaM7msp",
@@ -571,9 +610,10 @@
     "urls": []
   },
   {
+    "id": "broken-avenue",
     "name": "Broken Avenue",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -587,9 +627,10 @@
     "urls": []
   },
   {
+    "id": "call-me-christian",
     "name": "Call Me Christian",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7hffEChY9wWnnsew1MRb8z",
@@ -601,9 +642,10 @@
     "urls": []
   },
   {
+    "id": "chat-music",
     "name": "Chat Music",
     "dateAdded": "2025-11-26",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3yJAMFHscYRfKEwKagYVWV",
@@ -615,9 +657,10 @@
     "urls": []
   },
   {
+    "id": "cimmeris",
     "name": "Cimmeris",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3lEGBkNp6scKHXFvTt9yWi",
@@ -629,9 +672,10 @@
     "urls": []
   },
   {
+    "id": "closure",
     "name": "Closure",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0XaShgj4XgdneEkOyv0bCC",
@@ -643,9 +687,10 @@
     "urls": []
   },
   {
+    "id": "convex",
     "name": "ConVex",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3OSP9uAGtduEBMaVI1DHRm",
@@ -657,9 +702,10 @@
     "urls": []
   },
   {
+    "id": "covenant-of-none",
     "name": "Covenant Of None",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/76RGmHjn7Sx7HigY0c5eGV",
@@ -671,9 +717,10 @@
     "urls": []
   },
   {
+    "id": "crimson-collapse",
     "name": "Crimson Collapse",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2aS24QHQcFbLYynpaTl3Ia",
@@ -685,9 +732,10 @@
     "urls": []
   },
   {
+    "id": "crimson-sorrow",
     "name": "Crimson Sorrow",
     "dateAdded": "2025-12-03",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -702,9 +750,10 @@
     "urls": []
   },
   {
+    "id": "crimson-vale",
     "name": "Crimson Vale",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5GhrfzEjXYGDqEnnM1IahS",
@@ -716,9 +765,10 @@
     "urls": []
   },
   {
+    "id": "crowning-flame",
     "name": "Crowning Flame",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -733,9 +783,10 @@
     "urls": []
   },
   {
+    "id": "dark-noir",
     "name": "Dark Noir",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5COVZd3zir997pQ2dDNMnJ",
@@ -747,9 +798,10 @@
     "urls": []
   },
   {
+    "id": "dark-sea-ambience",
     "name": "Dark Sea Ambience",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -761,9 +813,10 @@
     "urls": []
   },
   {
+    "id": "dark-cloud",
     "name": "dark_cloud",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1J8PIKDtlSTIvOU4d11pt5",
@@ -775,9 +828,10 @@
     "urls": []
   },
   {
+    "id": "davian-blake",
     "name": "Davian Blake",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1kAelaBTwLYFCkelExGjwk",
@@ -789,9 +843,10 @@
     "urls": []
   },
   {
+    "id": "deadcue",
     "name": "DEADCUE",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5DdtPwdpxCOSz7HmS9W7wv",
@@ -803,9 +858,10 @@
     "urls": []
   },
   {
+    "id": "deadluve",
     "name": "DEADLUVE",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3CwHxE8HXuezwO8DobgbiM",
@@ -817,9 +873,10 @@
     "urls": []
   },
   {
+    "id": "deathly-hours",
     "name": "Deathly Hours",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "New songs every few days; variation in vocal sound; no band imagery; youtube channel deletes comments alluding to AI.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/07XIuuPrpw0kcGrJApsbQp",
@@ -831,9 +888,10 @@
     "urls": []
   },
   {
+    "id": "deus-metallicus",
     "name": "Deus Metallicus",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3mmIYQi9wrQnA9mRPXHAWg",
@@ -845,9 +903,10 @@
     "urls": []
   },
   {
+    "id": "divisive-echoes",
     "name": "DIVISIVE ECHOES",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0jZIXWkozuEZnz7W7ingkk",
@@ -859,9 +918,10 @@
     "urls": []
   },
   {
+    "id": "dominik-witka",
     "name": "Dominik Witka",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5cATbhvkfafBq6O064Mz96",
@@ -873,9 +933,10 @@
     "urls": []
   },
   {
+    "id": "dragons-love",
     "name": "Dragon's Love",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -890,9 +951,10 @@
     "urls": []
   },
   {
+    "id": "drayce-music",
     "name": "Drayce Music",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5ZqXj2TBZ2pAmR8iCVr28a",
@@ -904,9 +966,10 @@
     "urls": []
   },
   {
+    "id": "drunken-night",
     "name": "drunken night",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4CiXdtqTmDzH1jGZVTDJWL",
@@ -918,6 +981,7 @@
     "urls": []
   },
   {
+    "id": "dvrkthorn",
     "name": "DVRKTHORN",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -932,9 +996,10 @@
     "urls": []
   },
   {
+    "id": "echo-harper",
     "name": "Echo Harper",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/12jCGsTve2SG5DBcNKkGlQ",
@@ -946,9 +1011,10 @@
     "urls": []
   },
   {
+    "id": "echoesofvelandria",
     "name": "EchoesOfVelandria",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7vfaikWkQ79OwYJlKJoK7S",
@@ -960,9 +1026,10 @@
     "urls": []
   },
   {
+    "id": "elbo",
     "name": "ELBO",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7g7RstiUlGnVrvZFTdyJmy",
@@ -974,6 +1041,7 @@
     "urls": []
   },
   {
+    "id": "eli",
     "name": "eli.",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -988,9 +1056,10 @@
     "urls": []
   },
   {
+    "id": "emo-appalachia",
     "name": "Emo Appalachia",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3KYI7IiTDZwEh9WUCLcQ4Y",
@@ -1002,9 +1071,10 @@
     "urls": []
   },
   {
+    "id": "endless-soul",
     "name": "Endless Soul",
     "dateAdded": "2025-12-03",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/50bJcvFo5AyB33K7Bhkjwz",
@@ -1016,9 +1086,10 @@
     "urls": []
   },
   {
+    "id": "endless-taverns",
     "name": "Endless Taverns",
     "dateAdded": "2025-11-26",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4J8rnLuoQLnT09osjqGsIr",
@@ -1030,9 +1101,10 @@
     "urls": []
   },
   {
+    "id": "eternal-fantasy-sounds",
     "name": "Eternal Fantasy Sounds",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2Bld4sMlfbeqUkZRNYfRvQ",
@@ -1044,9 +1116,10 @@
     "urls": []
   },
   {
+    "id": "everfade",
     "name": "EVERFADE",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/55QoipFnVQfUvMbYumTXrd",
@@ -1058,9 +1131,10 @@
     "urls": []
   },
   {
+    "id": "exiled-from-hell",
     "name": "Exiled From Hell",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1074,9 +1148,10 @@
     "urls": []
   },
   {
+    "id": "exiles-of-eden",
     "name": "Exiles Of Eden",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3pzvk3yrObZeEDM2wPwcBG",
@@ -1088,9 +1163,10 @@
     "urls": []
   },
   {
+    "id": "fading-north",
     "name": "Fading North",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1104,9 +1180,10 @@
     "urls": []
   },
   {
+    "id": "fake-music",
     "name": "FAKE MUSIC",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2ohbNcJ4nbwEbWFuruSX9C",
@@ -1118,9 +1195,10 @@
     "urls": []
   },
   {
+    "id": "fall-to-pieces",
     "name": "Fall To Pieces",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Generic AI art on social profiles; no artist details; vocals vary between songs",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2WRavyZrFClZuCdi5v5OSu",
@@ -1134,9 +1212,10 @@
     ]
   },
   {
+    "id": "false-saints",
     "name": "False Saints",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk",
@@ -1148,9 +1227,10 @@
     "urls": []
   },
   {
+    "id": "fantasy-celtic-music",
     "name": "Fantasy Celtic Music",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -1162,9 +1242,10 @@
     "urls": []
   },
   {
+    "id": "forevertown",
     "name": "Forevertown",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2nvoB3BJDRz9WbcWpT5BEE",
@@ -1176,9 +1257,10 @@
     "urls": []
   },
   {
+    "id": "fraytasticmusic",
     "name": "FraytasticMusic",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0UcYkVam5ylTC49uAcoVRL",
@@ -1190,9 +1272,10 @@
     "urls": []
   },
   {
+    "id": "full-metal-patriot",
     "name": "Full Metal Patriot",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0Yv8vhih8fGBPB4XgARXo1",
@@ -1204,9 +1287,10 @@
     "urls": []
   },
   {
+    "id": "funkorama",
     "name": "Funkorama",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3vidCXirERl0CcJ7yGA2gJ",
@@ -1218,9 +1302,10 @@
     "urls": []
   },
   {
+    "id": "future-k1d",
     "name": "Future K1d",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1234,6 +1319,7 @@
     "urls": []
   },
   {
+    "id": "ghost-signal",
     "name": "Ghost//Signal",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -1248,9 +1334,10 @@
     "urls": []
   },
   {
+    "id": "ghostchords-music",
     "name": "GhostChords Music",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7rgorfWkKHNtXMy4t0BwIM",
@@ -1262,9 +1349,10 @@
     "urls": []
   },
   {
+    "id": "ghostwriteking",
     "name": "GhostWriteKing",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/40YWQY4KWFMdNHtbYT49Eu",
@@ -1276,9 +1364,10 @@
     "urls": []
   },
   {
+    "id": "glasswell",
     "name": "Glasswell",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -1293,9 +1382,10 @@
     "urls": []
   },
   {
+    "id": "glum-aleks",
     "name": "Glum Aleks",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5erVxDsEUKaWVQgNLgpHv9",
@@ -1307,9 +1397,10 @@
     "urls": []
   },
   {
+    "id": "goober-beatz",
     "name": "Goober Beatz",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1323,9 +1414,10 @@
     "urls": []
   },
   {
+    "id": "good-mourning",
     "name": "Good Mourning",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1339,9 +1431,10 @@
     "urls": []
   },
   {
+    "id": "grid-theory",
     "name": "Grid Theory",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4Dt9fumbYJMr5YeP1ROBj0",
@@ -1353,6 +1446,7 @@
     "urls": []
   },
   {
+    "id": "grimdark-tavern",
     "name": "Grimdark Tavern",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -1370,9 +1464,10 @@
     "urls": []
   },
   {
+    "id": "guwelia",
     "name": "Guwelia",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5dp5ihfnSAwX2Ww7oGasiV",
@@ -1384,9 +1479,10 @@
     "urls": []
   },
   {
+    "id": "havoc-engine",
     "name": "Havoc Engine",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/50Kd0xm7dp6Oi0cOBW2s2I",
@@ -1398,9 +1494,10 @@
     "urls": []
   },
   {
+    "id": "hc",
     "name": "HC",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/56GBvodDNSoVotWW8yMxnd",
@@ -1412,9 +1509,10 @@
     "urls": []
   },
   {
+    "id": "heartvoid",
     "name": "HEARTVOID",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1W92618KeHZWH9Rj0ITO5v",
@@ -1426,9 +1524,10 @@
     "urls": []
   },
   {
+    "id": "heftique",
     "name": "Heftique",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "partial-ai"
@@ -1442,9 +1541,10 @@
     "urls": []
   },
   {
+    "id": "henry-flower",
     "name": "Henry Flower",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E",
@@ -1456,9 +1556,10 @@
     "urls": []
   },
   {
+    "id": "hexxenmind",
     "name": "HEXXENMIND",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/29GuyTDTPnxeRQhEdbmGLn",
@@ -1470,9 +1571,10 @@
     "urls": []
   },
   {
+    "id": "higher-power",
     "name": "Higher Power",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3HxqMycHyAydB2ksQMtPzj",
@@ -1484,9 +1586,10 @@
     "urls": []
   },
   {
+    "id": "histrocore",
     "name": "Histrocore",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "human-lyrics",
@@ -1502,9 +1605,10 @@
     "urls": []
   },
   {
+    "id": "hollow-ember",
     "name": "Hollow Ember",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1518,9 +1622,10 @@
     "urls": []
   },
   {
+    "id": "hollowframe",
     "name": "HOLLOWFRAME",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -1535,9 +1640,10 @@
     "urls": []
   },
   {
+    "id": "honey-and-the-velvet-revival",
     "name": "Honey & The Velvet Revival",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5sHxyiM1qJC6ht7CXyYLoj",
@@ -1549,9 +1655,10 @@
     "urls": []
   },
   {
+    "id": "hope-kills-reality",
     "name": "Hope Kills Reality",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6ac7VTI0rtTVOCq7p9JWa5",
@@ -1563,9 +1670,10 @@
     "urls": []
   },
   {
+    "id": "hypertechno",
     "name": "HYPERTECHNO",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project"
@@ -1579,9 +1687,10 @@
     "urls": []
   },
   {
+    "id": "imperialguardsounds",
     "name": "ImperialGuardSounds",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": "Lyrics, post-editing, and supervision by humans.",
     "tags": [],
     "spotify": null,
@@ -1593,9 +1702,10 @@
     "urls": []
   },
   {
+    "id": "inhuman-666",
     "name": "Inhuman 666",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0CUZIIXfh6lAXwBJTg4OUX",
@@ -1607,9 +1717,10 @@
     "urls": []
   },
   {
+    "id": "invictus",
     "name": "Invictus",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5rYgnIcAHaJXh359SMpXwI",
@@ -1621,9 +1732,10 @@
     "urls": []
   },
   {
+    "id": "ir1s",
     "name": "IR1S",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -1638,9 +1750,10 @@
     "urls": []
   },
   {
+    "id": "irias",
     "name": "IRIAS",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -1655,9 +1768,10 @@
     "urls": []
   },
   {
+    "id": "j-bumi",
     "name": "J Bumi",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/04KukyCGwGzV7OphBeN5qa",
@@ -1669,6 +1783,7 @@
     "urls": []
   },
   {
+    "id": "jd-steel",
     "name": "JD Steel",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -1685,6 +1800,7 @@
     "urls": []
   },
   {
+    "id": "jerry-baccardi",
     "name": "Jerry Baccardi",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -1699,9 +1815,10 @@
     "urls": []
   },
   {
+    "id": "just-irish-music",
     "name": "Just Irish Music",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -1716,9 +1833,10 @@
     "urls": []
   },
   {
+    "id": "kalax",
     "name": "Kalax",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "partial-ai"
@@ -1734,9 +1852,10 @@
     ]
   },
   {
+    "id": "kamnox",
     "name": "KamNox",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4giUCuob7KQttfJNM36qFb",
@@ -1748,9 +1867,10 @@
     "urls": []
   },
   {
+    "id": "kao",
     "name": "KAO",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "inconsistent-style",
@@ -1765,9 +1885,10 @@
     "urls": []
   },
   {
+    "id": "kings-echoes",
     "name": "King's Echoes",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": "Human lyrics.",
     "tags": [],
     "spotify": null,
@@ -1779,9 +1900,10 @@
     "urls": []
   },
   {
+    "id": "kiyo",
     "name": "Kiyo",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3WPTsMdNZY3cEeWUcKrkpt",
@@ -1793,9 +1915,10 @@
     "urls": []
   },
   {
+    "id": "kuroi-riquid",
     "name": "Kuroi Riquid",
     "dateAdded": "2025-11-26",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Sounds like AI - They labeled one of their early songs as genre:AI on a site.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4oWo3YZqtxbZWOgpp6JR3o",
@@ -1807,9 +1930,10 @@
     "urls": []
   },
   {
+    "id": "kyushumusic",
     "name": "KyushuMusic",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/18rylvbtrWJHoSvhwu8XZq",
@@ -1821,9 +1945,10 @@
     "urls": []
   },
   {
+    "id": "last-ashes",
     "name": "Last Ashes",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2OYfMb2VZJEwhjFWPLzY9s",
@@ -1835,9 +1960,10 @@
     "urls": []
   },
   {
+    "id": "laura-lavi",
     "name": "LAURA LAVI",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0kCYU15mdslJDYRQ1MFvCL",
@@ -1849,9 +1975,10 @@
     "urls": []
   },
   {
+    "id": "lethalculture",
     "name": "LethalCulture",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/61iqx6GNeb3n5I1XlmK3oq",
@@ -1863,9 +1990,10 @@
     "urls": []
   },
   {
+    "id": "linkon-mark",
     "name": "Linkon Mark",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/68BOvCDhMe69C2j4nEhNex",
@@ -1877,9 +2005,10 @@
     "urls": []
   },
   {
+    "id": "loot-lyrics",
     "name": "Loot & Lyrics",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1i409y4lAfUbcIhq0uPHq4",
@@ -1891,9 +2020,10 @@
     "urls": []
   },
   {
+    "id": "luna-veex",
     "name": "Luna Veex",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3lo4fh3URRdOcEiCnmOcz8",
@@ -1905,9 +2035,10 @@
     "urls": []
   },
   {
+    "id": "lyra-vesperi",
     "name": "Lyra Vesperi",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3SjOWNhqeaJ6B0d6KFpAeE",
@@ -1919,9 +2050,10 @@
     "urls": []
   },
   {
+    "id": "machina-aeon",
     "name": "Machina Aeon",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6IU9SrkKQPhkpD03PZzUeP",
@@ -1933,9 +2065,10 @@
     "urls": []
   },
   {
+    "id": "machine-six",
     "name": "Machine Six",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7sEQ2pLJ4WsqfSEyJ3PKOP",
@@ -1947,9 +2080,10 @@
     "urls": []
   },
   {
+    "id": "made-human",
     "name": "Made Human",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -1964,9 +2098,10 @@
     "urls": []
   },
   {
+    "id": "madelgarde",
     "name": "Madelgarde",
     "dateAdded": "2025-11-30",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "They claim only the choirs are AI.",
     "spotify": "https://open.spotify.com/artist/1NGtZFrDLBVyOKnRo9ic4y",
     "apple": "https://music.apple.com/us/artist/1741658303",
@@ -1980,9 +2115,10 @@
     "tags": []
   },
   {
+    "id": "magi-spaz",
     "name": "Magi spaz",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output"
@@ -1996,9 +2132,10 @@
     "urls": []
   },
   {
+    "id": "manifested-dreams",
     "name": "Manifested Dreams",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4wppf2VUZmaZ6SQK2UXpVT",
@@ -2010,9 +2147,10 @@
     "urls": []
   },
   {
+    "id": "matthews-silent-chapter",
     "name": "Matthew's Silent Chapter",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2JUTGg9txxR3B3acyTlFp7",
@@ -2024,9 +2162,10 @@
     "urls": []
   },
   {
+    "id": "medieval-tavern-tunes",
     "name": "Medieval Tavern Tunes",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -2038,9 +2177,10 @@
     "urls": []
   },
   {
+    "id": "melodial",
     "name": "Melodial",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "human-lyrics",
@@ -2055,9 +2195,10 @@
     "urls": []
   },
   {
+    "id": "micolai",
     "name": "Micolai",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1y8XjeWocHH0tLaftNFtab",
@@ -2069,9 +2210,10 @@
     "urls": []
   },
   {
+    "id": "mightyw-project",
     "name": "MightyW Project",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6WXmNu9tMCJZIMipvgbxgw",
@@ -2085,9 +2227,10 @@
     ]
   },
   {
+    "id": "ministry-of-dark",
     "name": "Ministry of Dark",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1rE5lFciclbNo2P4WGvKAp",
@@ -2099,9 +2242,10 @@
     "urls": []
   },
   {
+    "id": "moon-soul",
     "name": "Moon Soul",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5",
@@ -2113,9 +2257,10 @@
     "urls": []
   },
   {
+    "id": "moonshine-outlaws",
     "name": "Moonshine Outlaws",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -2130,6 +2275,7 @@
     "urls": []
   },
   {
+    "id": "mvmuro",
     "name": "MVMURO",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -2144,9 +2290,10 @@
     "urls": []
   },
   {
+    "id": "mythborne",
     "name": "Mythborne",
     "dateAdded": "2025-12-02",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5GK5bjfOBUflGBrOjAQ5wp",
@@ -2158,9 +2305,10 @@
     "urls": []
   },
   {
+    "id": "nabila-moyo",
     "name": "Nabila Moyo",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/64lT8Su6nKvpqyb7hj2GjY",
@@ -2172,9 +2320,10 @@
     "urls": []
   },
   {
+    "id": "neo-arcade",
     "name": "NEO Arcade",
     "dateAdded": "2025-12-05",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -2189,9 +2338,10 @@
     "urls": []
   },
   {
+    "id": "neon-oni",
     "name": "NEON ONI",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/13ONzC3gAhmuRU25I6saTm",
@@ -2203,9 +2353,10 @@
     "urls": []
   },
   {
+    "id": "nethervale",
     "name": "Nethervale",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5FVRvmqGesugyQ2whGmItk",
@@ -2217,9 +2368,10 @@
     "urls": []
   },
   {
+    "id": "neytan",
     "name": "Neytan",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/29sDg3OXbYCg0SDuYBqP2G",
@@ -2231,9 +2383,10 @@
     "urls": []
   },
   {
+    "id": "night-intruder",
     "name": "NIGHT INTRUDER",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3xfXXqF7VydopmH3rqFBWZ",
@@ -2245,9 +2398,10 @@
     "urls": []
   },
   {
+    "id": "nightshade-anthem",
     "name": "Nightshade Anthem",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5j0ka2YxqWRvZWwJxl90Np",
@@ -2259,9 +2413,10 @@
     "urls": []
   },
   {
+    "id": "noah-thorne",
     "name": "Noah Thorne",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1wDJ9lRkh1vQTnN46SiQ4u",
@@ -2273,9 +2428,10 @@
     "urls": []
   },
   {
+    "id": "nobody-knew",
     "name": "Nobody Knew",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2NRM4Eh8PjAv9pq55Q1rIa",
@@ -2287,6 +2443,7 @@
     "urls": []
   },
   {
+    "id": "noraeon",
     "name": "Noraeon",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -2301,9 +2458,10 @@
     "urls": []
   },
   {
+    "id": "obsidian-swing",
     "name": "Obsidian Swing",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6ydIK3fZelJNbF5KwgZUga",
@@ -2315,9 +2473,10 @@
     "urls": []
   },
   {
+    "id": "onepix",
     "name": "Onepix",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -2332,9 +2491,10 @@
     "urls": []
   },
   {
+    "id": "orvak",
     "name": "Orvak",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2HfGipqNU17U5eS2vpfnoJ",
@@ -2346,9 +2506,10 @@
     "urls": []
   },
   {
+    "id": "our-obsidian-scars",
     "name": "OUR OBSIDIAN SCARS",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6psPs20pUX7oh0t6MHy4ie",
@@ -2360,9 +2521,10 @@
     "urls": []
   },
   {
+    "id": "pavament-hymns",
     "name": "Pavament Hymns",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/27tloJ3aC6I9WRtm51kvHY",
@@ -2374,9 +2536,10 @@
     "urls": []
   },
   {
+    "id": "phantom-veil",
     "name": "Phantom Veil",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/38VxxXFe30VFUMpK2PhBMA",
@@ -2388,9 +2551,10 @@
     "urls": []
   },
   {
+    "id": "phantom-verse",
     "name": "Phantom Verse",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0VxEkJyHqpsYabj1Br8dck",
@@ -2402,9 +2566,10 @@
     "urls": []
   },
   {
+    "id": "pirates-of-the-horizon",
     "name": "Pirates of the Horizon",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -2416,9 +2581,10 @@
     "urls": []
   },
   {
+    "id": "porcelain-hearts",
     "name": "PORCELAIN HEARTS",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1SaerF7QF5mxah84qBsCnG",
@@ -2430,9 +2596,10 @@
     "urls": []
   },
   {
+    "id": "psalms-of-light",
     "name": "Psalms of Light",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1r1Vr4GfA3F1LDd5lHJ69p",
@@ -2444,9 +2611,10 @@
     "urls": []
   },
   {
+    "id": "puppet-spider",
     "name": "Puppet Spider",
     "dateAdded": "2025-11-26",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5MlG9IL96nYF58A8jsYu9D",
@@ -2460,9 +2628,10 @@
     ]
   },
   {
+    "id": "raven-knight",
     "name": "Raven Knight",
     "dateAdded": "2025-11-24",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2lGM5OCIrdO8VK5Pdt6QgX",
@@ -2474,9 +2643,10 @@
     "urls": []
   },
   {
+    "id": "raven-fell",
     "name": "Raven+Fell",
     "dateAdded": "2025-12-01",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/27TqMlIjvKlvIa3cdFWNoM",
@@ -2488,9 +2658,10 @@
     "urls": []
   },
   {
+    "id": "ravenshroud",
     "name": "Ravenshroud",
     "dateAdded": "2025-11-26",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3NJ90WbTcAAquzmOjfp7JX",
@@ -2504,9 +2675,10 @@
     ]
   },
   {
+    "id": "reformed-and-dangerous",
     "name": "Reformed and Dangerous",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/16nzYmnDybx74bijgsoMdC",
@@ -2518,9 +2690,10 @@
     "urls": []
   },
   {
+    "id": "rezon8",
     "name": "REZØN8",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1BdzBfitKmsHs4ylI7MCUv",
@@ -2532,9 +2705,10 @@
     "urls": []
   },
   {
+    "id": "ricardo-abyssal",
     "name": "Ricardo Abyssal",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/47s2i6XVeEU4bk6nAcOwUb",
@@ -2546,9 +2720,10 @@
     "urls": []
   },
   {
+    "id": "ronnie-obriant",
     "name": "Ronnie OBriant",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6h6bTqCMdM3wskSzhxLJDQ",
@@ -2560,9 +2735,10 @@
     "urls": []
   },
   {
+    "id": "ruby-darkrose",
     "name": "Ruby Darkrose",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7o8g4at6tDpzRdmzFCnHUX",
@@ -2574,9 +2750,10 @@
     "urls": []
   },
   {
+    "id": "rune-skald",
     "name": "Rune Skald",
     "dateAdded": "2025-12-04",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5NI0Rs5LbLJnIUzwyKMRZO",
@@ -2588,9 +2765,10 @@
     "urls": []
   },
   {
+    "id": "runes-of-the-north",
     "name": "Runes of the North",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3F9TzfzqfNcCnNdLIOUuLh",
@@ -2602,9 +2780,10 @@
     "urls": []
   },
   {
+    "id": "runtime-studios",
     "name": "Runtime Studios",
     "dateAdded": "2025-11-27",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": "Appeared in the channel description of Medieval Tavern Tunes.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6A8qm0PPLu3zPL2w7ZF8gB",
@@ -2616,9 +2795,10 @@
     "urls": []
   },
   {
+    "id": "sailor-exe",
     "name": "Sailor.EXE",
     "dateAdded": "2025-12-04",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -2633,9 +2813,10 @@
     "urls": []
   },
   {
+    "id": "saras-handwritten-lyrics",
     "name": "Sara's Handwritten Lyrics",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": null,
@@ -2647,9 +2828,10 @@
     "urls": []
   },
   {
+    "id": "scarlet-songs",
     "name": "Scarlet Songs",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5khZTtXXaGJtWEyG2Y0mm3",
@@ -2661,9 +2843,10 @@
     "urls": []
   },
   {
+    "id": "secret-frequency",
     "name": "Secret Frequency",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "AI generated youtube visuals, no band photos, prolific song releases.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/01znV3xwZz9Tf6O4ngKA0o",
@@ -2675,9 +2858,10 @@
     "urls": []
   },
   {
+    "id": "serenitys-soul-music-ai",
     "name": "Serenity's Soul Music AI",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4ZSPmjprPFZwIn2yiL5SgG",
@@ -2689,9 +2873,10 @@
     "urls": []
   },
   {
+    "id": "serinx",
     "name": "Serinx",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7hcy1Ea3D4brTD9M1je4LW",
@@ -2703,9 +2888,10 @@
     "urls": []
   },
   {
+    "id": "shadow-beloved",
     "name": "Shadow Beloved",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5L5yD7T9JncTF1bbzCoIQm",
@@ -2719,9 +2905,10 @@
     ]
   },
   {
+    "id": "shadows-awake",
     "name": "Shadows Awake",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6RFklxKvT8Ulmv7lWID1t3",
@@ -2733,9 +2920,10 @@
     "urls": []
   },
   {
+    "id": "shatterglass-scallywags",
     "name": "Shatterglass Scallywags",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3S5JxEhFCWzUV7tcZjdobq",
@@ -2747,9 +2935,10 @@
     "urls": []
   },
   {
+    "id": "smokey-september",
     "name": "Smokey September",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/32PcXsAFr3ArYaHSYr8qGh",
@@ -2761,9 +2950,10 @@
     "urls": []
   },
   {
+    "id": "sol-umbra",
     "name": "SOL UMBRA",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/18ej5S8e7A30yJ3AbM9ilp",
@@ -2775,9 +2965,10 @@
     "urls": []
   },
   {
+    "id": "sol",
     "name": "Sol.",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -2792,9 +2983,10 @@
     "urls": []
   },
   {
+    "id": "solarshard",
     "name": "SolarShard",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4sdaHYfDH8MwHc1gsIHOVI",
@@ -2806,9 +2998,10 @@
     "urls": []
   },
   {
+    "id": "solomon-ray",
     "name": "Solomon Ray",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4QQMithHxRhyk69LgkMKEg",
@@ -2822,9 +3015,10 @@
     ]
   },
   {
+    "id": "sonara",
     "name": "Sonara",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Thumbnail and song was created with ai, then refined. Lyrics created with help of AI. Concept by human.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4Vic5aPqZkamOsNfW4oee9",
@@ -2836,9 +3030,10 @@
     "urls": []
   },
   {
+    "id": "songalchemist",
     "name": "SongAlchemist",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2ZQfrK9EyanwUjmJqBDziY",
@@ -2850,9 +3045,10 @@
     "urls": []
   },
   {
+    "id": "souls-cry",
     "name": "Soul's Cry",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Youtube videos look AI generated",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6wkcDg1ZWTbCGW5cUPdZ4A",
@@ -2866,9 +3062,10 @@
     ]
   },
   {
+    "id": "souls-divided",
     "name": "Souls Divided",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1N6y7GzUt4woDtRRYhvkaF",
@@ -2880,9 +3077,10 @@
     "urls": []
   },
   {
+    "id": "soundsartificial",
     "name": "SoundsArtificial",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3Lehp0KvBE20AqZ33k0OyG",
@@ -2894,9 +3092,10 @@
     "urls": []
   },
   {
+    "id": "soundvirtuoso",
     "name": "SoundVirtuoso",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4HttIE8v2Y7BzgLcm8DomY",
@@ -2908,9 +3107,10 @@
     "urls": []
   },
   {
+    "id": "spade-of-sparta",
     "name": "Spade Of Sparta",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6ug4L6nKdx03Mrej6KLkjH",
@@ -2922,9 +3122,10 @@
     "urls": []
   },
   {
+    "id": "special-chill-label",
     "name": "Special Chill Label",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -2939,9 +3140,10 @@
     "urls": []
   },
   {
+    "id": "stellar-cruise",
     "name": "Stellar Cruise",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2R6kG4jQJoWlGEZVDKkx4z",
@@ -2953,9 +3155,10 @@
     "urls": []
   },
   {
+    "id": "strikingblue",
     "name": "StrikingBlue",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1I3eKTjPzfnTzUCiQVaAIZ",
@@ -2967,9 +3170,10 @@
     "urls": []
   },
   {
+    "id": "sunday-night-low",
     "name": "Sunday Night Low",
     "dateAdded": "2025-11-24",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3E8vJy6ND5emzVHCGlyHp4",
@@ -2981,9 +3185,10 @@
     "urls": []
   },
   {
+    "id": "tapas",
     "name": "Tapas",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7MQmLVhtOlZH1g5F9Qpxyz",
@@ -2995,9 +3200,10 @@
     "urls": []
   },
   {
+    "id": "temple-of-ash",
     "name": "Temple of Ash",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4x57vN6Q5KAyPEi9DVSJkQ",
@@ -3009,9 +3215,10 @@
     "urls": []
   },
   {
+    "id": "tennessee-reaper",
     "name": "Tennessee Reaper",
     "dateAdded": "2025-12-03",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1xZcle6S38C7fShUZIbEI5",
@@ -3023,6 +3230,7 @@
     "urls": []
   },
   {
+    "id": "the-avalon-exotica-orchestra",
     "name": "The Avalon Exotica Orchestra",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -3037,9 +3245,10 @@
     "urls": []
   },
   {
+    "id": "the-bardic-dm",
     "name": "The Bardic DM",
     "dateAdded": "2025-12-02",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0TVQlzIjzD4ToSVeXIB15H",
@@ -3051,9 +3260,10 @@
     "urls": []
   },
   {
+    "id": "the-devil-inside",
     "name": "The Devil Inside",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7p9c2UBqYagnd5aoNEeupC",
@@ -3065,9 +3275,10 @@
     "urls": []
   },
   {
+    "id": "the-hollow",
     "name": "The Hollow",
     "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1Q43bUUmvTTVi6Eue5MdJq",
@@ -3079,9 +3290,10 @@
     "urls": []
   },
   {
+    "id": "the-power-alchemist",
     "name": "The Power Alchemist",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/46sCYKkyoj8CIuFIfpmJ1R",
@@ -3093,9 +3305,10 @@
     "urls": []
   },
   {
+    "id": "the-riverside-tavern",
     "name": "The Riverside Tavern",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": "Uses a mix of AI and people, a team of 3.",
     "tags": [],
     "spotify": null,
@@ -3107,9 +3320,10 @@
     "urls": []
   },
   {
+    "id": "the-sowers",
     "name": "The Sowers",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/0dYOdESA00EJVxrtE06vrG",
@@ -3121,9 +3335,10 @@
     "urls": []
   },
   {
+    "id": "the-traveling-tankard",
     "name": "The Traveling Tankard",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-11-29",
+    "dateUpdated": "2025-12-13",
     "comments": "Lyrics made by a human.",
     "tags": [],
     "spotify": null,
@@ -3135,9 +3350,10 @@
     "urls": []
   },
   {
+    "id": "the-uncs",
     "name": "The Unc's",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/3xHUyxYpGd8HIUvCoSvlxp",
@@ -3149,9 +3365,10 @@
     "urls": []
   },
   {
+    "id": "the-velvet-sundown",
     "name": "The Velvet Sundown",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2GRtyAXWUiisGYub5SGMrb",
@@ -3163,9 +3380,10 @@
     "urls": []
   },
   {
+    "id": "theskeletonslibrary",
     "name": "TheSkeletonsLibrary",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/49yWNU05MepSpoYQTKADro",
@@ -3177,9 +3395,10 @@
     "urls": []
   },
   {
+    "id": "thodins-path",
     "name": "Thodins Path",
     "dateAdded": "2025-12-12",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4kwIJcwSXak3yrULH4FKnE",
@@ -3191,9 +3410,10 @@
     "urls": []
   },
   {
+    "id": "thronebreaker",
     "name": "Thronebreaker",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6YNSlQgxcIxVcFLziOh5qu",
@@ -3205,9 +3425,10 @@
     "urls": []
   },
   {
+    "id": "thunderous-steel",
     "name": "Thunderous Steel",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7lUuk5mjGQVlikPcXjZoIo",
@@ -3219,9 +3440,10 @@
     "urls": []
   },
   {
+    "id": "thyrmine",
     "name": "Thyrmine",
     "dateAdded": "2025-12-11",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "inconsistent-style",
@@ -3236,9 +3458,10 @@
     "urls": []
   },
   {
+    "id": "tokt",
     "name": "Tokt",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "partial-ai"
@@ -3252,9 +3475,10 @@
     "urls": []
   },
   {
+    "id": "truth-s3rum",
     "name": "TRUTH:S3RUM",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2bRCIbSmgAXitACxT5ZpQy",
@@ -3266,9 +3490,10 @@
     "urls": []
   },
   {
+    "id": "twisted-game-songs",
     "name": "Twisted Game Songs",
     "dateAdded": "2025-11-30",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "spotify": "https://open.spotify.com/artist/22eUIsoURgq3GFNo6yAIUD",
     "apple": "https://music.apple.com/us/artist/1818215591",
@@ -3282,9 +3507,10 @@
     "tags": []
   },
   {
+    "id": "underworld-vibes",
     "name": "Underworld Vibes",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7xDFi8dW3QLrTiuP1OyZrm",
@@ -3296,9 +3522,10 @@
     "urls": []
   },
   {
+    "id": "v-a-e-l-o-r-a",
     "name": "V A E L O R A",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -3313,9 +3540,10 @@
     "urls": []
   },
   {
+    "id": "vaelyn",
     "name": "VAELYN",
     "dateAdded": "2025-12-09",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/5AIdw9FiFk3ilgY4Mft1WN",
@@ -3327,9 +3555,10 @@
     "urls": []
   },
   {
+    "id": "veins-of-gold",
     "name": "Veins of Gold",
     "dateAdded": "2025-12-08",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/09oIjGMYK71m6008hCzUlW",
@@ -3341,9 +3570,10 @@
     "urls": []
   },
   {
+    "id": "velour-doom",
     "name": "Velour Doom",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/33X46wCiI1DUuqd8SmQ8LM",
@@ -3355,9 +3585,10 @@
     "urls": []
   },
   {
+    "id": "velvet-rebellion",
     "name": "Velvet Rebellion",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/6bmHwapdVkl8LMts4cKBms",
@@ -3369,9 +3600,10 @@
     "urls": []
   },
   {
+    "id": "velvet-signal",
     "name": "Velvet Signal",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/7q9LMfLSgqAirZaCyGU92n",
@@ -3383,9 +3615,10 @@
     "urls": []
   },
   {
+    "id": "virelia",
     "name": "Virelia",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/4Rkn7txj59CVY5DRnIfmUM",
@@ -3397,9 +3630,10 @@
     "urls": []
   },
   {
+    "id": "volkan-kuday",
     "name": "Volkan Kuday",
     "dateAdded": "2025-12-07",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project",
@@ -3414,9 +3648,10 @@
     "urls": []
   },
   {
+    "id": "vyra",
     "name": "VYRA",
     "dateAdded": "2025-12-10",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "anon-project"
@@ -3430,9 +3665,10 @@
     "urls": []
   },
   {
+    "id": "wicked-eve",
     "name": "Wicked Eve",
     "dateAdded": "2025-12-06",
-    "dateUpdated": null,
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [
       "high-output",
@@ -3447,9 +3683,10 @@
     "urls": []
   },
   {
+    "id": "zayen",
     "name": "Zayen",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": null,
     "tags": [],
     "spotify": "https://open.spotify.com/artist/1U8rBGLGcsDcuc5O51Hb27",
@@ -3461,6 +3698,7 @@
     "urls": []
   },
   {
+    "id": "zen-decoys",
     "name": "Zen Decoys",
     "dateAdded": "2025-12-13",
     "dateUpdated": null,
@@ -3475,9 +3713,10 @@
     "urls": []
   },
   {
+    "id": "zen-vibes-station",
     "name": "Zen Vibes Station",
     "dateAdded": "2025-11-25",
-    "dateUpdated": "2025-12-07",
+    "dateUpdated": "2025-12-13",
     "comments": "Lyrics composed by human.",
     "tags": [],
     "spotify": "https://open.spotify.com/artist/2EIzLYKGqaNqpH33T0EJk4",
