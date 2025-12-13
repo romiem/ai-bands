@@ -1,20 +1,5 @@
 [
   {
-    "id": "the-professor-nick-harrison",
-    "name": "\"The Professor\" Nick Harrison",
-    "dateAdded": "2025-12-11",
-    "dateUpdated": "2025-12-13",
-    "comments": null,
-    "tags": [],
-    "spotify": "https://open.spotify.com/artist/2ASUkH9fgw0WkVQYYZWP10",
-    "apple": "https://music.apple.com/us/artist/1771119489",
-    "youtube": "https://www.youtube.com/@TheRealMrProfessor318",
-    "instagram": "https://www.instagram.com/mrprofessor318",
-    "tiktok": "https://www.tiktok.com/@mrprofessor318",
-    "amazon": "https://music.amazon.com/artists/B0DJF3Y9JH",
-    "urls": []
-  },
-  {
     "id": "10mm",
     "name": "10mm",
     "dateAdded": "2025-12-13",
@@ -237,6 +222,21 @@
     "urls": []
   },
   {
+    "id": "ash-and-echo",
+    "name": "Ash and Echo",
+    "dateAdded": "2025-11-29",
+    "dateUpdated": "2025-12-13",
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/0EyCnWOctgTmSzl1Oy5DxR",
+    "apple": "https://music.apple.com/us/artist/1832002544",
+    "youtube": "https://www.youtube.com/@AshEchoFr",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DPRVWSG3",
+    "urls": []
+  },
+  {
     "id": "ash-paradise",
     "name": "Ash & Paradise",
     "dateAdded": "2025-12-07",
@@ -252,21 +252,6 @@
     "instagram": "https://www.instagram.com/AshAndParadise",
     "tiktok": "https://www.tiktok.com/@AshAndParadise",
     "amazon": "https://music.amazon.com/artists/B0FD91Q981",
-    "urls": []
-  },
-  {
-    "id": "ash-and-echo",
-    "name": "Ash and Echo",
-    "dateAdded": "2025-11-29",
-    "dateUpdated": "2025-12-13",
-    "comments": null,
-    "tags": [],
-    "spotify": "https://open.spotify.com/artist/0EyCnWOctgTmSzl1Oy5DxR",
-    "apple": "https://music.apple.com/us/artist/1832002544",
-    "youtube": "https://www.youtube.com/@AshEchoFr",
-    "instagram": null,
-    "tiktok": null,
-    "amazon": "https://music.amazon.com/artists/B0DPRVWSG3",
     "urls": []
   },
   {
@@ -783,6 +768,21 @@
     "urls": []
   },
   {
+    "id": "dark-cloud",
+    "name": "dark_cloud",
+    "dateAdded": "2025-12-08",
+    "dateUpdated": "2025-12-13",
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/1J8PIKDtlSTIvOU4d11pt5",
+    "apple": "https://music.apple.com/us/artist/1762888685",
+    "youtube": "https://www.youtube.com/@dark_cloud8818",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DD5TP69X",
+    "urls": []
+  },
+  {
     "id": "dark-noir",
     "name": "Dark Noir",
     "dateAdded": "2025-11-25",
@@ -810,21 +810,6 @@
     "instagram": null,
     "tiktok": null,
     "amazon": null,
-    "urls": []
-  },
-  {
-    "id": "dark-cloud",
-    "name": "dark_cloud",
-    "dateAdded": "2025-12-08",
-    "dateUpdated": "2025-12-13",
-    "comments": null,
-    "tags": [],
-    "spotify": "https://open.spotify.com/artist/1J8PIKDtlSTIvOU4d11pt5",
-    "apple": "https://music.apple.com/us/artist/1762888685",
-    "youtube": "https://www.youtube.com/@dark_cloud8818",
-    "instagram": null,
-    "tiktok": null,
-    "amazon": "https://music.amazon.com/artists/B0DD5TP69X",
     "urls": []
   },
   {
@@ -2628,21 +2613,6 @@
     ]
   },
   {
-    "id": "raven-knight",
-    "name": "Raven Knight",
-    "dateAdded": "2025-11-24",
-    "dateUpdated": "2025-12-13",
-    "comments": null,
-    "tags": [],
-    "spotify": "https://open.spotify.com/artist/2lGM5OCIrdO8VK5Pdt6QgX",
-    "apple": "https://music.apple.com/us/artist/1834697328",
-    "youtube": null,
-    "instagram": null,
-    "tiktok": null,
-    "amazon": null,
-    "urls": []
-  },
-  {
     "id": "raven-fell",
     "name": "Raven+Fell",
     "dateAdded": "2025-12-01",
@@ -2655,6 +2625,21 @@
     "instagram": null,
     "tiktok": null,
     "amazon": "https://music.amazon.com/artists/B0FH1DBHD1",
+    "urls": []
+  },
+  {
+    "id": "raven-knight",
+    "name": "Raven Knight",
+    "dateAdded": "2025-11-24",
+    "dateUpdated": "2025-12-13",
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/2lGM5OCIrdO8VK5Pdt6QgX",
+    "apple": "https://music.apple.com/us/artist/1834697328",
+    "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "amazon": null,
     "urls": []
   },
   {
@@ -2950,21 +2935,6 @@
     "urls": []
   },
   {
-    "id": "sol-umbra",
-    "name": "SOL UMBRA",
-    "dateAdded": "2025-12-08",
-    "dateUpdated": "2025-12-13",
-    "comments": null,
-    "tags": [],
-    "spotify": "https://open.spotify.com/artist/18ej5S8e7A30yJ3AbM9ilp",
-    "apple": "https://music.apple.com/us/artist/1847020066",
-    "youtube": "https://www.youtube.com/channel/UCAy0FOCn3QfkW2wgo-dbRYA",
-    "instagram": null,
-    "tiktok": null,
-    "amazon": "https://music.amazon.com/artists/B0FWYHKQRB",
-    "urls": []
-  },
-  {
     "id": "sol",
     "name": "Sol.",
     "dateAdded": "2025-12-07",
@@ -2980,6 +2950,21 @@
     "instagram": null,
     "tiktok": null,
     "amazon": "https://music.amazon.com/artists/B07LGRKG3P",
+    "urls": []
+  },
+  {
+    "id": "sol-umbra",
+    "name": "SOL UMBRA",
+    "dateAdded": "2025-12-08",
+    "dateUpdated": "2025-12-13",
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/18ej5S8e7A30yJ3AbM9ilp",
+    "apple": "https://music.apple.com/us/artist/1847020066",
+    "youtube": "https://www.youtube.com/channel/UCAy0FOCn3QfkW2wgo-dbRYA",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0FWYHKQRB",
     "urls": []
   },
   {
@@ -3302,6 +3287,21 @@
     "instagram": null,
     "tiktok": null,
     "amazon": "https://music.amazon.com/artists/B0FHGY7JJJ",
+    "urls": []
+  },
+  {
+    "id": "the-professor-nick-harrison",
+    "name": "\"The Professor\" Nick Harrison",
+    "dateAdded": "2025-12-11",
+    "dateUpdated": "2025-12-13",
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/2ASUkH9fgw0WkVQYYZWP10",
+    "apple": "https://music.apple.com/us/artist/1771119489",
+    "youtube": "https://www.youtube.com/@TheRealMrProfessor318",
+    "instagram": "https://www.instagram.com/mrprofessor318",
+    "tiktok": "https://www.tiktok.com/@mrprofessor318",
+    "amazon": "https://music.amazon.com/artists/B0DJF3Y9JH",
     "urls": []
   },
   {
