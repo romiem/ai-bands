@@ -5,6 +5,7 @@ import path from 'path';
 import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
+import addFormats from 'ajv-formats';
 
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
