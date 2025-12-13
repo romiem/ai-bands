@@ -3,6 +3,11 @@
   "title": "Artist",
   "type": "object",
   "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The unique identifier for the artist or band"
+    },
     "name": {
       "type": "string",
       "minLength": 1,
@@ -101,6 +106,7 @@
     }
   },
   "required": [
+    "id",
     "name",
     "dateAdded",
     "dateUpdated",
@@ -110,6 +116,7 @@
     "youtube",
     "instagram",
     "tiktok",
+    "amazon",
     "urls",
     "tags"
   ],

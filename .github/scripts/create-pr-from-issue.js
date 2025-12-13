@@ -4,6 +4,12 @@ import { writeFileSync, existsSync, appendFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { Octokit } from '@octokit/rest';
+import slugify from '@sindresorhus/slugify';
+import Ajv from 'ajv';
+import artistSchema from '../../artist.schema.json' assert { type: 'json' };
+
+const ajv = new Ajv();
+const validate = ajv.compile(artistSchema);
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const SRC_DIR = join(__dirname, '../../src');
@@ -13,23 +19,6 @@ const [owner, repo] = REPO?.split('/') || [];
 
 const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
-/**
- * Required keys for artist data (also used for ordering output)
- * Note: dateAdded and dateUpdated are auto-generated, not required in input
- */
-const requiredKeys = [
-  'name', 'comments', 'tags', 'spotify', 'apple', 'youtube', 'instagram', 'tiktok', 'amazon', 'urls'
-];
-
-/**
- * Sanitize artist name to create a valid filename
- */
-const sanitizeFileName = (name) =>
-  name.toLowerCase().trim()
-    .replace(/'/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/-+/g, '-')
-    .replace(/^-+|-+$/g, '');
 
 /**
  * Parse key-value format: {key}: value
@@ -42,29 +31,11 @@ const parseKeyValueFormat = (text) => {
     const match = line.match(/^\{([^}]+)\}:\s*(.*)$/);
     if (match) {
       const [, key, value] = match;
-      const trimmedValue = value.trim();
-
-      if (key === 'tags') {
-        // Tags: split by comma, trim each, filter empty, default to empty array
-        data[key] = trimmedValue
-          ? trimmedValue.split(',').map(t => t.trim()).filter(Boolean)
-          : [];
-      } else {
-        // Other fields: empty string becomes null
-        data[key] = trimmedValue || null;
-      }
+      data[key] = value.trim() || null;
     }
   }
 
   return data;
-};
-
-/**
- * Get today's date in YYYY-MM-DD format
- */
-const getTodayDate = () => {
-  const today = new Date();
-  return today.toISOString().split('T')[0];
 };
 
 /**
@@ -73,20 +44,8 @@ const getTodayDate = () => {
 const transformAndOrder = (input) => {
   const data = { ...input };
 
-  // Add dateAdded if not present
-  data.dateAdded ??= getTodayDate();
-
-  // Ensure dateUpdated exists
-  data.dateUpdated ??= null;
-
-  // Ensure tags is an array
-  data.tags ??= [];
-
-  // Ensure urls is an array
-  data.urls ??= [];
-
-  // Order properties: dateAdded and dateUpdated come after name
-  const orderedKeys = requiredKeys.toSpliced(1, 0, 'dateAdded', 'dateUpdated');
+  // Use the artist schema's required keys for ordering
+  const orderedKeys = artistSchema.required;
 
   const ordered = {};
   for (const key of orderedKeys) {
@@ -112,7 +71,7 @@ const getContentToParse = () => {
  * Create unique filename for artist
  */
 const createUniqueFilePath = (artistName) => {
-  const baseName = sanitizeFileName(artistName);
+  const baseName = slugify(artistName);
   let fileName = `${baseName}.json`;
   let filePath = join(SRC_DIR, fileName);
 
@@ -135,15 +94,6 @@ const setOutput = (key, value) => {
   }
 };
 
-/**
- * Validate that all required keys are present in the parsed data
- */
-const validateRequiredKeys = (data) => {
-  const missingKeys = requiredKeys.filter(key => !(key in data));
-  if (missingKeys.length > 0) {
-    throw new Error(`Missing required keys: ${missingKeys.join(', ')}`);
-  }
-};
 
 /**
  * Main execution
@@ -155,17 +105,24 @@ const main = async () => {
     console.log('Received content:', content, '\n---');
 
     const artistData = parseKeyValueFormat(content);
-
-    // Validate all required keys are present
-    validateRequiredKeys(artistData);
-
-    if (!artistData.name?.trim()) {
+    if (!artistData.name) {
       throw new Error('Artist name is required');
     }
 
+    const { fileName, filePath } = createUniqueFilePath(artistData.name);
+    artistData.id = fileName.replace(/\.json$/, '');
+    artistData.dateAdded = new Date().toISOString().split('T')[0];
+    artistData.dateUpdated = null;
+    artistData.tags ??= [];
+    artistData.urls ??= [];
+
+    if (!validate(artistData)) {
+      console.error('Validation errors:', validate.errors);
+      throw new Error('Artist data does not match schema');
+    }
+
     const orderedData = transformAndOrder(artistData);
-    const { fileName, filePath } = createUniqueFilePath(orderedData.name);
-    const branchName = `artist/${sanitizeFileName(orderedData.name)}`;
+    const branchName = `artist/${orderedData.id}`;
 
     // Write artist file
     writeFileSync(filePath, JSON.stringify(orderedData, null, 2) + '\n');

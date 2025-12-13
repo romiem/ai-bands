@@ -20,6 +20,7 @@
   "homepage": "https://github.com/romiem/ai-bands#readme",
   "devDependencies": {
     "@octokit/rest": "^21.0.2",
+    "@sindresorhus/slugify": "^3.0.0",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "husky": "^9.1.7"
