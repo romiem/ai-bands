@@ -13,7 +13,8 @@ const SCHEMA_PATH = path.join(ROOT_DIR, 'artist.schema.json');
 const schemaRaw = fs.readFileSync(SCHEMA_PATH, 'utf8');
 const schema = JSON.parse(schemaRaw);
 
-const ajv = new Ajv();
+const ajv = new Ajv({ allErrors: true });
+addFormats(ajv);
 const validate = ajv.compile(schema);
 
 const { GITHUB_TOKEN, REPO, ISSUE_NUMBER, ISSUE_BODY, COMMENT_ID, GITHUB_OUTPUT } = process.env;
