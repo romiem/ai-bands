@@ -6,7 +6,9 @@ import { fileURLToPath } from 'url';
 import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
-import artistSchema from '../../artist.schema.json' assert { type: 'json' };
+const fs = require('fs');
+const path = require('path');
+const artistSchema = JSON.parse(fs.readFileSync(path.join(__dirname, '../../artist.schema.json'), 'utf-8'));
 
 const ajv = new Ajv();
 const validate = ajv.compile(artistSchema);
