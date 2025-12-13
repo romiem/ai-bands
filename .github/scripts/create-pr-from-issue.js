@@ -1,12 +1,10 @@
 #!/usr/bin/env node
 
-import { writeFileSync, existsSync, appendFileSync } from 'fs';
-import { join, dirname } from 'path';
-import { fileURLToPath } from 'url';
+import fs from 'fs';
+import path from 'path';
 import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
-import path from 'path';
 
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
@@ -77,12 +75,12 @@ const getContentToParse = () => {
 const createUniqueFilePath = (artistName) => {
   const baseName = slugify(artistName);
   let fileName = `${baseName}.json`;
-  let filePath = join(SRC_DIR, fileName);
+  let filePath = path.join(SRC_DIR, fileName);
 
   let counter = 2;
-  while (existsSync(filePath)) {
+  while (fs.existsSync(filePath)) {
     fileName = `${baseName}-${counter}.json`;
-    filePath = join(SRC_DIR, fileName);
+    filePath = path.join(SRC_DIR, fileName);
     counter++;
   }
 
@@ -94,7 +92,7 @@ const createUniqueFilePath = (artistName) => {
  */
 const setOutput = (key, value) => {
   if (GITHUB_OUTPUT) {
-    appendFileSync(GITHUB_OUTPUT, `${key}=${value}\n`);
+    fs.appendFileSync(GITHUB_OUTPUT, `${key}=${value}\n`);
   }
 };
 
@@ -129,7 +127,7 @@ const main = async () => {
     const branchName = `artist/${orderedData.id}`;
 
     // Write artist file
-    writeFileSync(filePath, JSON.stringify(orderedData, null, 2) + '\n');
+    fs.writeFileSync(filePath, JSON.stringify(orderedData, null, 2) + '\n');
     console.log(`Artist file created: src/${fileName}`);
 
     // Set outputs for subsequent workflow steps
