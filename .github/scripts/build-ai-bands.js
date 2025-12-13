@@ -58,7 +58,7 @@ if (hasErrors) {
   process.exit(1);
 }
 
-combined.sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+combined.sort((a, b) => a.id.localeCompare(b.id, 'en', { sensitivity: 'base' }));
 
 fs.mkdirSync(DIST_DIR, { recursive: true });
 fs.writeFileSync(path.join(DIST_DIR, 'ai-bands.json'), JSON.stringify(combined, null, 2));
