@@ -33,6 +33,21 @@
       ],
       "description": "Additional notes or context about why this artist is considered AI-generated, or null if no comments"
     },
+    "tags": {
+      "type": "array",
+      "description": "Special tags/flags for this artist",
+      "items": {
+        "type": "string",
+        "enum": [
+          "partial-ai",
+          "human-lyrics",
+          "anon-project",
+          "high-output",
+          "inconsistent-style"
+        ]
+      },
+      "uniqueItems": true
+    },
     "spotify": {
       "type": [
         "string",
@@ -88,21 +103,6 @@
         "type": "string",
         "format": "uri"
       }
-    },
-    "tags": {
-      "type": "array",
-      "description": "Special tags/flags for this artist",
-      "items": {
-        "type": "string",
-        "enum": [
-          "partial-ai",
-          "human-lyrics",
-          "anon-project",
-          "high-output",
-          "inconsistent-style"
-        ]
-      },
-      "uniqueItems": true
     }
   },
   "required": [
@@ -111,14 +111,14 @@
     "dateAdded",
     "dateUpdated",
     "comments",
+    "tags",
     "spotify",
     "apple",
     "youtube",
     "instagram",
     "tiktok",
     "amazon",
-    "urls",
-    "tags"
+    "urls"
   ],
   "additionalProperties": false
 }
