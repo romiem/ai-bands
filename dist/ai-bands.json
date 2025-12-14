@@ -3030,6 +3030,24 @@
     "urls": []
   },
   {
+    "id": "sons-of-ashes",
+    "name": "Sons of Ashes",
+    "dateAdded": "2025-12-14",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/5Mi7UZZa3v6zZ1wbrij1Rj",
+    "apple": "https://music.apple.com/us/artist/1829185494",
+    "youtube": "https://www.youtube.com/@sonsofashes",
+    "instagram": "https://www.instagram.com/sonsofashes",
+    "tiktok": "https://www.tiktok.com/@sonsofashes",
+    "amazon": "https://music.amazon.com/artists/B0FK3793JC",
+    "urls": []
+  },
+  {
     "id": "souls-cry",
     "name": "Soul's Cry",
     "dateAdded": "2025-11-25",
