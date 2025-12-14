@@ -117,7 +117,9 @@ const main = async () => {
     artistData.id = fileName.replace(/\.json$/, '');
     artistData.dateAdded = new Date().toISOString().split('T')[0];
     artistData.dateUpdated = null;
-    artistData.tags ??= [];
+    artistData.tags = artistData.tags
+      ? artistData.tags.split(',').map(s => s.trim()).filter(Boolean)
+      : [];
     artistData.urls ??= [];
 
     if (!validate(artistData)) {
