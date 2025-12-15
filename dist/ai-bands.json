@@ -2754,6 +2754,21 @@
     "urls": []
   },
   {
+    "id": "royal-tracks",
+    "name": "Royal Tracks",
+    "dateAdded": "2025-12-15",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/0cwx66tKDAVYpzRImMs9uE",
+    "apple": "https://music.apple.com/us/artist/1846710347",
+    "youtube": "https://www.youtube.com/@ROYALTRACKSOFFICIAL",
+    "instagram": "https://www.instagram.com/royaltracksofficial",
+    "tiktok": "https://www.tiktok.com/@royaltracksofficial",
+    "amazon": "https://music.amazon.com/artists/B0FV9YM654",
+    "urls": []
+  },
+  {
     "id": "ruby-darkrose",
     "name": "Ruby Darkrose",
     "dateAdded": "2025-11-25",
