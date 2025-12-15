@@ -3712,6 +3712,23 @@
     "urls": []
   },
   {
+    "id": "veyna-ashford",
+    "name": "Veyna Ashford",
+    "dateAdded": "2025-12-15",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai"
+    ],
+    "spotify": "https://open.spotify.com/artist/1GsWRG8DFVvi4xMUoAYB4h",
+    "apple": "https://music.apple.com/us/artist/1799612271",
+    "youtube": "https://www.youtube.com/@VeynaAshford",
+    "instagram": "https://www.instagram.com/veyna.ashford",
+    "tiktok": "https://www.tiktok.com/@veyna.ashford",
+    "amazon": "https://music.amazon.com/artists/B0DZ22VCFV",
+    "urls": []
+  },
+  {
     "id": "virelia",
     "name": "Virelia",
     "dateAdded": "2025-11-25",
