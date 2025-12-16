@@ -1058,6 +1058,24 @@
     "urls": []
   },
   {
+    "id": "elowine",
+    "name": "Elowine",
+    "dateAdded": "2025-12-16",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/2x3ocULqt2VywpBBmeBVz5",
+    "apple": "https://music.apple.com/us/artist/1834570234",
+    "youtube": "https://www.youtube.com/@Elowinenafya",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0FN7KQXJV",
+    "urls": []
+  },
+  {
     "id": "emo-appalachia",
     "name": "Emo Appalachia",
     "dateAdded": "2025-12-10",
