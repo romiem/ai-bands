@@ -3398,6 +3398,24 @@
     "urls": []
   },
   {
+    "id": "superblack",
+    "name": "Superblack",
+    "dateAdded": "2025-12-16",
+    "dateUpdated": null,
+    "comments": "AI-generated cover art; notable absence of a genuine online presence, website, or social media. Tracks also contain audio artifacts pointing to tools like Suno being used.",
+    "tags": [
+      "anon-project",
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/0Oc2WB1Dm822nGjH4OOBq4",
+    "apple": "https://music.apple.com/us/artist/1845658986",
+    "youtube": "https://www.youtube.com/channel/UCd2HIbEUQEy1-j83dBQacxA",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0784QHNWY",
+    "urls": []
+  },
+  {
     "id": "tapas",
     "name": "Tapas",
     "dateAdded": "2025-11-25",
