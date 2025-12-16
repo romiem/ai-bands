@@ -2276,6 +2276,23 @@
     "urls": []
   },
   {
+    "id": "modranicht",
+    "name": "Modranicht",
+    "dateAdded": "2025-12-16",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/4nz3plOjHC5adwqYbqWnGn",
+    "apple": "https://music.apple.com/us/artist/1787042200",
+    "youtube": "https://www.youtube.com/channel/UCJviqd4tLZBNjj85ZESTZoQ",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DR9J5XPQ",
+    "urls": []
+  },
+  {
     "id": "moon-soul",
     "name": "Moon Soul",
     "dateAdded": "2025-12-11",
