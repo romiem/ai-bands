@@ -120,7 +120,9 @@ const main = async () => {
     artistData.tags = artistData.tags
       ? artistData.tags.split(',').map(s => s.trim()).filter(Boolean)
       : [];
-    artistData.urls ??= [];
+    artistData.urls = artistData.urls
+      ? artistData.urls.split(',').map(s => s.trim()).filter(Boolean)
+      : [];
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);
