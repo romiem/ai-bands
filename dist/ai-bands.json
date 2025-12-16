@@ -1753,6 +1753,21 @@
     "urls": []
   },
   {
+    "id": "is-it-sunday",
+    "name": "is it sunday?",
+    "dateAdded": "2025-12-16",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/5FnXL6BQqC7UWY3xDvgkLA",
+    "apple": "https://music.apple.com/us/artist/1791406168",
+    "youtube": "https://www.youtube.com/@isitsundayalready",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B08W38KVJX",
+    "urls": []
+  },
+  {
     "id": "j-bumi",
     "name": "J Bumi",
     "dateAdded": "2025-11-25",
