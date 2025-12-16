@@ -3416,6 +3416,24 @@
     "urls": []
   },
   {
+    "id": "tales-with-lora",
+    "name": "Tales with Lora",
+    "dateAdded": "2025-12-16",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/1KMGaXlElfNtWy4H8CmR0x",
+    "apple": "https://music.apple.com/us/artist/1775260804",
+    "youtube": "https://www.youtube.com/@taleswithlora",
+    "instagram": "https://www.instagram.com/taleswith_lora",
+    "tiktok": "https://www.tiktok.com/@taleswithlora",
+    "amazon": "https://music.amazon.com/artists/B0DJTX3NWL",
+    "urls": [
+      "https://www.patreon.com/TaleswithLora",
+      "https://www.taleswithlora.com"
+    ]
+  },
+  {
     "id": "tapas",
     "name": "Tapas",
     "dateAdded": "2025-11-25",
