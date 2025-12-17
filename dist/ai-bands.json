@@ -3921,6 +3921,25 @@
     "urls": []
   },
   {
+    "id": "trouble-ment",
+    "name": "TroubleMent",
+    "dateAdded": "2025-12-17",
+    "dateUpdated": null,
+    "comments": "Images of artist look AI-generated. Four full-length albums published between 2024-25. No evidence of live shows, both past or future.",
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/3gOjQmcHrU0weliyAXpk0L",
+    "apple": "https://music.apple.com/us/artist/1774995861",
+    "youtube": "https://www.youtube.com/@troublement",
+    "instagram": "https://www.instagram.com/lizzy_trouble",
+    "tiktok": "https://www.tiktok.com/@trouble_ment",
+    "amazon": "https://music.amazon.com/artists/B075GKCCBT",
+    "urls": [
+      "https://www.reddit.com/r/RealOrAI/comments/1oqz3ca/help_is_this_entire_music_artist_ai/"
+    ]
+  },
+  {
     "id": "truth-s3rum",
     "name": "TRUTH:S3RUM",
     "dateAdded": "2025-11-25",
