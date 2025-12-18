@@ -16,12 +16,46 @@ async function getExternalArtists() {
     // ======================================================================
 
     const externalArtists = [];
+    
+    const re = await fetch('https://raw.githubusercontent.com/CennoxX/spotify-ai-blocker/refs/heads/main/SpotifyAiArtists.csv');
+    const data = await re.text();
+    const csv = data.split('\n').map(line => line.split(','));
+    const header = csv.shift();
 
+    csv.forEach(row => {
+        const artistName = row[0];
+        const artistId = row[1];
+
+        const entry = getTemplate();
+        entry.name = artistName;
+        entry.spotify = `https://open.spotify.com/artist/${artistId}`;
+
+        externalArtists.push(entry);
+    });
 
     // #endregion IMPORT CODE
     // ======================================================================  
     return externalArtists;
 }
+
+// Example functions from previous imports:
+// async function getExternalArtists() {
+//     // ======================================================================
+//     // #region IMPORT CODE - Add import code here, then run the script
+//     // The code should set `externalArtists` to an array of artist objects.
+//     // Example:
+//     //   const externalArtists = [
+//     //     { name: "Artist Name", spotify: "https://open.spotify.com/artist/..." },
+//     //   ];
+//     // ======================================================================
+
+//     const externalArtists = [];
+
+
+//     // #endregion IMPORT CODE
+//     // ======================================================================  
+//     return externalArtists;
+// }
 
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
@@ -38,10 +72,30 @@ const validate = ajv.compile(schema);
 const isEmpty = (value) => value === null || value === undefined || value === '';
 const generateRandomSuffix = () => crypto.randomBytes(6).toString('hex');
 const getCurrentDate = () => new Date().toISOString().split('T')[0];
-const slugify = (name) => name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').replace(/--+/g, '-');
+const slugify = (name) => {
+    if (!name) return '';
+
+    // First pass: ASCII-friendly slug
+    const asciiSlug = name
+        .normalize('NFKD')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .replace(/--+/g, '-');
+    if (asciiSlug) return asciiSlug;
+
+    // Fallback: hex codepoints for non-ASCII names (e.g., Chinese)
+    const hexSlug = [...name]
+        .map(c => `u${(c.codePointAt(0) || 0).toString(16)}`)
+        .join('-')
+        .replace(/--+/g, '-');
+
+    return hexSlug || 'imported-artist';
+};
+
 const buildIdFromName = (name) => {
-    const base = slugify(name).replace(/[^a-z0-9-]/g, '') || 'imported-artist';
-    return base;
+    const base = slugify(name);
+    return base || 'imported-artist';
 };
 const makeUniqueId = (baseId, existingIds) => {
     let candidate = baseId;
@@ -84,20 +138,27 @@ const buildUriMap = (existingArtists) => {
     return uriMap;
 };
 
-// Merge two artists, preferring non-empty values from the second
+// Merge two artists, preferring non-empty values from the second; track whether anything new was added
 const mergeArtists = (existing, incoming) => {
     const merged = { ...existing };
+    let changed = false;
+
     for (const [key, value] of Object.entries(incoming)) {
         if (key === 'tags') {
-            // Merge tags, keeping unique values
             const existingTags = Array.isArray(merged.tags) ? merged.tags : [];
             const incomingTags = Array.isArray(value) ? value : [];
-            merged.tags = [...new Set([...existingTags, ...incomingTags])];
+            const mergedTags = [...new Set([...existingTags, ...incomingTags])];
+            if (mergedTags.length !== existingTags.length) {
+                changed = true;
+            }
+            merged.tags = mergedTags;
         } else if (isEmpty(merged[key]) && !isEmpty(value)) {
             merged[key] = value;
+            changed = true;
         }
     }
-    return merged;
+
+    return { merged, changed };
 };
 
 // Merge duplicate artists within an import list based on shared URIs
@@ -182,10 +243,14 @@ const importExternalArtists = async () => {
         }
 
         if (matchingExisting) {
-            // Merge with existing artist and mark as external-modified
-            const merged = mergeArtists(matchingExisting.data, artist);
+            // Merge with existing artist and mark as external-modified only if something new was added
+            const { merged, changed } = mergeArtists(matchingExisting.data, artist);
 
-            // Add external-modified tag if not already tagged as external
+            if (!changed) {
+                // No new data added; skip tagging or writing
+                continue;
+            }
+
             const tags = Array.isArray(merged.tags) ? merged.tags : [];
             if (!tags.includes('external')) {
                 if (!tags.includes('external-modified')) {
@@ -195,7 +260,6 @@ const importExternalArtists = async () => {
             merged.tags = tags;
             merged.dateUpdated = currentDate;
 
-            // Write back to existing file
             fs.writeFileSync(matchingExisting.filePath, JSON.stringify(merged, null, 2) + '\n');
             console.log(`  Modified: ${merged.name} (${matchingExisting.filename})`);
             modified++;
@@ -230,15 +294,13 @@ const importExternalArtists = async () => {
                 continue;
             }
 
-            // Generate filename
-            const filename = `${slugify(newArtist.name)}.json`;
-            const filePath = path.join(SRC_DIR, filename);
-
-            // Check if file already exists (name collision)
-            if (fs.existsSync(filePath)) {
-                console.warn(`  ⚠️  File already exists: ${filename}, skipping.`);
-                skipped++;
-                continue;
+            // Generate filename, append suffixes if needed to avoid collisions
+            const baseFilename = slugify(newArtist.name) || 'imported-artist';
+            let filename = `${baseFilename}.json`;
+            let filePath = path.join(SRC_DIR, filename);
+            while (fs.existsSync(filePath)) {
+                filename = `${baseFilename}-${generateRandomSuffix()}.json`;
+                filePath = path.join(SRC_DIR, filename);
             }
 
             // Write new file
