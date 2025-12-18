@@ -1571,6 +1571,21 @@
     "urls": []
   },
   {
+    "id": "grave-horizon",
+    "name": "Grave Horizon",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": "Confirmed as AI via their Instagram profile.",
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/581BcWMoLjJ0uWMehwRW5r",
+    "apple": "https://music.apple.com/us/artist/1853428077",
+    "youtube": "https://www.youtube.com/@gravehorizonband",
+    "instagram": "https://www.instagram.com/gravehorizonband",
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0G2KNZV64",
+    "urls": []
+  },
+  {
     "id": "grid-theory",
     "name": "Grid Theory",
     "dateAdded": "2025-12-10",
