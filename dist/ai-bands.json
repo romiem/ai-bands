@@ -907,6 +907,23 @@
     "urls": []
   },
   {
+    "id": "decayed-souls",
+    "name": "Decayed Souls",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": "Has duplicate artist profiles on Spotify. AI cover art.",
+    "tags": [
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/1zT2nzyToiqL6OxLrlH2QN",
+    "apple": "https://music.apple.com/us/artist/1855732645",
+    "youtube": "https://www.youtube.com/channel/UCsADRXEuMIGdw8rodYNwsFg",
+    "instagram": "https://www.instagram.com/decayed.souls",
+    "tiktok": "https://www.tiktok.com/@decayed.souls",
+    "amazon": "https://music.amazon.com/artists/B0G3VR5BPP",
+    "urls": []
+  },
+  {
     "id": "deus-metallicus",
     "name": "Deus Metallicus",
     "dateAdded": "2025-11-25",
