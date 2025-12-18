@@ -3701,6 +3701,24 @@
     "urls": []
   },
   {
+    "id": "taku-the-bard",
+    "name": "Taku The Bard",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai",
+      "human-lyrics"
+    ],
+    "spotify": "https://open.spotify.com/artist/5f4bcIL7lMyDutLcj3ifDN",
+    "apple": "https://music.apple.com/us/artist/1835706289",
+    "youtube": "https://www.youtube.com/@TakuTheBard",
+    "instagram": "https://www.instagram.com/takuthebard",
+    "tiktok": "https://www.tiktok.com/@takuthebard",
+    "amazon": "https://music.amazon.com/artists/B0FN2J7NZS/taku-the-bard",
+    "urls": []
+  },
+  {
     "id": "tales-with-lora",
     "name": "Tales with Lora",
     "dateAdded": "2025-12-16",
