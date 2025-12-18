@@ -676,6 +676,26 @@
     "urls": []
   },
   {
+    "id": "christian-music-creations",
+    "name": "Christian Music Creations",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": "Openly admits on social media that it's media is AI-generated.",
+    "tags": [
+      "partial-ai",
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/0EexfNs9ZfQ3lWDmO7Csm7",
+    "apple": "https://music.apple.com/us/artist/1834358222",
+    "youtube": "https://www.youtube.com/@ChristianMusicCreations",
+    "instagram": "https://www.instagram.com/christianmusiccreations",
+    "tiktok": "https://www.tiktok.com/@christianmusiccreations",
+    "amazon": "https://music.amazon.com/artists/B0FMPM85HN",
+    "urls": [
+      "https://www.submithub.com/ai-song-checker?id=6f64ae87c2f575e0"
+    ]
+  },
+  {
     "id": "cimmeris",
     "name": "Cimmeris",
     "dateAdded": "2025-11-25",
