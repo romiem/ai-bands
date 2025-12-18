@@ -1527,6 +1527,23 @@
     "urls": []
   },
   {
+    "id": "galezard-project",
+    "name": "Galezard Project",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/4IdSITdA8NCKyVO7vYjCvE",
+    "apple": "https://music.apple.com/us/artist/1793504459",
+    "youtube": "https://www.youtube.com/@GALEZARD",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DVGW3WQB",
+    "urls": []
+  },
+  {
     "id": "ghost-signal",
     "name": "Ghost//Signal",
     "dateAdded": "2025-12-13",
