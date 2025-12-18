@@ -1664,6 +1664,23 @@
     "urls": []
   },
   {
+    "id": "henri-werner",
+    "name": "Henri Werner",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE",
+    "apple": "https://music.apple.com/us/artist/1407391287",
+    "youtube": "https://www.youtube.com/@henriwerner",
+    "instagram": "https://www.instagram.com/henri_werner_sound",
+    "tiktok": "https://www.tiktok.com/@henri_werner_sound",
+    "amazon": "https://music.amazon.com/artists/B07F8FSHK4",
+    "urls": [
+      "https://henri-werner.com/category/ai-visuals/"
+    ]
+  },
+  {
     "id": "henry-flower",
     "name": "Henry Flower",
     "dateAdded": "2025-12-12",
