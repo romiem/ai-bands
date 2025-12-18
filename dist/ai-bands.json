@@ -2254,6 +2254,23 @@
     "urls": []
   },
   {
+    "id": "lyryxx",
+    "name": "LYRYXX",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/31SVvG3RROXlN03ez3h7F3",
+    "apple": null,
+    "youtube": "https://www.youtube.com/channel/UC4DATTYt0_1Sugh1XwmnCeQ",
+    "instagram": null,
+    "tiktok": "https://www.tiktok.com/@lyryxx8",
+    "amazon": "https://music.amazon.com/artists/B0G4BFRLZH",
+    "urls": []
+  },
+  {
     "id": "machina-aeon",
     "name": "Machina Aeon",
     "dateAdded": "2025-11-25",
