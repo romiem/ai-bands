@@ -187,6 +187,21 @@
     "urls": []
   },
   {
+    "id": "angels-of-agony",
+    "name": "Angels Of Agony",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": "Spotify bio acknowledges use of AI.",
+    "tags": [],
+    "spotify": "https://open.spotify.com/artist/50ve8lBAG1M315OHj41vty",
+    "apple": "https://music.apple.com/us/artist/1856447730",
+    "youtube": null,
+    "instagram": null,
+    "tiktok": "https://www.tiktok.com/@angels.of.agony",
+    "amazon": "https://music.amazon.com/artists/B0G4RMZZ3X",
+    "urls": []
+  },
+  {
     "id": "ansi",
     "name": "ANSI",
     "dateAdded": "2025-12-07",
