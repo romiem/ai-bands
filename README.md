@@ -1,10 +1,17 @@
-Soul Over AI - list of AI generated bands
-========================
-This repo contains a **[list of AI generated bands](/dist/ai-bands.json)** often found on Spotify, Youtube, Apple Music etc.
+Soul Over AI - list of AI generated artists
+=====
+This repo contains a list of artists who are using AI-generated content in their music.
 It is used to power the website [https://souloverai.com](https://souloverai.com).
+If you want to use the raw data, it is available [here](/dist/ai-bands.json).
 
-I cannot guarantee all of these can *still* be considered AI, but we do check all artists, so chances are they were producing AI generated music at one point in time.
+Adding an artist
+=====
+To contribute to the list, please fill in the form at https://souloverai.com/add
+> [!NOTE]
+> Please try to fill in as many of the input fields as possible to reduce our burden of researching all of the music platform urls.
+> High-effort submissions are reviewed faster. ⭐️
 
-Contributing
-============
-To contribute to the list, please fill in the form at https://souloverai.com/contribute. Please try to fill in as many of the input fields as possible to reduce our burden of researching all of the music platform urls. Thanks in advance!
+Disclaimer
+=====
+> [!CAUTION]
+This list is community-generated and reflects point-in-time references. Some artists may have since stopped using AI in their work; however, inclusion on this list indicates that they produced AI-generated music at some point.
