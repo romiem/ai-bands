@@ -3874,6 +3874,24 @@
     "urls": []
   },
   {
+    "id": "the-hollowed",
+    "name": "The Hollowed",
+    "dateAdded": "2025-12-18",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/3V4PB8BUF6TIkz5IUYgJGA",
+    "apple": "https://music.apple.com/us/artist/1841018197",
+    "youtube": "https://www.youtube.com/@The_Hollowed_Official",
+    "instagram": null,
+    "tiktok": "https://www.tiktok.com/@thehollowedofficial",
+    "amazon": "https://music.amazon.com/artists/B0FRYJ3VJH",
+    "urls": []
+  },
+  {
     "id": "the-power-alchemist",
     "name": "The Power Alchemist",
     "dateAdded": "2025-12-11",
