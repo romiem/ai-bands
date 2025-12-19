@@ -4599,6 +4599,23 @@
     "urls": []
   },
   {
+    "id": "velour",
+    "name": "Velour",
+    "dateAdded": "2025-12-19",
+    "dateUpdated": null,
+    "comments": "Generic cover art. Audio artifacts.",
+    "tags": [
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7",
+    "apple": "https://music.apple.com/us/artist/1834747001",
+    "youtube": "https://www.youtube.com/@Velour-music",
+    "instagram": "https://www.instagram.com/velour_musique",
+    "tiktok": "https://www.tiktok.com/@velour.music",
+    "amazon": "https://music.amazon.com/artists/B001E6VVT8",
+    "urls": []
+  },
+  {
     "id": "velour-doom",
     "name": "Velour Doom",
     "dateAdded": "2025-11-25",
