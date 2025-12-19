@@ -448,6 +448,25 @@
     "urls": []
   },
   {
+    "id": "banned-vinyl",
+    "name": "Banned Vinyl",
+    "dateAdded": "2025-12-19",
+    "dateUpdated": null,
+    "comments": "AI-generated artwork and videos. Extremely crude lyrics.",
+    "tags": [
+      "anon-project",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "spotify": "https://open.spotify.com/artist/42t4hWS8aGwWNQhutNCl9c",
+    "apple": "https://music.apple.com/us/artist/1744543789",
+    "youtube": "https://www.youtube.com/@bannedvinyl",
+    "instagram": "https://www.instagram.com/bannedvinylcollection",
+    "tiktok": "https://www.tiktok.com/@bannedvinyl",
+    "amazon": "https://music.amazon.com/artists/B0D384BTSM",
+    "urls": []
+  },
+  {
     "id": "bards-of-ethernia",
     "name": "Bards of Ethernia",
     "dateAdded": "2025-11-25",
