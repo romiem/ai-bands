@@ -1214,6 +1214,24 @@
     "urls": []
   },
   {
+    "id": "domsgard",
+    "name": "Domsgard",
+    "dateAdded": "2025-12-19",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "human-lyrics"
+    ],
+    "spotify": "https://open.spotify.com/artist/4bw38ajepdedya70ivRX35",
+    "apple": "https://music.apple.com/us/artist/1824253486",
+    "youtube": "https://www.youtube.com/@Domsgard",
+    "instagram": "https://www.instagram.com/domsgard.vikings",
+    "tiktok": "https://www.tiktok.com/@domsgard",
+    "amazon": "https://music.amazon.com/artists/B0FGGCPPB2",
+    "urls": []
+  },
+  {
     "id": "dragons-love",
     "name": "Dragon's Love",
     "dateAdded": "2025-12-06",
