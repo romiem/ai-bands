@@ -3604,6 +3604,24 @@
     "urls": []
   },
   {
+    "id": "salheim",
+    "name": "Salheim",
+    "dateAdded": "2025-12-20",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/5iwUJdnoWpHT2H84hllGms",
+    "apple": "https://music.apple.com/us/artist/1837280150",
+    "youtube": "https://www.youtube.com/@Salheim",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0FPKPP22D",
+    "urls": []
+  },
+  {
     "id": "samurai-girl",
     "name": "Samurai Girl",
     "dateAdded": "2025-12-15",
