@@ -2806,6 +2806,26 @@
     "urls": []
   },
   {
+    "id": "me-and-the-robots",
+    "name": "ME & The Robots",
+    "dateAdded": "2025-12-20",
+    "dateUpdated": null,
+    "comments": "Band members page on their website does not give any information on the people behind the project.",
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/4I6RjWltIwwTHshCRvRzGR",
+    "apple": "https://music.apple.com/us/artist/1773070661",
+    "youtube": "https://www.youtube.com/@me_and_the_robots",
+    "instagram": "https://www.instagram.com/me_and_the_robots",
+    "tiktok": "https://www.tiktok.com/@me_and_the_robots",
+    "amazon": "https://music.amazon.com/artists/B0DJPY1FBK/me-the-robots",
+    "urls": [
+      "https://meandtherobots.com"
+    ]
+  },
+  {
     "id": "medieval-confessions",
     "name": "Medieval Confessions",
     "dateAdded": "2025-12-17",
