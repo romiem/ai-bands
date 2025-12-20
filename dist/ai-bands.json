@@ -621,6 +621,23 @@
     "urls": []
   },
   {
+    "id": "black-mewtal",
+    "name": "Black Mewtal",
+    "dateAdded": "2025-12-20",
+    "dateUpdated": null,
+    "comments": "Cat-themed metalcore.",
+    "tags": [
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/4pD9k5kwc8iYX2spxUBGeu",
+    "apple": "https://music.apple.com/us/artist/1848667583",
+    "youtube": "https://www.youtube.com/@blackmewtal",
+    "instagram": "https://www.instagram.com/blackmewtal",
+    "tiktok": "https://www.tiktok.com/@blackmewtal",
+    "amazon": "https://music.amazon.com/artists/B0FYQ6S1J5",
+    "urls": []
+  },
+  {
     "id": "blackbeards-tavern",
     "name": "Blackbeards Tavern",
     "dateAdded": "2025-11-25",
