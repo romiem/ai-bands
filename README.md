@@ -1,10 +1,12 @@
-<p align="center">
-  <a href="https://souloverai.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/romiem/ai-bands/refs/heads/main/.github/images/logo.png" width="600" alt="Soul Over AI Logo">
-    <br />
-    https://souloverai.com
-  </a>
-</p>
+<div align="center">
+    <a href="https://souloverai.com" target="_blank">
+    <p><img src="https://raw.githubusercontent.com/romiem/ai-bands/refs/heads/main/.github/images/logo.png" width="600" alt="Soul Over AI Logo"></p>
+    <p>https://souloverai.com</p>
+    </a>
+  <p><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/romiem/ai-bands/contents/src&query=$.length&label=AI%20artists%20tracked&color=d77250" /></p>
+</div>
+
+
 
 ## Soul Over AI - list of AI generated artists
 This repo contains a list of artists who are using AI-generated content in their music.
