@@ -3231,6 +3231,23 @@
     "urls": []
   },
   {
+    "id": "nina-blaze",
+    "name": "Nina Blaze",
+    "dateAdded": "2025-12-21",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/3ZqJbUCCCgtTCgGhWgrEOq",
+    "apple": "https://music.apple.com/us/artist/1834569227",
+    "youtube": "https://www.youtube.com/@ninablazee",
+    "instagram": "https://www.instagram.com/ninablazeee",
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DJGR1617",
+    "urls": []
+  },
+  {
     "id": "noah-thorne",
     "name": "Noah Thorne",
     "dateAdded": "2025-12-09",
