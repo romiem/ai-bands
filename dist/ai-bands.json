@@ -1484,6 +1484,24 @@
     "urls": []
   },
   {
+    "id": "eurozia",
+    "name": "Eurozia",
+    "dateAdded": "2025-12-21",
+    "dateUpdated": null,
+    "comments": "Created by the same unknown entity behind Fierlayce.",
+    "tags": [
+      "high-output",
+      "anon-project"
+    ],
+    "spotify": "https://open.spotify.com/artist/3PY10kAAGQRVikvXFj57g0",
+    "apple": "https://music.apple.com/us/artist/1820663129",
+    "youtube": "https://www.youtube.com/@Eurozia",
+    "instagram": "https://www.instagram.com/eurozia_",
+    "tiktok": "https://www.tiktok.com/@eurozia_",
+    "amazon": "https://music.amazon.com/artists/B0FCVJWXNN",
+    "urls": []
+  },
+  {
     "id": "everfade",
     "name": "EVERFADE",
     "dateAdded": "2025-12-10",
