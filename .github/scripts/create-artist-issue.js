@@ -6,6 +6,7 @@ const octokit = new Octokit({
 
 const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
 const payload = JSON.parse(process.env.PAYLOAD);
+const confidenceScore = payload.confidenceScore;
 
 const issueBody = [
   `{name}: ${payload.name}`,
@@ -25,5 +26,5 @@ octokit.issues.create({
   repo,
   title: `Artist Submission: ${payload.name}`,
   body: issueBody,
-  labels: ['artist-submission']
+  labels: [confidenceScore >= 3 ? 'artist-submission:high' : 'artist-submission:low'],
 });
