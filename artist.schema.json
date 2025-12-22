@@ -43,7 +43,9 @@
           "human-lyrics",
           "anon-project",
           "high-output",
-          "inconsistent-style"
+          "inconsistent-style",
+          "external",
+          "external-modified"
         ]
       },
       "uniqueItems": true
