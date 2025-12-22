@@ -388,6 +388,24 @@
     "urls": []
   },
   {
+    "id": "auric-veil",
+    "name": "Auric Veil",
+    "dateAdded": "2025-12-22",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai",
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/0E92sZIifY5BwrEDL4thua",
+    "apple": "https://music.apple.com/us/artist/auric-veil/1787566631",
+    "youtube": "https://www.youtube.com/@AuricVeil",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0DRPNNVMK/auric-veil",
+    "urls": []
+  },
+  {
     "id": "aventhis",
     "name": "Aventhis",
     "dateAdded": "2025-11-25",
