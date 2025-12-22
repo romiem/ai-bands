@@ -2617,6 +2617,25 @@
     "urls": []
   },
   {
+    "id": "kuroki",
+    "name": "kuroki.",
+    "dateAdded": "2025-12-22",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "spotify": "https://open.spotify.com/artist/4NqjXZD0xrFzrH5q68Sv7d",
+    "apple": "https://music.apple.com/us/artist/1543604989",
+    "youtube": null,
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artist/B0G25FD8W2",
+    "urls": []
+  },
+  {
     "id": "kyushumusic",
     "name": "KyushuMusic",
     "dateAdded": "2025-12-10",
