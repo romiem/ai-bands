@@ -115,7 +115,7 @@ const main = async () => {
 
     const { fileName, filePath } = createUniqueFilePath(artistData.name);
     artistData.id = fileName.replace(/\.json$/, '');
-    artistData.dateAdded = new Date().toISOString().split('T')[0];
+    artistData.dateAdded = new Date().toISOString();
     artistData.dateUpdated = null;
     artistData.tags = artistData.tags
       ? artistData.tags.split(',').map(s => s.trim()).filter(Boolean)
