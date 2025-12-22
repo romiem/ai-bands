@@ -1,8 +1,6 @@
-#!/usr/bin/env node
-
 import fs from 'fs';
 import path from 'path';
-import { Octokit } from '@octokit/rest';
+// import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
@@ -10,7 +8,10 @@ import addFormats from 'ajv-formats';
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
 const SCHEMA_PATH = path.join(ROOT_DIR, 'artist.schema.json');
+const ARTISTS_PATH = path.join(ROOT_DIR, 'dist', 'ai-bands.json');
 
+const artistsRaw = fs.readFileSync(ARTISTS_PATH, 'utf8');
+const artists = JSON.parse(artistsRaw);
 const schemaRaw = fs.readFileSync(SCHEMA_PATH, 'utf8');
 const schema = JSON.parse(schemaRaw);
 
@@ -21,7 +22,7 @@ const validate = ajv.compile(schema);
 const { GITHUB_TOKEN, REPO, ISSUE_NUMBER, ISSUE_BODY, COMMENT_ID, GITHUB_OUTPUT } = process.env;
 const [owner, repo] = REPO?.split('/') || [];
 
-const octokit = new Octokit({ auth: GITHUB_TOKEN });
+// const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
 
 /**
@@ -112,6 +113,16 @@ const main = async () => {
     if (!artistData.name) {
       throw new Error('Artist name is required');
     }
+
+    // Check for duplicate entries
+    if (artistData.spotify && artists.find(a => a.spotify === artistData.spotify))
+      throw new Error('Spotify url already exists in database.');
+    if (artistData.apple && artists.find(a => a.apple === artistData.apple))
+      throw new Error('Apple url already exists in database.');
+    if (artistData.amazon && artists.find(a => a.amazon === artistData.amazon))
+      throw new Error('Amazon url already exists in database.');
+    if (artistData.youtube && artists.find(a => a.youtube === artistData.youtube))
+      throw new Error('YouTube url already exists in database.');
 
     const { fileName, filePath } = createUniqueFilePath(artistData.name);
     artistData.id = fileName.replace(/\.json$/, '');
