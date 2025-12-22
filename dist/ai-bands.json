@@ -3756,6 +3756,25 @@
     "urls": []
   },
   {
+    "id": "runas-da-graca",
+    "name": "Runas da Graça",
+    "dateAdded": "2025-12-22",
+    "dateUpdated": null,
+    "comments": "Viking-themed Brazilian/Portuguese Christian songs.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "spotify": "https://open.spotify.com/artist/1KrlNbJ7uQ6hhmiKNO5I3H",
+    "apple": null,
+    "youtube": "https://www.youtube.com/@MusicaCrist%C3%A3comIA",
+    "instagram": "https://www.instagram.com/runasdagraca",
+    "tiktok": "https://www.tiktok.com/@runasdagraca",
+    "amazon": "https://music.amazon.com/artists/B0G267PX4N",
+    "urls": []
+  },
+  {
     "id": "rune-skald",
     "name": "Rune Skald",
     "dateAdded": "2025-12-04",
