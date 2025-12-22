@@ -2385,6 +2385,24 @@
     "urls": []
   },
   {
+    "id": "j-seren",
+    "name": "J-Seren",
+    "dateAdded": "2025-12-22",
+    "dateUpdated": null,
+    "comments": "Pop / R&B AI singer.",
+    "tags": [
+      "anonymous",
+      "ai-visuals"
+    ],
+    "spotify": "https://open.spotify.com/artist/4kESvR1Dq3y5fc1PGT1zV3",
+    "apple": "https://music.apple.com/us/artist/1843292240",
+    "youtube": "https://www.youtube.com/channel/UCC4aVwU0RigaA8CAJnk4t5A",
+    "instagram": null,
+    "tiktok": null,
+    "amazon": "https://music.amazon.com/artists/B0FTG259CV",
+    "urls": []
+  },
+  {
     "id": "jd-steel",
     "name": "JD Steel",
     "dateAdded": "2025-12-13",
