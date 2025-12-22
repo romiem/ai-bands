@@ -15,16 +15,16 @@
     },
     "dateAdded": {
       "type": "string",
-      "format": "date",
-      "description": "Date this artist was added to the database (YYYY-MM-DD format)"
+      "format": "date-time",
+      "description": "Date this artist was added to the database (ISO 8601 UTC format)"
     },
     "dateUpdated": {
       "type": [
         "string",
         "null"
       ],
-      "format": "date",
-      "description": "Date this entry was last updated (YYYY-MM-DD format), or null if never updated"
+      "format": "date-time",
+      "description": "Date this entry was last updated (ISO 8601 UTC format), or null if never updated"
     },
     "comments": {
       "type": [

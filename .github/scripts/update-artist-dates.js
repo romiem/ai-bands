@@ -4,12 +4,14 @@ import { execSync } from 'child_process';
 
 const SRC_DIR = path.join(process.cwd(), 'src');
 
-// Helper: run git log and return a date in YYYY-MM-DD format
+// Helper: run git log and return a normalised ISO date string (UTC, Z notation)
 function getGitDate(filePath, args) {
   try {
-    return execSync(`git log ${args} --format=%cs -- '${filePath}'`)
+    const raw = execSync(`git log ${args} --format=%cI -- '${filePath}'`)
       .toString()
       .trim();
+    // Normalise to UTC Z notation
+    return raw ? new Date(raw).toISOString() : null;
   } catch {
     return null;
   }
@@ -28,7 +30,7 @@ for (const file of files) {
     continue;
   }
 
-  // Calculate new values
+  // Calculate new values (already normalised to Z notation)
   const newDateAdded = dateAdded;
   const newDateUpdated = dateUpdated === dateAdded ? null : dateUpdated;
 
