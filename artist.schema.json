@@ -39,11 +39,15 @@
       "items": {
         "type": "string",
         "enum": [
-          "partial-ai",
-          "human-lyrics",
-          "anon-project",
+          "ai-visuals",
+          "anonymous",
+          "audio-artifacts",
           "high-output",
-          "inconsistent-style"
+          "human-lyrics",
+          "inconsistent-style",
+          "minimal-bio",
+          "no-social-presence",
+          "partial-ai"
         ]
       },
       "uniqueItems": true
