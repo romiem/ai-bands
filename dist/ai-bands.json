@@ -3553,6 +3553,26 @@
     "urls": []
   },
   {
+    "id": "procrastopia",
+    "name": "Procrastopia",
+    "dateAdded": "2025-12-22",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "spotify": "https://open.spotify.com/artist/4p5EUhmDHdwkpSJmWAY96t",
+    "apple": "https://music.apple.com/us/artist/1760799804",
+    "youtube": "https://www.youtube.com/@Dezzi-Procrastopia",
+    "instagram": null,
+    "tiktok": "https://www.tiktok.com/@procrastopia",
+    "amazon": "https://music.amazon.com/artist/B0DC1XZGB1",
+    "urls": []
+  },
+  {
     "id": "psalms-of-light",
     "name": "Psalms of Light",
     "dateAdded": "2025-12-10",
