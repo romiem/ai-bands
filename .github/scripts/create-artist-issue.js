@@ -19,7 +19,7 @@ for (const key of propertyOrder) {
   orderedData[key] = data[key];
 }
 
-const issueBody = JSON.stringify(orderedData, null, 2);
+const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\``;
 
 octokit.issues.create({
   owner,
