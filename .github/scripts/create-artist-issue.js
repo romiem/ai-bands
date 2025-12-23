@@ -19,6 +19,10 @@ for (const key of propertyOrder) {
   orderedData[key] = data[key];
 }
 
+// Convert comma-delimited strings to arrays for tags and urls, default to empty array
+orderedData.tags = orderedData.tags && typeof orderedData.tags === 'string' ? orderedData.tags.split(',').map(s => s.trim()) : [];
+orderedData.urls = orderedData.urls && typeof orderedData.urls === 'string' ? orderedData.urls.split(',').map(s => s.trim()) : [];
+
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\``;
 
 octokit.issues.create({
