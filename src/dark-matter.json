@@ -3,19 +3,17 @@
   "name": "Dark Matter",
   "dateAdded": "2025-12-18T18:49:33.000Z",
   "dateUpdated": "2025-12-23T16:52:06.000Z",
-  "comments": "YouTube channel description acknowledges use of AI.",
+  "comments": "YouTube channel description acknowledges use of AI. Has a second Youtube channel at @darkmatter0896.",
   "tags": [
     "partial-ai",
     "human-lyrics",
     "high-output"
   ],
   "spotify": null,
-  "apple": "https://music.apple.com/us/artist/1745322818",
-  "youtube": "https://www.youtube.com/@darkmatter1996",
-  "instagram": null,
-  "tiktok": null,
+  "apple": "1745322818",
   "amazon": null,
-  "urls": [
-    "https://www.youtube.com/@darkmatter0896"
-  ]
+  "youtube": "@darkmatter1996",
+  "tiktok": null,
+  "instagram": null,
+  "urls": []
 }

@@ -9,11 +9,11 @@
     "anonymous",
     "high-output"
   ],
-  "spotify": "https://open.spotify.com/artist/1XP3YN6EDUIJ5r4Z3nXEsH",
-  "apple": "https://music.apple.com/us/artist/1828608209",
-  "youtube": "https://www.youtube.com/channel/UCj8zzPy7R5duGI9232VfJUA",
-  "instagram": "https://www.instagram.com/flowrecords.br",
-  "tiktok": "https://www.tiktok.com/@flowrecords.br",
-  "amazon": "https://music.amazon.com/artists/B018J72YWC",
+  "spotify": "1XP3YN6EDUIJ5r4Z3nXEsH",
+  "apple": "1828608209",
+  "amazon": "B018J72YWC",
+  "youtube": "UCj8zzPy7R5duGI9232VfJUA",
+  "tiktok": "@flowrecords.br",
+  "instagram": "flowrecords.br",
   "urls": []
 }

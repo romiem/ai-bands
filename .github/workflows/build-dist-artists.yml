@@ -1,4 +1,4 @@
-name: Build ai-bands.json file
+name: Build dist
 
 on:
   push:
@@ -7,16 +7,16 @@ on:
     paths:
       - "src/**/*.json"
       - "artist.schema.json"
-      - ".github/scripts/build-ai-bands.js"
-      - ".github/workflows/build-ai-bands.yml"
+      - ".github/scripts/build-dist.js"
+      - ".github/workflows/build-dist.yml"
   pull_request:
     branches:
       - "**"
     paths:
       - "src/**/*.json"
       - "artist.schema.json"
-      - ".github/scripts/build-ai-bands.js"
-      - ".github/workflows/build-ai-bands.yml"
+      - ".github/scripts/build-dist.js"
+      - ".github/workflows/build-dist.yml"
 
 jobs:
   validate_and_build:
@@ -41,14 +41,14 @@ jobs:
         run: node .github/scripts/update-artist-dates.js
 
         # Compile dist file
-      - name: Build ai-bands.json
-        run: node .github/scripts/build-ai-bands.js
+      - name: Build dist/artists.json
+        run: node .github/scripts/build-dist-artists.js
 
         # Only commit if not a pull request
       - name: Commit and push changes
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && success()
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: 'Auto-build: update ai-bands.json'
-          file_pattern: 'src/*.json dist/ai-bands.json'
+          commit_message: 'Auto-build: update dist/artists.json'
+          file_pattern: 'src/*.json dist/artists.json'
           commit_options: '--no-verify' # skips Husky precommit task

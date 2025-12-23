@@ -76,7 +76,7 @@ const getContentToParse = () => {
  * Create unique filename for artist
  */
 const createUniqueFilePath = (artistName) => {
-  const baseName = slugify(artistName);
+  const baseName = slugify(artistName, { decamelize: false });
   let fileName = `${baseName}.json`;
   let filePath = path.join(SRC_DIR, fileName);
 

@@ -8,11 +8,11 @@
     "anonymous",
     "high-output"
   ],
-  "spotify": "https://open.spotify.com/artist/7dPvX0g91DKJw3asUKklZi",
-  "apple": "https://music.apple.com/us/artist/1850552746",
-  "youtube": "https://www.youtube.com/@CrowningFlame",
-  "instagram": "https://www.instagram.com/crowningflameofficial",
-  "tiktok": "https://www.tiktok.com/@crowningflameofficial",
-  "amazon": "https://music.amazon.com/artists/B0G1J44DPF",
+  "spotify": "7dPvX0g91DKJw3asUKklZi",
+  "apple": "1850552746",
+  "amazon": "B0G1J44DPF",
+  "youtube": "@CrowningFlame",
+  "tiktok": "@crowningflameofficial",
+  "instagram": "crowningflameofficial",
   "urls": []
 }

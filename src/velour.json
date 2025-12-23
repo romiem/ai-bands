@@ -7,11 +7,11 @@
   "tags": [
     "anonymous"
   ],
-  "spotify": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7",
-  "apple": "https://music.apple.com/us/artist/1834747001",
-  "youtube": "https://www.youtube.com/@Velour-music",
-  "instagram": "https://www.instagram.com/velour_musique",
-  "tiktok": "https://www.tiktok.com/@velour.music",
-  "amazon": "https://music.amazon.com/artists/B001E6VVT8",
+  "spotify": "2gnFFtzPgBpwBepDNSPZO7",
+  "apple": "1834747001",
+  "amazon": "B001E6VVT8",
+  "youtube": "@Velour-music",
+  "tiktok": "@velour.music",
+  "instagram": "velour_musique",
   "urls": []
 }

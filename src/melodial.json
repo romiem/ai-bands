@@ -8,11 +8,11 @@
     "human-lyrics",
     "high-output"
   ],
-  "spotify": "https://open.spotify.com/artist/77t1xeeYZDBTsfXqTntmwO",
-  "apple": "https://music.apple.com/us/artist/1824826550",
+  "spotify": "77t1xeeYZDBTsfXqTntmwO",
+  "apple": "1824826550",
+  "amazon": "B0FGVHGSXW",
   "youtube": null,
-  "instagram": null,
   "tiktok": null,
-  "amazon": "https://music.amazon.com/artists/B0FGVHGSXW",
+  "instagram": null,
   "urls": []
 }

@@ -8,12 +8,12 @@
     "partial-ai",
     "high-output"
   ],
-  "spotify": "https://open.spotify.com/artist/0EexfNs9ZfQ3lWDmO7Csm7",
-  "apple": "https://music.apple.com/us/artist/1834358222",
-  "youtube": "https://www.youtube.com/@ChristianMusicCreations",
-  "instagram": "https://www.instagram.com/christianmusiccreations",
-  "tiktok": "https://www.tiktok.com/@christianmusiccreations",
-  "amazon": "https://music.amazon.com/artists/B0FMPM85HN",
+  "spotify": "0EexfNs9ZfQ3lWDmO7Csm7",
+  "apple": "1834358222",
+  "amazon": "B0FMPM85HN",
+  "youtube": "@ChristianMusicCreations",
+  "tiktok": "@christianmusiccreations",
+  "instagram": "christianmusiccreations",
   "urls": [
     "https://www.submithub.com/ai-song-checker?id=6f64ae87c2f575e0"
   ]

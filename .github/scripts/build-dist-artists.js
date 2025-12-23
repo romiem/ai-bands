@@ -61,5 +61,5 @@ if (hasErrors) {
 combined.sort((a, b) => a.id.localeCompare(b.id, 'en', { sensitivity: 'base' }));
 
 fs.mkdirSync(DIST_DIR, { recursive: true });
-fs.writeFileSync(path.join(DIST_DIR, 'ai-bands.json'), JSON.stringify(combined, null, 2));
+fs.writeFileSync(path.join(DIST_DIR, 'artists.json'), JSON.stringify(combined, null, 2));
 console.log('✅ All JSON files validated, sorted, and combined successfully.');

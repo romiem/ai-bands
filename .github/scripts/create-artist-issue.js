@@ -1,4 +1,6 @@
 import { Octokit } from '@octokit/rest';
+import fs from 'fs';
+import path from 'path';
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
@@ -8,18 +10,16 @@ const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
 const payload = JSON.parse(process.env.PAYLOAD);
 const data = payload.data;
 
-const issueBody = [
-  `{name}: ${data.name}`,
-  `{comments}: ${data.comments}`,
-  `{tags}: ${data.tags}`,
-  `{spotify}: ${data.spotify}`,
-  `{apple}: ${data.apple}`,
-  `{amazon}: ${data.amazon}`,
-  `{youtube}: ${data.youtube}`,
-  `{instagram}: ${data.instagram}`,
-  `{tiktok}: ${data.tiktok}`,
-  `{urls}: ${data.urls}`,
-].join('\n');
+const schemaPath = path.join(process.cwd(), 'artist.schema.json');
+const schema = JSON.parse(fs.readFileSync(schemaPath, 'utf8'));
+const propertyOrder = Object.keys(schema.properties);
+
+const orderedData = {};
+for (const key of propertyOrder) {
+  orderedData[key] = data[key];
+}
+
+const issueBody = JSON.stringify(orderedData, null, 2);
 
 octokit.issues.create({
   owner,

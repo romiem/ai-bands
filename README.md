@@ -11,7 +11,7 @@
 ## Soul Over AI - list of AI generated artists
 This repo contains a list of artists who are suspected of using AI-generated content in their music.
 It is used to power the website [Soul Over AI](https://souloverai.com).
-If you want to use the raw data, it is available [here](/dist/ai-bands.json).
+If you want to use the raw data, it is available [here](/dist/artists.json).
 
 ## Adding an artist
 To contribute to the list, please fill in the form at https://souloverai.com/add

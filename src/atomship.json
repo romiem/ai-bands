@@ -8,11 +8,11 @@
     "high-output",
     "anonymous"
   ],
-  "spotify": "https://open.spotify.com/artist/4PbKVheWA7ToOxOrqqzjol",
-  "apple": "https://music.apple.com/us/artist/113770149",
-  "youtube": "https://www.youtube.com/channel/UCcoQgTE79sySR4_A8g6-wZA",
-  "instagram": null,
+  "spotify": "4PbKVheWA7ToOxOrqqzjol",
+  "apple": "113770149",
+  "amazon": "B001H5LI9Y",
+  "youtube": "UCcoQgTE79sySR4_A8g6-wZA",
   "tiktok": null,
-  "amazon": "https://music.amazon.com/artists/B001H5LI9Y",
+  "instagram": null,
   "urls": []
 }

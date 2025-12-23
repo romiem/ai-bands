@@ -4,14 +4,14 @@
   "dateAdded": "2025-11-30T20:55:16.000Z",
   "dateUpdated": "2025-12-23T16:52:06.000Z",
   "comments": null,
-  "spotify": "https://open.spotify.com/artist/22eUIsoURgq3GFNo6yAIUD",
-  "apple": "https://music.apple.com/us/artist/1818215591",
-  "youtube": "https://www.youtube.com/@TwistedGameSongs",
-  "instagram": "https://www.instagram.com/twistedgamesongs",
-  "tiktok": "https://www.tiktok.com/@fantasy.songs65",
-  "amazon": "https://music.amazon.com/artists/B0FBR4TZ3P",
+  "tags": [],
+  "spotify": "22eUIsoURgq3GFNo6yAIUD",
+  "apple": "1818215591",
+  "amazon": "B0FBR4TZ3P",
+  "youtube": "@TwistedGameSongs",
+  "tiktok": "@fantasy.songs65",
+  "instagram": "twistedgamesongs",
   "urls": [
     "https://www.reddit.com/r/musicsuggestions/comments/1ol84dk/dd_music/"
-  ],
-  "tags": []
+  ]
 }

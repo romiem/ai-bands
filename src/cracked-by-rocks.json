@@ -8,11 +8,11 @@
     "partial-ai",
     "anonymous"
   ],
-  "spotify": "https://open.spotify.com/artist/0yC7wLSIsi1UqV6RCfriyH",
-  "apple": "https://music.apple.com/us/artist/1819260530",
-  "youtube": "https://www.youtube.com/@CrackedByRocks",
-  "instagram": "https://www.instagram.com/crackedbyrocks",
-  "tiktok": "https://www.tiktok.com/@cracked.by.rocks",
-  "amazon": "https://music.amazon.com/artists/B0F4MSTF3S",
+  "spotify": "0yC7wLSIsi1UqV6RCfriyH",
+  "apple": "1819260530",
+  "amazon": "B0F4MSTF3S",
+  "youtube": "@CrackedByRocks",
+  "tiktok": "@cracked.by.rocks",
+  "instagram": "crackedbyrocks",
   "urls": []
 }

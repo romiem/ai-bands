@@ -57,48 +57,48 @@
         "string",
         "null"
       ],
-      "format": "uri",
-      "description": "Spotify artist URL (use clean link), or null if not available"
+      "pattern": "^[a-zA-Z0-9]{22}$",
+      "description": "Spotify artist ID, or null if not available"
     },
     "apple": {
       "type": [
         "string",
         "null"
       ],
-      "format": "uri",
-      "description": "Apple Music artist URL (prefer US link), or null if not available"
-    },
-    "youtube": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "uri",
-      "description": "YouTube channel URL, or null if not available"
-    },
-    "instagram": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "uri",
-      "description": "Instagram profile URL, or null if not available"
-    },
-    "tiktok": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "uri",
-      "description": "TikTok profile URL, or null if not available"
+      "pattern": "^[0-9]+$",
+      "description": "Apple Music artist ID, or null if not available"
     },
     "amazon": {
       "type": [
         "string",
         "null"
       ],
-      "format": "uri",
-      "description": "Amazon profile URL, or null if not available"
+      "pattern": "^[A-Z0-9]+$",
+      "description": "Amazon profile ID, or null if not available"
+    },
+    "youtube": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^(UC[a-zA-Z0-9_-]{22}|@([a-zA-Z0-9_.-]|%[0-9A-Fa-f]{2})*)$",
+      "description": "YouTube channel handle/ID or null if not available"
+    },
+    "tiktok": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^@[a-z0-9_.]{2,24}$",
+      "description": "TikTok profile handle, or null if not available"
+    },
+    "instagram": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-z0-9_.]{1,30}$",
+      "description": "Instagram profile handle, or null if not available"
     },
     "urls": {
       "type": "array",
@@ -118,10 +118,10 @@
     "tags",
     "spotify",
     "apple",
-    "youtube",
-    "instagram",
-    "tiktok",
     "amazon",
+    "youtube",
+    "tiktok",
+    "instagram",
     "urls"
   ],
   "additionalProperties": false

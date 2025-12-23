@@ -8,11 +8,11 @@
     "ai-visuals",
     "audio-artifacts"
   ],
-  "spotify": "https://open.spotify.com/artist/36WZQ2Iukj5fVI2FLEt1l5",
-  "apple": "https://music.apple.com/us/artist/1848048968",
-  "youtube": "https://www.youtube.com/@caydencruzmusic",
-  "instagram": "https://www.instagram.com/caydencruzmusic",
-  "tiktok": "https://www.tiktok.com/@caydencruzmusic",
-  "amazon": "https://music.amazon.com/artists/B0FXM57PHC",
+  "spotify": "36WZQ2Iukj5fVI2FLEt1l5",
+  "apple": "1848048968",
+  "amazon": "B0FXM57PHC",
+  "youtube": "@caydencruzmusic",
+  "tiktok": "@caydencruzmusic",
+  "instagram": "caydencruzmusic",
   "urls": []
 }

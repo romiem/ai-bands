@@ -8,12 +8,12 @@
     "high-output",
     "anonymous"
   ],
-  "spotify": "https://open.spotify.com/artist/4I6RjWltIwwTHshCRvRzGR",
-  "apple": "https://music.apple.com/us/artist/1773070661",
-  "youtube": "https://www.youtube.com/@me_and_the_robots",
-  "instagram": "https://www.instagram.com/me_and_the_robots",
-  "tiktok": "https://www.tiktok.com/@me_and_the_robots",
-  "amazon": "https://music.amazon.com/artists/B0DJPY1FBK",
+  "spotify": "4I6RjWltIwwTHshCRvRzGR",
+  "apple": "1773070661",
+  "amazon": "B0DJPY1FBK",
+  "youtube": "@me_and_the_robots",
+  "tiktok": "@me_and_the_robots",
+  "instagram": "me_and_the_robots",
   "urls": [
     "https://meandtherobots.com"
   ]

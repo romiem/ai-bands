@@ -9,11 +9,11 @@
     "audio-artifacts",
     "minimal-bio"
   ],
-  "spotify": "https://open.spotify.com/artist/7BKNTwZykUrvFUK5QbeHhg",
-  "apple": "https://music.apple.com/us/artist/1838297243",
-  "youtube": "https://www.youtube.com/@cainwalkermusic",
-  "instagram": "https://www.instagram.com/cainwalkermusic",
-  "tiktok": "https://www.tiktok.com/@thecainwalkerofficial",
-  "amazon": "https://music.amazon.com/artists/B0CX1W1F7G",
+  "spotify": "7BKNTwZykUrvFUK5QbeHhg",
+  "apple": "1838297243",
+  "amazon": "B0CX1W1F7G",
+  "youtube": "@cainwalkermusic",
+  "tiktok": "@thecainwalkerofficial",
+  "instagram": "cainwalkermusic",
   "urls": []
 }

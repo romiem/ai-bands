@@ -8,11 +8,11 @@
     "high-output",
     "human-lyrics"
   ],
-  "spotify": "https://open.spotify.com/artist/4bw38ajepdedya70ivRX35",
-  "apple": "https://music.apple.com/us/artist/1824253486",
-  "youtube": "https://www.youtube.com/@Domsgard",
-  "instagram": "https://www.instagram.com/domsgard.vikings",
-  "tiktok": "https://www.tiktok.com/@domsgard",
-  "amazon": "https://music.amazon.com/artists/B0FGGCPPB2",
+  "spotify": "4bw38ajepdedya70ivRX35",
+  "apple": "1824253486",
+  "amazon": "B0FGGCPPB2",
+  "youtube": "@Domsgard",
+  "tiktok": "@domsgard",
+  "instagram": "domsgard.vikings",
   "urls": []
 }

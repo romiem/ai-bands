@@ -8,11 +8,11 @@
     "partial-ai",
     "human-lyrics"
   ],
-  "spotify": "https://open.spotify.com/artist/5f4bcIL7lMyDutLcj3ifDN",
-  "apple": "https://music.apple.com/us/artist/1835706289",
-  "youtube": "https://www.youtube.com/@TakuTheBard",
-  "instagram": "https://www.instagram.com/takuthebard",
-  "tiktok": "https://www.tiktok.com/@takuthebard",
-  "amazon": "https://music.amazon.com/artists/B0FN2J7NZS/taku-the-bard",
+  "spotify": "5f4bcIL7lMyDutLcj3ifDN",
+  "apple": "1835706289",
+  "amazon": "B0FN2J7NZS",
+  "youtube": "@TakuTheBard",
+  "tiktok": "@takuthebard",
+  "instagram": "takuthebard",
   "urls": []
 }

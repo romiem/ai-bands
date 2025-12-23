@@ -1,5 +1,5 @@
 {
-  "id": "s3-xxx",
+  "id": "s3xxx",
   "name": "S3XXX",
   "dateAdded": "2025-12-23T14:50:52.000Z",
   "dateUpdated": "2025-12-23T16:52:06.000Z",
@@ -9,11 +9,11 @@
     "high-output",
     "no-social-presence"
   ],
-  "spotify": "https://open.spotify.com/artist/3TltgkE47QSasJJFh1CPhX",
-  "apple": "https://music.apple.com/us/artist/1795836044",
+  "spotify": "3TltgkE47QSasJJFh1CPhX",
+  "apple": "1795836044",
+  "amazon": "B0DWWL93FL",
   "youtube": null,
-  "instagram": null,
   "tiktok": null,
-  "amazon": "https://music.amazon.com/artists/B0DWWL93FL",
+  "instagram": null,
   "urls": []
 }

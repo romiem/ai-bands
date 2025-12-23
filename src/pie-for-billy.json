@@ -8,12 +8,12 @@
     "partial-ai",
     "high-output"
   ],
-  "spotify": "https://open.spotify.com/artist/3djeIfXzxwOgWLOkkWzkHj",
-  "apple": "https://music.apple.com/us/artist/1818085990",
-  "youtube": "https://www.youtube.com/@PieForBillyMusic",
-  "instagram": "https://www.instagram.com/pieforbilly",
-  "tiktok": "https://www.tiktok.com/@pieforbilly",
-  "amazon": "https://music.amazon.com/artists/B0FBMKW5SW",
+  "spotify": "3djeIfXzxwOgWLOkkWzkHj",
+  "apple": "1818085990",
+  "amazon": "B0FBMKW5SW",
+  "youtube": "@PieForBillyMusic",
+  "tiktok": "@pieforbilly",
+  "instagram": "pieforbilly",
   "urls": [
     "https://humachinerecords.com"
   ]

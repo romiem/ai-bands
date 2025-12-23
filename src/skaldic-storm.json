@@ -8,12 +8,12 @@
     "high-output",
     "inconsistent-style"
   ],
-  "spotify": "https://open.spotify.com/artist/1KRSRZnFNCtljYNKxAJsD0",
-  "apple": "https://music.apple.com/us/artist/1842849880",
-  "youtube": "https://www.youtube.com/@SkaldicStorm",
-  "instagram": "https://www.instagram.com/skaldicstorm",
-  "tiktok": "https://www.tiktok.com/@skaldicstorm",
-  "amazon": "https://music.amazon.com/artists/B0FRG6D6L7",
+  "spotify": "1KRSRZnFNCtljYNKxAJsD0",
+  "apple": "1842849880",
+  "amazon": "B0FRG6D6L7",
+  "youtube": "@SkaldicStorm",
+  "tiktok": "@skaldicstorm",
+  "instagram": "skaldicstorm",
   "urls": [
     "https://www.skaldicstorm.com"
   ]
