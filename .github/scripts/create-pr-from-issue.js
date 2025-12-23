@@ -8,7 +8,7 @@ import addFormats from 'ajv-formats';
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
 const SCHEMA_PATH = path.join(ROOT_DIR, 'artist.schema.json');
-const ARTISTS_PATH = path.join(ROOT_DIR, 'dist', 'ai-bands.json');
+const ARTISTS_PATH = path.join(ROOT_DIR, 'dist', 'artists.json');
 
 const artistsRaw = fs.readFileSync(ARTISTS_PATH, 'utf8');
 const artists = JSON.parse(artistsRaw);
@@ -69,7 +69,9 @@ const transformAndOrder = (input) => {
 const getContentToParse = () => {
   if (!ISSUE_BODY) throw new Error('No content found in issue body');
   console.log('Using issue body');
-  return ISSUE_BODY;
+  const match = ISSUE_BODY.match(/```json\s*\n([\s\S]*?)\n```/);
+  if (!match) throw new Error('No JSON code block found in issue body');
+  return match[1];
 };
 
 /**
@@ -109,7 +111,7 @@ const main = async () => {
     const content = getContentToParse();
     console.log('Received content:', content, '\n---');
 
-    const artistData = parseKeyValueFormat(content);
+    const artistData = JSON.parse(content);
     if (!artistData.name) {
       throw new Error('Artist name is required');
     }
@@ -128,12 +130,16 @@ const main = async () => {
     artistData.id = fileName.replace(/\.json$/, '');
     artistData.dateAdded = new Date().toISOString();
     artistData.dateUpdated = null;
-    artistData.tags = artistData.tags
-      ? artistData.tags.split(',').map(s => s.trim()).filter(Boolean)
-      : [];
-    artistData.urls = artistData.urls
-      ? artistData.urls.split(',').map(s => s.trim()).filter(Boolean)
-      : [];
+    if (typeof artistData.tags === 'string') {
+      artistData.tags = artistData.tags.split(',').map(s => s.trim()).filter(Boolean);
+    } else if (!Array.isArray(artistData.tags)) {
+      artistData.tags = [];
+    }
+    if (typeof artistData.urls === 'string') {
+      artistData.urls = artistData.urls.split(',').map(s => s.trim()).filter(Boolean);
+    } else if (!Array.isArray(artistData.urls)) {
+      artistData.urls = [];
+    }
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);
