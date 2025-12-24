@@ -26,24 +26,6 @@ const [owner, repo] = REPO?.split('/') || [];
 
 
 /**
- * Parse key-value format: {key}: value
- */
-const parseKeyValueFormat = (text) => {
-  const data = {};
-  const lines = text.split('\n');
-
-  for (const line of lines) {
-    const match = line.match(/^\{([^}]+)\}:\s*(.*)$/);
-    if (match) {
-      const [, key, value] = match;
-      data[key] = value.trim() || null;
-    }
-  }
-
-  return data;
-};
-
-/**
  * Order and transform properties to match schema
  */
 const transformAndOrder = (input) => {
