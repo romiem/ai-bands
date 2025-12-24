@@ -42,7 +42,7 @@ const params = Object.keys(orderedData).map(key => {
   }
   return `${key}=${encodeURIComponent(value)}`;
 }).filter(Boolean).join('&');
-const link = `https://souloverai.com/add?${params}`;
+const link = `[Click here to propose changes](https://souloverai.com/add?${params})`;
 
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
 
