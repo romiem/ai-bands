@@ -23,14 +23,25 @@ for (const key of propertyOrder) {
 orderedData.tags = orderedData.tags && typeof orderedData.tags === 'string' ? orderedData.tags.split(',').map(s => s.trim()) : [];
 orderedData.urls = orderedData.urls && typeof orderedData.urls === 'string' ? orderedData.urls.split(',').map(s => s.trim()) : [];
 
+// Trim strings and set empty to null
+for (const key in orderedData) {
+  if (typeof orderedData[key] === 'string') {
+    const trimmed = orderedData[key].trim();
+    orderedData[key] = trimmed === '' ? null : trimmed;
+  }
+}
+
 // Create link to souloverai.com submission form with prefilled data
 const params = Object.keys(orderedData).map(key => {
   let value = orderedData[key];
   if (Array.isArray(value)) {
+    if (value.length === 0) return null;
     value = value.join(',');
+  } else if (value === null || value === undefined) {
+    return null;
   }
   return `${key}=${encodeURIComponent(value)}`;
-}).join('&');
+}).filter(Boolean).join('&');
 const link = `https://souloverai.com/add?${params}`;
 
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
