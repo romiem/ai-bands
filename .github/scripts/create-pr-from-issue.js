@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-// import { Octokit } from '@octokit/rest';
+import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
@@ -22,7 +22,7 @@ const validate = ajv.compile(schema);
 const { GITHUB_TOKEN, REPO, ISSUE_NUMBER, ISSUE_BODY, COMMENT_ID, GITHUB_OUTPUT } = process.env;
 const [owner, repo] = REPO?.split('/') || [];
 
-// const octokit = new Octokit({ auth: GITHUB_TOKEN });
+const octokit = new Octokit({ auth: GITHUB_TOKEN });
 
 
 /**
@@ -46,14 +46,35 @@ const transformAndOrder = (input) => {
 };
 
 /**
- * Get content to parse from issue body
+ * Extract JSON from a text containing a code block
  */
-const getContentToParse = () => {
-  if (!ISSUE_BODY) throw new Error('No content found in issue body');
-  console.log('Using issue body');
-  const match = ISSUE_BODY.match(/```json\s*\n([\s\S]*?)\n```/);
-  if (!match) throw new Error('No JSON code block found in issue body');
-  return match[1];
+const extractJSON = (text) => {
+  const match = text.match(/```json\s*\n([\s\S]*?)\n```/);
+  return match ? match[1] : null;
+};
+
+/**
+ * Get content to parse from issue body or most recent comment
+ */
+const getContentToParse = async () => {
+  const comments = await octokit.issues.listComments({ owner, repo, issue_number: ISSUE_NUMBER });
+  const sortedComments = comments.data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+
+  for (const comment of sortedComments) {
+    const json = extractJSON(comment.body);
+    if (json) {
+      console.log('Using comment from', comment.created_at);
+      return json;
+    }
+  }
+
+  const json = extractJSON(ISSUE_BODY);
+  if (json) {
+    console.log('Using issue body');
+    return json;
+  }
+
+  throw new Error('No JSON code block found in issue body or comments');
 };
 
 /**
@@ -90,7 +111,7 @@ const setOutput = (key, value) => {
 const main = async () => {
   try {
     // Get and parse content
-    const content = getContentToParse();
+    const content = await getContentToParse();
     console.log('Received content:', content, '\n---');
 
     const artistData = JSON.parse(content);
