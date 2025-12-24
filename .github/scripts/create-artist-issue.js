@@ -68,7 +68,7 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
       repo,
       title: `Artist Submission: ${data.name}`,
       body: issueBody,
-      labels: [data.confidenceScore >= 3 ? 'artist-submission:high' : 'artist-submission:low'],
+      labels: [data.submissionScore >= 3 ? 'artist-submission:high' : 'artist-submission:low'],
     });
   }
 })();
