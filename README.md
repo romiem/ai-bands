@@ -16,14 +16,16 @@ If you want to use the raw data, it is available [here](/dist/artists.json).
 ## Adding an artist
 To contribute to the list, please fill in the form at https://souloverai.com/add
 > [!NOTE]
-> Please provide as much information as possible to help us process your submission efficiently. Submissions with more complete details are typically reviewed sooner. To maintain quality, we may decline submissions that are incomplete or lack sufficient detail.
+> Please provide as much information as possible to help us process your submission efficiently.
+Submissions with more complete details are typically reviewed sooner.
+To maintain quality, we may decline submissions that are incomplete or lack sufficient detail.
+
+## Maintenance and Contribution
+This project collects AI artist data submitted by the community via [souloverai.com](https://souloverai.com).
+Each submission triggers a manual review process before being added to the list.
+While the community provides the raw data, the ongoing curation, validation, and maintenance of the dataset are managed independently.
+If you find this project useful, optional support for the maintenance work is available via [Ko-fi](https://ko-fi.com/souloverai).
 
 ## Disclaimer
 > [!CAUTION]
 This list is crowd-sourced and reflects point-in-time references. Inclusion in this list is based on community submissions and publicly observable signals. Some artists may have since stopped using AI in their work. Listings reflect probabilistic assessments and may change as new information emerges. Get in touch if you are an artist who wants to dispute inclusion in this list.
-
-## Maintenance and Contribution
-This project collects AI artist data submitted by the community via [souloverai.com](https://souloverai.com).
-Each submission triggers a review process: submissions are checked manually before being merged into the repository as JSON files.
-While the community provides the raw data, the ongoing curation, validation, and maintenance of the dataset are managed independently.
-If you find this project useful, optional support for the maintenance work is available via [Ko-fi](https://ko-fi.com/souloverai).
