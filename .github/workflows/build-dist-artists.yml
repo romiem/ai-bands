@@ -17,6 +17,7 @@ on:
       - "artist.schema.json"
       - ".github/scripts/build-dist.js"
       - ".github/workflows/build-dist.yml"
+  workflow_dispatch:
 
 jobs:
   validate_and_build:
