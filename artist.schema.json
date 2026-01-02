@@ -52,6 +52,13 @@
       },
       "uniqueItems": true
     },
+    "genres": {
+      "type": "array",
+      "description": "List of genres associated with the artist",
+      "items": {
+        "type": "string"
+      }
+    },
     "spotify": {
       "type": [
         "string",
@@ -108,6 +115,7 @@
     "dateUpdated",
     "comments",
     "tags",
+    "genres",
     "spotify",
     "apple",
     "amazon",

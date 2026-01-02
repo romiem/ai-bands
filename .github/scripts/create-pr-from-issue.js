@@ -138,6 +138,7 @@ const main = async () => {
     } else if (!Array.isArray(artistData.tags)) {
       artistData.tags = [];
     }
+    artistData.genres = []; // Default to empty array. This gets populated via a daily automated workflow.
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);

@@ -3,13 +3,14 @@
   "name": "ReDia",
   "dateAdded": "2026-01-01T15:20:11.000Z",
   "dateUpdated": "2026-01-02T16:52:28.000Z",
-  "comments": "The Spotify bio describes the project as a “passionate AI artist” and states that the music is entirely AI-generated.",
+  "comments": "The Spotify bio describes the project as a \"passionate AI artist\" and states that the music is entirely AI-generated.",
   "tags": [
     "ai-visuals",
     "high-output",
     "no-social-presence",
     "minimal-bio"
   ],
+  "genres": [],
   "spotify": "4GtMsoKQCRE9ATd1jhTawG",
   "apple": "1837413909",
   "amazon": "B0FPMQ1LGD",
