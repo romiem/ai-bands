@@ -99,14 +99,6 @@
       ],
       "pattern": "^[a-z0-9_.]{1,30}$",
       "description": "Instagram profile handle, or null if not available"
-    },
-    "urls": {
-      "type": "array",
-      "description": "Supporting evidence URLs (e.g., Reddit posts, blog articles, etc.)",
-      "items": {
-        "type": "string",
-        "format": "uri"
-      }
     }
   },
   "required": [
@@ -121,8 +113,7 @@
     "amazon",
     "youtube",
     "tiktok",
-    "instagram",
-    "urls"
+    "instagram"
   ],
   "additionalProperties": false
 }

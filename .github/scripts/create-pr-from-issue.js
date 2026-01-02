@@ -138,11 +138,6 @@ const main = async () => {
     } else if (!Array.isArray(artistData.tags)) {
       artistData.tags = [];
     }
-    if (typeof artistData.urls === 'string') {
-      artistData.urls = artistData.urls.split(',').map(s => s.trim()).filter(Boolean);
-    } else if (!Array.isArray(artistData.urls)) {
-      artistData.urls = [];
-    }
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);
