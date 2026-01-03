@@ -88,7 +88,7 @@
         "string",
         "null"
       ],
-      "pattern": "^(UC[a-zA-Z0-9_-]{22}|@([a-zA-Z0-9_.-]|%[0-9A-Fa-f]{2})*)$",
+      "pattern": "^(UC[a-zA-Z0-9_-]{22}|@[\\p{L}0-9._-]+)$",
       "description": "YouTube channel handle/ID or null if not available"
     },
     "tiktok": {
