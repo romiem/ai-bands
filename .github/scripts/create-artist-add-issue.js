@@ -47,7 +47,7 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
 
 // If an issue with the same artist name exists, add a comment instead of creating a new issue
 (async () => {
-  const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Artist Submission: ${data.name}"`;
+  const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Add Artist: ${data.name}"`;
   const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
   // Add comment
@@ -65,9 +65,9 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
     await octokit.issues.create({
       owner,
       repo,
-      title: `Artist Submission: ${data.name}`,
+      title: `Add Artist: ${data.name}`,
       body: issueBody,
-      labels: [data.submissionScore >= 3 ? 'artist-submission:high' : 'artist-submission:low'],
+      labels: [data.submissionScore >= 3 ? 'add-artist:high' : 'add-artist:low'],
     });
   }
 })();

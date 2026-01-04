@@ -1,4 +1,4 @@
-name: Create Artist Submission Issue
+name: Create Artist Add Issue
 
 on:
   repository_dispatch:
