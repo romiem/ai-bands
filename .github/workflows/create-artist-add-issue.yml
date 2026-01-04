@@ -2,7 +2,7 @@ name: Create Artist Submission Issue
 
 on:
   repository_dispatch:
-    types: [create-artist-issue]
+    types: [create-artist-add-issue]
 
 jobs:
   create-issue:
@@ -15,7 +15,7 @@ jobs:
         run: npm install @octokit/rest
 
       - name: Create Issue
-        run: node .github/scripts/create-artist-issue.js
+        run: node .github/scripts/create-artist-add-issue.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
