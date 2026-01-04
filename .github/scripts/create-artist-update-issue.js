@@ -15,7 +15,7 @@ const issueBody = `\`\`\`json\n${JSON.stringify(data, null, 2)}\n\`\`\``;
   await octokit.issues.create({
     owner,
     repo,
-    title: `Update Artist: ${data.name}`,
+    title: `Update Artist: ${data.artistId}`,
     body: issueBody,
     labels: ['update-artist'],
   });
