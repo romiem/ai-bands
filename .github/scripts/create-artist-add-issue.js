@@ -41,7 +41,7 @@ const params = Object.keys(orderedData).map(key => {
   }
   return `${key}=${encodeURIComponent(value)}`;
 }).filter(Boolean).join('&');
-const link = `[Propose changes](https://souloverai.com/add?${params})`;
+const link = `[Review changes](https://souloverai.com/add?${params})`;
 
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
 

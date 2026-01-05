@@ -60,16 +60,51 @@ for (const field of updateableFields) {
 
 // Only create issue if there are actual changes (more than just artistId)
 if (Object.keys(changedData).length > 1) {
-  const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\``;
+  
+  // Create link to souloverai.com update form with prefilled data
+  const params = Object.keys(changedData)
+    .filter(key => key !== 'artistId') // artistId is in the URL path, not query params
+    .map(key => {
+      let value = changedData[key];
+      if (Array.isArray(value)) {
+        if (value.length === 0) return null;
+        value = value.join(',');
+      } else if (value === null || value === undefined) {
+        return null;
+      }
+      return `${key}=${encodeURIComponent(value)}`;
+    })
+    .filter(Boolean)
+    .join('&');
 
+  const link = `[Review changes](https://souloverai.com/artists/${data.artistId}/update?${params ? params : ''})`
+  const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
+
+  // If an issue with the same artist ID exists, add a comment instead of creating a new issue
   (async () => {
-    await octokit.issues.create({
-      owner,
-      repo,
-      title: `Update Artist: ${data.artistId}`,
-      body: issueBody,
-      labels: ['update-artist'],
-    });
+    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Update Artist: ${data.artistId}"`;
+    const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
+
+    // Add comment
+    if (searchResults.data.items.length > 0) {
+      const existingIssue = searchResults.data.items[0];
+      await octokit.issues.createComment({
+        owner,
+        repo,
+        issue_number: existingIssue.number,
+        body: issueBody,
+      });
+    }
+    // Add new issue
+    else {
+      await octokit.issues.create({
+        owner,
+        repo,
+        title: `Update Artist: ${data.artistId}`,
+        body: issueBody,
+        labels: ['update-artist'],
+      });
+    }
   })();
 } else {
   console.log('No changes detected for artist:', data.artistId);
