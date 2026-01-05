@@ -77,7 +77,7 @@ if (Object.keys(changedData).length > 1) {
     .filter(Boolean)
     .join('&');
 
-  const link = `[Review changes](https://souloverai.com/artists/${data.artistId}/update?${params ? params : ''})`
+  const link = `[Review changes](https://souloverai.com/artist/${data.artistId}/update?${params ? params : ''})`
   const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
 
   // If an issue with the same artist ID exists, add a comment instead of creating a new issue
