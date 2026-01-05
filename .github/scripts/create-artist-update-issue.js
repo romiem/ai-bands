@@ -9,10 +9,10 @@ const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
 const payload = JSON.parse(process.env.PAYLOAD);
 const data = payload.data;
 
-// Load existing artist data from src/[artistId].json
-const existingArtist = JSON.parse(readFileSync(`src/${data.artistId}.json`, 'utf8'));
+// Load existing artist data from src/[id].json
+const existingArtist = JSON.parse(readFileSync(`src/${data.id}.json`, 'utf8'));
 
-// Fields that can be updated (excluding artistId which is mandatory)
+// Fields that can be updated (excluding id which is mandatory)
 const updateableFields = [
   'name',
   'comments',
@@ -26,7 +26,7 @@ const updateableFields = [
 ];
 
 // Compare and collect only changed fields
-const changedData = { artistId: data.artistId };
+const changedData = { id: data.id };
 
 // Fields where empty strings should be converted to null
 const nullableFields = ['comments', 'spotify', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
@@ -58,12 +58,12 @@ for (const field of updateableFields) {
   }
 }
 
-// Only create issue if there are actual changes (more than just artistId)
+// Only create issue if there are actual changes (more than just id)
 if (Object.keys(changedData).length > 1) {
   
   // Create link to souloverai.com update form with prefilled data
   const params = Object.keys(changedData)
-    .filter(key => key !== 'artistId') // artistId is in the URL path, not query params
+    .filter(key => key !== 'id') // id is in the URL path, not query params
     .map(key => {
       let value = changedData[key];
       if (Array.isArray(value)) {
@@ -77,12 +77,12 @@ if (Object.keys(changedData).length > 1) {
     .filter(Boolean)
     .join('&');
 
-  const link = `[Review changes](https://souloverai.com/artist/${data.artistId}/update?${params ? params : ''})`
+  const link = `[Review changes](https://souloverai.com/artist/${data.id}/update?${params ? params : ''})`
   const issueBody = `\`\`\`json\n${JSON.stringify(changedData, null, 2)}\n\`\`\`\n\n${link}`;
 
   // If an issue with the same artist ID exists, add a comment instead of creating a new issue
   (async () => {
-    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Update Artist: ${data.artistId}"`;
+    const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Update Artist: ${data.id}"`;
     const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
     // Add comment
@@ -100,12 +100,12 @@ if (Object.keys(changedData).length > 1) {
       await octokit.issues.create({
         owner,
         repo,
-        title: `Update Artist: ${data.artistId}`,
+        title: `Update Artist: ${data.id}`,
         body: issueBody,
         labels: ['update-artist'],
       });
     }
   })();
 } else {
-  console.log('No changes detected for artist:', data.artistId);
+  console.log('No changes detected for artist:', data.id);
 }

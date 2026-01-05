@@ -10,10 +10,10 @@ const payload = JSON.parse(process.env.PAYLOAD);
 const data = payload.data;
 
 // Load existing artist data to get the name for the issue title
-const existingArtist = JSON.parse(readFileSync(`src/${data.artistId}.json`, 'utf8'));
+const existingArtist = JSON.parse(readFileSync(`src/${data.id}.json`, 'utf8'));
 
 const issueData = {
-  artistId: data.artistId,
+  id: data.id,
   details: data.details || null,
   email: data.email || null,
 };
