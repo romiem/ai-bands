@@ -29,13 +29,18 @@ const updateableFields = [
 const changedData = { artistId: data.artistId };
 
 // Fields where empty strings should be converted to null
-const nullableFields = ['spotify', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
+const nullableFields = ['comments', 'spotify', 'apple', 'amazon', 'youtube', 'tiktok', 'instagram'];
 
 for (const field of updateableFields) {
   if (!(field in data)) continue;
 
   let newValue = data[field];
   const existingValue = existingArtist?.[field];
+
+  // Trim string values to avoid whitespace differences
+  if (typeof newValue === 'string') {
+    newValue = newValue.trim();
+  }
 
   // Convert empty strings to null for nullable fields
   if (nullableFields.includes(field) && newValue === '') {
