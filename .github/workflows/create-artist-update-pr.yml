@@ -1,0 +1,81 @@
+name: Create Artist Update PR
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  create_pr:
+    runs-on: ubuntu-latest
+    # Only run when comment is exactly "/update" and commenter is a repo owner
+    if: github.event.comment.body == '/update' && github.event.comment.author_association == 'OWNER'
+
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Update artist file
+        id: update_file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          COMMENT_ID: ${{ github.event.comment.id }}
+        run: node .github/scripts/create-artist-update-pr.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'Update ${{ steps.update_file.outputs.artist_id }}'
+          branch: ${{ steps.update_file.outputs.branch_name }}
+          create_branch: true
+          file_pattern: 'src/*.json'
+          commit_options: '--no-verify'
+          push_options: '--force' # in case of branch name already exists
+
+      - name: Create PR
+        uses: actions/github-script@v7
+        env:
+          ARTIST_ID: ${{ steps.update_file.outputs.artist_id }}
+          BRANCH_NAME: ${{ steps.update_file.outputs.branch_name }}
+        with:
+          script: |
+            const artistId = process.env.ARTIST_ID;
+            const branchName = process.env.BRANCH_NAME;
+            const issueNumber = context.issue.number;
+
+            // Create the PR
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Update ${artistId}`,
+              head: branchName,
+              base: 'main',
+              body: `This PR updates ${artistId}.json.\n\nCreated from issue #${issueNumber}`
+            });
+
+            console.log(`PR created: ${pr.html_url}`);
+
+            // Add a comment to the issue
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: `✅ PR created: ${pr.html_url}`
+            });
