@@ -2,14 +2,19 @@
   "id": "the-velvet-sundown",
   "name": "The Velvet Sundown",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": "2026-01-05T17:13:50.000Z",
+  "dateUpdated": "2026-01-05T17:40:41.950Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "ai-visuals",
+    "anonymous",
+    "minimal-bio",
+    "high-output"
+  ],
   "genres": [],
   "spotify": "2GRtyAXWUiisGYub5SGMrb",
   "apple": "1818856947",
-  "amazon": null,
-  "youtube": null,
-  "tiktok": null,
-  "instagram": null
+  "amazon": "B0FC52FZSM",
+  "youtube": "UCLeR-eGh2OFy9ydX7IUcOTw",
+  "tiktok": "@thevelvetsundown",
+  "instagram": "thevelvetsundownband"
 }
