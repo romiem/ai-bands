@@ -2,14 +2,18 @@
   "id": "sunday-night-low",
   "name": "Sunday Night Low",
   "dateAdded": "2025-11-24T23:56:10.000Z",
-  "dateUpdated": "2026-01-05T16:15:18.000Z",
+  "dateUpdated": "2026-01-05T17:32:57.016Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "anonymous",
+    "no-social-presence",
+    "minimal-bio"
+  ],
   "genres": [],
   "spotify": "3E8vJy6ND5emzVHCGlyHp4",
   "apple": "1820770757",
-  "amazon": null,
-  "youtube": null,
-  "tiktok": null,
-  "instagram": null
+  "amazon": "B0FD917T31",
+  "youtube": "@sundaynightlow",
+  "tiktok": "@sunday.night.low",
+  "instagram": "sunday.night.low"
 }
