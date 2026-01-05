@@ -1,4 +1,4 @@
-name: Create PR from Issue Comment
+name: Create Artist Add PR
 
 on:
   issue_comment:
@@ -7,8 +7,8 @@ on:
 jobs:
   create_pr:
     runs-on: ubuntu-latest
-    # Only run when comment is exactly "/create-pr" and commenter is a repo owner
-    if: github.event.comment.body == '/create-pr' && github.event.comment.author_association == 'OWNER'
+    # Only run when comment is exactly "/add" and commenter is a repo owner
+    if: github.event.comment.body == '/add' && github.event.comment.author_association == 'OWNER'
 
     permissions:
       contents: write
@@ -37,7 +37,7 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_BODY: ${{ github.event.issue.body }}
           COMMENT_ID: ${{ github.event.comment.id }}
-        run: node .github/scripts/create-pr-from-issue.js
+        run: node .github/scripts/create-artist-add-pr.js
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v7
