@@ -1,14 +1,11 @@
 name: Create Artist Add PR
 
 on:
-  issue_comment:
-    types: [created]
+  workflow_call:
 
 jobs:
   create_pr:
     runs-on: ubuntu-latest
-    # Only run when comment is exactly "/add", commenter is a repo owner)
-    if: github.event.comment.body == '/add' && github.event.comment.author_association == 'OWNER'
 
     permissions:
       contents: write
@@ -54,12 +51,13 @@ jobs:
         env:
           ARTIST_NAME: ${{ steps.create_file.outputs.artist_name }}
           BRANCH_NAME: ${{ steps.create_file.outputs.branch_name }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
         with:
           script: |
             const artistName = process.env.ARTIST_NAME;
             const branchName = process.env.BRANCH_NAME;
-            const issueNumber = context.issue.number;
-            
+            const issueNumber = process.env.ISSUE_NUMBER;
+
             // Create the PR
             const { data: pr } = await github.rest.pulls.create({
               owner: context.repo.owner,
@@ -69,9 +67,9 @@ jobs:
               base: 'main',
               body: `This PR adds the artist **${artistName}**.\n\nCreated from issue #${issueNumber}`
             });
-            
+
             console.log(`PR created: ${pr.html_url}`);
-            
+
             // Add a comment to the issue
             await github.rest.issues.createComment({
               owner: context.repo.owner,

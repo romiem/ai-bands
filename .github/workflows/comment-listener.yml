@@ -1,0 +1,14 @@
+name: Comment Listener
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  add_artist:
+    if: github.event.comment.body == '/add' && github.event.comment.author_association == 'OWNER'
+    uses: ./.github/workflows/create-artist-add-pr.yml
+
+  update_artist:
+    if: github.event.comment.body == '/update' && github.event.comment.author_association == 'OWNER'
+    uses: ./.github/workflows/create-artist-update-pr.yml
