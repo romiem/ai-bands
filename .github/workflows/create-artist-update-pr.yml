@@ -7,8 +7,8 @@ on:
 jobs:
   create_pr:
     runs-on: ubuntu-latest
-    # Only run when comment is exactly "/update" and commenter is a repo owner
-    if: github.event.comment.body == '/update' && github.event.comment.author_association == 'OWNER'
+    # Only run when comment is exactly "/update", commenter is a repo owner, and it's an issue (not a PR)
+    if: github.event.comment.body == '/update' && github.event.comment.author_association == 'OWNER' && !github.event.issue.pull_request
 
     permissions:
       contents: write
