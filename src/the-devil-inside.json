@@ -2,14 +2,19 @@
   "id": "the-devil-inside",
   "name": "The Devil Inside",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": "2026-01-05T21:06:47.000Z",
+  "dateUpdated": "2026-01-05T21:51:41.313Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "ai-visuals",
+    "minimal-bio",
+    "anonymous",
+    "high-output"
+  ],
   "genres": [],
   "spotify": "7p9c2UBqYagnd5aoNEeupC",
   "apple": "998806021",
-  "amazon": null,
-  "youtube": null,
+  "amazon": "B0C7Q5X9MP",
+  "youtube": "@TheDevilInside_music",
   "tiktok": null,
-  "instagram": null
+  "instagram": "the._.devil._.inside"
 }
