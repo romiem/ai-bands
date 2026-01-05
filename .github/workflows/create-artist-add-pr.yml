@@ -4,11 +4,6 @@ on:
   issue_comment:
     types: [created]
 
-# Prevent duplicate runs on the same issue
-concurrency:
-  group: add-pr-${{ github.event.issue.number }}
-  cancel-in-progress: true
-
 jobs:
   create_pr:
     runs-on: ubuntu-latest
