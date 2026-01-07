@@ -144,47 +144,49 @@ const main = async () => {
     let genres = [];
     let shScore = null;
 
-    // try {
-    //   const spotify = await createSpotifyClient({
-    //     clientId: process.env.SPOTIFY_CLIENT_ID,
-    //     clientSecret: process.env.SPOTIFY_CLIENT_SECRET
-    //   });
-
-    //   const artist = await spotify.getArtist(spotifyId);
-    //   genres = artist.genres || [];
-
+    // if (artistData.spotify) {
     //   try {
-    //     const submithub = createSubmitHubClient({ apiKey: process.env.SUBMITHUB_API_KEY });
-    //     const topTracksResponse = await spotify.getArtistTopTracks(spotifyId);
-    //     const tracks = topTracksResponse.tracks || [];
+    //     const spotify = await createSpotifyClient({
+    //       clientId: process.env.SPOTIFY_CLIENT_ID,
+    //       clientSecret: process.env.SPOTIFY_CLIENT_SECRET
+    //     });
 
-    //     const recentTracks = tracks
-    //       .sort((a, b) => new Date(b.album.release_date) - new Date(a.album.release_date))
-    //       .slice(0, 3);
+    //     const artist = await spotify.getArtist(artistData.spotify);
+    //     genres = artist.genres || [];
 
-    //     if (recentTracks.length > 0) {
-    //       const scores = [];
+    //     try {
+    //       const submithub = createSubmitHubClient({ apiKey: process.env.SUBMITHUB_API_KEY });
+    //       const topTracksResponse = await spotify.getArtistTopTracks(artistData.spotify);
+    //       const tracks = topTracksResponse.tracks || [];
 
-    //       for (const track of recentTracks) {
-    //         try {
-    //           const result = await submithub.detectTrack(track.id);
-    //           scores.push(result.result.probability_ai_generated);
-    //         } catch {
-    //           // Skip tracks that fail detection
+    //       const recentTracks = tracks
+    //         .sort((a, b) => new Date(b.album.release_date) - new Date(a.album.release_date))
+    //         .slice(0, 3);
+
+    //       if (recentTracks.length > 0) {
+    //         const scores = [];
+
+    //         for (const track of recentTracks) {
+    //           try {
+    //             const result = await submithub.detectTrack(track.id);
+    //             scores.push(result.result.probability_ai_generated);
+    //           } catch {
+    //             // Skip tracks that fail detection
+    //           }
+    //         }
+
+    //         if (scores.length > 0) {
+    //           const average = scores.reduce((a, b) => a + b, 0) / scores.length;
+    //           shScore = Math.round(average * 100) / 100;
     //         }
     //       }
-
-    //       if (scores.length > 0) {
-    //         const average = scores.reduce((a, b) => a + b, 0) / scores.length;
-    //         shScore = Math.round(average * 100) / 100;
-    //       }
+    //     } catch (error) {
+    //       console.log(`Failed to fetch shScore: ${error.message}`);
     //     }
-    //   } catch (error) {
-    //     console.log(`Failed to fetch shScore: ${error.message}`);
-    //   }
 
-    // } catch (error) {
-    //   console.log(`Failed to fetch Spotify data: ${error.message}`);
+    //   } catch (error) {
+    //     console.log(`Failed to fetch Spotify data: ${error.message}`);
+    //   }
     // }
 
     artistData.genres = genres;
