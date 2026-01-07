@@ -1758,6 +1758,26 @@
     "instagram": "caydencruzmusic"
   },
   {
+    "id": "celestial-aeon-project",
+    "name": "Celestial Aeon Project",
+    "dateAdded": "2026-01-07T14:42:29.221Z",
+    "dateUpdated": null,
+    "comments": "Artist has high output volume of individual tracks, uses AI visuals for their album art, and has openly come out in support of using AI. While their history suggests they aren't exclusively using AI, it's reasonable to assume they are using it in their creation process at this point.",
+    "tags": [
+      "ai-visuals",
+      "partial-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3erL8NEQbmmOXhO6yyVWxO",
+    "apple": "421358076",
+    "amazon": "B004OHX6B0",
+    "youtube": "@celestialaeonproject",
+    "tiktok": "@celestialaeonproject",
+    "instagram": "celestial_aeon_project"
+  },
+  {
     "id": "celestial-apexion",
     "name": "Celestial Apexion",
     "dateAdded": "2026-01-03T13:52:27.000Z",
