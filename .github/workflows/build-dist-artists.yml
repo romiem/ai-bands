@@ -37,10 +37,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-        # Update dates
-      - name: Update artist dates
-        run: node .github/scripts/update-artist-dates.js
-
         # Compile dist file
       - name: Build dist/artists.json
         run: node .github/scripts/build-dist-artists.js
