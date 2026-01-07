@@ -72,7 +72,7 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
     //       clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
     //     });
     //     const artist = await spotify.getArtist(data.spotify);
-    //     isHighPriority = artist.followers.total >= 5000 || artist.popularity >= 50;
+    //     isHighPriority = artist.followers.total >= 5000 || artist.popularity >= 35;
     //   } catch (err) {
     //     console.warn('Failed to fetch Spotify data, defaulting to low priority:', err.message);
     //   }
