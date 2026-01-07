@@ -2123,6 +2123,27 @@
     "instagram": null
   },
   {
+    "id": "collective-mind",
+    "name": "Collective Mind",
+    "dateAdded": "2026-01-07T23:52:06.945Z",
+    "dateUpdated": null,
+    "comments": "AI-looking images and videos, no information about who is behind the project, and an unusually large number of recent releases.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3nHlKmB3NO4RKVH8TnX4fV",
+    "apple": "1849546155",
+    "amazon": "B0G3SSKTV6",
+    "youtube": "@collectivemind33",
+    "tiktok": "@collectivemind33",
+    "instagram": null
+  },
+  {
     "id": "convex",
     "name": "ConVex",
     "dateAdded": "2025-12-08T11:18:18.000Z",
@@ -8989,6 +9010,26 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "sail-north",
+    "name": "Sail North",
+    "dateAdded": "2026-01-07T23:52:25.295Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0Gtv3Wi6jj0lW1Po5QbIGS",
+    "apple": "1705295862",
+    "amazon": "B0CH24YDPF",
+    "youtube": "@sailnorthmusic",
+    "tiktok": "@sailnorthmusic",
+    "instagram": "sailnorthmusic"
   },
   {
     "id": "sailor-exe",
