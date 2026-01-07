@@ -715,6 +715,28 @@
     "instagram": "appalachiananarchy"
   },
   {
+    "id": "appalachian-white-lightning",
+    "name": "Appalachian White Lightning",
+    "dateAdded": "2026-01-07T23:42:17.314Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "36S8Go7W9bT8cBwr3QFvKv",
+    "apple": "1742479671",
+    "amazon": "B0D2CLFVTD",
+    "youtube": "@AppalachianWhiteLightning",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "apukat",
     "name": "Apukat",
     "dateAdded": "2025-12-09T22:35:10.000Z",
@@ -1876,6 +1898,27 @@
     "youtube": "@celestialtunes1",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "celestial-voices",
+    "name": "Celestial Voices",
+    "dateAdded": "2026-01-07T23:43:41.694Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4X9DN6NniJAB2vrxYWPeja",
+    "apple": "1832560555",
+    "amazon": "B0CFZLW3SC",
+    "youtube": "@celestialvoicesmusic",
+    "tiktok": "@celestialvoices.music",
+    "instagram": "celestialvoicesmusic"
   },
   {
     "id": "chalulumusic",
