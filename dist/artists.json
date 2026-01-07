@@ -143,6 +143,27 @@
     "instagram": "88.ds.hoursofchill"
   },
   {
+    "id": "9-runes",
+    "name": "9 Runes",
+    "dateAdded": "2026-01-07T23:04:28.552Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "73V7cws8Pvs6aCX6Ae3lOw",
+    "apple": "1848579516",
+    "amazon": "B0FXSXSG5J",
+    "youtube": "@9-Runes",
+    "tiktok": "@9.runes",
+    "instagram": null
+  },
+  {
     "id": "a-shrine-to-failure",
     "name": "A Shrine to Failure",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -1229,6 +1250,25 @@
     "youtube": "@bardstrike",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "bella-international",
+    "name": "Bella International",
+    "dateAdded": "2026-01-07T22:53:35.079Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "inconsistent-style",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "59XLtiLsOtBF23w29CKlRX",
+    "apple": "1781737216",
+    "amazon": "B0DP1M4V9N",
+    "youtube": "@Bella.International",
+    "tiktok": "@bellainter",
+    "instagram": "bellainternationalltd"
   },
   {
     "id": "beneath-our-ashes",
@@ -3237,6 +3277,26 @@
     "youtube": "@eldrheim",
     "tiktok": "@eldrheim1",
     "instagram": "eldr.heim"
+  },
+  {
+    "id": "electrojazz-machine",
+    "name": "ElectroJazz Machine",
+    "dateAdded": "2026-01-07T22:55:42.824Z",
+    "dateUpdated": null,
+    "comments": "YouTube bio acknowledges the music is AI-generated.",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "77HGNkvbJ6TUEzNknURNWx",
+    "apple": null,
+    "amazon": "B0DHYZYSYB",
+    "youtube": "@ElectroJazz-Machine",
+    "tiktok": "@tk_electrojazz_machine",
+    "instagram": null
   },
   {
     "id": "eli",
@@ -7027,6 +7087,25 @@
     "youtube": "@MysticRiffsAI",
     "tiktok": null,
     "instagram": "mysticriffsband"
+  },
+  {
+    "id": "mystik-irieen",
+    "name": "Mystik Irieen",
+    "dateAdded": "2026-01-07T23:00:32.978Z",
+    "dateUpdated": null,
+    "comments": "There is little to no engagement on social media: comments are disabled, no accounts are followed, and posts feel generic and impersonal, lacking any clear human voice or interaction.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4CtJGNm1c60TqM1mtRZLFW",
+    "apple": "1845061073",
+    "amazon": "B0FVG4T11V",
+    "youtube": "UC3lHxFJ5WRpNpmE8RGuOL1g",
+    "tiktok": "@mystikirieen",
+    "instagram": "mystikirieen"
   },
   {
     "id": "mythborne",
@@ -10892,6 +10971,27 @@
     "youtube": "@unboundmusictm",
     "tiktok": "@unboundmusictm",
     "instagram": null
+  },
+  {
+    "id": "uncle-sams-blues",
+    "name": "Uncle Sams Blues",
+    "dateAdded": "2026-01-07T22:58:02.142Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "human-lyrics",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "72ZoI2OBAiylPRNoyPSf5t",
+    "apple": "1837247170",
+    "amazon": "B0FP9MDS3P",
+    "youtube": "@UncleSamsBlues",
+    "tiktok": null,
+    "instagram": "unclesamsblues"
   },
   {
     "id": "underworld-vibes",
