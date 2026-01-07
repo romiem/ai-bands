@@ -4,6 +4,8 @@ import { Octokit } from '@octokit/rest';
 import slugify from '@sindresorhus/slugify';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
+// import { createSpotifyClient } from './spotify.js';
+// import { createSubmitHubClient } from './submithub.js';
 
 const ROOT_DIR = process.cwd();
 const SRC_DIR = path.join(ROOT_DIR, 'src');
@@ -138,7 +140,55 @@ const main = async () => {
     } else if (!Array.isArray(artistData.tags)) {
       artistData.tags = [];
     }
-    artistData.genres = []; // Default to empty array. This gets populated via a daily automated workflow.
+
+    let genres = [];
+    let shScore = null;
+
+    // try {
+    //   const spotify = await createSpotifyClient({
+    //     clientId: process.env.SPOTIFY_CLIENT_ID,
+    //     clientSecret: process.env.SPOTIFY_CLIENT_SECRET
+    //   });
+
+    //   const artist = await spotify.getArtist(spotifyId);
+    //   genres = artist.genres || [];
+
+    //   try {
+    //     const submithub = createSubmitHubClient({ apiKey: process.env.SUBMITHUB_API_KEY });
+    //     const topTracksResponse = await spotify.getArtistTopTracks(spotifyId);
+    //     const tracks = topTracksResponse.tracks || [];
+
+    //     const recentTracks = tracks
+    //       .sort((a, b) => new Date(b.album.release_date) - new Date(a.album.release_date))
+    //       .slice(0, 3);
+
+    //     if (recentTracks.length > 0) {
+    //       const scores = [];
+
+    //       for (const track of recentTracks) {
+    //         try {
+    //           const result = await submithub.detectTrack(track.id);
+    //           scores.push(result.result.probability_ai_generated);
+    //         } catch {
+    //           // Skip tracks that fail detection
+    //         }
+    //       }
+
+    //       if (scores.length > 0) {
+    //         const average = scores.reduce((a, b) => a + b, 0) / scores.length;
+    //         shScore = Math.round(average * 100) / 100;
+    //       }
+    //     }
+    //   } catch (error) {
+    //     console.log(`Failed to fetch shScore: ${error.message}`);
+    //   }
+
+    // } catch (error) {
+    //   console.log(`Failed to fetch Spotify data: ${error.message}`);
+    // }
+
+    artistData.genres = genres;
+    artistData.shScore = shScore;
 
     if (!validate(artistData)) {
       console.error('Validation errors:', validate.errors);

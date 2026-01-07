@@ -59,6 +59,15 @@
         "type": "string"
       }
     },
+    "shScore": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "SubmitHub's AI probability score (averaged across an artists 3 most recent popular tracks on Spotify)"
+    },
     "spotify": {
       "type": [
         "string",
@@ -116,6 +125,7 @@
     "comments",
     "tags",
     "genres",
+    "shScore",
     "spotify",
     "apple",
     "amazon",
