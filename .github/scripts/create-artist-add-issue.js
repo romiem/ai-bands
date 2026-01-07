@@ -1,6 +1,7 @@
 import { Octokit } from '@octokit/rest';
 import fs from 'fs';
 import path from 'path';
+// import { createSpotifyClient } from './spotify.js';
 
 const octokit = new Octokit({
   auth: process.env.GITHUB_TOKEN,
@@ -62,12 +63,28 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
   }
   // Add new issue
   else {
+    // Determine priority based on Spotify followers/popularity
+    // let isHighPriority = false;
+    // if (data.spotify) {
+    //   try {
+    //     const spotify = await createSpotifyClient({
+    //       clientId: process.env.SPOTIFY_CLIENT_ID,
+    //       clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+    //     });
+    //     const artist = await spotify.getArtist(data.spotify);
+    //     isHighPriority = artist.followers.total >= 5000 || artist.popularity >= 50;
+    //   } catch (err) {
+    //     console.warn('Failed to fetch Spotify data, defaulting to low priority:', err.message);
+    //   }
+    // }
+    const isHighPriority = data.submissionScore >= 3;
+
     await octokit.issues.create({
       owner,
       repo,
       title: `Add Artist: ${data.name}`,
       body: issueBody,
-      labels: [data.submissionScore >= 3 ? 'add-artist:high' : 'add-artist:low'],
+      labels: [isHighPriority ? 'add-artist:high' : 'add-artist:low'],
     });
   }
 })();
