@@ -61,10 +61,11 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
       body: issueBody,
     });
   }
+
   // Add new issue
   else {
-    // Determine priority based on Spotify followers/popularity
-    // let isHighPriority = false;
+    // Determine label based on Spotify followers/popularity
+    // let label = 'add-artist:low';
     // if (data.spotify) {
     //   try {
     //     const spotify = await createSpotifyClient({
@@ -72,19 +73,26 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
     //       clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
     //     });
     //     const artist = await spotify.getArtist(data.spotify);
-    //     isHighPriority = artist.followers.total >= 5000 || artist.popularity >= 35;
+    //     const followers = artist.followers.total;
+    //     const popularity = artist.popularity;
+
+    //     if (followers >= 5000 || popularity >= 40) {
+    //       label = 'add-artist:high';
+    //     } else if (followers <= 200 && popularity < 15) {
+    //       label = 'add-artist:trash';
+    //     }
     //   } catch (err) {
     //     console.warn('Failed to fetch Spotify data, defaulting to low priority:', err.message);
     //   }
     // }
-    const isHighPriority = data.submissionScore >= 3;
+    const label = data.submissionScore >= 3 ? 'add-artist:high' : 'add-artist:low';
 
     await octokit.issues.create({
       owner,
       repo,
       title: `Add Artist: ${data.name}`,
       body: issueBody,
-      labels: [isHighPriority ? 'add-artist:high' : 'add-artist:low'],
+      labels: [label],
     });
   }
 })();
