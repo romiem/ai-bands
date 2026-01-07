@@ -2,15 +2,21 @@
   "id": "action-cop",
   "name": "Action Cop",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "comments": null,
-  "tags": [],
+  "dateUpdated": "2026-01-07T14:36:01.919Z",
+  "comments": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
+  "tags": [
+    "ai-visuals",
+    "audio-artifacts",
+    "inconsistent-style",
+    "anonymous",
+    "no-social-presence"
+  ],
   "genres": [],
   "shScore": null,
   "spotify": "1Z68j75hNrsmmwuwOX2aRy",
   "apple": "1740988169",
-  "amazon": null,
-  "youtube": null,
-  "tiktok": null,
-  "instagram": null
+  "amazon": "B0D1LRGW3X",
+  "youtube": "@action-cop",
+  "tiktok": "@action_cop",
+  "instagram": "actioncop"
 }
