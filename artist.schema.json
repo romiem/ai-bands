@@ -47,7 +47,8 @@
           "inconsistent-style",
           "minimal-bio",
           "no-social-presence",
-          "partial-ai"
+          "partial-ai",
+          "self-disclosed-ai"
         ]
       },
       "uniqueItems": true
