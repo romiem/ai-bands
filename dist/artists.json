@@ -4132,6 +4132,26 @@
     "instagram": "siryeti_"
   },
   {
+    "id": "fruto-celestial",
+    "name": "Fruto Celestial",
+    "dateAdded": "2026-01-08T15:49:40.130Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3ICnetbwpYpeXu4x6Cfd3g",
+    "apple": "1778120378",
+    "amazon": "B0DM45TZB1",
+    "youtube": "@frutocelestial",
+    "tiktok": "@frutocelestial",
+    "instagram": "frutocelestial"
+  },
+  {
     "id": "full-metal-patriot",
     "name": "Full Metal Patriot",
     "dateAdded": "2025-12-09T21:57:45.000Z",
@@ -8043,6 +8063,27 @@
     "instagram": "_pjayem_"
   },
   {
+    "id": "pasxkal",
+    "name": "PASXKAL",
+    "dateAdded": "2026-01-08T15:50:58.963Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "no-social-presence",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "6iLOMTcm0XzgfJ6GeV1D2S",
+    "apple": "1829770273",
+    "amazon": "B0FLWN6LY2",
+    "youtube": "UC__wmg94KkMs1tXF9gYroIg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "pavament-hymns",
     "name": "Pavament Hymns",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -10109,6 +10150,26 @@
     "instagram": null
   },
   {
+    "id": "spookydoo",
+    "name": "SpookyDoo",
+    "dateAdded": "2026-01-08T15:54:14.182Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "267DKqpbxjxylBefdLHCEL",
+    "apple": "1834640790",
+    "amazon": "B0FN881LMG",
+    "youtube": "UCsaXIWNCifveZFJvDia6Mbg",
+    "tiktok": "@spookydoomusic",
+    "instagram": "spookydoo_music"
+  },
+  {
     "id": "static-violence",
     "name": "Static Violence",
     "dateAdded": "2026-01-07T23:47:50.693Z",
@@ -11404,6 +11465,28 @@
     "instagram": "vargvegr_music"
   },
   {
+    "id": "vealdron",
+    "name": "Vealdron",
+    "dateAdded": "2026-01-08T15:55:52.243Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0ErjzBZA5VKp8uZvQYj2WY",
+    "apple": "1843476925",
+    "amazon": "B0FFD8DM2N",
+    "youtube": "UCCpK3JceSV8V-Dn12ifrBbQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "veil-and-verse",
     "name": "Veil & Verse",
     "dateAdded": "2026-01-01T15:16:04.000Z",
@@ -11840,6 +11923,27 @@
     "youtube": "UCxYaMTWPwPGfRJ2XFIfYx7w",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "woywoyboy",
+    "name": "WoyWoyBoy",
+    "dateAdded": "2026-01-08T15:58:22.315Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0FzX1vNyDhtncPq8NNK1Li",
+    "apple": "1747607694",
+    "amazon": "B0D47PKBC7",
+    "youtube": "@woywoyboy",
+    "tiktok": "@woywoyboy",
+    "instagram": "woywoyboy_music"
   },
   {
     "id": "wren-and-the-daughters-of-the-bear",
