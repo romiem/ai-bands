@@ -1912,6 +1912,27 @@
     "instagram": "cainwalkermusic"
   },
   {
+    "id": "caleb-raines",
+    "name": "Caleb Raines",
+    "dateAdded": "2026-01-09T16:03:37.192Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3qTrtgdP0sX0hbm29L2A3I",
+    "apple": "1849097653",
+    "amazon": "B0CPCG8G1P",
+    "youtube": "@Caleb_Raines",
+    "tiktok": "@calebraines_music",
+    "instagram": null
+  },
+  {
     "id": "call-me-christian",
     "name": "Call Me Christian",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -5152,6 +5173,25 @@
     "youtube": "UC9Xn6S_aBtyp-V6nneqac6w",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "hexmouth",
+    "name": "HexMouth",
+    "dateAdded": "2026-01-09T16:02:09.329Z",
+    "dateUpdated": null,
+    "comments": "Lyrics and album artwork appear to be AI-recycled from the artist Hexa Moon. Hexa Moon has reportedly taken action to remove HexMouth over copyright issues and false impersonation.",
+    "tags": [
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "5NnThRZYK6T1skge9P5Zm9",
+    "apple": "1813287510",
+    "amazon": "B0F83C7Y1J",
+    "youtube": "@hexmouth",
+    "tiktok": null,
+    "instagram": "hexmouth_"
   },
   {
     "id": "hexxenmind",
@@ -9016,6 +9056,27 @@
     "instagram": null
   },
   {
+    "id": "ravenheart",
+    "name": "RavenHeart",
+    "dateAdded": "2026-01-09T16:07:03.801Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4BELZhMjQmouCeRsOSfEl2",
+    "apple": "1835338302",
+    "amazon": "B001HIDRLI",
+    "youtube": "@RavenHeartNZ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ravenshroud",
     "name": "Ravenshroud",
     "dateAdded": "2025-11-26T09:39:36.000Z",
@@ -10452,6 +10513,27 @@
     "youtube": "@thisissolpulse",
     "tiktok": "@solpulse",
     "instagram": "thisissolpulse"
+  },
+  {
+    "id": "son-of-the-dead-sun",
+    "name": "Son of the Dead Sun",
+    "dateAdded": "2026-01-09T16:05:19.479Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4G98NlkANp6G8xA7YekcfT",
+    "apple": "1828462323",
+    "amazon": "B0FJQV93XW",
+    "youtube": "@sonofthedeadsun-ai",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "sonara",
