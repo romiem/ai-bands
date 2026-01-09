@@ -4928,6 +4928,27 @@
     "instagram": null
   },
   {
+    "id": "greywolve",
+    "name": "GreyWolve",
+    "dateAdded": "2026-01-09T18:21:17.913Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0eVUqBxs1Xz6fj2NhhonfQ",
+    "apple": "1846974026",
+    "amazon": "B0FWDQMGRF",
+    "youtube": "@GreyWolve",
+    "tiktok": "@greywolvetx",
+    "instagram": "greywolveband"
+  },
+  {
     "id": "grid-theory",
     "name": "Grid Theory",
     "dateAdded": "2025-12-10T10:48:50.000Z",
@@ -10098,6 +10119,28 @@
     "instagram": null
   },
   {
+    "id": "shonjii",
+    "name": "SHONjii",
+    "dateAdded": "2026-01-09T18:12:12.006Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "7uZP933HoAPmp5vYsuK6d1",
+    "apple": "1851875279",
+    "amazon": "B0GDXZ9FGD",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "shune",
     "name": "SHUNÉ",
     "dateAdded": "2026-01-03T09:41:26.000Z",
@@ -10402,6 +10445,27 @@
     "apple": "1838732222",
     "amazon": "B0FBLX5W9B",
     "youtube": "UCGN-FnTnuisFbCEDWVfi9zQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "soiya",
+    "name": "Soiya",
+    "dateAdded": "2026-01-09T18:13:56.921Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "5rZZPvK0j63mkkXkZVcxDR",
+    "apple": null,
+    "amazon": "B086VJKWVH",
+    "youtube": "UCvcAB3anQ5JDoK-T-hBswhA",
     "tiktok": null,
     "instagram": null
   },
@@ -11045,6 +11109,27 @@
     "youtube": "UCPpsPchGZaGzhavVS-DzrCw",
     "tiktok": null,
     "instagram": "sibi42_"
+  },
+  {
+    "id": "synthwave-siren",
+    "name": "Synthwave Siren",
+    "dateAdded": "2026-01-09T18:17:31.195Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "inconsistent-style"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "60OoJBw3MDZs9insxzR97E",
+    "apple": "1689578122",
+    "amazon": "B0C6B2YZ6V",
+    "youtube": "@SynthwaveSiren",
+    "tiktok": "@synthwave.siren",
+    "instagram": "synthwave.siren"
   },
   {
     "id": "take-your-time",
