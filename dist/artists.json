@@ -12786,13 +12786,15 @@
     "id": "whitefire",
     "name": "WHITEFIRE",
     "dateAdded": "2026-01-07T14:40:05.752Z",
-    "dateUpdated": null,
-    "comments": "The band's bio and background story read like machine-generated text, with no verifiable history or real-world presence to support a human origin.",
+    "dateUpdated": "2026-01-09T22:11:39.343Z",
+    "comments": "The artist states that the lyrics and melodies are human, but AI tools like Suno are used to perform and finalise the compositions.",
     "tags": [
       "ai-visuals",
       "anonymous",
       "minimal-bio",
-      "no-social-presence"
+      "no-social-presence",
+      "human-lyrics",
+      "partial-ai"
     ],
     "genres": [],
     "shScore": null,
