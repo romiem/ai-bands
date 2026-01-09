@@ -11817,17 +11817,21 @@
     "id": "velvet-rebellion",
     "name": "Velvet Rebellion",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-09T09:21:43.776Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
     "genres": [],
     "shScore": null,
     "spotify": "6bmHwapdVkl8LMts4cKBms",
     "apple": "1747044844",
-    "amazon": null,
-    "youtube": null,
-    "tiktok": null,
-    "instagram": null
+    "amazon": "B0CCQ617YY",
+    "youtube": "@Velvet_Rebellion",
+    "tiktok": "@velvetrebellion",
+    "instagram": "velvet_rebellion_band"
   },
   {
     "id": "velvet-signal",
