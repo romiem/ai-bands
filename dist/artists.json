@@ -1057,6 +1057,28 @@
     "instagram": null
   },
   {
+    "id": "astral-bards",
+    "name": "Astral Bards",
+    "dateAdded": "2026-01-09T13:35:57.000Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "650I9wGNnZKUQBZHsFtRKC",
+    "apple": "1780180186",
+    "amazon": "B0DNCQG1RF",
+    "youtube": "@astralbards",
+    "tiktok": "@astralbards",
+    "instagram": "astralbardsofficial"
+  },
+  {
     "id": "atomship",
     "name": "Atomship",
     "dateAdded": "2025-12-19T10:57:54.000Z",
@@ -3592,6 +3614,27 @@
     "instagram": null
   },
   {
+    "id": "elysium-crow",
+    "name": "Elysium Crow",
+    "dateAdded": "2026-01-09T13:39:38.109Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4BV130CGZsLUvA4MbrfDSI",
+    "apple": "1797960575",
+    "amazon": "B0DY5GDPF2",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "emo-appalachia",
     "name": "Emo Appalachia",
     "dateAdded": "2025-12-10T17:28:11.000Z",
@@ -3919,6 +3962,27 @@
     "youtube": "@facelessstrangersmusic",
     "tiktok": "@faceless_strangers",
     "instagram": "faceless_strangers"
+  },
+  {
+    "id": "faded-core",
+    "name": "Faded Core",
+    "dateAdded": "2026-01-09T13:34:51.951Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "human-lyrics",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "491p4xnIYWLgZ72y1sJQXq",
+    "apple": "1827498518",
+    "amazon": "B0FJ7MZFDL",
+    "youtube": "@OfficialFadedCore",
+    "tiktok": "@fadedcoreofficial",
+    "instagram": null
   },
   {
     "id": "fading-entries",
@@ -5399,6 +5463,27 @@
     "instagram": null
   },
   {
+    "id": "incident-apocalypse",
+    "name": "Incident Apocalypse",
+    "dateAdded": "2026-01-09T13:41:24.806Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "14tWDPoxhp4cRpJZvO8dMs",
+    "apple": "1740384231",
+    "amazon": "B0D1BW3GVD",
+    "youtube": "@incidentapocalypse-cd1gu",
+    "tiktok": null,
+    "instagram": "incidentapocalypse"
+  },
+  {
     "id": "indigna",
     "name": "IndignA",
     "dateAdded": "2026-01-03T18:40:41.000Z",
@@ -6753,6 +6838,27 @@
     "amazon": "B01J64V6LW",
     "youtube": "UC2SM1mV4AtlVrBLA3Ls9Acw",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "lykanai",
+    "name": "LykanAI",
+    "dateAdded": "2026-01-09T13:44:38.784Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "inconsistent-style",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4NQrFNvVfIyyvrWgd0Vnkn",
+    "apple": "1847574619",
+    "amazon": "B0FX54CRSV",
+    "youtube": "@LykanAI_Music",
+    "tiktok": "@lykan_music",
     "instagram": null
   },
   {
@@ -8881,6 +8987,27 @@
     "youtube": "UCKRimHE-scAq3kOZhpNorTQ",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "reaper-vx",
+    "name": "Reaper VX",
+    "dateAdded": "2026-01-09T13:33:01.349Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "4C3ppc7S4yB7Yd7aEJwv7L",
+    "apple": "1828588444",
+    "amazon": "B0FM4FHRDD",
+    "youtube": "@reapervxg",
+    "tiktok": "@reapervx",
+    "instagram": "reapervx"
   },
   {
     "id": "rebel-redeemed-316",
