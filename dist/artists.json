@@ -4435,6 +4435,28 @@
     "instagram": null
   },
   {
+    "id": "generated",
+    "name": "GENERATED",
+    "dateAdded": "2026-01-09T13:42:36.791Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3tnTz9WCaghp3PJPSsTxQW",
+    "apple": "1733910368",
+    "amazon": "B0CWYDJPB9",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "get-into-zone",
     "name": "Get into Zone",
     "dateAdded": "2026-01-07T23:13:27.358Z",
