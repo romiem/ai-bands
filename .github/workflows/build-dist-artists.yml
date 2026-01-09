@@ -19,6 +19,10 @@ on:
       - ".github/workflows/build-dist.yml"
   workflow_dispatch:
 
+concurrency:
+  group: build-dist-artists-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   validate_and_build:
     runs-on: ubuntu-latest
