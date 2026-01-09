@@ -2894,6 +2894,27 @@
     "instagram": "deathly_hours"
   },
   {
+    "id": "decadent-stories",
+    "name": "Decadent Stories",
+    "dateAdded": "2026-01-09T13:51:19.380Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "self-disclosed-ai",
+      "minimal-bio",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3o8lVee8DmzpqnMdduu5Gb",
+    "apple": null,
+    "amazon": "B0G4Q25H54",
+    "youtube": "UC_gRJweHXNDQ9xkh6bIOe0A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "decayed-souls",
     "name": "Decayed Souls",
     "dateAdded": "2025-12-18T10:08:03.000Z",
@@ -11086,6 +11107,28 @@
     "instagram": "backroadcollectiveproject"
   },
   {
+    "id": "the-band-you-never-heard-of",
+    "name": "The Band You Never Heard Of",
+    "dateAdded": "2026-01-09T13:52:56.108Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "human-lyrics",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "7qE1sqCxb2DFi39JAzH3f8",
+    "apple": "1783260683",
+    "amazon": null,
+    "youtube": "UCST9M7uHDC96_dOrHvAghLw",
+    "tiktok": "@thebandyouneverheardof",
+    "instagram": null
+  },
+  {
     "id": "the-bardic-dm",
     "name": "The Bardic DM",
     "dateAdded": "2025-12-02T17:03:39.000Z",
@@ -12206,6 +12249,28 @@
     "youtube": "@VeynaAshford",
     "tiktok": "@veyna.ashford",
     "instagram": "veyna.ashford"
+  },
+  {
+    "id": "vibes-and-tones",
+    "name": "Vibes & Tones",
+    "dateAdded": "2026-01-09T13:49:46.176Z",
+    "dateUpdated": null,
+    "comments": "All music released in 2025, which includes 12 full albums and several singles. Artist description on Spotify claims they're an Ohio-based \"collective\" of musicians, but does not name any members nor any evidence of live performances.",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "19SpN03gAbcoeGfeKQChCE",
+    "apple": "1793547332",
+    "amazon": "B0DVB2MFZ8",
+    "youtube": "UCuJcSEa0W80XlDJ18NiHhMw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "vidin",
