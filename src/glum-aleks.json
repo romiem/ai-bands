@@ -2,15 +2,20 @@
   "id": "glum-aleks",
   "name": "Glum Aleks",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-10T22:55:00.917Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "human-lyrics",
+    "inconsistent-style",
+    "self-disclosed-ai",
+    "partial-ai"
+  ],
   "genres": [],
   "shScore": null,
   "spotify": "5erVxDsEUKaWVQgNLgpHv9",
   "apple": "1762229581",
-  "amazon": null,
+  "amazon": "B0DCT8C92Z",
   "youtube": "@Glum_Aleks",
-  "tiktok": null,
+  "tiktok": "@glum_aleks",
   "instagram": null
 }
