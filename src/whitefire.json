@@ -2,15 +2,14 @@
   "id": "whitefire",
   "name": "WHITEFIRE",
   "dateAdded": "2026-01-07T14:40:05.752Z",
-  "dateUpdated": "2026-01-09T22:11:39.343Z",
+  "dateUpdated": "2026-01-10T14:40:52.104Z",
   "comments": "The artist states that the lyrics and melodies are human, but AI tools like Suno are used to perform and finalise the compositions.",
   "tags": [
     "ai-visuals",
     "anonymous",
-    "minimal-bio",
-    "no-social-presence",
     "human-lyrics",
-    "partial-ai"
+    "partial-ai",
+    "self-disclosed-ai"
   ],
   "genres": [],
   "shScore": null,
