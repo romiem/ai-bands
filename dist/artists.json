@@ -9175,9 +9175,13 @@
     "id": "porcelain-hearts",
     "name": "PORCELAIN HEARTS",
     "dateAdded": "2025-11-29T13:28:21.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-10T13:12:18.992Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "ai-visuals",
+      "human-lyrics",
+      "self-disclosed-ai"
+    ],
     "genres": [],
     "shScore": null,
     "spotify": "1SaerF7QF5mxah84qBsCnG",
@@ -9185,7 +9189,7 @@
     "amazon": "B0FTVNBWHG",
     "youtube": "UCAipmgXhXrPFtsM5r7gReBA",
     "tiktok": "@porcelainheartsband",
-    "instagram": null
+    "instagram": "porcelain.hearts.band"
   },
   {
     "id": "procrastopia",
