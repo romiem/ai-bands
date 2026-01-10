@@ -8624,6 +8624,26 @@
     "instagram": null
   },
   {
+    "id": "ol-man-yarn",
+    "name": "Ol Man Yarn",
+    "dateAdded": "2026-01-10T11:14:41.721Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "6Qh45YYljqKFN9yWJG2P2F",
+    "apple": "1841467090",
+    "amazon": "B0FS4NCSFG",
+    "youtube": "@olmanyarn",
+    "tiktok": "@olmanyarn",
+    "instagram": "olmanyarn"
+  },
+  {
     "id": "ola-javis",
     "name": "Ola Javis",
     "dateAdded": "2026-01-01T16:09:04.000Z",
@@ -12114,6 +12134,28 @@
     "instagram": null
   },
   {
+    "id": "themidnightblackout",
+    "name": "TheMidnightBlackout",
+    "dateAdded": "2026-01-10T11:13:06.945Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "1hQGQ512RxMvjhfZbrdFDu",
+    "apple": "1846337628",
+    "amazon": null,
+    "youtube": "@TheMidnightBlackout",
+    "tiktok": "@themidnightblackout",
+    "instagram": "themidnightblackout"
+  },
+  {
     "id": "theskeletonslibrary",
     "name": "TheSkeletonsLibrary",
     "dateAdded": "2025-12-10T17:16:34.000Z",
@@ -12595,6 +12637,26 @@
     "instagram": "vargvegr_music"
   },
   {
+    "id": "varianz",
+    "name": "Varianz",
+    "dateAdded": "2026-01-10T11:09:15.826Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "5jhvSsGQtxrk7Un3XWSUVW",
+    "apple": "1771530220",
+    "amazon": "B0CWYVVWNX",
+    "youtube": "UCPCU9XlrT16RJXZkaVSSz4w",
+    "tiktok": "@varianz_music",
+    "instagram": "varianz_music"
+  },
+  {
     "id": "vealdron",
     "name": "Vealdron",
     "dateAdded": "2026-01-08T15:55:52.243Z",
@@ -12653,6 +12715,29 @@
     "youtube": null,
     "tiktok": "@veinsofgold66",
     "instagram": "veins.ofgold"
+  },
+  {
+    "id": "velora",
+    "name": "Velora",
+    "dateAdded": "2026-01-10T11:07:40.829Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence",
+      "partial-ai"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0BQUwUXQz2ujRlkitDU3Kq",
+    "apple": "1825017070",
+    "amazon": "B0FSY5GKRB",
+    "youtube": "@velora.musika",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "velour",
