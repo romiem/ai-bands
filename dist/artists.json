@@ -2771,6 +2771,27 @@
     "instagram": null
   },
   {
+    "id": "darklux",
+    "name": "DarkLux",
+    "dateAdded": "2026-01-10T11:20:36.808Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "no-social-presence",
+      "minimal-bio",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3nALfbbhQR3A5C1g23PnTX",
+    "apple": "1842454058",
+    "amazon": "B0FJT5NTCB",
+    "youtube": "UC_Ai8H5NG_iTP8gwTevunhA",
+    "tiktok": null,
+    "instagram": "darklux8"
+  },
+  {
     "id": "davian-blake",
     "name": "Davian Blake",
     "dateAdded": "2025-12-10T17:34:05.000Z",
@@ -3901,6 +3922,28 @@
     "youtube": "@Eternal_Warriors",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "ether-dark-motivation",
+    "name": "ÉTHER DARK MOTIVATION",
+    "dateAdded": "2026-01-10T11:18:17.716Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "no-social-presence",
+      "human-lyrics",
+      "minimal-bio",
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "73cp3gWuuS5u2LoA7QCCTY",
+    "apple": "1836719873",
+    "amazon": "B0F7GHTC5N",
+    "youtube": "UCo63BG44G05izuFXZvCOP9w",
+    "tiktok": "@ether_dark_motivation",
+    "instagram": "ether_dark_motivation"
   },
   {
     "id": "ethereal-chronicles",
@@ -6419,6 +6462,29 @@
     "youtube": "@kellyeld2323",
     "tiktok": "@kelly_boesch_ai_art",
     "instagram": "kelly_boesch_ai_art"
+  },
+  {
+    "id": "kelvin-west",
+    "name": "Kelvin West",
+    "dateAdded": "2026-01-10T11:17:18.236Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "0b4itX2MNDly72zaZKnrZg",
+    "apple": "1340434983",
+    "amazon": "B07LB9P1DK",
+    "youtube": "UColGWquLJM0rVQ0mRESBsDw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "kenke",
