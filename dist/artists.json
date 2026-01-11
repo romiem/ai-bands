@@ -3426,6 +3426,27 @@
     "instagram": "dysmn.exe"
   },
   {
+    "id": "dystone",
+    "name": "Dystøne",
+    "dateAdded": "2026-01-11T13:12:30.635Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "self-disclosed-ai",
+      "anonymous",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "1PDK3gAsfFKP6ozalNGiPs",
+    "apple": "1847901737",
+    "amazon": "B0FXBQSJLN",
+    "youtube": "@DYSTØNE_Music",
+    "tiktok": "@dystne3",
+    "instagram": "dyst_ne"
+  },
+  {
     "id": "dzbogel",
     "name": "dzbogel",
     "dateAdded": "2026-01-07T09:44:15.000Z",
@@ -10309,6 +10330,27 @@
     "youtube": "@sarashandwrittenlyrics",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "sasha-komovich",
+    "name": "Sasha Komovich",
+    "dateAdded": "2026-01-11T13:12:20.653Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "shScore": null,
+    "spotify": "3mMvT7DeT6lG41ZiVPpNVV",
+    "apple": "1858960941",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "komovich.sasha"
   },
   {
     "id": "scarlet-songs",
