@@ -142,6 +142,8 @@ const main = async () => {
     }
 
     let genres = [];
+    let followers = null;
+    let popularity = null;
     let shScore = null;
 
     // if (artistData.spotify) {
@@ -152,7 +154,9 @@ const main = async () => {
     //     });
 
     //     const artist = await spotify.getArtist(artistData.spotify);
-    //     genres = artist.genres || [];
+    //     genres = artist?.genres || [];
+    //     popularity = artist?.popularity ?? null;
+    //     followers = artist?.followers?.total ?? null;
 
     //     try {
     //       const submithub = createSubmitHubClient({ apiKey: process.env.SUBMITHUB_API_KEY });
@@ -190,6 +194,8 @@ const main = async () => {
     // }
 
     artistData.genres = genres;
+    artistData.popularity = popularity;
+    artistData.followers = followers;
     artistData.shScore = shScore;
 
     if (!validate(artistData)) {

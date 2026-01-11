@@ -55,10 +55,27 @@
     },
     "genres": {
       "type": "array",
-      "description": "List of genres associated with the artist",
+      "description": "Spotify genres associated with the artist",
       "items": {
         "type": "string"
       }
+    },
+    "popularity": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Spotify popularity score (0-100), or null if not available"
+    },
+    "followers": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "description": "Spotify followers count, or null if not available"
     },
     "shScore": {
       "type": [
@@ -126,6 +143,8 @@
     "comments",
     "tags",
     "genres",
+    "popularity",
+    "followers",
     "shScore",
     "spotify",
     "apple",
