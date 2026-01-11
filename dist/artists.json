@@ -518,6 +518,29 @@
     "instagram": "alex_stalart"
   },
   {
+    "id": "alices-ghosts",
+    "name": "Alice's Ghosts",
+    "dateAdded": "2026-01-11T16:13:24.495Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai",
+      "human-lyrics",
+      "ai-visuals",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "26PTBF6dsky63ic7PVWDqN",
+    "apple": "1851766945",
+    "amazon": "B0G1VQGF58",
+    "youtube": "@AliceGhosts",
+    "tiktok": "@alicesghosts",
+    "instagram": null
+  },
+  {
     "id": "almost-real",
     "name": "almost real.",
     "dateAdded": "2025-12-27T13:52:19.000Z",
