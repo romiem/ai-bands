@@ -1527,6 +1527,30 @@
     "instagram": "bannedvinylcollection"
   },
   {
+    "id": "bardcore-medieval-style",
+    "name": "Bardcore Medieval Style",
+    "dateAdded": "2026-01-12T13:39:04.774Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "inconsistent-style",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4kcJKv2RjQK7qjG1oAndr1",
+    "apple": "1851640415",
+    "amazon": "B0FS2FJKNL",
+    "youtube": "@BardcoreMedievalStyle",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "bardcore-music",
     "name": "Bardcore Music",
     "dateAdded": "2026-01-03T12:44:44.000Z",
@@ -11609,6 +11633,30 @@
     "instagram": "saintvice.music"
   },
   {
+    "id": "salen-records",
+    "name": "Salen Records",
+    "dateAdded": "2026-01-12T13:34:28.874Z",
+    "dateUpdated": null,
+    "comments": "There is no production prior to year 2025, nor any information regarding tours, members or record company. The artist is also not present on Discogs.",
+    "tags": [
+      "anonymous",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1gBONPkLeBUhwEljXAaNIE",
+    "apple": "1865234138",
+    "amazon": "B0GD99X4KM",
+    "youtube": "@realsalenrecords",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "salheim",
     "name": "Salheim",
     "dateAdded": "2025-12-20T12:06:26.000Z",
@@ -13153,6 +13201,29 @@
     "youtube": "UCPpsPchGZaGzhavVS-DzrCw",
     "tiktok": null,
     "instagram": "sibi42_"
+  },
+  {
+    "id": "synn",
+    "name": "SYNN",
+    "dateAdded": "2026-01-12T13:37:32.793Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5wi8I7IEitST6CgqAwXYLc",
+    "apple": "1833461417",
+    "amazon": "B0CQY5Y2W4",
+    "youtube": "UC4Dq_TCQFo67Aq5GmV01YmQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "synthwave-siren",
@@ -15456,6 +15527,30 @@
     "youtube": "@YaraNocturnee",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "yesterday-once-again",
+    "name": "Yesterday Once Again",
+    "dateAdded": "2026-01-12T13:36:04.109Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "no-social-presence",
+      "inconsistent-style",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3Nf07DN4afAPJh4wsfYuW2",
+    "apple": "1766454525",
+    "amazon": "B0DG2ZLC4H",
+    "youtube": "@yesterday.onceagain",
+    "tiktok": "@yesterday1cagain",
+    "instagram": "yesterday.onceagain"
   },
   {
     "id": "yunna-serene",
