@@ -3622,6 +3622,29 @@
     "instagram": null
   },
   {
+    "id": "digital-delusions",
+    "name": "Digital Delusions",
+    "dateAdded": "2026-01-12T13:46:36.303Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Blurring the Edges of Creativity and AI.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "no-social-presence",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5uRkhmMAJ8BD4SUUFndvlB",
+    "apple": "1769322773",
+    "amazon": "B0DHGMDP67",
+    "youtube": "@delusionsdigital",
+    "tiktok": "@digital_delusions_",
+    "instagram": null
+  },
+  {
     "id": "digital-soul-music",
     "name": "Digital Soul Music",
     "dateAdded": "2026-01-03T14:32:35.000Z",
@@ -3685,6 +3708,30 @@
     "youtube": "@Djxoxo12929",
     "tiktok": "@dj.xoxo",
     "instagram": "dj_xoxo._"
+  },
+  {
+    "id": "djsource",
+    "name": "DJSource",
+    "dateAdded": "2026-01-12T13:44:29.266Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "human-lyrics",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7s5jADIx9KUXAbYYOf9mjX",
+    "apple": "1851490139",
+    "amazon": "B0G1HQJKLL",
+    "youtube": "UC6Z7MBw_47NXGVhMrjHG2UQ",
+    "tiktok": "@djsourceofficial",
+    "instagram": null
   },
   {
     "id": "doc-raven",
@@ -15040,6 +15087,31 @@
     "youtube": "@Viking_Echoes",
     "tiktok": null,
     "instagram": "viking_echoes"
+  },
+  {
+    "id": "violete-ephemerty",
+    "name": "violete ephemerty",
+    "dateAdded": "2026-01-12T13:47:40.134Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "07nbbiMrEk0ggpmy1cButc",
+    "apple": "1766423941",
+    "amazon": "B0DFZJV9P4",
+    "youtube": "UCDtfMyF9kcpwlZJqWFb2ZkQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "virelia",
