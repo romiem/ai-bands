@@ -321,6 +321,30 @@
     "instagram": null
   },
   {
+    "id": "aetherealdream",
+    "name": "AetherealDream",
+    "dateAdded": "2026-01-12T13:27:43.019Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "minimal-bio",
+      "partial-ai",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1vo2p0baTTuo0vaZ3gnr5w",
+    "apple": "1789230834",
+    "amazon": "B0DSHCBM1W",
+    "youtube": "UC6SBiMdWpLJO5oHwOfU7dCA",
+    "tiktok": "@aetherealdream99",
+    "instagram": "aetherealdream99"
+  },
+  {
     "id": "after-indigo",
     "name": "After Indigo",
     "dateAdded": "2025-12-28T23:48:29.000Z",
@@ -1554,7 +1578,7 @@
     "id": "bardcore-music",
     "name": "Bardcore Music",
     "dateAdded": "2026-01-03T12:44:44.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-12T13:40:58.228Z",
     "comments": "The catalog is also listed under a profile titled 'Bardcore Medieval Style'. SubmitHub analysis identifies characteristics associated with AI-generated music. Comments on YouTube raising questions about potential AI use appear to go unanswered.",
     "tags": [
       "ai-visuals",
@@ -1569,7 +1593,7 @@
     "spotify": "4KAX9o2eGyd0oKMpQnecUr",
     "apple": "1852149286",
     "amazon": "B0DGTXSHCZ",
-    "youtube": "UCmjqBTOgk6KfGsWI4jn4XwQ",
+    "youtube": null,
     "tiktok": null,
     "instagram": null
   },
@@ -1608,6 +1632,30 @@
     "apple": "1762475451",
     "amazon": "B0DCX5WVNZ",
     "youtube": "@bardstrike",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "beach-days",
+    "name": "Beach Days",
+    "dateAdded": "2026-01-12T13:21:34.983Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "inconsistent-style",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2Lc1LrsShU6Iah5c3oxCc5",
+    "apple": "1813013524",
+    "amazon": "B07W3YX18D",
+    "youtube": "UCWNZbiDlAoac3TKxs6iTb_Q",
     "tiktok": null,
     "instagram": null
   },
@@ -9621,6 +9669,29 @@
     "instagram": null
   },
   {
+    "id": "nick-hustles",
+    "name": "Nick Hustles",
+    "dateAdded": "2026-01-12T13:29:25.821Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "self-disclosed-ai",
+      "minimal-bio",
+      "high-output",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4y6CMS7tqBf8ubmUuP9SQI",
+    "apple": "1783102464",
+    "amazon": "B0DPHB5FQ2",
+    "youtube": "UC0SXzhrt2zMyE9ifTt3iiSg",
+    "tiktok": "@iamnickhustles",
+    "instagram": "nickhustles"
+  },
+  {
     "id": "niexshadow",
     "name": "NiExshadow",
     "dateAdded": "2026-01-07T14:59:25.283Z",
@@ -12383,6 +12454,30 @@
     "instagram": "slowburn_music"
   },
   {
+    "id": "slvmlord",
+    "name": "SLVMLORD",
+    "dateAdded": "2026-01-12T13:25:56.350Z",
+    "dateUpdated": null,
+    "comments": "Some of the artist's YouTube videos state in the description: \"Created with AI and human collaboration.\"",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "self-disclosed-ai",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0tyJnPv3S8cSq7naRB6lOe",
+    "apple": "1853182203",
+    "amazon": "B0G2GTHNJ1",
+    "youtube": "@SLVMLORD",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "smoke-oh",
     "name": "Smoke-Oh",
     "dateAdded": "2026-01-12T11:27:32.620Z",
@@ -15029,6 +15124,29 @@
     "apple": "1827481576",
     "amazon": "B0FHWSX692",
     "youtube": "UCNV-PT2JzRJGWzNTpWPwSYg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "voxnaris",
+    "name": "Voxnaris",
+    "dateAdded": "2026-01-12T13:31:42.049Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Voxnaris is a medieval ai music project.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "08UoIrS9YvVH0fS0CukKwN",
+    "apple": "1836035863",
+    "amazon": "B0FP11BYHK",
+    "youtube": "@voxnaris",
     "tiktok": null,
     "instagram": null
   },
