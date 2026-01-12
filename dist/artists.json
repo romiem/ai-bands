@@ -2357,6 +2357,29 @@
     "instagram": null
   },
   {
+    "id": "celestial-melodies",
+    "name": "Celestial Melodies",
+    "dateAdded": "2026-01-12T16:21:32.884Z",
+    "dateUpdated": null,
+    "comments": "This artist is linked to another profile titled 'Melodia Simples',",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0lUpVjzMvMW2X3fnJfrFqC",
+    "apple": "1784588596",
+    "amazon": "B0C5XTT5LY",
+    "youtube": "@CelestialMelodiesmusic",
+    "tiktok": "@celestialmelodies",
+    "instagram": null
+  },
+  {
     "id": "celestial-tunes",
     "name": "Celestial Tunes",
     "dateAdded": "2025-12-17T15:14:17.000Z",
@@ -3047,6 +3070,30 @@
     "youtube": "@DÆMONVEIL",
     "tiktok": "@daemonveilofficial",
     "instagram": "daemonveil"
+  },
+  {
+    "id": "daimon-noir",
+    "name": "Daimon Noir",
+    "dateAdded": "2026-01-12T16:27:57.686Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5UnlNwwsBNIq3TSHYar3Yz",
+    "apple": "1836844199",
+    "amazon": "B0FPCP821J",
+    "youtube": "UCru7bnmWNGUQuGupxAd1LZw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "dalihen",
@@ -9001,6 +9048,28 @@
     "instagram": "melodai.official"
   },
   {
+    "id": "melodia-simples",
+    "name": "Melodia Simples",
+    "dateAdded": "2026-01-12T16:18:49.550Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5TxgZKRmQF7IosLCkTOABp",
+    "apple": "1705447176",
+    "amazon": "B0CDQSRGJV",
+    "youtube": "@MelodiaSimples",
+    "tiktok": "@melodia.simples",
+    "instagram": "melodia.simples"
+  },
+  {
     "id": "melodial",
     "name": "Melodial",
     "dateAdded": "2025-12-08T10:44:34.000Z",
@@ -9362,6 +9431,29 @@
     "instagram": null
   },
   {
+    "id": "most-high",
+    "name": "Most High",
+    "dateAdded": "2026-01-12T16:13:43.319Z",
+    "dateUpdated": null,
+    "comments": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "no-social-presence",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0XRYb6avzU7bwcRukkly7y",
+    "apple": null,
+    "amazon": "B0038C1MS6",
+    "youtube": "UCa39ev17ipaadzC_aJKps9A",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "mvmuro",
     "name": "MVMURO",
     "dateAdded": "2025-12-13T20:22:49.000Z",
@@ -9549,6 +9641,53 @@
     "youtube": "UCnA_Xz1hMIsvj5v-7V-aZXA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "narita-metalaw",
+    "name": "Narita Metalaw",
+    "dateAdded": "2026-01-12T16:24:12.941Z",
+    "dateUpdated": null,
+    "comments": "The artist describes themselves as \"AI Metal\" and another portion of their Spotify bio states that \"Narita Metalaw forges steel melodies by colliding human pain with the creative force of AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous",
+      "no-social-presence",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6Jo1HBFl8ngJ0JkWtDcmWY",
+    "apple": "1779502243",
+    "amazon": "B0DMWPQ7RM",
+    "youtube": "@NaritaMetalaw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "narroway",
+    "name": "NARROWAY",
+    "dateAdded": "2026-01-12T16:26:00.938Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6vgMDWteLfrmr231nWxGq8",
+    "apple": "1825282239",
+    "amazon": "B0FH2T1KR4",
+    "youtube": "@NarrowayCollective",
+    "tiktok": "@narrowaycollective",
+    "instagram": "narrowaycollective"
   },
   {
     "id": "neo-arcade",
