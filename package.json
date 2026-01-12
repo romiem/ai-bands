@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romiem/ai-bands.git"
+    "url": "git+https://github.com/romiem/soul-over-ai.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/romiem/ai-bands/issues"
+    "url": "https://github.com/romiem/soul-over-ai/issues"
   },
-  "homepage": "https://github.com/romiem/ai-bands#readme",
+  "homepage": "https://github.com/romiem/soul-over-ai#readme",
   "devDependencies": {
     "@octokit/rest": "^21.0.2",
     "@sindresorhus/slugify": "^3.0.0",
