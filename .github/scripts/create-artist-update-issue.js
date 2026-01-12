@@ -72,7 +72,10 @@ if (Object.keys(changedData).length > 1) {
       } else if (value === null || value === undefined) {
         return null;
       }
-      return `${key}=${encodeURIComponent(value)}`;
+      const encodedValue = encodeURIComponent(value)
+        .replace(/\(/g, '%28') // left parenthesis
+        .replace(/\)/g, '%29'); // right parenthesis
+      return `${key}=${encodedValue}`;
     })
     .filter(Boolean)
     .join('&');

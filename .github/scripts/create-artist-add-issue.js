@@ -32,18 +32,24 @@ for (const key in orderedData) {
 }
 
 // Create link to souloverai.com submission form with prefilled data
-const params = Object.keys(orderedData).map(key => {
-  let value = orderedData[key];
-  if (Array.isArray(value)) {
-    if (value.length === 0) return null;
-    value = value.join(',');
-  } else if (value === null || value === undefined) {
-    return null;
-  }
-  return `${key}=${encodeURIComponent(value)}`;
-}).filter(Boolean).join('&');
-const link = `[Review changes](https://souloverai.com/add?${params})`;
+const params = Object.keys(orderedData)
+  .map(key => {
+    let value = orderedData[key];
+    if (Array.isArray(value)) {
+      if (value.length === 0) return null;
+      value = value.join(',');
+    } else if (value === null || value === undefined) {
+      return null;
+    }
+    const encodedValue = encodeURIComponent(value)
+      .replace(/\(/g, '%28') // left parenthesis
+      .replace(/\)/g, '%29'); // right parenthesis
+    return `${key}=${encodedValue}`;
+  })
+  .filter(Boolean)
+  .join('&');
 
+const link = `[Review changes](https://souloverai.com/add?${params})`;
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
 
 // If an issue with the same artist name exists, add a comment instead of creating a new issue
