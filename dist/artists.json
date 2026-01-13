@@ -10461,6 +10461,30 @@
     "instagram": "noraeon.official"
   },
   {
+    "id": "nordic-versecraft",
+    "name": "Nordic Versecraft",
+    "dateAdded": "2026-01-13T21:43:07.628Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6lqtGiVfAXRM2kxeDgFas6",
+    "apple": "1812282683",
+    "amazon": "B0F7GJ6S42",
+    "youtube": "UCdQnpSuy_H0acGpa0Vn4S6A",
+    "tiktok": "@nordicversecraft",
+    "instagram": null
+  },
+  {
     "id": "nordskald",
     "name": "NORDSKÁLD",
     "dateAdded": "2026-01-13T21:36:05.295Z",
@@ -11196,6 +11220,29 @@
     "apple": "1808377795",
     "amazon": "B0F4R3KDMP",
     "youtube": "UCxm6ppl2juVYwPeqxrkiLKw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "poisonpop-candy",
+    "name": "POISONPOP Candy",
+    "dateAdded": "2026-01-13T21:39:15.245Z",
+    "dateUpdated": null,
+    "comments": "YouTube channel bio states: \"All music and illustrations on this channel are original works created using AI technology.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1ORh5hGL8aCx1wDAi8242s",
+    "apple": "1833943627",
+    "amazon": "B0FMSRP3XD",
+    "youtube": "@POISONPOPCandy",
     "tiktok": null,
     "instagram": null
   },
@@ -15409,6 +15456,29 @@
     "youtube": "@valhalla-drums",
     "tiktok": "@valhalla.drums",
     "instagram": null
+  },
+  {
+    "id": "vargnokturn",
+    "name": "Vargnokturn",
+    "dateAdded": "2026-01-13T21:41:01.349Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1QET3cQRvUF0zMMecvhEnp",
+    "apple": "1854731507",
+    "amazon": "B0F22CRL1N",
+    "youtube": "UCEhQvo_e86ohWYJpU1TJs8A",
+    "tiktok": "@vargnokturn",
+    "instagram": "vargnokturn"
   },
   {
     "id": "vargvegr",
