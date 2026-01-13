@@ -633,6 +633,29 @@
     "instagram": null
   },
   {
+    "id": "amazy-music",
+    "name": "Amazy Music",
+    "dateAdded": "2026-01-13T21:09:58.642Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0CowBKB0E9LFX3PRdfeaIC",
+    "apple": "1708544185",
+    "amazon": "B0CJM4GP5B",
+    "youtube": "UCfePOLV0HisLR5ZU-WU6e_Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ameiro-garden",
     "name": "Ameiro Garden",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -1458,9 +1481,13 @@
     "id": "aya-thorn",
     "name": "Aya Thorn",
     "dateAdded": "2025-12-10T17:18:10.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-13T21:14:47.478Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -1470,7 +1497,7 @@
     "amazon": "B0FS2YZG4K",
     "youtube": "UCwCHfWdsci7GAyCwl8XuvEA",
     "tiktok": "@ayathornmusic",
-    "instagram": null
+    "instagram": "ayathornmusic"
   },
   {
     "id": "ayla-chan",
@@ -1657,6 +1684,30 @@
     "amazon": "B0DCX5WVNZ",
     "youtube": "@bardstrike",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "bardtholomew",
+    "name": "Bardtholomew",
+    "dateAdded": "2026-01-13T21:16:31.743Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "no-social-presence",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0cl9oRHLLFTR7ePGp8LEjr",
+    "apple": "1798869313",
+    "amazon": "B0D5DRQ7XN",
+    "youtube": "UCcIAztuCT11zqvnDK74HtyA",
+    "tiktok": "@bardtholomew.music",
     "instagram": null
   },
   {
@@ -10410,6 +10461,29 @@
     "instagram": "noraeon.official"
   },
   {
+    "id": "nordskald",
+    "name": "NORDSKÁLD",
+    "dateAdded": "2026-01-13T21:36:05.295Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "25LgPyRMcMvBOm4KjI70YX",
+    "apple": null,
+    "amazon": "B0DVLSMMZ5",
+    "youtube": "UCklKgzPdxkekdGPhrSKadpg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "novi",
     "name": "Novi",
     "dateAdded": "2025-12-15T11:32:20.000Z",
@@ -13646,6 +13720,29 @@
     "youtube": "UCsaXIWNCifveZFJvDia6Mbg",
     "tiktok": "@spookydoomusic",
     "instagram": "spookydoo_music"
+  },
+  {
+    "id": "starwynd",
+    "name": "Starwynd",
+    "dateAdded": "2026-01-13T21:11:23.032Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5qyoyaRsxcHKln2TxqoUgL",
+    "apple": "1841275156",
+    "amazon": "B0FS12VR2X",
+    "youtube": "@StarwyndMusic",
+    "tiktok": null,
+    "instagram": "starwyndmusic"
   },
   {
     "id": "static-violence",
