@@ -367,6 +367,30 @@
     "instagram": null
   },
   {
+    "id": "after-midnight-deep",
+    "name": "After Midnight Deep",
+    "dateAdded": "2026-01-13T22:00:37.267Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "44YisjDr2I1wy8UjoMgVz8",
+    "apple": "1807571973",
+    "amazon": "B0F49G2R9C",
+    "youtube": "UC33Voavg9ckkomqUMzags7Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "aftersapiens",
     "name": "AfterSapiens",
     "dateAdded": "2025-12-29T20:06:45.000Z",
@@ -4892,6 +4916,31 @@
     "instagram": "ethereal_chronicles_off"
   },
   {
+    "id": "eufonia",
+    "name": "Eufonia",
+    "dateAdded": "2026-01-13T22:00:25.642Z",
+    "dateUpdated": null,
+    "comments": "The artists claim that there is a human duo behind it, but admitted in response to a Instagram comment that they use AI tools.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "partial-ai",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "44zsVhmhrC1CcckYWtedO0",
+    "apple": null,
+    "amazon": "B0104Y1UQ4",
+    "youtube": "UC0UEL92P2uN72LrA_7tj2ow",
+    "tiktok": null,
+    "instagram": "eufonia.musica"
+  },
+  {
     "id": "eurozia",
     "name": "Eurozia",
     "dateAdded": "2025-12-21T20:54:24.000Z",
@@ -6888,6 +6937,28 @@
     "youtube": "@NeededThisDave",
     "tiktok": "@needthisdave",
     "instagram": "neededthisdave"
+  },
+  {
+    "id": "ida-nik",
+    "name": "Ida Nik",
+    "dateAdded": "2026-01-13T21:57:01.908Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"Building immersive worlds through a fusion of human voice and AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1GQBLB86ZXbB96ZFaduS4l",
+    "apple": "1837696315",
+    "amazon": "B0FPRQW3G2",
+    "youtube": "@idanikmusic",
+    "tiktok": null,
+    "instagram": "ida.nik.music"
   },
   {
     "id": "if-rappers-made-blues",
@@ -12343,6 +12414,28 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "sa-lunara",
+    "name": "Sa'Lunara",
+    "dateAdded": "2026-01-13T22:04:12.039Z",
+    "dateUpdated": null,
+    "comments": "The artist has stated in TikTok comments that the instrumentals are AI-generated.",
+    "tags": [
+      "partial-ai",
+      "ai-visuals",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4J5h15Gl60Sij3AHUWxix6",
+    "apple": "1840574974",
+    "amazon": "B0FRMP3M2S",
+    "youtube": "@SaLunara",
+    "tiktok": "@madalyne.sa_lunara",
+    "instagram": "madalyne.sa.lunara"
   },
   {
     "id": "sacred878",
