@@ -995,6 +995,30 @@
     "instagram": null
   },
   {
+    "id": "art-roseman",
+    "name": "Art Roseman",
+    "dateAdded": "2026-01-13T11:22:43.525Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7DbhILn2zuKOYPlBO4zkux",
+    "apple": "1737035961",
+    "amazon": "B0CYNPHN54",
+    "youtube": "UCYbXHa-LVFji_4uTVC9TJTA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "artimus-ion",
     "name": "Artimus Ion",
     "dateAdded": "2026-01-02T19:24:02.000Z",
@@ -4449,6 +4473,29 @@
     "apple": "1797960575",
     "amazon": "B0DY5GDPF2",
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "emberosia",
+    "name": "Emberosia",
+    "dateAdded": "2026-01-13T11:23:58.509Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3ZSM1pVSbbOrGK6a9vqxXY",
+    "apple": "1847094431",
+    "amazon": "B0FWZG261K",
+    "youtube": "@EmberosiaOfficial",
     "tiktok": null,
     "instagram": null
   },
@@ -10159,6 +10206,28 @@
     "youtube": "@NobodyKnew00",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "nona-cyrelle",
+    "name": "Nona Cyrelle",
+    "dateAdded": "2026-01-13T11:26:09.821Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"I'm an AI-created character.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6JdeiRL78vfoGEQ8RhBEa0",
+    "apple": "1839553025",
+    "amazon": "B0FR1CPXMQ",
+    "youtube": "UCkaWZEM9tM3AKt59_AzswEw",
+    "tiktok": null,
+    "instagram": "nonacyrelle"
   },
   {
     "id": "noraeon",
