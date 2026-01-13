@@ -4575,6 +4575,29 @@
     "instagram": "elise_delune"
   },
   {
+    "id": "elle",
+    "name": "elle.",
+    "dateAdded": "2026-01-13T22:06:22.264Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "no-social-presence",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1mLMQIK6kSQeuBdoOkaZoX",
+    "apple": "1824055308",
+    "amazon": "B0844W74TK",
+    "youtube": "UCFnlwn5RnMYHbTV5FYujYKg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "elowine",
     "name": "Elowine",
     "dateAdded": "2025-12-16T11:41:37.000Z",
