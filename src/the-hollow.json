@@ -2,9 +2,14 @@
   "id": "the-hollow",
   "name": "The Hollow",
   "dateAdded": "2025-11-29T10:34:46.000Z",
-  "dateUpdated": null,
-  "comments": null,
-  "tags": [],
+  "dateUpdated": "2026-01-14T18:12:50.828Z",
+  "comments": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
+  "tags": [
+    "self-disclosed-ai",
+    "human-lyrics",
+    "ai-visuals",
+    "anonymous"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
