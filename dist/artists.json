@@ -6262,11 +6262,13 @@
     "id": "grimdark-tavern",
     "name": "Grimdark Tavern",
     "dateAdded": "2025-12-13T20:26:11.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-14T14:39:11.276Z",
     "comments": null,
     "tags": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style",
+      "ai-visuals"
     ],
     "genres": [],
     "popularity": null,
@@ -9973,6 +9975,29 @@
     "apple": "1787042200",
     "amazon": "B0DR9J5XPQ",
     "youtube": "UCJviqd4tLZBNjj85ZESTZoQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "moebius-fm",
+    "name": "Moebius FM",
+    "dateAdded": "2026-01-14T14:41:13.109Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5ocd69uQVtI0FXBVOFXSez",
+    "apple": "1834515235",
+    "amazon": "B0FN71NR33",
+    "youtube": "@moebiusfm",
     "tiktok": null,
     "instagram": null
   },
