@@ -7056,6 +7056,30 @@
     "instagram": "neededthisdave"
   },
   {
+    "id": "icy-mattrix",
+    "name": "Icy Mattrix",
+    "dateAdded": "2026-01-14T17:03:34.386Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "inconsistent-style",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "68836SJE8W22kbI9RG8oUT",
+    "apple": "1412174757",
+    "amazon": "B07FK63R38",
+    "youtube": "@icymattrixmusic",
+    "tiktok": "@icymattrixmusic",
+    "instagram": "icymattrixmusic"
+  },
+  {
     "id": "ida-nik",
     "name": "Ida Nik",
     "dateAdded": "2026-01-13T21:57:01.908Z",
@@ -7099,6 +7123,27 @@
     "youtube": "@IfrappersMadeBlues",
     "tiktok": "@ifrappersmadeblues",
     "instagram": null
+  },
+  {
+    "id": "ily-ghoul",
+    "name": "ILY Ghoul",
+    "dateAdded": "2026-01-14T17:02:11.551Z",
+    "dateUpdated": null,
+    "comments": "YouTube comments on the artist's profile asking to confirm whether AI was used go unanswered.",
+    "tags": [
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "29zyVGfurGAtHudLs6wPIg",
+    "apple": "1848923609",
+    "amazon": "B0FXMSBSQ1",
+    "youtube": "@ilyghoulmusic",
+    "tiktok": "@ilyghoul_",
+    "instagram": "ilyghoul_"
   },
   {
     "id": "immunosuppressed",
@@ -10390,6 +10435,28 @@
     "youtube": "@NarrowayCollective",
     "tiktok": "@narrowaycollective",
     "instagram": "narrowaycollective"
+  },
+  {
+    "id": "nekonoma",
+    "name": "Nekonoma",
+    "dateAdded": "2026-01-14T17:06:06.515Z",
+    "dateUpdated": null,
+    "comments": "The artist's YouTube bio states that they are a \"a mysterious AI singer.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0G16twsStodbWZ074tAfyc",
+    "apple": "1783460774",
+    "amazon": "B0DPRQXBJ4",
+    "youtube": "@nekonoma-k",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "neo-arcade",
@@ -16145,6 +16212,29 @@
     "youtube": "UCh782e-nzcABL7gfqiVKZvg",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "veilr",
+    "name": "Veilr",
+    "dateAdded": "2026-01-14T17:08:05.373Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "69LthtLk3BNDmSAmg3woYh",
+    "apple": "1842252173",
+    "amazon": "B0FSNDG1FZ",
+    "youtube": "@veilrverse",
+    "tiktok": "@veilrverse",
+    "instagram": "veilrverse"
   },
   {
     "id": "veins-of-gold",
