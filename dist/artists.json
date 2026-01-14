@@ -15973,6 +15973,32 @@
     "instagram": null
   },
   {
+    "id": "tripstone-heathen",
+    "name": "Tripstone Heathen",
+    "dateAdded": "2026-01-14T23:23:33.235Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio explicitly states that AI is used to generate the instrumentals.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "no-social-presence",
+      "self-disclosed-ai",
+      "human-lyrics",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3kxxjsmNatyES2mlYUCFRc",
+    "apple": "1854163545",
+    "amazon": "B0G2ZYDXTK",
+    "youtube": "UC7E_qc70Yvp2ZUB6rPiWgTQ",
+    "tiktok": null,
+    "instagram": "tripstone_heathen"
+  },
+  {
     "id": "trollvarg",
     "name": "Trollvarg",
     "dateAdded": "2026-01-02T11:20:38.000Z",
