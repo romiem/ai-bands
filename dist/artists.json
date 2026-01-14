@@ -930,6 +930,30 @@
     "instagram": null
   },
   {
+    "id": "antikaa",
+    "name": "Antikaa",
+    "dateAdded": "2026-01-14T21:23:43.457Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "human-lyrics",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2xXk03CJgMNJRB6CXzctgz",
+    "apple": "1826611521",
+    "amazon": "B0FHJFPGJH",
+    "youtube": "@antikaaofficial",
+    "tiktok": null,
+    "instagram": "antikaaofficial"
+  },
+  {
     "id": "apexwolf-beats",
     "name": "Apexwolf Beats",
     "dateAdded": "2025-12-09T22:32:57.000Z",
@@ -2352,13 +2376,14 @@
     "id": "broken-oracle",
     "name": "Broken Oracle",
     "dateAdded": "2026-01-09T08:24:10.681Z",
-    "dateUpdated": null,
-    "comments": "Static, AI-style images are used to represent the singer, with no video footage of real people. The band's social media presence is recent and minimal, reinforcing the impression of an artificial or automated project.",
+    "dateUpdated": "2026-01-14T21:22:13.812Z",
+    "comments": "The band's social media presence is recent and minimal, reinforcing the impression of an artificial or automated project. Social media questions asking for details about AI usage go unanswered.",
     "tags": [
       "ai-visuals",
       "anonymous",
       "high-output",
-      "minimal-bio"
+      "minimal-bio",
+      "inconsistent-style"
     ],
     "genres": [],
     "popularity": null,
@@ -2370,6 +2395,31 @@
     "youtube": "@brokenoraclemusic",
     "tiktok": "@brokenoracleband",
     "instagram": "brokenoraclemusic"
+  },
+  {
+    "id": "broken-record-kids",
+    "name": "broken record kids",
+    "dateAdded": "2026-01-14T21:18:46.746Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "human-lyrics",
+      "partial-ai",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5ZHL8LqKjdLnanGhNI8rPQ",
+    "apple": "1824770747",
+    "amazon": null,
+    "youtube": "UCn6ijpSKvLgPg7wo4bhE_uw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "brownhouse",
@@ -4185,6 +4235,29 @@
     "instagram": "driftnotion"
   },
   {
+    "id": "dropghost",
+    "name": "DropGhost",
+    "dateAdded": "2026-01-14T21:28:17.680Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "audio-artifacts",
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0e2ZAy1iauyFqjIj1Q0qCD",
+    "apple": "1827178126",
+    "amazon": "B0FHYSTR66",
+    "youtube": "@DropGhostMusic",
+    "tiktok": "@dropghostofficial",
+    "instagram": "dropghostofficial"
+  },
+  {
     "id": "drunken-night",
     "name": "drunken night",
     "dateAdded": "2025-12-09T21:45:56.000Z",
@@ -4913,6 +4986,32 @@
     "youtube": "@Eternal_Warriors",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "ethan-horahn",
+    "name": "Ethan Horahn",
+    "dateAdded": "2026-01-14T21:34:50.582Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states that AI is only used during the mastering process, however, the visuals on all socials raise suspicions that the artist is fictional.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "human-lyrics",
+      "partial-ai",
+      "high-output",
+      "self-disclosed-ai",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0eXcx3UhvkuuRBcc4LktP0",
+    "apple": "1789834031",
+    "amazon": "B0DRDH1QF9",
+    "youtube": "@ethanhorahn",
+    "tiktok": null,
+    "instagram": "ethanhorahn"
   },
   {
     "id": "ether-dark-motivation",
@@ -7536,6 +7635,30 @@
     "youtube": "@jaxtorm",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "jay-carney",
+    "name": "Jay Carney",
+    "dateAdded": "2026-01-14T21:30:12.269Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7amugpC7Kj2t6yuGhEH6NG",
+    "apple": "1669282038",
+    "amazon": "B00SL8V46M",
+    "youtube": "UCvL2Z2nnEKhhA3GsbXfEdyA",
+    "tiktok": null,
+    "instagram": "jaycarney59"
   },
   {
     "id": "jay-stacks-beats",
@@ -11759,6 +11882,30 @@
     "instagram": null
   },
   {
+    "id": "preaching-real",
+    "name": "Preaching Real",
+    "dateAdded": "2026-01-14T21:25:07.259Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0OW0RZQYsuoAn5o48urn2u",
+    "apple": "1852286010",
+    "amazon": "B0G25DH1V8",
+    "youtube": "UCbnuljbR3xHh1FtWmITEwjw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "procrastopia",
     "name": "Procrastopia",
     "dateAdded": "2025-12-22T13:29:59.000Z",
@@ -15125,9 +15272,14 @@
     "id": "the-hollow",
     "name": "The Hollow",
     "dateAdded": "2025-11-29T10:34:46.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-14T18:12:50.828Z",
+    "comments": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "human-lyrics",
+      "ai-visuals",
+      "anonymous"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
