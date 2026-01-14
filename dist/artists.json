@@ -9887,6 +9887,29 @@
     "instagram": "mithiclegendmusic"
   },
   {
+    "id": "miyunique",
+    "name": "Miyunique",
+    "dateAdded": "2026-01-14T10:06:48.143Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3eEhSN0SxKi7o2z3S2hCZh",
+    "apple": "1815605733",
+    "amazon": "B0F989D4KN",
+    "youtube": "@miyunique",
+    "tiktok": "@miyunique_official",
+    "instagram": "miyunique_official"
+  },
+  {
     "id": "modranicht",
     "name": "Modranicht",
     "dateAdded": "2025-12-16T10:06:00.000Z",
@@ -10184,6 +10207,29 @@
     "youtube": "@mythic-harmonies",
     "tiktok": "@mythic.harmonies",
     "instagram": "mythic.harmonies"
+  },
+  {
+    "id": "mythicrealm",
+    "name": "MythicRealm",
+    "dateAdded": "2026-01-14T10:08:13.060Z",
+    "dateUpdated": null,
+    "comments": "Generic AI male vocals, AI visual, anonymous",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7hc7GsgfI7mQaj63Uj74v8",
+    "apple": "1736355547",
+    "amazon": "B0CYC77BDH",
+    "youtube": "@mythicrealmmusic",
+    "tiktok": "@mythicrealmmusic",
+    "instagram": "mythicrealmmusic"
   },
   {
     "id": "mythictune",
@@ -12717,6 +12763,29 @@
     "instagram": null
   },
   {
+    "id": "samuel-cabana",
+    "name": "Samuel Cabana",
+    "dateAdded": "2026-01-14T10:09:10.736Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "no-social-presence",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7vhaBOU1bDfiEjSpcKeI2d",
+    "apple": "1829970627",
+    "amazon": "B0FKTGGY6K",
+    "youtube": "UCQJhQjM6OMLIbMbOl8C5KWQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "samurai-girl",
     "name": "Samurai Girl",
     "dateAdded": "2025-12-15T11:26:38.000Z",
@@ -13553,6 +13622,31 @@
     "apple": "1840217603",
     "amazon": "B0FRCK3G3W",
     "youtube": "UCK1tWZHvEyUk2YtCBm2HG8g",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "soaring-metal-lords",
+    "name": "Soaring Metal Lords",
+    "dateAdded": "2026-01-14T10:13:03.417Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3lAwrJ4xDxRcHECFBXrEtI",
+    "apple": "1771581078",
+    "amazon": "B0DJ9TXDFZ",
+    "youtube": "@lordayroul",
     "tiktok": null,
     "instagram": null
   },
@@ -16614,6 +16708,31 @@
     "instagram": null
   },
   {
+    "id": "wizflow-tunes",
+    "name": "WizFlow Tunes",
+    "dateAdded": "2026-01-14T10:16:18.291Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence",
+      "audio-artifacts",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2k264MCe3C3D0rtUpKJdDw",
+    "apple": "1857445507",
+    "amazon": "B0FD4XYFD8",
+    "youtube": "@wizflowtunes",
+    "tiktok": "@wizflow.tunes",
+    "instagram": null
+  },
+  {
     "id": "world-hive",
     "name": "World hive",
     "dateAdded": "2026-01-10T11:00:19.471Z",
@@ -16837,6 +16956,29 @@
     "youtube": "@yesterday.onceagain",
     "tiktok": "@yesterday1cagain",
     "instagram": "yesterday.onceagain"
+  },
+  {
+    "id": "yiikes",
+    "name": "Yiikes",
+    "dateAdded": "2026-01-14T10:19:04.452Z",
+    "dateUpdated": null,
+    "comments": "The artist's TikTok profile contains \"ai\" in the username, and the posts allude to AI usage.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4hxEQaGymmj3a2kZm1ClMW",
+    "apple": "1828841376",
+    "amazon": "B0FJXDDM12",
+    "youtube": "UCl5NJ01r9Brl6PKd6iYfhAg",
+    "tiktok": "@ai.yiikes",
+    "instagram": "ai.yiikes"
   },
   {
     "id": "yunna-serene",
