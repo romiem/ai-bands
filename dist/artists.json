@@ -135,6 +135,29 @@
     "instagram": "723chillbeats"
   },
   {
+    "id": "7even-sins",
+    "name": "7even Sins",
+    "dateAdded": "2026-01-14T09:50:37.322Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Z4s72zVZ26SCi5auS4Lwv",
+    "apple": "1775450423",
+    "amazon": "B09TY7ZQ8R",
+    "youtube": "@7even.Sins.x",
+    "tiktok": "@7evensins.official",
+    "instagram": "7evensins.official"
+  },
+  {
     "id": "88ds",
     "name": "88DS",
     "dateAdded": "2025-12-29T19:30:06.000Z",
@@ -5354,6 +5377,29 @@
     "instagram": "farshids"
   },
   {
+    "id": "feral-cry",
+    "name": "Feral Cry",
+    "dateAdded": "2026-01-14T09:52:31.569Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"AI Heavy Metal Music at it's best.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "33c1CjZH8vHeaOoqGWr4kp",
+    "apple": "1754239332",
+    "amazon": "B0D8499JSQ",
+    "youtube": "@FeralCry",
+    "tiktok": "@feralcry",
+    "instagram": "feralcry"
+  },
+  {
     "id": "fierlayce",
     "name": "Fierlayce",
     "dateAdded": "2025-12-21T20:50:38.000Z",
@@ -6749,6 +6795,28 @@
     "instagram": null
   },
   {
+    "id": "horizon-tunes",
+    "name": "Horizon Tunes",
+    "dateAdded": "2026-01-14T09:54:46.066Z",
+    "dateUpdated": null,
+    "comments": "The YouTube channel states that they are \"Blending human creativity with artificial intelligence to create music you've never heard before.\"",
+    "tags": [
+      "anonymous",
+      "self-disclosed-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "62AWrGiPFHTdnLN1Lzxjno",
+    "apple": null,
+    "amazon": "B07T2TCXNL",
+    "youtube": "@horizontunes",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "horror-disco",
     "name": "Horror Disco",
     "dateAdded": "2026-01-07T12:59:31.356Z",
@@ -6844,6 +6912,30 @@
     "youtube": "@Hroldar",
     "tiktok": "@hroldar",
     "instagram": "hroldar_official"
+  },
+  {
+    "id": "hroth",
+    "name": "Hroth",
+    "dateAdded": "2026-01-14T09:56:27.637Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6fAbPELNKoQiLUfynqiDfD",
+    "apple": "1786842516",
+    "amazon": "B0DRRK3DM8",
+    "youtube": "UCdfQBGvurTmkKLXl2dGEOwQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "hushveil",
@@ -7549,6 +7641,29 @@
     "amazon": "B09QMM6BPD",
     "youtube": "UCehVorWV7dwh01hRPt2IKQA",
     "tiktok": "@johnnypaigemusic",
+    "instagram": null
+  },
+  {
+    "id": "johnny-red-keys-callahan",
+    "name": "Johnny “Red Keys” Callahan",
+    "dateAdded": "2026-01-14T09:40:37.996Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4edyFpE41JpkLNwq3xiaJn",
+    "apple": null,
+    "amazon": "B0FNN1V7G3",
+    "youtube": "UCX78Ag9z4XdfKt1P7ced6Aw",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -8341,6 +8456,29 @@
     "amazon": "B0FJ9YNYDN",
     "youtube": null,
     "tiktok": "@kyushu_music",
+    "instagram": null
+  },
+  {
+    "id": "l-aurah",
+    "name": "L'aurah",
+    "dateAdded": "2026-01-14T09:48:35.240Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"L'Aurah is a synthetic artist. Her image and songs were created using artificial intelligence, while the lyrics, ideas, emotions, and musical style are guided by me.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "human-lyrics",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6jhtibfsJUEtyv38EJomqd",
+    "apple": "1847923816",
+    "amazon": "B0F5PXPD6M",
+    "youtube": "@Laurahmusic",
+    "tiktok": "@laurahmusicofficial",
     "instagram": null
   },
   {
@@ -10505,16 +10643,20 @@
     "id": "noah-thorne",
     "name": "Noah Thorne",
     "dateAdded": "2025-12-09T21:15:45.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-14T09:45:07.779Z",
+    "comments": "The artist uses #AIArtist tags and similar on Instagram.",
+    "tags": [
+      "self-disclosed-ai",
+      "minimal-bio",
+      "ai-visuals"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "1wDJ9lRkh1vQTnN46SiQ4u",
     "apple": "1846756417",
-    "amazon": null,
+    "amazon": "B0FWK4TD48",
     "youtube": "@noahthornemusic",
     "tiktok": "@noahthornemusic",
     "instagram": "noahthornemusic"
@@ -14522,9 +14664,14 @@
     "id": "the-bardic-dm",
     "name": "The Bardic DM",
     "dateAdded": "2025-12-02T17:03:39.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-14T09:58:17.222Z",
+    "comments": "The YouTube bio states that they produce \"custom AI-generated songs inspired by classic campaign fails.\"",
+    "tags": [
+      "high-output",
+      "self-disclosed-ai",
+      "partial-ai",
+      "ai-visuals"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -15141,9 +15288,13 @@
     "id": "theskeletonslibrary",
     "name": "TheSkeletonsLibrary",
     "dateAdded": "2025-12-10T17:16:34.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-14T09:44:52.640Z",
+    "comments": "Spotify bio states: \"The Skeletons Library is a modern metal project built on real human emotion and brought to life through the power of AI.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
