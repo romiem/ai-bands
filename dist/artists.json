@@ -852,6 +852,28 @@
     "instagram": "angelbaby"
   },
   {
+    "id": "angelina-mormando",
+    "name": "Angelina Mormando",
+    "dateAdded": "2026-01-15T20:05:01.667Z",
+    "dateUpdated": null,
+    "comments": "The Spotify description states that the project is \"is a virtual artist.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4rYruNinsmb8uS86TM2qGX",
+    "apple": "1832348763",
+    "amazon": "B0FLX6PDDF",
+    "youtube": "@AngelinaMormando",
+    "tiktok": "@angelinamormandomusic",
+    "instagram": "angelinamormando"
+  },
+  {
     "id": "angelofanarchy",
     "name": "AngelofAnarchy",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -976,6 +998,28 @@
     "youtube": "@antikaaofficial",
     "tiktok": null,
     "instagram": "antikaaofficial"
+  },
+  {
+    "id": "antonin-herbeck",
+    "name": "Antonin Herbeck",
+    "dateAdded": "2026-01-15T20:06:20.713Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1iQiTD3X6TmEBJbTR1jsRu",
+    "apple": "1605417879",
+    "amazon": "B09QJGN6ZK",
+    "youtube": "@antoninherbeck8836",
+    "tiktok": "@antoninherbeck",
+    "instagram": "antoninherbeck"
   },
   {
     "id": "apexwolf-beats",
@@ -4459,9 +4503,14 @@
     "id": "echoesofvelandria",
     "name": "EchoesOfVelandria",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-15T20:01:14.758Z",
+    "comments": "The YouTube bio states: \"for every song, I personally write the lyrics and the musical structure. AI is then used to produce the vocals and music.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -6682,6 +6731,28 @@
     "instagram": null
   },
   {
+    "id": "hellena-banner",
+    "name": "Hellena Banner",
+    "dateAdded": "2026-01-15T20:30:47.785Z",
+    "dateUpdated": null,
+    "comments": "The artist acknowledges usage of AI on hug.art.",
+    "tags": [
+      "minimal-bio",
+      "self-disclosed-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Z6a7hGL1tkHfN0UW36RUt",
+    "apple": null,
+    "amazon": "B0DHG59RJ1",
+    "youtube": "UCjVemcM81dCtH2sZcLF7cUw",
+    "tiktok": null,
+    "instagram": "vantablack_1988"
+  },
+  {
     "id": "henri-werner",
     "name": "Henri Werner",
     "dateAdded": "2025-12-18T14:48:46.000Z",
@@ -7794,6 +7865,28 @@
     "instagram": "jerrybaccardi"
   },
   {
+    "id": "jerrys-sound-room",
+    "name": "JERRY'S SOUND ROOM",
+    "dateAdded": "2026-01-15T20:34:28.437Z",
+    "dateUpdated": null,
+    "comments": "This artist is suspected to be a recreation of the voice of Jerry Garcia, vocalist of the Grateful Dead, who has been dead since 1995.",
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0tuO2DDZTKEQ6t6RT47WKH",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@JerrysSoundRoom",
+    "tiktok": "@jerry.soundroom",
+    "instagram": null
+  },
+  {
     "id": "jg-horizon",
     "name": "JG Horizon",
     "dateAdded": "2026-01-08T16:02:57.231Z",
@@ -8513,6 +8606,28 @@
     "instagram": null
   },
   {
+    "id": "kintsugi-crusade",
+    "name": "Kintsugi Crusade",
+    "dateAdded": "2026-01-15T20:28:30.401Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2jrV0SnQ9caIiAgyM8QFVe",
+    "apple": "1864818691",
+    "amazon": "B0GCZLMFG3",
+    "youtube": "UChuinVKhgOvLqI-SHFgyLXg",
+    "tiktok": "@kintsugi.crusade",
+    "instagram": null
+  },
+  {
     "id": "kiss-me-dead",
     "name": "KISS ME DEAD",
     "dateAdded": "2025-12-18T18:38:25.000Z",
@@ -9023,6 +9138,28 @@
     "youtube": "@LockandKeyVibes",
     "tiktok": "@lockandkeyvibes",
     "instagram": "lockandkeyvibes"
+  },
+  {
+    "id": "logofox",
+    "name": "LogoFox",
+    "dateAdded": "2026-01-15T20:10:37.149Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1SBKUCSv0lMankDasprEAF",
+    "apple": "1759769407",
+    "amazon": "B0DBHBGGQV",
+    "youtube": "@LogoFoxMusic",
+    "tiktok": null,
+    "instagram": "logofoxofficial"
   },
   {
     "id": "lolita",
@@ -10219,6 +10356,28 @@
     "instagram": null
   },
   {
+    "id": "mokepouch",
+    "name": "Mokepouch",
+    "dateAdded": "2026-01-15T20:03:23.811Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "no-social-presence",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7kpsGMTYZdrGX8P4EwUpsv",
+    "apple": "1824195201",
+    "amazon": null,
+    "youtube": "UCEGNZ3L3gs3SOQReDMnAppg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "moon-soul",
     "name": "Moon Soul",
     "dateAdded": "2025-12-11T16:45:39.000Z",
@@ -10848,6 +11007,27 @@
     "youtube": "UC0SXzhrt2zMyE9ifTt3iiSg",
     "tiktok": "@iamnickhustles",
     "instagram": "nickhustles"
+  },
+  {
+    "id": "nicola-nicoletti",
+    "name": "Nicola Nicoletti",
+    "dateAdded": "2026-01-15T20:08:13.945Z",
+    "dateUpdated": null,
+    "comments": "On the Spotify bio, the artist self describes themselves as \"a virtual artist.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "inconsistent-style"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6JmeD3Lackhx3lVpRchqTL",
+    "apple": "1827494033",
+    "amazon": "B0DZ8BB4VR",
+    "youtube": "@NicolaNicolettiMusic",
+    "tiktok": "@nicolanicolettimusic",
+    "instagram": "nicolanicolettimusic"
   },
   {
     "id": "niexshadow",
@@ -11778,6 +11958,27 @@
     "instagram": null
   },
   {
+    "id": "photoserge",
+    "name": "Photoserge",
+    "dateAdded": "2026-01-15T20:02:37.301Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2onKmM2RXRYy9TOa6ZWUxw",
+    "apple": "1835129616",
+    "amazon": null,
+    "youtube": "@photoserge",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "phyyy",
     "name": "Phyyy",
     "dateAdded": "2026-01-02T15:05:58.000Z",
@@ -12389,6 +12590,31 @@
     "instagram": "reformedanddangerous"
   },
   {
+    "id": "relatone",
+    "name": "Relatone",
+    "dateAdded": "2026-01-15T20:36:07.877Z",
+    "dateUpdated": null,
+    "comments": "Relatone has self-disclosed AI usage for vocals and the music itself, but has stated that they write the lyrics.",
+    "tags": [
+      "ai-visuals",
+      "partial-ai",
+      "high-output",
+      "human-lyrics",
+      "self-disclosed-ai",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "21hT04PtXaWqbH940eWaS9",
+    "apple": "1844906756",
+    "amazon": "B0FVB4Q9HR",
+    "youtube": "@relatone",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "remake-gospel-brasil",
     "name": "Remake Gospel Brasil",
     "dateAdded": "2025-12-20T12:06:51.000Z",
@@ -12986,6 +13212,28 @@
     "youtube": "@RuntimeStudios",
     "tiktok": "@runtime_studios",
     "instagram": "runtimestudios"
+  },
+  {
+    "id": "s-quill",
+    "name": "S. Quill",
+    "dateAdded": "2026-01-15T20:29:16.153Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1GVzqjmKzh8Za8WPukMUKY",
+    "apple": "1862961202",
+    "amazon": "B0G9J6PSN7",
+    "youtube": "@S.Quill.YouTube",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "s3xxx",
@@ -16207,6 +16455,29 @@
     "instagram": "officialtunesofthefuture"
   },
   {
+    "id": "twisted-f8",
+    "name": "Twisted F8",
+    "dateAdded": "2026-01-15T20:27:28.034Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states that they use \"new AI-assisted technology to help build the instrumental layers behind the band's vision.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "no-social-presence",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3mYb8DMaOhT3fROy7YNKVO",
+    "apple": "1845576003",
+    "amazon": "B0FVKWS5KP",
+    "youtube": "@TwistedF8band",
+    "tiktok": "@twisted.f8.band",
+    "instagram": null
+  },
+  {
     "id": "twisted-game-songs",
     "name": "Twisted Game Songs",
     "dateAdded": "2025-11-30T20:55:16.000Z",
@@ -17692,6 +17963,29 @@
     "apple": "1823407483",
     "amazon": "B0FFZMW2BC",
     "youtube": "@YvoraScripts",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "zancrowstudio",
+    "name": "ZancrowStudio",
+    "dateAdded": "2026-01-15T20:37:48.666Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states that all music and artwork is \"created with use of AI, meanwhile remixing, mastering and editing is done by our Studio.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "human-lyrics",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4zmP9hFN6enx7MB0DAqWqc",
+    "apple": null,
+    "amazon": "B0DNRNXKBM",
+    "youtube": "@zancrow376",
     "tiktok": null,
     "instagram": null
   },
