@@ -1,8 +1,0 @@
-#!/usr/bin/env sh
-
-# Prevent committing dist/artists.json
-if git diff --cached --name-only | node -e "process.stdin.on('data', d => process.exit(d.toString().split('\n').some(f => f === 'dist/artists.json') ? 0 : 1))"; then
-  echo "dist/artists.json is auto-generated. Please do not commit it with your PR."
-  git restore --staged -- dist/artists.json
-  echo "dist/artists.json has been unstaged from this commit."
-fi
