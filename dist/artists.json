@@ -302,6 +302,27 @@
     "instagram": "abercrombiemusic"
   },
   {
+    "id": "abscond",
+    "name": "abscond",
+    "dateAdded": "2026-01-16T13:43:54.334Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1I3whUpIkMLTIDkEaETcHe",
+    "apple": "1859916840",
+    "amazon": "B084QFKKMV",
+    "youtube": "UCJ7Gt8z5sPFZeWVSqjFz_8w",
+    "tiktok": "@absc_nd",
+    "instagram": "asbc_nd"
+  },
+  {
     "id": "action-cop",
     "name": "Action Cop",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -386,6 +407,30 @@
     "apple": "1849238880",
     "amazon": "B0FYN65BKQ",
     "youtube": "UC26O6Oy5WORJI_NVEO9eebw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "after-midnight",
+    "name": "After Midnight",
+    "dateAdded": "2026-01-16T13:47:26.091Z",
+    "dateUpdated": null,
+    "comments": "This artist has an alias \"After Midnight Deep\" which publishes similar songs.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "40oe3PuiYS57cZk7h31VnP",
+    "apple": "1688029918",
+    "amazon": null,
+    "youtube": "UCWJ6A5PbSP5k3paQ7N5Jc7A",
     "tiktok": null,
     "instagram": null
   },
@@ -2449,14 +2494,12 @@
     "id": "broken-oracle",
     "name": "Broken Oracle",
     "dateAdded": "2026-01-09T08:24:10.681Z",
-    "dateUpdated": "2026-01-14T21:22:13.812Z",
-    "comments": "The band's social media presence is recent and minimal, reinforcing the impression of an artificial or automated project. Social media questions asking for details about AI usage go unanswered.",
+    "dateUpdated": "2026-01-16T16:04:07.314Z",
+    "comments": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed.",
     "tags": [
       "ai-visuals",
-      "anonymous",
-      "high-output",
-      "minimal-bio",
-      "inconsistent-style"
+      "partial-ai",
+      "self-disclosed-ai"
     ],
     "genres": [],
     "popularity": null,
@@ -3456,6 +3499,32 @@
     "instagram": "danylends"
   },
   {
+    "id": "dannyho",
+    "name": "DannyHO",
+    "dateAdded": "2026-01-16T13:41:32.889Z",
+    "dateUpdated": null,
+    "comments": "The artist has over 2000 song releases in the past 2 years.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style",
+      "anonymous",
+      "audio-artifacts",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2JbSO56Km4UNAcnzcgcm0D",
+    "apple": "1726143563",
+    "amazon": null,
+    "youtube": "@DannyHoMusic",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "dark-cloud",
     "name": "dark_cloud",
     "dateAdded": "2025-12-08T10:34:43.000Z",
@@ -3896,6 +3965,28 @@
     "youtube": "@DethlordProductions",
     "tiktok": "@dethlordproductions",
     "instagram": "dethlordproductions"
+  },
+  {
+    "id": "deuceai",
+    "name": "DeuceAI",
+    "dateAdded": "2026-01-16T15:12:28.565Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states that the project is \"a tribute through AI crafted music.\" Furthermore, the YouTube bio states: \"Everything on this YouTube channel was created with the help of the AI, in a way or another.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0XyjWS1YJkC8UhsQH8Peia",
+    "apple": "1738682322",
+    "amazon": "B0CZGHKWYM",
+    "youtube": "@DeuceAI",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "deus-metallicus",
@@ -9998,6 +10089,30 @@
     "instagram": null
   },
   {
+    "id": "mela-mirage",
+    "name": "Mela Mirage",
+    "dateAdded": "2026-01-16T13:49:13.126Z",
+    "dateUpdated": null,
+    "comments": "The Youtube bio states: \"Concepts and lyrics by Mela Mirage. Audio provided by Suno.com. Mixing and mastering by Mela Mirage/Suno.com.\"",
+    "tags": [
+      "partial-ai",
+      "self-disclosed-ai",
+      "high-output",
+      "human-lyrics",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4xUvh9IpOF7oOpTiRn6YJT",
+    "apple": "1819577335",
+    "amazon": "B0FCTSNMGB",
+    "youtube": "@MelaMirage",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "melodai-official",
     "name": "MelodAI_Official",
     "dateAdded": "2026-01-05T20:29:17.000Z",
@@ -13063,6 +13178,30 @@
     "instagram": null
   },
   {
+    "id": "rosie-k",
+    "name": "Rosie K",
+    "dateAdded": "2026-01-16T15:07:25.971Z",
+    "dateUpdated": null,
+    "comments": "The artist's record label, Colossal, describes her as their first AI artist from East Africa.",
+    "tags": [
+      "audio-artifacts",
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3rGBFFpO9DoLoLyxGWKlZT",
+    "apple": "1839525101",
+    "amazon": "B0F3XLPZ8Z",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": "officialrosiek"
+  },
+  {
     "id": "royal-tracks",
     "name": "Royal Tracks",
     "dateAdded": "2025-12-15T11:37:31.000Z",
@@ -13761,6 +13900,27 @@
     "youtube": "UCmVUZ4OTnv0h-kP_Nsv-7oA",
     "tiktok": "@.serinx",
     "instagram": "serinx.music"
+  },
+  {
+    "id": "seth-abstract",
+    "name": "Seth Abstract",
+    "dateAdded": "2026-01-16T15:22:17.465Z",
+    "dateUpdated": null,
+    "comments": "The artist states on their Spotify bio: \"Using Suno to make new sounds.\" They state that all visuals are created by themselves.",
+    "tags": [
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3Vz4C6LwMn0pJblnXUrT2m",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@SethMakesSongs",
+    "tiktok": "@seth.makes.songs",
+    "instagram": "seth_songs"
   },
   {
     "id": "seth-summers",
@@ -14871,9 +15031,14 @@
     "id": "spade-of-sparta",
     "name": "Spade Of Sparta",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-16T15:52:20.849Z",
+    "comments": "The artist states on their Spotify bio that \"I use AI to help build each project but I assure you the humanity is in it, sampling instruments, my vocals or just arrangement.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "self-disclosed-ai",
+      "partial-ai"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
