@@ -1155,6 +1155,30 @@
     "instagram": null
   },
   {
+    "id": "arae",
+    "name": "ARAÉ",
+    "dateAdded": "2026-01-16T16:20:28.447Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio describes themselves as a \"virtual artist\" and utilises hashtags such as #AIMusic and #VirtualArtist.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "42J5JULUFdteDdTuc3bgr6",
+    "apple": "1818965747",
+    "amazon": "B0FC69J2VG",
+    "youtube": "@ARAE-MUSIC",
+    "tiktok": "@arae_music_official",
+    "instagram": "arae_music_official"
+  },
+  {
     "id": "aria-byte",
     "name": "Aria Byte",
     "dateAdded": "2026-01-03T17:16:50.000Z",
@@ -14025,6 +14049,30 @@
     "amazon": null,
     "youtube": null,
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "shadowthorn",
+    "name": "Shadowthorn",
+    "dateAdded": "2026-01-16T16:24:56.806Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "36of2ApreJGvgEs7DYgfby",
+    "apple": "1865721950",
+    "amazon": "B0CMJMVLTQ",
+    "youtube": "UC3u0DRk5yNJGQ3hATFrIj6A",
+    "tiktok": "@shadowthornmusic",
     "instagram": null
   },
   {
