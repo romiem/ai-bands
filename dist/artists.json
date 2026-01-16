@@ -1250,6 +1250,33 @@
     "instagram": null
   },
   {
+    "id": "artificial-individual",
+    "name": "Artificial Individual",
+    "dateAdded": "2026-01-16T17:25:50.372Z",
+    "dateUpdated": null,
+    "comments": "Their Spotify bio states: \"Every lyric is 100% authentically my own, but the vocals are A.I powered.\"",
+    "tags": [
+      "ai-visuals",
+      "human-lyrics",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence",
+      "self-disclosed-ai",
+      "partial-ai",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3T6UjjC5toqZtnqMY1uZ4x",
+    "apple": "1855932882",
+    "amazon": "B0G4LPWGP1",
+    "youtube": "@artificialindividual",
+    "tiktok": "@artificial.indivd",
+    "instagram": "artificialindividual90"
+  },
+  {
     "id": "artimus-ion",
     "name": "Artimus Ion",
     "dateAdded": "2026-01-02T19:24:02.000Z",
@@ -10240,6 +10267,27 @@
     "instagram": null
   },
   {
+    "id": "mermaidonmars",
+    "name": "mermaidonmars",
+    "dateAdded": "2026-01-16T17:22:36.912Z",
+    "dateUpdated": null,
+    "comments": "The artist has stated that her album \"Ann In The Shanty\" is an \"AI-driven album\" and \"Every song is crafted with AI and my own lyrics, blending tech and emotion.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3E3Bhr9cOUCWhjJhNZeTAX",
+    "apple": "1691151442",
+    "amazon": null,
+    "youtube": "@mermaidonmars",
+    "tiktok": "@mermaidonmars",
+    "instagram": "mermaidonmars1"
+  },
+  {
     "id": "metalus-prime",
     "name": "Metalus Prime",
     "dateAdded": "2025-12-22T13:49:50.000Z",
@@ -13042,6 +13090,30 @@
     "apple": "73404893",
     "amazon": "B0G83K2XYJ",
     "youtube": "UCxx9S4Tw9JlhxhZZb032rUg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "riottheory",
+    "name": "RiotTheory",
+    "dateAdded": "2026-01-16T17:21:05.628Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6ZiCtCANkfvGfpsv6in9n8",
+    "apple": "1813688436",
+    "amazon": "B0F899THXJ",
+    "youtube": "@riottheory",
     "tiktok": null,
     "instagram": null
   },
