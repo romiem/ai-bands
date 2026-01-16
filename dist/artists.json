@@ -725,6 +725,29 @@
     "instagram": null
   },
   {
+    "id": "amarie",
+    "name": "Amarie",
+    "dateAdded": "2026-01-16T20:57:32.486Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "anonymous",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "241fqh7mSk4e5ssRiNSjqX",
+    "apple": "1861484616",
+    "amazon": "B004NHWHFW",
+    "youtube": "UC8lcepKEChAMjyQ5KfchUQA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "amazy-music",
     "name": "Amazy Music",
     "dateAdded": "2026-01-13T21:09:58.642Z",
@@ -5395,6 +5418,29 @@
     "instagram": "everfadeband"
   },
   {
+    "id": "everhits-moritabari",
+    "name": "EverHits-moritabari",
+    "dateAdded": "2026-01-16T20:55:41.143Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"The voice you hear in my songs is AI-generated.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "human-lyrics",
+      "partial-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3Q8qy6lloVxFZ441RTQpu5",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@everhits-moritabari",
+    "tiktok": "@moritabari",
+    "instagram": "everhitsmoritabari"
+  },
+  {
     "id": "exiled-from-hell",
     "name": "Exiled From Hell",
     "dateAdded": "2025-12-08T11:35:27.000Z",
@@ -8373,6 +8419,30 @@
     "instagram": null
   },
   {
+    "id": "jw-broken-veteran",
+    "name": "JW \"Broken Veteran\"",
+    "dateAdded": "2026-01-16T20:50:35.992Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Poetry has always been my outlet, and thanks to AI technology, I can now transform my self-written lyrics into music that touches hearts.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7vpoGzvUHw31dnQlyd5YSW",
+    "apple": "1814385587",
+    "amazon": "B0F8PL5SHM",
+    "youtube": "@JWBrokenVeteran1",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "kairo-mansa",
     "name": "Kairo Mansa",
     "dateAdded": "2025-12-30T19:07:00.000Z",
@@ -8666,6 +8736,31 @@
     "youtube": "@KenkeNightcore",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "kenobix",
+    "name": "Kenobix",
+    "dateAdded": "2026-01-16T20:58:54.474Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"By blending the shared atmospheres of artificial intelligence and human creativity, we aim to create music that is not only heard, but felt.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "31kBLs6YEfXb80JytFuxPr",
+    "apple": "1834747291",
+    "amazon": "B0FNBZ4NXQ",
+    "youtube": "@KenobixMusic",
+    "tiktok": null,
+    "instagram": "kenobixl"
   },
   {
     "id": "ketlyn-blake",
@@ -9230,6 +9325,30 @@
     "instagram": "letters_from_ghosts"
   },
   {
+    "id": "lg0r",
+    "name": "lG0R",
+    "dateAdded": "2026-01-16T20:54:19.827Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
+    "tags": [
+      "partial-ai",
+      "self-disclosed-ai",
+      "human-lyrics",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2jqyq4qkWVmYItaq6O3lwA",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCvr3Mr-piqGYhtsHVy3NHUg",
+    "tiktok": null,
+    "instagram": "its_lg0r"
+  },
+  {
     "id": "lin-rae",
     "name": "LinRae",
     "dateAdded": "2025-12-16T18:12:50.000Z",
@@ -9308,6 +9427,29 @@
     "apple": "1825378455",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "lipocalypse",
+    "name": "Lipocalypse",
+    "dateAdded": "2026-01-16T20:49:27.721Z",
+    "dateUpdated": null,
+    "comments": "The artist is featured often alongside another AI band called 'Silas Grime'.",
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "audio-artifacts",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "03Nvv5RhJak8JCRbLaDsyh",
+    "apple": "1866725407",
+    "amazon": "B0GF3ZGSWF",
+    "youtube": "UCOkyWw6S5lWn74FcHRsC6fA",
     "tiktok": null,
     "instagram": null
   },
@@ -9939,6 +10081,30 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "manifestica-studio",
+    "name": "manifestica_studio",
+    "dateAdded": "2026-01-16T21:04:10.922Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"The sound is crafted with the support of AI tools.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7kzZVbD8lYi5Rn7GYinpNf",
+    "apple": "1853786746",
+    "amazon": "B0G2P88YDF",
+    "youtube": "@manifestica_studio",
+    "tiktok": "@manifestica_studio",
+    "instagram": "manifestica_studio"
   },
   {
     "id": "manifestmusic-studio",
@@ -12581,6 +12747,30 @@
     "youtube": "@PuppetSpider",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "r3alson",
+    "name": "R3ALSON릴슨",
+    "dateAdded": "2026-01-16T20:51:57.572Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "inconsistent-style",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0es1ucz1CGN2QdXf9mnTia",
+    "apple": "1829100466",
+    "amazon": "B0FK2MP8TY",
+    "youtube": "@R3ALSON릴슨",
+    "tiktok": "@r3alson0",
+    "instagram": "realson_r3alson"
   },
   {
     "id": "radio-mandanga",
@@ -17673,6 +17863,29 @@
     "youtube": "@voxnaris",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "vurtist",
+    "name": "Vurtist",
+    "dateAdded": "2026-01-16T21:14:52.292Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "09ak85WqX61k5hMxvHFitc",
+    "apple": "1786384417",
+    "amazon": "B0DQWFXGS1",
+    "youtube": "@vurtist",
+    "tiktok": "@vurtist",
+    "instagram": "vurtist"
   },
   {
     "id": "vyra",
