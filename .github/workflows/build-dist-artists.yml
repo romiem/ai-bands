@@ -3,15 +3,7 @@ name: Build dist
 on:
   push:
     branches:
-      - "**"
-    paths:
-      - "src/**/*.json"
-      - "artist.schema.json"
-      - ".github/scripts/build-dist.js"
-      - ".github/workflows/build-dist.yml"
-  pull_request:
-    branches:
-      - "**"
+      - main
     paths:
       - "src/**/*.json"
       - "artist.schema.json"
@@ -45,11 +37,13 @@ jobs:
       - name: Build dist/artists.json
         run: node .github/scripts/build-dist-artists.js
 
-        # Only commit if not a pull request
-      - name: Commit and push changes
+        # Only create PR if not already a pull request and on main
+      - name: Create Pull Request for changes
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && success()
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: peter-evans/create-pull-request@v8
         with:
-          commit_message: 'Auto-build: update dist/artists.json'
-          file_pattern: 'src/*.json dist/artists.json'
-          commit_options: '--no-verify' # skips Husky precommit task
+          commit-message: 'Auto-build: update dist/artists.json'
+          title: 'Auto-build: update dist/artists.json'
+          body: 'Automated update of dist/artists.json'
+          branch: auto-build/update-dist-artists
+          delete-branch: true
