@@ -1,9 +1,9 @@
 <div align="center">
     <a href="https://souloverai.com" target="_blank">
-    <p><img src="https://raw.githubusercontent.com/romiem/soul-over-ai/refs/heads/main/.github/images/logo.png" width="600" alt="Soul Over AI Logo"></p>
+    <p><img src="https://raw.githubusercontent.com/xoundbyte/soul-over-ai/refs/heads/main/.github/images/logo.png" width="600" alt="Soul Over AI Logo"></p>
     <p>https://souloverai.com</p>
     </a>
-  <p><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/romiem/soul-over-ai/contents/src&query=$.length&label=AI%20artists%20tracked&color=d77250" /></p>
+  <p><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/xoundbyte/soul-over-ai/contents/src&query=$.length&label=AI%20artists%20tracked&color=d77250" /></p>
 </div>
 
 
@@ -25,7 +25,7 @@ This project collects AI artist data submitted by the community via [souloverai.
 Each submission triggers a manual review process before being added to the list.
 While the community provides the raw data, the ongoing curation, validation, and maintenance of the dataset are managed independently.
 If you find this project useful, optional support for the maintenance work is available via [Ko-fi](https://ko-fi.com/souloverai).
-<p><a href="https://ko-fi.com/souloverai" target="_blank"><img src="https://raw.githubusercontent.com/romiem/soul-over-ai/refs/heads/main/.github/images/support.png" width="180" alt="Support this project"></a></p>
+<p><a href="https://ko-fi.com/souloverai" target="_blank"><img src="https://raw.githubusercontent.com/xoundbyte/soul-over-ai/refs/heads/main/.github/images/support.png" width="180" alt="Support this project"></a></p>
 
 ## Disclaimer
 > [!CAUTION]

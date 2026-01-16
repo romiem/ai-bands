@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romiem/soul-over-ai.git"
+    "url": "git+https://github.com/xoundbyte/soul-over-ai.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/romiem/soul-over-ai/issues"
+    "url": "https://github.com/xoundbyte/soul-over-ai/issues"
   },
-  "homepage": "https://github.com/romiem/soul-over-ai#readme",
+  "homepage": "https://github.com/xoundbyte/soul-over-ai#readme",
   "devDependencies": {
     "@octokit/rest": "^21.0.2",
     "@sindresorhus/slugify": "^3.0.0",
