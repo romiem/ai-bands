@@ -2,9 +2,14 @@
   "id": "bleeding-verse",
   "name": "Bleeding Verse",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "comments": null,
-  "tags": [],
+  "dateUpdated": "2026-01-16T10:19:44.819Z",
+  "comments": "The Spotify bio states: \"Human lyrics, turned to songs with AI.\"",
+  "tags": [
+    "self-disclosed-ai",
+    "no-social-presence",
+    "ai-visuals",
+    "human-lyrics"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
