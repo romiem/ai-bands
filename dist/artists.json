@@ -7127,6 +7127,31 @@
     "instagram": null
   },
   {
+    "id": "home-alone",
+    "name": "home alone.",
+    "dateAdded": "2026-01-16T19:33:46.663Z",
+    "dateUpdated": null,
+    "comments": "The artist has disclosed the use of AI to expedite the production process in YouTube comments on some of their videos.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "partial-ai",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6vmO4MZo5U4K4s9TtgWweO",
+    "apple": "1761186345",
+    "amazon": null,
+    "youtube": "@homealoneagain.",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "honey-and-the-velvet-revival",
     "name": "Honey & The Velvet Revival",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -7488,6 +7513,31 @@
     "amazon": "B0FTJV36GD",
     "youtube": "@IfrappersMadeBlues",
     "tiktok": "@ifrappersmadeblues",
+    "instagram": null
+  },
+  {
+    "id": "if-rappers-made-country",
+    "name": "If Rappers Made Country",
+    "dateAdded": "2026-01-16T19:35:29.660Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "audio-artifacts",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7kzas3DrAAIQXXdaUDB6Hd",
+    "apple": "1850356861",
+    "amazon": "B0FZ99LXMQ",
+    "youtube": "@IfRappersMadeRealcountry",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -13444,6 +13494,27 @@
     "instagram": null
   },
   {
+    "id": "runenhain",
+    "name": "Runenhain",
+    "dateAdded": "2026-01-16T19:37:28.583Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states that their music is \"created by advanced AI from udio.com.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "26EbBoQ6ZjKJzuSWZ9Ewmq",
+    "apple": "1745869628",
+    "amazon": "B0D3Y3N586",
+    "youtube": "@Runenhain",
+    "tiktok": null,
+    "instagram": "runenhain"
+  },
+  {
     "id": "runes-of-the-north",
     "name": "Runes of the North",
     "dateAdded": "2025-12-08T11:07:52.000Z",
@@ -15518,6 +15589,31 @@
     "youtube": "UCPpsPchGZaGzhavVS-DzrCw",
     "tiktok": null,
     "instagram": "sibi42_"
+  },
+  {
+    "id": "sybilanta",
+    "name": "Sybilanta",
+    "dateAdded": "2026-01-16T19:29:14.300Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "audio-artifacts",
+      "self-disclosed-ai",
+      "human-lyrics",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "32kJyv7Ov7lVdqgSUXvmuU",
+    "apple": "1839947627",
+    "amazon": null,
+    "youtube": "UCDT2EZWOQW58QhtP0H-h4kA",
+    "tiktok": null,
+    "instagram": "sybilanta"
   },
   {
     "id": "synn",
