@@ -87,6 +87,30 @@
     "instagram": null
   },
   {
+    "id": "5-days-left",
+    "name": "5 Days Left",
+    "dateAdded": "2026-01-17T12:17:09.827Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7IxXElCFQdUjQ8jcKvB6jH",
+    "apple": "1824975316",
+    "amazon": "B0FH1QKWPX",
+    "youtube": "@5daysLeftMusic",
+    "tiktok": "@5daysleftmusic",
+    "instagram": "5daysleftmusic"
+  },
+  {
     "id": "50-mark-club",
     "name": "50 Mark Club",
     "dateAdded": "2025-12-24T12:53:23.000Z",
@@ -3372,6 +3396,30 @@
     "instagram": "crowningflameofficial"
   },
   {
+    "id": "cut-davis",
+    "name": "Cut Davis",
+    "dateAdded": "2026-01-17T11:47:16.404Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1i6IrVs1J6EBtOFNXhn630",
+    "apple": "1841358078",
+    "amazon": "B0FSKZTVZG",
+    "youtube": "UC75Fsh4KS3J2kXMBV51qQVg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "cvllxxx",
     "name": "CVllXXX",
     "dateAdded": "2025-12-24T22:25:19.000Z",
@@ -5400,6 +5448,30 @@
     "instagram": "euryeth"
   },
   {
+    "id": "everendora",
+    "name": "Everendora",
+    "dateAdded": "2026-01-17T12:08:52.662Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states that it is a \"project that fuses heartfelt lyricism with Logic Pro production and AI creativity.\"",
+    "tags": [
+      "minimal-bio",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4hRCYzLaKSMCcS32KiuPl2",
+    "apple": "1843754226",
+    "amazon": null,
+    "youtube": "UCo7bJUP2d5m72fRTM5E10mg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "everfade",
     "name": "EVERFADE",
     "dateAdded": "2025-12-10T16:56:06.000Z",
@@ -6196,6 +6268,32 @@
     "apple": "1793504459",
     "amazon": "B0DVGW3WQB",
     "youtube": "@GALEZARD",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "ganso-smith",
+    "name": "GANSO SMITH",
+    "dateAdded": "2026-01-17T11:52:30.112Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "high-output",
+      "inconsistent-style",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0eZoE6P6dU53Tx1y3WXttP",
+    "apple": "1862774470",
+    "amazon": "B0G9MKQ7NX",
+    "youtube": "UCwV5MCu4XkVv9K2of5-3YAQ",
     "tiktok": null,
     "instagram": null
   },
@@ -10297,6 +10395,29 @@
     "instagram": null
   },
   {
+    "id": "may-bee",
+    "name": "MAY BEE",
+    "dateAdded": "2026-01-17T12:05:50.772Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6TmwDtmYEIv8hYGRnskk7Z",
+    "apple": "1857063975",
+    "amazon": "B001HRTYGQ",
+    "youtube": "UCdro7o5W5GpKG0LEEE6DDyQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "me-and-the-robots",
     "name": "ME & The Robots",
     "dateAdded": "2025-12-20T23:37:34.000Z",
@@ -10722,6 +10843,30 @@
     "youtube": "UCycLdg4Al6qkrGgjRP1qlFw",
     "tiktok": null,
     "instagram": "mithiclegendmusic"
+  },
+  {
+    "id": "miyavi-amore",
+    "name": "MiyaVi Amore",
+    "dateAdded": "2026-01-17T12:07:19.550Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Every song in this channel is born from our own life journey, from emotions we've truly lived, felt, and turned into melodies with the help of AI.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Zhgqz1Zu9zB8GAcGmoxdv",
+    "apple": "1808078701",
+    "amazon": "B0F4M7JNXR",
+    "youtube": "@MiyaViAmore",
+    "tiktok": null,
+    "instagram": "miyaviamore"
   },
   {
     "id": "miyunique",
@@ -11831,6 +11976,30 @@
     "instagram": "noxresonantia"
   },
   {
+    "id": "nukehole",
+    "name": "Nukehole",
+    "dateAdded": "2026-01-17T12:15:50.221Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "68Qg8Ukjg5zs3PimhwUBKZ",
+    "apple": "1842206683",
+    "amazon": "B0FSQ3S9BW",
+    "youtube": "@Nukehole",
+    "tiktok": "@nukehole",
+    "instagram": "nukeholeband"
+  },
+  {
     "id": "nxtngen",
     "name": "NXTNGen",
     "dateAdded": "2026-01-01T16:02:32.000Z",
@@ -11853,6 +12022,30 @@
     "apple": "1844787858",
     "amazon": "B0FSX911GP",
     "youtube": "@nxtngen",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "nymik-rose",
+    "name": "Nymik Rose",
+    "dateAdded": "2026-01-17T12:21:14.564Z",
+    "dateUpdated": null,
+    "comments": "The artist lists Sophie Powers as a featured artist but the vocals do not match.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1z5MvUyELcPde7GAfUVNaV",
+    "apple": "1850517325",
+    "amazon": "B0G1K1YM2G",
+    "youtube": "UCyVrBBVUPYkxi7viOI88AdA",
     "tiktok": null,
     "instagram": null
   },
@@ -12745,6 +12938,30 @@
     "apple": null,
     "amazon": null,
     "youtube": "@PuppetSpider",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "quinzena",
+    "name": "Quinzena",
+    "dateAdded": "2026-01-17T11:48:20.119Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "inconsistent-style",
+      "no-social-presence",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4HNhHLq0OXCJydg5X00974",
+    "apple": "1777145650",
+    "amazon": null,
+    "youtube": "UC9WZqUKoMdTmsX77YjLTHvg",
     "tiktok": null,
     "instagram": null
   },
@@ -14259,6 +14476,28 @@
     "instagram": "serinx.music"
   },
   {
+    "id": "sermon-of-flies",
+    "name": "Sermon of Flies",
+    "dateAdded": "2026-01-17T12:24:47.782Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "audio-artifacts",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4mB6oKNuXTuXBIwn9YFsI6",
+    "apple": "1832531861",
+    "amazon": "B0FLP6582C",
+    "youtube": "UCuNmfIg7Z0fWfrZoRejjGjw",
+    "tiktok": "@sermon_of_flies",
+    "instagram": null
+  },
+  {
     "id": "seth-abstract",
     "name": "Seth Abstract",
     "dateAdded": "2026-01-16T15:22:17.465Z",
@@ -15289,9 +15528,12 @@
     "id": "souls-divided",
     "name": "Souls Divided",
     "dateAdded": "2025-12-10T17:20:50.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-17T11:46:09.246Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "minimal-bio",
+      "ai-visuals"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
