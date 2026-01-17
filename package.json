@@ -1,7 +1,7 @@
 {
   "name": "souloverai",
   "version": "1.0.0",
-  "description": "A list of AI-generated artists. It is used to power the website [https://souloverai.com](https://souloverai.com).",
+  "description": "A public index of AI-generated and AI-assisted music. It is used to power the website [https://souloverai.com](https://souloverai.com).",
   "type": "module",
   "scripts": {
     "build": "node .github/scripts/build-dist-artists.js"
