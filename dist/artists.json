@@ -1826,6 +1826,33 @@
     "instagram": null
   },
   {
+    "id": "b-twizzy",
+    "name": "B Twizzy",
+    "dateAdded": "2026-01-18T12:38:05.804Z",
+    "dateUpdated": null,
+    "comments": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
+    "tags": [
+      "self-disclosed-ai",
+      "inconsistent-style",
+      "high-output",
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "human-lyrics",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5fxAD2CEglwSsAFp0eBP8q",
+    "apple": null,
+    "amazon": "B0DBXKWDN1",
+    "youtube": "UCUNYr073ETrfMOqspGzijJw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "bad-apples",
     "name": "Bad Apples",
     "dateAdded": "2025-11-24T23:56:10.000Z",
@@ -2592,12 +2619,14 @@
     "id": "broken-oracle",
     "name": "Broken Oracle",
     "dateAdded": "2026-01-09T08:24:10.681Z",
-    "dateUpdated": "2026-01-16T16:04:07.314Z",
-    "comments": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed.",
+    "dateUpdated": "2026-01-18T12:31:33.143Z",
+    "comments": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed. All visuals appear to be AI-generated.",
     "tags": [
       "ai-visuals",
       "partial-ai",
-      "self-disclosed-ai"
+      "self-disclosed-ai",
+      "minimal-bio",
+      "anonymous"
     ],
     "genres": [],
     "popularity": null,
@@ -2899,6 +2928,30 @@
     "amazon": "B0G2787K2R",
     "youtube": "@RockLegends77",
     "tiktok": "@south__dakota_",
+    "instagram": null
+  },
+  {
+    "id": "charis-studio",
+    "name": "Charis Studio",
+    "dateAdded": "2026-01-18T12:54:09.352Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4DXPjwj0A2XBeL54jYGZGe",
+    "apple": "1803532895",
+    "amazon": "B0F243L3G1",
+    "youtube": "@charisstudio81",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -4587,6 +4640,30 @@
     "instagram": "duanescuttlebutt"
   },
   {
+    "id": "dumpster-grooves",
+    "name": "Dumpster Grooves",
+    "dateAdded": "2026-01-18T12:24:43.014Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states that \"each song is born from human hands - written, arranged, and produced with care by Dumpster Grooves - then gently shaped with AI to echo the warmth and soul of lost eras.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0qgzAKmWeHXQRRxYB9wpvX",
+    "apple": "1843932265",
+    "amazon": "B0FPSNHFCX",
+    "youtube": "@dumpstergrooves",
+    "tiktok": "@dumpster.grooves",
+    "instagram": "dumpster_grooves"
+  },
+  {
     "id": "dvrkthorn",
     "name": "DVRKTHORN",
     "dateAdded": "2025-12-13T20:33:09.000Z",
@@ -5260,6 +5337,31 @@
     "youtube": "@spellcrafthealing",
     "tiktok": "@spellcrafthealing",
     "instagram": "spellcraftbyesmerose"
+  },
+  {
+    "id": "esslll",
+    "name": "ESSLLL",
+    "dateAdded": "2026-01-18T12:50:03.658Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio alludes to AI usage by stating that \"In a world where A.I. and artistry converge and change the way we make music.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0sEzTA4c680qMAoAYkpGP1",
+    "apple": "1726983059",
+    "amazon": null,
+    "youtube": "@ESSLL_MUSIC",
+    "tiktok": null,
+    "instagram": "esslll_music"
   },
   {
     "id": "eternal-fantasy-sounds",
@@ -9575,6 +9677,30 @@
     "instagram": "lladywolf"
   },
   {
+    "id": "lmbsa",
+    "name": "LMBSA",
+    "dateAdded": "2026-01-18T09:07:52.427Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "audio-artifacts",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5t1bNBKz571793w252nLik",
+    "apple": "1845579919",
+    "amazon": "B0FVTC3C88",
+    "youtube": "@LMBSAM",
+    "tiktok": null,
+    "instagram": "livemusicbandsa"
+  },
+  {
     "id": "lock-and-key-vibes",
     "name": "Lock & Key Vibes",
     "dateAdded": "2026-01-10T21:06:53.181Z",
@@ -9725,6 +9851,29 @@
     "youtube": "@luminaryfluxband",
     "tiktok": null,
     "instagram": "luminary.flux"
+  },
+  {
+    "id": "lumocore",
+    "name": "LumoCore",
+    "dateAdded": "2026-01-18T12:59:00.542Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Lmmj6hhgmpW6Oz6lCBlZl",
+    "apple": "1828106622",
+    "amazon": null,
+    "youtube": "@LumoCore",
+    "tiktok": null,
+    "instagram": "lumocoremusic"
   },
   {
     "id": "luna-sole",
@@ -10501,6 +10650,28 @@
     "instagram": null
   },
   {
+    "id": "melania-maye",
+    "name": "Melania Maye",
+    "dateAdded": "2026-01-18T09:14:59.170Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4fLN4MdVopdfWB5nZ9p3at",
+    "apple": "1842217276",
+    "amazon": "B0FSSVFNYJ",
+    "youtube": "UCE-PAlHdlnT8yi9rlOdKfWA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "melodai-official",
     "name": "MelodAI_Official",
     "dateAdded": "2026-01-05T20:29:17.000Z",
@@ -10604,6 +10775,29 @@
     "instagram": null
   },
   {
+    "id": "merciless-cult",
+    "name": "Merciless Cult",
+    "dateAdded": "2026-01-18T11:28:58.552Z",
+    "dateUpdated": null,
+    "comments": "Their YouTube bio states that \"through the use of AI, songs once written and forgotten on the hard drive of an old computer have come back to life\" and that their songs feature \"real riffs made by humans.\"",
+    "tags": [
+      "audio-artifacts",
+      "self-disclosed-ai",
+      "partial-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0pyoFB4Ii4JUag5Gqt9ssJ",
+    "apple": "1806905855",
+    "amazon": "B0F3W1587G",
+    "youtube": "UCnaeDcL-i2WyxJzAwlPylgw",
+    "tiktok": null,
+    "instagram": "merciless_cult_band"
+  },
+  {
     "id": "mermaidonmars",
     "name": "mermaidonmars",
     "dateAdded": "2026-01-16T17:22:36.912Z",
@@ -10705,6 +10899,28 @@
     "apple": "1741954514",
     "amazon": "B0D233C6WH",
     "youtube": "@MightyWProductions",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "miguel-pascal",
+    "name": "Miguel Pascal",
+    "dateAdded": "2026-01-18T12:48:05.112Z",
+    "dateUpdated": null,
+    "comments": "This artist appears to be in the same network as the AI artists 'Pasxkal' and 'The Last Spell'.",
+    "tags": [
+      "high-output",
+      "inconsistent-style",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "56DYvlyuahAj0OWxlb9LDr",
+    "apple": "1801923258",
+    "amazon": null,
+    "youtube": "@MiguelPascalmp3",
     "tiktok": null,
     "instagram": null
   },
@@ -12522,6 +12738,30 @@
     "apple": "1813461016",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "peron",
+    "name": "peron",
+    "dateAdded": "2026-01-18T12:29:58.163Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4pcZmdW9UX8lTqNgkyxbbC",
+    "apple": "1739986097",
+    "amazon": "B001KED804",
+    "youtube": "@peron_official",
     "tiktok": null,
     "instagram": null
   },
@@ -16048,6 +16288,30 @@
     "instagram": "sybilanta"
   },
   {
+    "id": "synaptic",
+    "name": "Synaptic",
+    "dateAdded": "2026-01-18T12:43:12.976Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "partial-ai",
+      "high-output",
+      "minimal-bio",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5r0wo7k5gWLEXouzxh1Ovk",
+    "apple": "1855521642",
+    "amazon": null,
+    "youtube": "UCohvZoa5onBaAYdMz5ygisQ",
+    "tiktok": "@itssynaptic",
+    "instagram": "itssynaptic"
+  },
+  {
     "id": "synn",
     "name": "SYNN",
     "dateAdded": "2026-01-12T13:37:32.793Z",
@@ -16598,6 +16862,30 @@
     "instagram": "thekingsbluesclub"
   },
   {
+    "id": "the-last-spell",
+    "name": "The Last Spell",
+    "dateAdded": "2026-01-18T12:44:49.923Z",
+    "dateUpdated": null,
+    "comments": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
+    "tags": [
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence",
+      "minimal-bio",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "25G9EpBYLrZlWoDWmkaVjx",
+    "apple": "1801658631",
+    "amazon": null,
+    "youtube": "@TheLastSpell",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-love-algorithm",
     "name": "The Love Algorithm",
     "dateAdded": "2026-01-10T21:02:51.018Z",
@@ -16689,6 +16977,29 @@
     "youtube": "UCbfBDXITCPSuXcBtikSxpJQ",
     "tiktok": null,
     "instagram": "thenorthsband"
+  },
+  {
+    "id": "the-old-tavern",
+    "name": "The Old Tavern",
+    "dateAdded": "2026-01-18T09:12:53.203Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6XyWL7jdA1UZp1mliV89G5",
+    "apple": "1866976623",
+    "amazon": "B0GFBW3W29",
+    "youtube": "UCuLgJP896EsSalAjLRbOliQ",
+    "tiktok": "@theoldtavernmusic",
+    "instagram": null
   },
   {
     "id": "the-power-alchemist",
@@ -17185,6 +17496,30 @@
     "youtube": "@ToonFanatic",
     "tiktok": "@toonfanatic.nz",
     "instagram": null
+  },
+  {
+    "id": "total-metal-destruction",
+    "name": "Total Metal Destruction",
+    "dateAdded": "2026-01-18T12:34:16.888Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"Groupe de metal IA.\" (AI metal band)",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6kXvDQRAm20UUEq4SuBAzp",
+    "apple": "1799559717",
+    "amazon": null,
+    "youtube": "@totalmetaldestruction",
+    "tiktok": null,
+    "instagram": "total.metal.destruction"
   },
   {
     "id": "tripstone-heathen",
