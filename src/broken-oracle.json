@@ -2,12 +2,14 @@
   "id": "broken-oracle",
   "name": "Broken Oracle",
   "dateAdded": "2026-01-09T08:24:10.681Z",
-  "dateUpdated": "2026-01-16T16:04:07.314Z",
-  "comments": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed.",
+  "dateUpdated": "2026-01-18T12:31:33.143Z",
+  "comments": "The artist has stated that only the vocals are AI-generated (Suno), whilst the bass and drums are programmed. All visuals appear to be AI-generated.",
   "tags": [
     "ai-visuals",
     "partial-ai",
-    "self-disclosed-ai"
+    "self-disclosed-ai",
+    "minimal-bio",
+    "anonymous"
   ],
   "genres": [],
   "popularity": null,
