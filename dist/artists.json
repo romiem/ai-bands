@@ -2403,6 +2403,29 @@
     "instagram": null
   },
   {
+    "id": "blueberryclub",
+    "name": "blueberryclub",
+    "dateAdded": "2026-01-18T14:51:31.764Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1dgj9mN2Tuy1gdPHn78gZC",
+    "apple": "1864855251",
+    "amazon": "B0GD1RLG2J",
+    "youtube": "UC90e2DlOyADSsSjVtA38s8A",
+    "tiktok": "@blueberryclu6",
+    "instagram": "blueberryclu6"
+  },
+  {
     "id": "booksongsai",
     "name": "BookSongsAI",
     "dateAdded": "2026-01-03T13:48:55.000Z",
@@ -2449,6 +2472,28 @@
     "youtube": "@booktok_music",
     "tiktok": "@booktok.music_",
     "instagram": "booktok.music"
+  },
+  {
+    "id": "bots-with-guitars",
+    "name": "Bots with guitars",
+    "dateAdded": "2026-01-18T14:42:57.726Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio notes that: \"Facing challenges like limited income and resources, he embraces innovative tools-including AI-to bring his music to life. While technology assists in the production process, every lyric is handcrafted and personally written by the artist himself.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "human-lyrics",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2wRbEujffctQ7n11wt6H6F",
+    "apple": "1814908839",
+    "amazon": "B0F8WV645Y",
+    "youtube": "@Botswithguitars",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "boulevard-da-musica",
@@ -5985,6 +6030,29 @@
     "instagram": null
   },
   {
+    "id": "finally-unalived",
+    "name": "Finally Unalived",
+    "dateAdded": "2026-01-18T14:58:22.508Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "no-social-presence",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5B0hCv3W0hEOvB9DMdjL49",
+    "apple": "1839409385",
+    "amazon": "B0FQVWB9D3",
+    "youtube": "UC_CLzMBQy3vZP0fftYqcEnQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "finlay-walker",
     "name": "Finlay Walker",
     "dateAdded": "2026-01-09T20:14:00.243Z",
@@ -6481,6 +6549,30 @@
     "youtube": "@GhostChordsMusic",
     "tiktok": "@ghostchordsmusic",
     "instagram": "ghostchordsmusic"
+  },
+  {
+    "id": "ghosts-of-american-intellects",
+    "name": "Ghosts of American Intellects",
+    "dateAdded": "2026-01-18T14:46:59.661Z",
+    "dateUpdated": null,
+    "comments": "The artist has stated on Facebook that the music is AI generated but the lyrics are written by a human.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "human-lyrics",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1c5wJinJJP8T7GTIkiNSNd",
+    "apple": "1845723235",
+    "amazon": "B0FVWGV35W",
+    "youtube": "UC2nulBnj6AR_RGdcmQcZEmw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "ghostwriteking",
@@ -9142,6 +9234,30 @@
     "instagram": null
   },
   {
+    "id": "kionx",
+    "name": "KIONX",
+    "dateAdded": "2026-01-18T14:44:53.512Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "audio-artifacts",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "701dNbXEZGmi0y4KLR9SNC",
+    "apple": "1859870669",
+    "amazon": "B0G5YCQBM7",
+    "youtube": "UCURtlgmHmIsKvi0DZXoGUHQ",
+    "tiktok": "@kionx_songs",
+    "instagram": null
+  },
+  {
     "id": "kiss-me-dead",
     "name": "KISS ME DEAD",
     "dateAdded": "2025-12-18T18:38:25.000Z",
@@ -9960,6 +10076,27 @@
     "youtube": "@lunaitsme_official",
     "tiktok": "@lunaeitisme",
     "instagram": "itismelunae"
+  },
+  {
+    "id": "lunatick",
+    "name": "Lunatick",
+    "dateAdded": "2026-01-18T14:56:17.454Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3lOaRDpJxenuwREjjYkfLF",
+    "apple": "1840011270",
+    "amazon": null,
+    "youtube": "UC6yML89BTI4Gsxi9mx7pU_g",
+    "tiktok": null,
+    "instagram": "lunatick1111"
   },
   {
     "id": "lunavia",
@@ -13791,6 +13928,30 @@
     "instagram": null
   },
   {
+    "id": "riley77",
+    "name": "Riley77",
+    "dateAdded": "2026-01-18T14:44:11.454Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states that the artist \"is an AI-assisted music creator.\"",
+    "tags": [
+      "partial-ai",
+      "self-disclosed-ai",
+      "high-output",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4OldnCpGsCb001OGLIx6RH",
+    "apple": "1851132071",
+    "amazon": "B0G13DZS29",
+    "youtube": "@Riley77_aiMusic",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "riottheory",
     "name": "RiotTheory",
     "dateAdded": "2026-01-16T17:21:05.628Z",
@@ -13811,6 +13972,29 @@
     "apple": "1813688436",
     "amazon": "B0F899THXJ",
     "youtube": "@riottheory",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "risen-in-ash",
+    "name": "Risen In Ash",
+    "dateAdded": "2026-01-18T14:48:52.193Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7Fh8xDyN9wNur08CucDoFh",
+    "apple": "1858766030",
+    "amazon": "B0G4G4X866",
+    "youtube": "@RisenInAsh",
     "tiktok": null,
     "instagram": null
   },
@@ -13864,8 +14048,8 @@
     "id": "rizzers",
     "name": "Rizzers",
     "dateAdded": "2026-01-15T10:05:47.274Z",
-    "dateUpdated": null,
-    "comments": "The credits for all songs list jsut one person: Shai Reuven. The bio lists 5 full band members, but none of those people seem to exist through Google searches.",
+    "dateUpdated": "2026-01-18T14:40:57.825Z",
+    "comments": "The credits for all songs list just one person: Shai Reuven. The bio lists 5 band members, but no information is available online for any of them.",
     "tags": [
       "no-social-presence",
       "audio-artifacts",
@@ -16459,6 +16643,28 @@
     "amazon": null,
     "youtube": null,
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "teeth-of-eden",
+    "name": "Teeth of Eden",
+    "dateAdded": "2026-01-18T14:47:55.776Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "minimal-bio",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2XWjrO8v8JC923tN5Iz64v",
+    "apple": "1856323743",
+    "amazon": null,
+    "youtube": "@TeethofEden",
+    "tiktok": "@teeth.of.eden",
     "instagram": null
   },
   {
