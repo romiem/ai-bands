@@ -4117,6 +4117,29 @@
     "instagram": "decayed.souls"
   },
   {
+    "id": "demonflyingfox",
+    "name": "demonflyingfox",
+    "dateAdded": "2026-01-18T21:31:23.943Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Hi, I'm demonflyingfox and I want to show what's possible with AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "23pEwFXxVcUOJg4iNd7CmE",
+    "apple": "1860714987",
+    "amazon": "B0G6HTZ838",
+    "youtube": "UCvdUBO1nKje-SqOqBQm1Rmw",
+    "tiktok": "@demonflyingfox",
+    "instagram": "demonflyingfox"
+  },
+  {
     "id": "departir",
     "name": "DEPARTIR",
     "dateAdded": "2026-01-02T11:18:41.000Z",
@@ -4812,6 +4835,29 @@
     "apple": "1823526093",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "echoes-of-babylon",
+    "name": "Echoes Of Babylon",
+    "dateAdded": "2026-01-19T09:02:16.451Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"All artists, music, and stories featured on this channel are entirely fictional and created using AI.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1fEC84VoFMkRi5CF2G0HT1",
+    "apple": "1827657098",
+    "amazon": "B0FJ674Y5J",
+    "youtube": "@EchoesofBabylon",
     "tiktok": null,
     "instagram": null
   },
@@ -7089,6 +7135,29 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "hazy-thompson",
+    "name": "Hazy Thompson",
+    "dateAdded": "2026-01-18T21:33:29.722Z",
+    "dateUpdated": null,
+    "comments": "The artist has a profile under the username @jlpenman on the Suno website.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5JIhg8TzXNTYj0RN0Y2O30",
+    "apple": "1824920012",
+    "amazon": "B0FGW6T51S",
+    "youtube": "UC577Ojw7jqcAZnu1CLFmW_A",
+    "tiktok": null,
+    "instagram": "hazythompsonmusic"
   },
   {
     "id": "hc",
@@ -11060,6 +11129,29 @@
     "youtube": "@MiguelPascalmp3",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "mika-akakuma",
+    "name": "Mika Akakuma",
+    "dateAdded": "2026-01-18T21:15:43.146Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "minimal-bio",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7M3FZ9zfhnYIwg4MzDccSz",
+    "apple": "1818006881",
+    "amazon": "B0FBRYDTZQ",
+    "youtube": "@Mika_Akakuma",
+    "tiktok": "@official_mika_",
+    "instagram": "mikaakakuma"
   },
   {
     "id": "mikeeysmind",
