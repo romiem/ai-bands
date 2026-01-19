@@ -2,17 +2,20 @@
   "id": "raven-knight",
   "name": "Raven Knight",
   "dateAdded": "2025-11-24T23:56:10.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-19T10:56:29.907Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "high-output",
+    "ai-visuals"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
   "shScore": null,
   "spotify": "2lGM5OCIrdO8VK5Pdt6QgX",
   "apple": "1834697328",
-  "amazon": null,
-  "youtube": null,
+  "amazon": "B07N42P4QN",
+  "youtube": "UCUiBKlGfoAhoJ1xa73cMcDg",
   "tiktok": null,
   "instagram": null
 }
