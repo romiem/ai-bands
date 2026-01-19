@@ -2,15 +2,16 @@
   "id": "mithiclegend",
   "name": "MithicLegend",
   "dateAdded": "2026-01-02T15:10:19.000Z",
-  "dateUpdated": null,
-  "comments": "The Spotify bio acknowledges the use of AI.",
+  "dateUpdated": "2026-01-19T10:27:24.600Z",
+  "comments": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
   "tags": [
     "minimal-bio",
     "audio-artifacts",
     "inconsistent-style",
     "anonymous",
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "self-disclosed-ai"
   ],
   "genres": [],
   "popularity": null,
