@@ -12,7 +12,7 @@
 This repo is an independently curated, community-informed directory documenting artists involved in AI-generated or AI-assisted music.
 It is used to power the website [Soul Over AI](https://souloverai.com).
 
-If you want to use the raw data, it is available [here](/dist/artists.json) but please attribute Soul Over AI in accordance with the [CC BY 4.0 license](./LICENSE.md).
+If you want to use the raw data, it is available [here](/dist/artists.json) but please attribute Soul Over AI in accordance with [our licensing terms](./LICENSE.md).
 
 ## Adding an artist
 To contribute to the list, please fill in the form at https://souloverai.com/add
