@@ -2,17 +2,20 @@
   "id": "broken-altar",
   "name": "Broken Altar",
   "dateAdded": "2025-11-25T11:50:50.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-19T10:57:17.418Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "ai-visuals",
+    "high-output"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
   "shScore": null,
   "spotify": "3WSvhkwOXQCzqutMaM7msp",
   "apple": "1840510535",
-  "amazon": null,
-  "youtube": null,
-  "tiktok": null,
+  "amazon": "B0040JW212",
+  "youtube": "@BrokenAltarBand",
+  "tiktok": "@brokenaltarband",
   "instagram": "brokenaltarband"
 }
