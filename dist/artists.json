@@ -2433,6 +2433,29 @@
     "instagram": "blueberryclu6"
   },
   {
+    "id": "bookaria",
+    "name": "BookAria",
+    "dateAdded": "2026-01-19T19:50:33.492Z",
+    "dateUpdated": null,
+    "comments": "it has the same vocals characteristics, and audio artifacts.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7uedygrXc2dqm7s3fHTmlx",
+    "apple": "1850405883",
+    "amazon": null,
+    "youtube": "UCC5-Lhegpfyajqa67OiW6gw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "booksongsai",
     "name": "BookSongsAI",
     "dateAdded": "2026-01-03T13:48:55.000Z",
@@ -2479,6 +2502,30 @@
     "youtube": "@booktok_music",
     "tiktok": "@booktok.music_",
     "instagram": "booktok.music"
+  },
+  {
+    "id": "boomslick",
+    "name": "BOOMSLICK",
+    "dateAdded": "2026-01-19T19:48:39.004Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1VIRmcVEo5qhoj2qgXvf86",
+    "apple": "1854994168",
+    "amazon": "B0G44XB93C",
+    "youtube": "@boomslick",
+    "tiktok": null,
+    "instagram": "boomslickmaster"
   },
   {
     "id": "bots-with-guitars",
@@ -3611,6 +3658,29 @@
     "apple": "1834636614",
     "amazon": "B0FN88XDNM",
     "youtube": "@iamd33p",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "da-soul-orchestra",
+    "name": "Da Soul Orchestra",
+    "dateAdded": "2026-01-19T19:52:51.092Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"We use AI technology to rework iconic tracks in fresh styles.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "anonymous",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4TjVrvgka2iJR9GCbjKfLj",
+    "apple": null,
+    "amazon": "B0G2MQKP42",
+    "youtube": "UCN2qsPHgXf5uJOIA_81u_og",
     "tiktok": null,
     "instagram": null
   },
@@ -7819,6 +7889,31 @@
     "youtube": "@Hushveil.Official",
     "tiktok": "@hushveil.official",
     "instagram": "hushveil.official"
+  },
+  {
+    "id": "hustler-soul",
+    "name": "Hustler Soul",
+    "dateAdded": "2026-01-19T19:44:57.474Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Pi7cpPKREdDVFF5o0JnmQ",
+    "apple": "1860568029",
+    "amazon": null,
+    "youtube": "UC6-wI0YRayng-ehGkJrfgaQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "hyperbaiter",
@@ -17161,6 +17256,30 @@
     "youtube": null,
     "tiktok": "@tennesseereaper",
     "instagram": "tennessee_reaper"
+  },
+  {
+    "id": "the-1924-project",
+    "name": "The 1924 Project",
+    "dateAdded": "2026-01-19T19:46:35.394Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4kDNMquYzurmpC7HSNgenw",
+    "apple": "1796494900",
+    "amazon": "B0DXB3VVL2",
+    "youtube": "@the1924project",
+    "tiktok": "@1924project",
+    "instagram": "the.1924.project"
   },
   {
     "id": "the-athene-noctua",
