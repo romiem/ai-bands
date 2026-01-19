@@ -4629,6 +4629,30 @@
     "instagram": "sele.durdevic"
   },
   {
+    "id": "drew-meadows",
+    "name": "Drew Meadows",
+    "dateAdded": "2026-01-19T12:53:09.476Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"AI with a heart\" and uses the hashtags #AIForHumanity and #AIForSocialGood.",
+    "tags": [
+      "self-disclosed-ai",
+      "no-social-presence",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0uKwfAiZgjxQ7v5YLgau2C",
+    "apple": "1808261157",
+    "amazon": "B07H1ZKSQB",
+    "youtube": "@DrewMeadowsMusic",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "drift-notion",
     "name": "Drift Notion",
     "dateAdded": "2025-12-28T16:43:29.000Z",
@@ -8345,6 +8369,30 @@
     "instagram": null
   },
   {
+    "id": "jacub",
+    "name": "Jacub",
+    "dateAdded": "2026-01-19T13:20:20.381Z",
+    "dateUpdated": null,
+    "comments": "Their song 'Jag vet, du är inte min' was banned from the Swedish music charts for being an AI creation.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7ifEkzjmxo75vYZ6y61NqN",
+    "apple": "1481996138",
+    "amazon": "B07VVDLG8C",
+    "youtube": "UCf4s6sKiLq9y_XdsP8tfjCQ",
+    "tiktok": null,
+    "instagram": "jacub.official"
+  },
+  {
     "id": "japanese-chill-lounge",
     "name": "Japanese Chill Lounge",
     "dateAdded": "2026-01-04T09:15:59.000Z",
@@ -9301,6 +9349,29 @@
     "instagram": null
   },
   {
+    "id": "kiirelia",
+    "name": "Kiirelia",
+    "dateAdded": "2026-01-19T12:59:09.346Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Kiirelia is a virtual J-Rock artist, an artificial voice that exists through music, memory, and story.\"",
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3a8oNNSSpypCdSSNsoI6Pj",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@Kiirelia",
+    "tiktok": "@kiirelia",
+    "instagram": "kiirelia"
+  },
+  {
     "id": "king-motiv8",
     "name": "KING MOTIV8",
     "dateAdded": "2026-01-03T12:18:43.000Z",
@@ -9748,6 +9819,29 @@
     "youtube": "@LazyGoldofficial",
     "tiktok": "@lazygoldofficial",
     "instagram": null
+  },
+  {
+    "id": "lenzspot",
+    "name": "Lenzspot",
+    "dateAdded": "2026-01-19T13:05:07.657Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Powered by AI.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Bv2R6g89dxUwVXBFu2BCx",
+    "apple": "1755668533",
+    "amazon": "B0D8VP3KTH",
+    "youtube": "@lenzspot",
+    "tiktok": "@lenzspot",
+    "instagram": "lenzspot"
   },
   {
     "id": "let-babylon-burn",
@@ -10292,6 +10386,30 @@
     "apple": "1787111061",
     "amazon": "B01J64V6LW",
     "youtube": "UC2SM1mV4AtlVrBLA3Ls9Acw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "luno",
+    "name": "Luno",
+    "dateAdded": "2026-01-19T13:03:01.737Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1JacQ0N8ryIgfeJ8WVqS6U",
+    "apple": "1838448793",
+    "amazon": "B0BM5V2RHL",
+    "youtube": "UC5VX4XyB6lR1ulvbxE1S_4w",
     "tiktok": null,
     "instagram": null
   },
@@ -11441,6 +11559,29 @@
     "youtube": "@miyunique",
     "tiktok": "@miyunique_official",
     "instagram": "miyunique_official"
+  },
+  {
+    "id": "mkl",
+    "name": "MKL",
+    "dateAdded": "2026-01-19T12:57:35.583Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "71SDdhl1AlELV1ffU5Hzbp",
+    "apple": "1794445393",
+    "amazon": null,
+    "youtube": "UC8yBK056bSbLNbcJHlRHyDg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "modranicht",
@@ -13101,6 +13242,32 @@
     "instagram": null
   },
   {
+    "id": "phantom-of-the-synth",
+    "name": "Phantom Of The Synth",
+    "dateAdded": "2026-01-19T13:25:06.724Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"I'm An AI Music Producer/Songwriter. I edit and mix arrangements in post production but base sound is generated with Suno AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "audio-artifacts",
+      "high-output",
+      "inconsistent-style",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "102nWmiocKhcYzCggFZ0hA",
+    "apple": "1861247823",
+    "amazon": null,
+    "youtube": "@PhantomOfTheSynth",
+    "tiktok": "@phantomofthesynth",
+    "instagram": "phantomofthesynth"
+  },
+  {
     "id": "phantom-veil",
     "name": "Phantom Veil",
     "dateAdded": "2025-11-29T13:12:39.000Z",
@@ -13268,6 +13435,29 @@
     "instagram": null
   },
   {
+    "id": "plumia-production",
+    "name": "Plumia production",
+    "dateAdded": "2026-01-19T13:09:32.722Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
+    "tags": [
+      "self-disclosed-ai",
+      "partial-ai",
+      "human-lyrics",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5q0RjruPQHAC9t2ufwCdxR",
+    "apple": "1839764678",
+    "amazon": "B0FR3JF924",
+    "youtube": "@Plumia-Prod",
+    "tiktok": "@plumia_prod",
+    "instagram": "plumia_production"
+  },
+  {
     "id": "poisonpop-candy",
     "name": "POISONPOP Candy",
     "dateAdded": "2026-01-13T21:39:15.245Z",
@@ -13381,6 +13571,29 @@
     "amazon": "B0G25DH1V8",
     "youtube": "UCbnuljbR3xHh1FtWmITEwjw",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "prelune",
+    "name": "PRELUNE",
+    "dateAdded": "2026-01-19T13:01:28.478Z",
+    "dateUpdated": null,
+    "comments": "Comments on their TikTok profile asking for clarity on AI-usage go unanswered, whilst comments are disabled on their YouTube profile.",
+    "tags": [
+      "anonymous",
+      "minimal-bio",
+      "audio-artifacts",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5x9QpaiUGbEIaTvVAg5hIU",
+    "apple": null,
+    "amazon": "B0G315RWF6",
+    "youtube": "UC9XewUt6BCe36GCQo0NpajA",
+    "tiktok": "@insidemyheadmusic",
     "instagram": null
   },
   {
@@ -14400,6 +14613,28 @@
     "youtube": null,
     "tiktok": null,
     "instagram": "officialrosiek"
+  },
+  {
+    "id": "rowan-lewgalon",
+    "name": "Rowan Lewgalon",
+    "dateAdded": "2026-01-19T12:50:25.133Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"A storyteller and AI-musician blending ancient lore with modern soundscapes.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "26RiOpRrXc5Hea8zgpQnmG",
+    "apple": "1772996908",
+    "amazon": null,
+    "youtube": "UC-PseivR8qfJigPPkzUYWHg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "royal-tracks",
@@ -18857,11 +19092,14 @@
     "id": "volkan-kuday",
     "name": "Volkan Kuday",
     "dateAdded": "2025-12-07T21:01:10.000Z",
-    "dateUpdated": null,
-    "comments": null,
+    "dateUpdated": "2026-01-19T12:48:59.140Z",
+    "comments": "The YouTube bio states: \"Synths, wires, AI, and emotion. Old sounds meeting new machines. Powered by tools like AI voice models, neural synth engines, and generative soundscapes.\"",
     "tags": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai"
     ],
     "genres": [],
     "popularity": null,
