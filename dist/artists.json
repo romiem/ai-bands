@@ -230,7 +230,7 @@
     "id": "a-shrine-to-failure",
     "name": "A Shrine to Failure",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:57:46.972Z",
     "comments": null,
     "tags": [],
     "genres": [],
@@ -239,7 +239,7 @@
     "shScore": null,
     "spotify": "0nXYxiS5VC7eoz5YR986oS",
     "apple": "1817098132",
-    "amazon": null,
+    "amazon": "B0F9Z2G35G",
     "youtube": null,
     "tiktok": null,
     "instagram": "a_shrine_to_failure"
@@ -248,16 +248,19 @@
     "id": "a-wildhearts-tale",
     "name": "A Wildheart's Tale",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:58:22.910Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "high-output",
+      "ai-visuals"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "7rs9jSwkWMCtMgth8HUNNb",
     "apple": "1742340647",
-    "amazon": null,
+    "amazon": "B0D2D5WGJ1",
     "youtube": "UCPGWElUAupwgGuDT_CkWVVw",
     "tiktok": "@a.wildhearts.tale",
     "instagram": "a_wildhearts_tale"
@@ -1856,16 +1859,20 @@
     "id": "bad-apples",
     "name": "Bad Apples",
     "dateAdded": "2025-11-24T23:56:10.000Z",
-    "dateUpdated": null,
-    "comments": "Self-declared as an AI project.",
-    "tags": [],
+    "dateUpdated": "2026-01-19T10:55:16.308Z",
+    "comments": "The Spotify and YouTube bio state: \"Crafted by humans, perfected by AI.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "1s7brFQBWfA9z2YR7bl9nh",
     "apple": "1840951325",
-    "amazon": null,
+    "amazon": "B0010QAMKQ",
     "youtube": "@BABandOfficial",
     "tiktok": null,
     "instagram": "bad_apples_music"
@@ -2626,18 +2633,21 @@
     "id": "broken-altar",
     "name": "Broken Altar",
     "dateAdded": "2025-11-25T11:50:50.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:57:17.418Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "ai-visuals",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "3WSvhkwOXQCzqutMaM7msp",
     "apple": "1840510535",
-    "amazon": null,
-    "youtube": null,
-    "tiktok": null,
+    "amazon": "B0040JW212",
+    "youtube": "@BrokenAltarBand",
+    "tiktok": "@brokenaltarband",
     "instagram": "brokenaltarband"
   },
   {
@@ -6488,6 +6498,29 @@
     "instagram": null
   },
   {
+    "id": "gambeat",
+    "name": "GamBeat",
+    "dateAdded": "2026-01-19T11:02:30.915Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"scrivendo i testi e producendo la musica con l'IA\" (writing the lyrics and producing the music with AI).",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "high-output",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1goq3QYQS7VLHzcqQrpM2u",
+    "apple": "1772542837",
+    "amazon": null,
+    "youtube": "@GamBeatGeneration",
+    "tiktok": null,
+    "instagram": "gambeat_official"
+  },
+  {
     "id": "ganso-smith",
     "name": "GANSO SMITH",
     "dateAdded": "2026-01-17T11:52:30.112Z",
@@ -6800,10 +6833,11 @@
     "id": "goober-beatz",
     "name": "Goober Beatz",
     "dateAdded": "2025-12-11T10:04:09.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:25:20.834Z",
     "comments": null,
     "tags": [
-      "high-output"
+      "high-output",
+      "ai-visuals"
     ],
     "genres": [],
     "popularity": null,
@@ -7763,6 +7797,28 @@
     "instagram": "hushveil.official"
   },
   {
+    "id": "hyperbaiter",
+    "name": "Hyperbaiter",
+    "dateAdded": "2026-01-19T11:13:19.351Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "32RaA7TgQ8WDXFG7xYBxXE",
+    "apple": "1863286952",
+    "amazon": null,
+    "youtube": "UCqXuLGnpDrW-Xp_RRs0F2BA",
+    "tiktok": "@beyondedsanity",
+    "instagram": null
+  },
+  {
     "id": "hyperbolic-club",
     "name": "Hyperbolic Club",
     "dateAdded": "2026-01-01T15:13:43.000Z",
@@ -8221,6 +8277,30 @@
     "instagram": "jcognitto"
   },
   {
+    "id": "j-j-quest",
+    "name": "J.J. Quest",
+    "dateAdded": "2026-01-19T11:06:19.003Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7sHpsm7cSyslVM7jxo6wih",
+    "apple": "1790050917",
+    "amazon": "B0DSV6152R",
+    "youtube": "UCBy9l7XNBgulWYe7OPWys5g",
+    "tiktok": "@jjquestiverse",
+    "instagram": "jjquestmusic"
+  },
+  {
     "id": "j-prodigy",
     "name": "j . prodigy",
     "dateAdded": "2026-01-14T10:25:07.673Z",
@@ -8672,6 +8752,31 @@
     "amazon": "B0FXYYLWP1",
     "youtube": "@jplaysrock",
     "tiktok": "@jplaysrock",
+    "instagram": null
+  },
+  {
+    "id": "jude-haden",
+    "name": "Jude Haden",
+    "dateAdded": "2026-01-19T11:15:14.105Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"I use artificial intelligence tools to produce fresh, one-of-a-kind music while keeping the heart of every song 100% original and personally written by me.\"",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "no-social-presence",
+      "human-lyrics",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7IH1EoHfjIJ1h89GMpoqKb",
+    "apple": "1849820201",
+    "amazon": "B0FYNL79BB",
+    "youtube": "@JudeHadenMusic",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -11268,15 +11373,16 @@
     "id": "mithiclegend",
     "name": "MithicLegend",
     "dateAdded": "2026-01-02T15:10:19.000Z",
-    "dateUpdated": null,
-    "comments": "The Spotify bio acknowledges the use of AI.",
+    "dateUpdated": "2026-01-19T10:27:24.600Z",
+    "comments": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
     "tags": [
       "minimal-bio",
       "audio-artifacts",
       "inconsistent-style",
       "anonymous",
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "self-disclosed-ai"
     ],
     "genres": [],
     "popularity": null,
@@ -13569,17 +13675,20 @@
     "id": "raven-knight",
     "name": "Raven Knight",
     "dateAdded": "2025-11-24T23:56:10.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:56:29.907Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "high-output",
+      "ai-visuals"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "2lGM5OCIrdO8VK5Pdt6QgX",
     "apple": "1834697328",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B07N42P4QN",
+    "youtube": "UCUiBKlGfoAhoJ1xa73cMcDg",
     "tiktok": null,
     "instagram": null
   },
@@ -14157,6 +14266,28 @@
     "youtube": "UCNBcN8pp9Ieq7f8vIHBZMUg",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "roadkill-pickers",
+    "name": "Roadkill Pickers",
+    "dateAdded": "2026-01-19T10:59:32.895Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6DhOO3dOrsRRt13lkPrIiy",
+    "apple": "1753401490",
+    "amazon": "B0D7RXY4LK",
+    "youtube": "@RoadkillPickers",
+    "tiktok": "@roadkillpickers",
+    "instagram": "roadkillpickers"
   },
   {
     "id": "rock-and-funk",
@@ -16406,12 +16537,13 @@
     "id": "sunday-night-low",
     "name": "Sunday Night Low",
     "dateAdded": "2025-11-24T23:56:10.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-19T10:54:17.172Z",
     "comments": null,
     "tags": [
       "anonymous",
       "no-social-presence",
-      "minimal-bio"
+      "minimal-bio",
+      "high-output"
     ],
     "genres": [],
     "popularity": null,
@@ -17796,6 +17928,29 @@
     "instagram": null
   },
   {
+    "id": "toruc-macto",
+    "name": "Toruc macto",
+    "dateAdded": "2026-01-19T10:32:28.236Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "inconsistent-style",
+      "audio-artifacts",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6o22D8Y9rYdhQ9VLkT4lY7",
+    "apple": "1863468170",
+    "amazon": null,
+    "youtube": "UCXEVGYR6_KJHNNWnGkf2IHA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "total-metal-destruction",
     "name": "Total Metal Destruction",
     "dateAdded": "2026-01-18T12:34:16.888Z",
@@ -18037,6 +18192,32 @@
     "apple": "1778838771",
     "amazon": null,
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "unfade",
+    "name": "UNFADΞ",
+    "dateAdded": "2026-01-19T10:30:03.359Z",
+    "dateUpdated": null,
+    "comments": "The person behind this project also has another AI project called 'UNFINISH'.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5rrl9z7WtxC4GhU8GsBaqu",
+    "apple": "1805339234",
+    "amazon": "B0F2Z9ZK7P",
+    "youtube": "UCIZnMpsis9HTwA86I66pV_w",
     "tiktok": null,
     "instagram": null
   },
