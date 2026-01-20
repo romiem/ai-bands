@@ -600,16 +600,20 @@
     "id": "aleister-temple",
     "name": "Aleister Temple",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-20T13:18:16.965Z",
     "comments": "No information or photos of members; generic AI art",
-    "tags": [],
+    "tags": [
+      "high-output",
+      "anonymous",
+      "minimal-bio"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
     "shScore": null,
     "spotify": "0EVrCbMQybkg7m8vZFbQTJ",
     "apple": "1845876599",
-    "amazon": null,
+    "amazon": "B0FHGHH2K5",
     "youtube": "@aleistertemple",
     "tiktok": null,
     "instagram": null
@@ -801,9 +805,12 @@
     "id": "ameiro-garden",
     "name": "Ameiro Garden",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-20T13:27:56.718Z",
+    "comments": "The YouTube bio states: \"I use commercially licensed AI-generated elements. If you do not accept the use of AI, please refrain from viewing.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -908,7 +915,7 @@
     "id": "andi-404",
     "name": "andi_404",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-20T13:25:07.884Z",
     "comments": null,
     "tags": [],
     "genres": [],
@@ -917,8 +924,8 @@
     "shScore": null,
     "spotify": "6w0h4tqsfi0ZwYfrHbV3cf",
     "apple": "1846683686",
-    "amazon": null,
-    "youtube": null,
+    "amazon": "B0FWCXL1GM",
+    "youtube": "UCGOL_Hjp9yHJe9yjEqteBRA",
     "tiktok": "@andidepressiva_",
     "instagram": null
   },
@@ -4525,6 +4532,29 @@
     "youtube": "UCrD6VqEjvOjJSQSNp91llhA",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "dohaka6",
+    "name": "Dohaka6",
+    "dateAdded": "2026-01-20T13:23:38.853Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "inconsistent-style",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3DsgZ6kkBWAkNNaYAR06OY",
+    "apple": "1843755102",
+    "amazon": "B0FSPXH4NR",
+    "youtube": "UCusHvoKlcEGXCUW89ZrPhFQ",
+    "tiktok": "@dohaka6",
+    "instagram": "dohaka6"
   },
   {
     "id": "doll-wave",
@@ -16733,6 +16763,28 @@
     "youtube": "UCsaXIWNCifveZFJvDia6Mbg",
     "tiktok": "@spookydoomusic",
     "instagram": "spookydoo_music"
+  },
+  {
+    "id": "starfreak-fm",
+    "name": "Starfreak FM",
+    "dateAdded": "2026-01-20T13:20:26.251Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Now thanks to AI song generators, I can finally give voice to the stories that lived only in my head.\"",
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1HzexeRQd6gKNkdfk7VqlQ",
+    "apple": "1818456540",
+    "amazon": "B0FBV8DCDQ",
+    "youtube": "@StarfreakFM",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "starwynd",
