@@ -889,6 +889,28 @@
     "instagram": null
   },
   {
+    "id": "amy-caprice",
+    "name": "Amy Caprice",
+    "dateAdded": "2026-01-20T21:33:06.866Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0qK9Jkg56LX48GXYUeOKrr",
+    "apple": "1848595666",
+    "amazon": "B0FXT2S6VV",
+    "youtube": "UCtQ_rXK9i3EhEJ-Nghcn-Tg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ancient-mother",
     "name": "Ancient Mother",
     "dateAdded": "2026-01-07T12:40:30.025Z",
@@ -927,6 +949,29 @@
     "amazon": "B0FWCXL1GM",
     "youtube": "UCGOL_Hjp9yHJe9yjEqteBRA",
     "tiktok": "@andidepressiva_",
+    "instagram": null
+  },
+  {
+    "id": "angel-of-oblivion",
+    "name": "Angel of Oblivion",
+    "dateAdded": "2026-01-20T22:06:58.541Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Angel of Oblivion is a progressive metal band blending intricate instrumental compositions with the precision of AI-driven creativity.\"",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1Q7gmGEGHz40UbQ6lwe0PO",
+    "apple": "1784943401",
+    "amazon": "B0DQ96XPL8",
+    "youtube": "@AngelofOblivionMusic",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -1356,6 +1401,29 @@
     "youtube": "UCm1ilFq1NXMbHzTTajyjUYg",
     "tiktok": "@artimus_ion",
     "instagram": "artimus_ion"
+  },
+  {
+    "id": "aschensturm",
+    "name": "Aschensturm",
+    "dateAdded": "2026-01-20T21:46:39.907Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"lyrics written by hand, music created by AI.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "human-lyrics",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "06QiQryte5FfPd9L7zHKLA",
+    "apple": null,
+    "amazon": "B0FVNN4J2J",
+    "youtube": "UCtkbAdEnblkOJFwZODneKlQ",
+    "tiktok": null,
+    "instagram": "asche.sturm"
   },
   {
     "id": "ash-and-chalice",
@@ -2440,6 +2508,30 @@
     "instagram": "blueberryclu6"
   },
   {
+    "id": "bon-chic",
+    "name": "Bon Chic",
+    "dateAdded": "2026-01-20T21:49:07.715Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3eRVAsuTAaNukj2vfRnaYo",
+    "apple": "1786729330",
+    "amazon": "B0DR5FXVNB",
+    "youtube": "@bonchicmusic",
+    "tiktok": "@bonchic_music",
+    "instagram": "bonchic.music"
+  },
+  {
     "id": "bookaria",
     "name": "BookAria",
     "dateAdded": "2026-01-19T19:50:33.492Z",
@@ -2795,6 +2887,29 @@
     "youtube": "@Brown_House",
     "tiktok": "@brown_houseyoutube",
     "instagram": null
+  },
+  {
+    "id": "bushido-girl",
+    "name": "Bushido Girl",
+    "dateAdded": "2026-01-20T22:02:34.020Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5XdApx9FvkSSP4tKpx8Adz",
+    "apple": "1765225229",
+    "amazon": "B0DFGDWQ18",
+    "youtube": "UCNUq0GXlyawudiLgJmDAkJQ",
+    "tiktok": null,
+    "instagram": "bushidogirlofficial"
   },
   {
     "id": "cain-walker",
@@ -4729,6 +4844,29 @@
     "instagram": "sele.durdevic"
   },
   {
+    "id": "dream-in-sanity",
+    "name": "Dream.in.Sanity",
+    "dateAdded": "2026-01-20T21:55:35.898Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Imaginations manifested in reality by Artificial Intelligence.\"",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4HihulpvLShzeMG88CGLII",
+    "apple": "1755956366",
+    "amazon": "B0D8ZMLJV1",
+    "youtube": "@Dream.in.Sanity",
+    "tiktok": "@dreaminsanity",
+    "instagram": "dream.in.sanity"
+  },
+  {
     "id": "drew-meadows",
     "name": "Drew Meadows",
     "dateAdded": "2026-01-19T12:53:09.476Z",
@@ -4864,6 +5002,29 @@
     "youtube": "@dumpstergrooves",
     "tiktok": "@dumpster.grooves",
     "instagram": "dumpster_grooves"
+  },
+  {
+    "id": "dumpster-grooves-after-dark",
+    "name": "Dumpster Grooves After Dark",
+    "dateAdded": "2026-01-20T21:42:14.619Z",
+    "dateUpdated": null,
+    "comments": "Closely linked to another project by a similar name (Dumpster Grooves).",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2wAl4lJq20gyIVBhbZj7MJ",
+    "apple": "1853458022",
+    "amazon": "B0G2LC85QH",
+    "youtube": "UCD2F1pBW0ogtdlzb-tsbcFA",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "dvrkthorn",
@@ -7295,6 +7456,29 @@
     "instagram": null
   },
   {
+    "id": "haze-ctrl",
+    "name": "HAZE // CTRL",
+    "dateAdded": "2026-01-20T21:03:37.337Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "05El5nJuBSdNBgCSVyZFWO",
+    "apple": "1852064041",
+    "amazon": "B0G1P1CD9C",
+    "youtube": "UC77XUheya-qrtvM7xKUT8pw",
+    "tiktok": null,
+    "instagram": "hazectrl.artist"
+  },
+  {
     "id": "hazy-thompson",
     "name": "Hazy Thompson",
     "dateAdded": "2026-01-18T21:33:29.722Z",
@@ -7993,6 +8177,31 @@
     "instagram": null
   },
   {
+    "id": "hyperdrive-sound",
+    "name": "Hyperdrive Sound",
+    "dateAdded": "2026-01-20T21:29:20.009Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5qsgwNthCvc282o9dstOMP",
+    "apple": "1786745509",
+    "amazon": null,
+    "youtube": "@hyperdrivesound",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "hypertechno",
     "name": "HYPERTECHNO",
     "dateAdded": "2025-12-10T08:15:52.000Z",
@@ -8384,6 +8593,29 @@
     "apple": "1791406168",
     "amazon": "B08W38KVJX",
     "youtube": "@isitsundayalready",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "istatiks",
+    "name": "Istatiks",
+    "dateAdded": "2026-01-20T21:30:48.067Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2nXRtoIVJBvgE9HMNffMsc",
+    "apple": "1813054470",
+    "amazon": "B0F7RZJTWV",
+    "youtube": null,
     "tiktok": null,
     "instagram": null
   },
@@ -9518,6 +9750,29 @@
     "youtube": "@Kiirelia",
     "tiktok": "@kiirelia",
     "instagram": "kiirelia"
+  },
+  {
+    "id": "kimi-kurro",
+    "name": "Kimi Kurro",
+    "dateAdded": "2026-01-20T21:24:04.886Z",
+    "dateUpdated": null,
+    "comments": "This artist has over 7,000 monthly listeners withonly one song and all clips are ai generated.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4eF9lqNSqRHnyD5dMpj0x3",
+    "apple": "1858162376",
+    "amazon": "B0G4W4JT2R",
+    "youtube": "@KimiKurro",
+    "tiktok": "@kimikurro",
+    "instagram": "kimikurro"
   },
   {
     "id": "king-motiv8",
@@ -11732,6 +11987,28 @@
     "instagram": null
   },
   {
+    "id": "mmeg",
+    "name": "MMEG",
+    "dateAdded": "2026-01-20T21:20:00.000Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2eY3g73T4DteHCjFwOyw8w",
+    "apple": "1845715645",
+    "amazon": "B0FVYFCJ12",
+    "youtube": "@MMEG-song",
+    "tiktok": "@mmeg.song",
+    "instagram": null
+  },
+  {
     "id": "modranicht",
     "name": "Modranicht",
     "dateAdded": "2025-12-16T10:06:00.000Z",
@@ -12530,6 +12807,28 @@
     "instagram": "nightsyn_music"
   },
   {
+    "id": "nika",
+    "name": "Nika",
+    "dateAdded": "2026-01-20T21:53:59.466Z",
+    "dateUpdated": null,
+    "comments": "This artist is featured in AI playlists on Spotify.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2lXT7wYB0cZXsOaddbx5ZZ",
+    "apple": "1819310938",
+    "amazon": null,
+    "youtube": null,
+    "tiktok": "@nikaperomi",
+    "instagram": null
+  },
+  {
     "id": "nina-blaze",
     "name": "Nina Blaze",
     "dateAdded": "2025-12-21T20:59:37.000Z",
@@ -12976,6 +13275,29 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "okiso",
+    "name": "OKISO",
+    "dateAdded": "2026-01-20T21:37:07.527Z",
+    "dateUpdated": null,
+    "comments": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
+    "tags": [
+      "audio-artifacts",
+      "high-output",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2FSh9530hmphpeK3QmDSPm",
+    "apple": "1735330883",
+    "amazon": "B0CXQ27FH1",
+    "youtube": "@okiso7",
+    "tiktok": "@okisooo_",
+    "instagram": "okisooo_"
   },
   {
     "id": "ol-man-yarn",
@@ -13554,6 +13876,29 @@
     "apple": "1784013546",
     "amazon": null,
     "youtube": "@PiratesoftheHorizon",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "plague-on-board",
+    "name": "Plague on Board",
+    "dateAdded": "2026-01-20T21:27:59.242Z",
+    "dateUpdated": null,
+    "comments": "Linked with another AI artist (Roadkill Pickers), with similar artwork.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4aMDUxv2inevvTyo3yFcFN",
+    "apple": "1753783805",
+    "amazon": "B0D7XR2LRM",
+    "youtube": "UCh_il9cNK1EQi0uIG6x8h6A",
     "tiktok": null,
     "instagram": null
   },
@@ -14141,6 +14486,28 @@
     "instagram": "rebelredeemed316"
   },
   {
+    "id": "rebornbeat",
+    "name": "RebornBeat",
+    "dateAdded": "2026-01-20T21:50:24.997Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"With AI as my creative instrument, I blend imagination and feeling, turning ideas into sound.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6XkNk1PfIy2c1uznIvuM0E",
+    "apple": "1859176562",
+    "amazon": "B0FZ1291KC",
+    "youtube": "@RebornBeat",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "red-village",
     "name": "Red Village",
     "dateAdded": "2025-12-22T21:54:55.000Z",
@@ -14353,6 +14720,29 @@
     "apple": "1847389221",
     "amazon": null,
     "youtube": "@officialrezon8",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "rhymes-of-the-damned",
+    "name": "Rhymes of the Damned",
+    "dateAdded": "2026-01-20T22:03:38.085Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Rhymes of the Damned is an experimental AI-driven music project.\"",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1QNNBq8cPoDBzZX2Zz9lUG",
+    "apple": "1779213999",
+    "amazon": "B0DMSMQB7F",
+    "youtube": "@RhymesoftheDamned",
     "tiktok": null,
     "instagram": null
   },
@@ -15209,6 +15599,30 @@
     "instagram": "samuraigirl_official"
   },
   {
+    "id": "sandstorm-serenade",
+    "name": "Sandstorm Serenade",
+    "dateAdded": "2026-01-20T22:08:02.468Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "538Id3jHm4AWvVYBSeGMQL",
+    "apple": "1783097616",
+    "amazon": "B0DPJ5H498",
+    "youtube": "@SandstormSerenade",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "saras-handwritten-lyrics",
     "name": "Sara's Handwritten Lyrics",
     "dateAdded": "2025-12-07T00:23:49.000Z",
@@ -15948,6 +16362,31 @@
     "instagram": null
   },
   {
+    "id": "six-gun-siren",
+    "name": "Six Gun Siren",
+    "dateAdded": "2026-01-20T21:22:40.536Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Blending twangy guitars, heavy bass, sharp vocals, and cutting-edge production techniques (including AI where it enhances the vision).\"",
+    "tags": [
+      "partial-ai",
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4Lq6fpwHIzXN5Ji7V5bxVX",
+    "apple": "1840318845",
+    "amazon": null,
+    "youtube": "@sixgunsiren",
+    "tiktok": null,
+    "instagram": "sixgunsiren"
+  },
+  {
     "id": "skaldic-storm",
     "name": "Skaldic Storm",
     "dateAdded": "2025-12-17T15:19:37.000Z",
@@ -16015,6 +16454,29 @@
     "youtube": "@skavira",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "slime-dot",
+    "name": "Slime Dot",
+    "dateAdded": "2026-01-20T22:05:52.732Z",
+    "dateUpdated": null,
+    "comments": "Uses hashtags such as #aiartist and #aimusic on social profiles.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "self-disclosed-ai",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2LnFNK3k4zi3T48mrYdHmA",
+    "apple": "1859936372",
+    "amazon": null,
+    "youtube": "@SlimeDotAi",
+    "tiktok": "@slimedot.ai",
+    "instagram": "slimedot.ai"
   },
   {
     "id": "slowbreaker",
@@ -16384,6 +16846,30 @@
     "youtube": "@thisissolpulse",
     "tiktok": "@solpulse",
     "instagram": "thisissolpulse"
+  },
+  {
+    "id": "solyn",
+    "name": "Solyn",
+    "dateAdded": "2026-01-20T21:47:53.707Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "inconsistent-style",
+      "minimal-bio",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3rlNwJiJhQuNpbTKYeSNvi",
+    "apple": "1852406531",
+    "amazon": "B0G66LP7MS",
+    "youtube": "@solynmusic",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "son-of-the-dead-sun",
@@ -18673,6 +19159,29 @@
     "youtube": "@yhproduce",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "unfound-records",
+    "name": "Unfound Records",
+    "dateAdded": "2026-01-20T21:32:07.913Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7H1CWHcjgqAuUaQl6kxPHM",
+    "apple": "1744283764",
+    "amazon": "B0D34S8PZL",
+    "youtube": "@UnfoundRecords",
+    "tiktok": "@unfound_records",
+    "instagram": "unfoundrecords"
   },
   {
     "id": "until-nothing",
