@@ -756,6 +756,29 @@
     "instagram": null
   },
   {
+    "id": "amao",
+    "name": "Amao",
+    "dateAdded": "2026-01-21T14:42:59.222Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Occasionally use AI to create music.\" However, the high output  suggests that the majority of the songs on this channel are AI-generated.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0mfMxjfwqyOtLR90dwxCfH",
+    "apple": "1832302640",
+    "amazon": "B001E6ADP6",
+    "youtube": "@毛爸Amao",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "amarie",
     "name": "Amarie",
     "dateAdded": "2026-01-16T20:57:32.486Z",
@@ -3374,6 +3397,27 @@
     "youtube": "@Cloud_Chief",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "cody-marrow",
+    "name": "Cody Marrow",
+    "dateAdded": "2026-01-21T14:35:47.205Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5UnojgaZc7MiDvMXNLKhrQ",
+    "apple": "1831983933",
+    "amazon": null,
+    "youtube": "@CodyMarrow",
+    "tiktok": "@codymarrowofficial",
+    "instagram": "codymarrowofficial"
   },
   {
     "id": "cognivibe",
@@ -8622,6 +8666,28 @@
     "instagram": null
   },
   {
+    "id": "izrailx",
+    "name": "IzrailX",
+    "dateAdded": "2026-01-21T14:39:07.821Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6vXRAaF2xseLx5a7n0HaXf",
+    "apple": "1849839837",
+    "amazon": "B0FYPQFXXJ",
+    "youtube": "@IzrailX",
+    "tiktok": "@izrailx",
+    "instagram": "therealizrailx"
+  },
+  {
     "id": "j-bumi",
     "name": "J Bumi",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -11712,6 +11778,31 @@
     "amazon": "B01MCXR18O",
     "youtube": "UCuTiTETmKehqE_ZoFMwNz3A",
     "tiktok": "@midnightinmanhatt",
+    "instagram": null
+  },
+  {
+    "id": "midnight-lust",
+    "name": "Midnight Lust",
+    "dateAdded": "2026-01-21T14:44:24.158Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence",
+      "inconsistent-style",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4WvPcD7O2eDUKVvGOVyS16",
+    "apple": "1850830525",
+    "amazon": null,
+    "youtube": "@Midnight_Lust",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -17787,6 +17878,30 @@
     "instagram": null
   },
   {
+    "id": "taylor-lakes",
+    "name": "Taylor Lakes",
+    "dateAdded": "2026-01-21T14:37:57.950Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "no-social-presence",
+      "inconsistent-style"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "07cbHkh8aPS0DalFX97zdR",
+    "apple": "1855115078",
+    "amazon": "B0G1Z3VG8J",
+    "youtube": "@taylor.lakes31",
+    "tiktok": "@taylor.lakes31",
+    "instagram": null
+  },
+  {
     "id": "teeth-of-eden",
     "name": "Teeth of Eden",
     "dateAdded": "2026-01-18T14:47:55.776Z",
@@ -19670,6 +19785,29 @@
     "youtube": "UCdM_KRSLU2tnYmLaplBat0g",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "vengeful",
+    "name": "VENGEFUL",
+    "dateAdded": "2026-01-21T14:34:33.763Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"VENGEFUL - that's the name under which I now release completely AI-produced music. What you hear is created through artificial intelligence in combination with my vision, my lyrics, and my energy.\" (translated from German)",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3Z3VNM5xgRCE5zCzENrQEz",
+    "apple": "1776684207",
+    "amazon": "B0787489K9",
+    "youtube": "@VENGEFUL_MUSIC_OFFICIAL",
+    "tiktok": null,
+    "instagram": "vengeful_music_official"
   },
   {
     "id": "veyna-ashford",
