@@ -2,12 +2,13 @@
   "id": "the-black-mammoth",
   "name": "The Black Mammoth",
   "dateAdded": "2026-01-02T14:25:21.000Z",
-  "dateUpdated": null,
-  "comments": "The audio features trembling vocals and inconsistent voices, characteristic of AI generation. Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
+  "dateUpdated": "2026-01-21T14:12:41.876Z",
+  "comments": "Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
   "tags": [
     "inconsistent-style",
     "partial-ai",
-    "audio-artifacts"
+    "audio-artifacts",
+    "human-lyrics"
   ],
   "genres": [],
   "popularity": null,
