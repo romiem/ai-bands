@@ -2,11 +2,13 @@
   "id": "ily-ghoul",
   "name": "ILY Ghoul",
   "dateAdded": "2026-01-14T17:02:11.551Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-21T14:11:26.894Z",
   "comments": "YouTube comments on the artist's profile asking to confirm whether AI was used go unanswered.",
   "tags": [
     "anonymous",
-    "minimal-bio"
+    "minimal-bio",
+    "audio-artifacts",
+    "partial-ai"
   ],
   "genres": [],
   "popularity": null,
