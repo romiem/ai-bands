@@ -2,10 +2,14 @@
   "id": "apukat",
   "name": "Apukat",
   "dateAdded": "2025-12-09T22:35:10.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-21T20:09:42.940Z",
   "comments": null,
   "tags": [
-    "high-output"
+    "high-output",
+    "inconsistent-style",
+    "minimal-bio",
+    "audio-artifacts",
+    "ai-visuals"
   ],
   "genres": [],
   "popularity": null,
