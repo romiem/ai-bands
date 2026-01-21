@@ -1263,10 +1263,14 @@
     "id": "apukat",
     "name": "Apukat",
     "dateAdded": "2025-12-09T22:35:10.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-21T20:09:42.940Z",
     "comments": null,
     "tags": [
-      "high-output"
+      "high-output",
+      "inconsistent-style",
+      "minimal-bio",
+      "audio-artifacts",
+      "ai-visuals"
     ],
     "genres": [],
     "popularity": null,
@@ -3198,6 +3202,30 @@
     "apple": "1803532895",
     "amazon": "B0F243L3G1",
     "youtube": "@charisstudio81",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "charli-morgan",
+    "name": "Charli Morgan",
+    "dateAdded": "2026-01-21T20:17:29.109Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence",
+      "minimal-bio",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3mlOel9qU849uJYOyBP7jc",
+    "apple": "1751050722",
+    "amazon": "B0D6KL9R8C",
+    "youtube": "@charlimorganmusic",
     "tiktok": null,
     "instagram": null
   },
@@ -5315,6 +5343,31 @@
     "instagram": "efyliphmusic"
   },
   {
+    "id": "eiden-xii",
+    "name": "Eiden XII",
+    "dateAdded": "2026-01-21T20:37:45.578Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7aN8OCNif0ahcKC8D4dJa7",
+    "apple": "1647923411",
+    "amazon": "B0BGZ67WRC",
+    "youtube": "@EidenXII",
+    "tiktok": null,
+    "instagram": "eidenxii"
+  },
+  {
     "id": "ekospir",
     "name": "EKOSPIR",
     "dateAdded": "2026-01-03T14:14:56.000Z",
@@ -6896,6 +6949,28 @@
     "apple": "1862774470",
     "amazon": "B0G9MKQ7NX",
     "youtube": "UCwV5MCu4XkVv9K2of5-3YAQ",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "gembana",
+    "name": "Gembana",
+    "dateAdded": "2026-01-21T22:41:33.169Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "23CSE6oPJbKI2spBsoGohn",
+    "apple": "1866203715",
+    "amazon": "B0GDW4LW7B",
+    "youtube": "UCuUyHTYH_-Ytn4t3bY-M-Pg",
     "tiktok": null,
     "instagram": null
   },
@@ -9091,6 +9166,30 @@
     "instagram": null
   },
   {
+    "id": "jess-tailor",
+    "name": "Jess Tailor",
+    "dateAdded": "2026-01-21T20:39:35.196Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Ih7I4jNqvyf4PDKbr8yZQ",
+    "apple": "1828291979",
+    "amazon": null,
+    "youtube": "@JessTailormusic",
+    "tiktok": "@jesstailormusic",
+    "instagram": "jess_tailor"
+  },
+  {
     "id": "jg-horizon",
     "name": "JG Horizon",
     "dateAdded": "2026-01-08T16:02:57.231Z",
@@ -9865,6 +9964,30 @@
     "youtube": "@Kiirelia",
     "tiktok": "@kiirelia",
     "instagram": "kiirelia"
+  },
+  {
+    "id": "killatronic",
+    "name": "KILLATRONIC",
+    "dateAdded": "2026-01-21T20:16:17.255Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "ai-visuals",
+      "high-output",
+      "anonymous",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1UPRtWzjPrj9y56tOmjouA",
+    "apple": "1838996978",
+    "amazon": "B0FQKTNSDZ",
+    "youtube": "@killatronic",
+    "tiktok": "@killatronicmusic",
+    "instagram": "killatronic"
   },
   {
     "id": "kimi-kurro",
@@ -16668,6 +16791,30 @@
     "instagram": null
   },
   {
+    "id": "slick-krugers",
+    "name": "Slick Krugers",
+    "dateAdded": "2026-01-21T22:17:29.281Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "inconsistent-style",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "63gzNofrOyz1jWur3t6pLM",
+    "apple": "1818539436",
+    "amazon": null,
+    "youtube": "@SlickKrugers",
+    "tiktok": null,
+    "instagram": "slick_krugers"
+  },
+  {
     "id": "slime-dot",
     "name": "Slime Dot",
     "dateAdded": "2026-01-20T22:05:52.732Z",
@@ -18845,6 +18992,29 @@
     "youtube": null,
     "tiktok": null,
     "instagram": "theuncs2025"
+  },
+  {
+    "id": "the-vampires-of-kopenhagen",
+    "name": "THE VAMPIRES OF KOPENHAGEN",
+    "dateAdded": "2026-01-21T22:19:37.075Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4Curt4KIEHtDoCoaghY9n8",
+    "apple": "1848022608",
+    "amazon": null,
+    "youtube": "UC7tkPC2ZZJ3tDfITFDFZrpg",
+    "tiktok": "@thevampiresofkopenhagen",
+    "instagram": "vampiresofkopenhagen"
   },
   {
     "id": "the-velvet-sundown",
