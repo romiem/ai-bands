@@ -8365,11 +8365,13 @@
     "id": "ily-ghoul",
     "name": "ILY Ghoul",
     "dateAdded": "2026-01-14T17:02:11.551Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-21T14:11:26.894Z",
     "comments": "YouTube comments on the artist's profile asking to confirm whether AI was used go unanswered.",
     "tags": [
       "anonymous",
-      "minimal-bio"
+      "minimal-bio",
+      "audio-artifacts",
+      "partial-ai"
     ],
     "genres": [],
     "popularity": null,
@@ -12462,6 +12464,30 @@
     "youtube": "@NarrowayCollective",
     "tiktok": "@narrowaycollective",
     "instagram": "narrowaycollective"
+  },
+  {
+    "id": "natalie-grace",
+    "name": "Natalie Grace",
+    "dateAdded": "2026-01-21T14:17:12.331Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states \"AI tools were used to enhance the music and vocal quality, ensuring a polished and professional sound.\" However, song credits lists Suliko Kheladze (also listed on AI artists ElenAmor, Imani Shiloh, Aisha Sparkle) which raise suspicions over full AI-generation.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4Ifp046G8ZrOexuwoEk0H5",
+    "apple": "1794807807",
+    "amazon": "B0012WWCWY",
+    "youtube": "@nataliegracemusic",
+    "tiktok": null,
+    "instagram": "ngworshipmusic"
   },
   {
     "id": "nekonoma",
@@ -18004,12 +18030,13 @@
     "id": "the-black-mammoth",
     "name": "The Black Mammoth",
     "dateAdded": "2026-01-02T14:25:21.000Z",
-    "dateUpdated": null,
-    "comments": "The audio features trembling vocals and inconsistent voices, characteristic of AI generation. Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
+    "dateUpdated": "2026-01-21T14:12:41.876Z",
+    "comments": "Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
     "tags": [
       "inconsistent-style",
       "partial-ai",
-      "audio-artifacts"
+      "audio-artifacts",
+      "human-lyrics"
     ],
     "genres": [],
     "popularity": null,
@@ -19046,6 +19073,29 @@
     "instagram": "twistedgamesongs"
   },
   {
+    "id": "twisted-reality",
+    "name": "Twisted Reality",
+    "dateAdded": "2026-01-21T14:32:25.340Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
+    "tags": [
+      "high-output",
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3maNvs0pgMKHVmyVkANxZE",
+    "apple": "1867884745",
+    "amazon": "B07GZP1H32",
+    "youtube": "@TwistedReality-AI",
+    "tiktok": "@twistedreality68",
+    "instagram": null
+  },
+  {
     "id": "unbound-music",
     "name": "Unbound Music",
     "dateAdded": "2026-01-07T15:28:21.901Z",
@@ -19276,9 +19326,13 @@
     "id": "vaelyn",
     "name": "VAELYN",
     "dateAdded": "2025-12-09T21:17:37.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-21T11:07:31.216Z",
+    "comments": "The YouTube bio states: \"AI vocals and Instrumentation.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "self-disclosed-ai"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
