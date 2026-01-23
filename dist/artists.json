@@ -1332,6 +1332,28 @@
     "instagram": "ariabyte.official"
   },
   {
+    "id": "ariana-lewis",
+    "name": "Ariana Lewis",
+    "dateAdded": "2026-01-22T23:06:33.286Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1FI4PTQu4WB1qp36jnIMym",
+    "apple": "1858304754",
+    "amazon": "B076X6J9DZ",
+    "youtube": "UC94_lqZcVq2CW1xAlJtjwbA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "array-of-illusions",
     "name": "Array of Illusions",
     "dateAdded": "2026-01-09T11:40:54.945Z",
@@ -11409,9 +11431,13 @@
     "id": "manifested-dreams",
     "name": "Manifested Dreams",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-23T08:06:12.053Z",
+    "comments": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "anonymous"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -11419,7 +11445,7 @@
     "spotify": "4wppf2VUZmaZ6SQK2UXpVT",
     "apple": "1841650523",
     "amazon": null,
-    "youtube": null,
+    "youtube": "UCtBjzKt0XZA0C2eM5032ZLA",
     "tiktok": null,
     "instagram": null
   },
@@ -14262,6 +14288,28 @@
     "instagram": "plumia_production"
   },
   {
+    "id": "pochito",
+    "name": "Pochito",
+    "dateAdded": "2026-01-22T23:02:01.699Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2p2EQadplVuayD30XPym8j",
+    "apple": "1835419212",
+    "amazon": null,
+    "youtube": "@realpochito",
+    "tiktok": "@therealpochito",
+    "instagram": null
+  },
+  {
     "id": "poisonpop-candy",
     "name": "POISONPOP Candy",
     "dateAdded": "2026-01-13T21:39:15.245Z",
@@ -16538,7 +16586,7 @@
     "id": "sienna-rose",
     "name": "Sienna Rose",
     "dateAdded": "2025-12-31T16:13:56.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-22T22:58:20.863Z",
     "comments": "Generic songs paired with AI-generated visuals across platforms, with no identifiable individuals linked to the project.",
     "tags": [
       "ai-visuals",
@@ -16554,8 +16602,8 @@
     "apple": "1842631284",
     "amazon": "B07YMVBCHZ",
     "youtube": "UCi5lJ9LflY1Pn05ArHyQxEA",
-    "tiktok": null,
-    "instagram": "sienna.rosemusic"
+    "tiktok": "@siennarosely",
+    "instagram": "siennarosely"
   },
   {
     "id": "sierra-vale",
