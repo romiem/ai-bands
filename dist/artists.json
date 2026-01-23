@@ -1869,6 +1869,31 @@
     "instagram": null
   },
   {
+    "id": "aven",
+    "name": "Aven",
+    "dateAdded": "2026-01-23T17:17:07.552Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "inconsistent-style",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2rvnBchzrPtuue6hfHElmM",
+    "apple": "1785715597",
+    "amazon": "B001FC4WAQ",
+    "youtube": "@avend-v5q",
+    "tiktok": "@aven.wav",
+    "instagram": null
+  },
+  {
     "id": "aventhis",
     "name": "Aventhis",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -3005,6 +3030,29 @@
     "youtube": "@Brown_House",
     "tiktok": "@brown_houseyoutube",
     "instagram": null
+  },
+  {
+    "id": "burnerboo",
+    "name": "BurnerBoo",
+    "dateAdded": "2026-01-23T17:13:32.926Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3rwFIh7UXSxwCGpSNbtRi5",
+    "apple": "1863158101",
+    "amazon": "B0GCWB15D9",
+    "youtube": "@BurnerBoo13",
+    "tiktok": "@burnerboo13",
+    "instagram": "burnerboo13"
   },
   {
     "id": "bushido-girl",
@@ -4858,6 +4906,28 @@
     "youtube": "UCyhL1tVK8ie-sWTHW19ZOMg",
     "tiktok": "@djkneupp",
     "instagram": "djkneupp"
+  },
+  {
+    "id": "dj-tralalero-tralala",
+    "name": "DJ Tralalero Tralala",
+    "dateAdded": "2026-01-23T17:18:56.651Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5rChNZRJnV2MciNb9U6HyH",
+    "apple": "1832222657",
+    "amazon": "B0FLW5JBMW",
+    "youtube": "@DJTralaleroTralalaOfficial",
+    "tiktok": null,
+    "instagram": "djtralalerotralala"
   },
   {
     "id": "dj-xoxo",
@@ -12046,6 +12116,30 @@
     "instagram": null
   },
   {
+    "id": "meid",
+    "name": "meid",
+    "dateAdded": "2026-01-23T17:11:01.606Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0SB7H0uvEdP7VgeTJenyIx",
+    "apple": null,
+    "amazon": "B000QKNDAS",
+    "youtube": "UC9K2p4vlCrINiS1hakjLq7Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "mela-mirage",
     "name": "Mela Mirage",
     "dateAdded": "2026-01-16T13:49:13.126Z",
@@ -12193,6 +12287,29 @@
     "youtube": "@Melomamusic",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "melzona",
+    "name": "Melzona",
+    "dateAdded": "2026-01-23T17:14:53.296Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Among a wave of AI artists, she stands out as one of the few to reach the biggest Apple Music, Amazon Music, and YouTube Music playlists, proving that artificial intelligence can craft emotion, rhythm, and identity.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2udo0bsvIa1dButgTsw9gs",
+    "apple": "1800026115",
+    "amazon": "B0DZ3Q36TJ",
+    "youtube": "@melzonamusic",
+    "tiktok": "@melzonam",
+    "instagram": "melzonamusic"
   },
   {
     "id": "merciless-cult",
@@ -16828,6 +16945,29 @@
     "instagram": null
   },
   {
+    "id": "severed-soul",
+    "name": "Severed Soul",
+    "dateAdded": "2026-01-23T17:09:49.348Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3jIyun1hBM80ipO4dnfp5O",
+    "apple": "1858870425",
+    "amazon": null,
+    "youtube": "@severedsoul-44",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "shadow-beloved",
     "name": "Shadow Beloved",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -20923,6 +21063,30 @@
     "youtube": "@volysis",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "vowless",
+    "name": "Vowless",
+    "dateAdded": "2026-01-23T17:12:21.313Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"AI-assisted production.\"",
+    "tags": [
+      "anonymous",
+      "ai-visuals",
+      "high-output",
+      "self-disclosed-ai",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7tySWxsUMoqeioehmcy0Ps",
+    "apple": "1855836114",
+    "amazon": null,
+    "youtube": "UCT80y8yCDaKG4uPj53s90QA",
+    "tiktok": "@vowlessmusic",
+    "instagram": "vowlessmusic"
   },
   {
     "id": "voxen-soundworks",
