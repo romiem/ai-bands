@@ -2,9 +2,13 @@
   "id": "obsidian-swing",
   "name": "Obsidian Swing",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-23T14:15:39.189Z",
   "comments": null,
-  "tags": [],
+  "tags": [
+    "ai-visuals",
+    "inconsistent-style",
+    "no-social-presence"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
@@ -12,7 +16,7 @@
   "spotify": "6ydIK3fZelJNbF5KwgZUga",
   "apple": "1812243634",
   "amazon": null,
-  "youtube": null,
+  "youtube": "UCFn4m_PRNIJNGBJCW9n9xlw",
   "tiktok": null,
   "instagram": null
 }
