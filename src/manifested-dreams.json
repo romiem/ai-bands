@@ -2,9 +2,13 @@
   "id": "manifested-dreams",
   "name": "Manifested Dreams",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "comments": null,
-  "tags": [],
+  "dateUpdated": "2026-01-23T08:06:12.053Z",
+  "comments": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
+  "tags": [
+    "self-disclosed-ai",
+    "ai-visuals",
+    "anonymous"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
@@ -12,7 +16,7 @@
   "spotify": "4wppf2VUZmaZ6SQK2UXpVT",
   "apple": "1841650523",
   "amazon": null,
-  "youtube": null,
+  "youtube": "UCtBjzKt0XZA0C2eM5032ZLA",
   "tiktok": null,
   "instagram": null
 }
