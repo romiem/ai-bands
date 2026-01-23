@@ -1798,6 +1798,29 @@
     "instagram": null
   },
   {
+    "id": "aurora-lane",
+    "name": "Aurora Lane",
+    "dateAdded": "2026-01-23T11:08:37.337Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "no-social-presence",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "12dTRwxoCBGKgFUWIydcun",
+    "apple": "1842249152",
+    "amazon": null,
+    "youtube": "UCWD_KNAUHQyVh3H7e8ChEAA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "aurum-project",
     "name": "Aurum Project",
     "dateAdded": "2026-01-03T18:13:26.000Z",
@@ -2171,6 +2194,30 @@
     "apple": "1813013524",
     "amazon": "B07W3YX18D",
     "youtube": "UCWNZbiDlAoac3TKxs6iTb_Q",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "beat-drift",
+    "name": "Beat Drift",
+    "dateAdded": "2026-01-23T11:12:24.154Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "no-social-presence",
+      "inconsistent-style",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3X3coPEx339cDpfSp2H36M",
+    "apple": "1792445101",
+    "amazon": "B0DV15JD97",
+    "youtube": "UC1DL_GGzZW155j5ev9yXoxg",
     "tiktok": null,
     "instagram": null
   },
@@ -2719,6 +2766,28 @@
     "youtube": "@boulevardamusica",
     "tiktok": "@boulevarddamusica",
     "instagram": "boulevardamusica"
+  },
+  {
+    "id": "bow-boy",
+    "name": "Bow Boy",
+    "dateAdded": "2026-01-23T10:52:47.252Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "minimal-bio",
+      "high-output",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4beFxDuKeWARiQtS8rgNN6",
+    "apple": "1853246248",
+    "amazon": "B0G33JVD3D",
+    "youtube": null,
+    "tiktok": "@bowbowbowboy",
+    "instagram": "bowboy_music"
   },
   {
     "id": "boxxboxx",
@@ -3361,6 +3430,28 @@
     "instagram": "chromevultures"
   },
   {
+    "id": "ciara-blue",
+    "name": "Ciara Blue",
+    "dateAdded": "2026-01-23T10:49:03.135Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "439pMTy0VwEEZS9Rynp4Uo",
+    "apple": "1852210018",
+    "amazon": null,
+    "youtube": "UCacBLSO_n-3zoTotVZbR8RA",
+    "tiktok": null,
+    "instagram": "ciarabluemusic"
+  },
+  {
     "id": "cimmeris",
     "name": "Cimmeris",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -3540,6 +3631,29 @@
     "instagram": null
   },
   {
+    "id": "colter-rayne",
+    "name": "COLTER RAYNE",
+    "dateAdded": "2026-01-23T10:42:01.126Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Powered by AI but driven by heart.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "544Hd2Ja1526AqcftSnBQc",
+    "apple": "1826823823",
+    "amazon": "B0FHWXXXZV",
+    "youtube": "@ColterRayne",
+    "tiktok": "@colterrayne",
+    "instagram": null
+  },
+  {
     "id": "convex",
     "name": "ConVex",
     "dateAdded": "2025-12-08T11:18:18.000Z",
@@ -3575,6 +3689,29 @@
     "apple": "1752458561",
     "amazon": "B0D793RRVL",
     "youtube": "@copperplatedoesntexist",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "corner-of-the-cafe",
+    "name": "Corner of the Café",
+    "dateAdded": "2026-01-23T11:01:18.559Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"All content (both visuals and music) on \"Corner of the Café\" is generated using AI technology.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0Xpeg4XkaqBcuPDP76WDwX",
+    "apple": "1820486879",
+    "amazon": null,
+    "youtube": "@cornerofthecafe",
     "tiktok": null,
     "instagram": null
   },
@@ -4570,6 +4707,29 @@
     "instagram": null
   },
   {
+    "id": "didur-lux",
+    "name": "DiDur Lux",
+    "dateAdded": "2026-01-23T10:57:06.112Z",
+    "dateUpdated": null,
+    "comments": "YouTube bio states: \"a genre-bending artist blending AI innovation with raw emotion\" and \"created with passion + AI.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "35nnmyOWByVH9bRiHvi1br",
+    "apple": null,
+    "amazon": "B0FKJM4CTD",
+    "youtube": "@didur_lux",
+    "tiktok": "@didur_lux",
+    "instagram": null
+  },
+  {
     "id": "diesel",
     "name": "DIESEL",
     "dateAdded": "2026-01-03T14:08:40.000Z",
@@ -5365,6 +5525,30 @@
     "instagram": "efyliphmusic"
   },
   {
+    "id": "eichenherz",
+    "name": "Eichenherz",
+    "dateAdded": "2026-01-23T11:06:55.023Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0ULLHKNtfdVc59rs5MOlpr",
+    "apple": "1838265545",
+    "amazon": "B0FQ45BQHW",
+    "youtube": "UChQZesRU2CpUdEMLjvvXt5Q",
+    "tiktok": "@eichenherz_musik",
+    "instagram": null
+  },
+  {
     "id": "eiden-xii",
     "name": "Eiden XII",
     "dateAdded": "2026-01-21T20:37:45.578Z",
@@ -5388,6 +5572,30 @@
     "youtube": "@EidenXII",
     "tiktok": null,
     "instagram": "eidenxii"
+  },
+  {
+    "id": "einarsson",
+    "name": "Einarsson",
+    "dateAdded": "2026-01-23T10:35:30.532Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Einarsson is an AI-based artist who writes lyrics and creates music using artificial intelligence.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "high-output",
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3dosGgkIX23viQnzYVTPrH",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCpGbB3ywunq5RX_e9-PO5hw",
+    "tiktok": "@.einarsson",
+    "instagram": null
   },
   {
     "id": "ekospir",
@@ -7209,6 +7417,29 @@
     "instagram": null
   },
   {
+    "id": "glxe",
+    "name": "GLXE",
+    "dateAdded": "2026-01-23T10:51:26.598Z",
+    "dateUpdated": null,
+    "comments": "The TikTok bio states: \"AI KPop Group.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0DgpEL50vBHaokDjDJHiN4",
+    "apple": "1858501699",
+    "amazon": null,
+    "youtube": "UClt_TuCfI5r4Qh5Q_dYrszA",
+    "tiktok": "@glxe.official",
+    "instagram": null
+  },
+  {
     "id": "gobta-d",
     "name": "GOBTA D",
     "dateAdded": "2026-01-03T12:47:43.000Z",
@@ -8293,6 +8524,29 @@
     "youtube": "UC6-wI0YRayng-ehGkJrfgaQ",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "hyfi",
+    "name": "HyFi",
+    "dateAdded": "2026-01-23T10:58:29.567Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "41vv3GovRsnrru3b2xOz5U",
+    "apple": null,
+    "amazon": "B07TBBPY2Y",
+    "youtube": "UCfPZL9pFl96ec4WMxQ3VTDg",
+    "tiktok": null,
+    "instagram": "hyfi"
   },
   {
     "id": "hyperbaiter",
@@ -9573,6 +9827,28 @@
     "instagram": "kairomansa"
   },
   {
+    "id": "kairo-miles",
+    "name": "Kairo Miles",
+    "dateAdded": "2026-01-23T11:05:37.660Z",
+    "dateUpdated": null,
+    "comments": "The artist (CJ Tuttle) has acknowledged this is is an AI-generated project on his his website.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2Rz0lsZCOkQ5ixKVqadCRE",
+    "apple": "1850099234",
+    "amazon": "B0FYXSMZS8",
+    "youtube": "@KairoMiles",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "kalax",
     "name": "Kalax",
     "dateAdded": "2025-11-29T12:13:30.000Z",
@@ -10318,6 +10594,30 @@
     "youtube": "@KrimsonTheFox",
     "tiktok": "@thefoxkrimson",
     "instagram": "krimsonthefox"
+  },
+  {
+    "id": "kuroge",
+    "name": "Kuroge",
+    "dateAdded": "2026-01-23T10:38:28.626Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "inconsistent-style",
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4CwGTdFETLmTeb9Up0zndS",
+    "apple": "1848245287",
+    "amazon": "B0FXLBVYPL",
+    "youtube": "@Kurogemusic",
+    "tiktok": "@kurogemusic",
+    "instagram": null
   },
   {
     "id": "kuroi-riquid",
@@ -12449,6 +12749,29 @@
     "instagram": "moonshineoutlaws"
   },
   {
+    "id": "morgan-bailey",
+    "name": "Morgan Bailey",
+    "dateAdded": "2026-01-23T10:34:25.875Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7tcbricJTd0ueQJOl0RtH6",
+    "apple": "1844463300",
+    "amazon": "B07B5R3LSY",
+    "youtube": "UC_rKy3PxknoMTKgNZIQmGsA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "morgan-luna",
     "name": "Morgan Luna",
     "dateAdded": "2026-01-07T17:25:54.340Z",
@@ -13897,6 +14220,27 @@
     "instagram": null
   },
   {
+    "id": "otto",
+    "name": "Otto",
+    "dateAdded": "2026-01-23T11:02:41.709Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states \"We are distributing original songs created by AI.\" (translated from Japanese)",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6k2h7cAuvLNIIERuHfJTdB",
+    "apple": "1420058461",
+    "amazon": null,
+    "youtube": "@OttO_music1",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "our-obsidian-scars",
     "name": "OUR OBSIDIAN SCARS",
     "dateAdded": "2025-12-10T17:24:05.000Z",
@@ -14199,6 +14543,28 @@
     "instagram": "pieforbilly"
   },
   {
+    "id": "pink-paradox",
+    "name": "Pink Paradox",
+    "dateAdded": "2026-01-23T11:00:23.093Z",
+    "dateUpdated": null,
+    "comments": "The TikTok bio states: \"Virtual all-girl metal band from Barcelona.\"",
+    "tags": [
+      "ai-visuals",
+      "partial-ai",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "41RYrzskJoovYRHB07AQdh",
+    "apple": "1744163303",
+    "amazon": "B0D33WNY98",
+    "youtube": "UC5s_52aNSAsgG_gQlluH_PA",
+    "tiktok": "@pinkparadox.band",
+    "instagram": "pinkparadox.band"
+  },
+  {
     "id": "pirates-of-the-horizon",
     "name": "Pirates of the Horizon",
     "dateAdded": "2025-11-27T16:46:08.000Z",
@@ -14238,6 +14604,30 @@
     "youtube": "UCh_il9cNK1EQi0uIG6x8h6A",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "playful-devotion",
+    "name": "Playful Devotion",
+    "dateAdded": "2026-01-23T10:37:13.193Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5DHIgh0MCb17cVuB2FkbGO",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@playfuldevotion",
+    "tiktok": "@playfuldevotion",
+    "instagram": "playfuldevotion"
   },
   {
     "id": "pleasurian-pneumatikos",
@@ -14330,6 +14720,30 @@
     "amazon": "B0FMSRP3XD",
     "youtube": "@POISONPOPCandy",
     "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "pokevibe-studios",
+    "name": "Pokévibe Studio's",
+    "dateAdded": "2026-01-23T10:55:25.471Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "audio-artifacts",
+      "inconsistent-style",
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1HhTAdElHjL0yLlyu8Q76v",
+    "apple": "1859613325",
+    "amazon": null,
+    "youtube": "@pokevibe_studios",
+    "tiktok": "@pokevibe.studios",
     "instagram": null
   },
   {
@@ -14721,6 +15135,28 @@
     "youtube": "@RaptoCo",
     "tiktok": "@rapto_co",
     "instagram": "rapto_co"
+  },
+  {
+    "id": "raselhits",
+    "name": "RASELHITS",
+    "dateAdded": "2026-01-23T10:40:13.383Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2s1NUR7JmW2x6hItRlRh32",
+    "apple": "1848602871",
+    "amazon": "B0FXT71Q4M",
+    "youtube": "UCYRelw5w82qnsaycIyFBwDA",
+    "tiktok": "@raselhits",
+    "instagram": null
   },
   {
     "id": "raster-dust",
@@ -15469,6 +15905,28 @@
     "youtube": "@RockingRebelmusic",
     "tiktok": null,
     "instagram": "rocking_rebel8"
+  },
+  {
+    "id": "romek-addams",
+    "name": "Romek Addams",
+    "dateAdded": "2026-01-23T10:54:04.195Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"Official Instagram For AI Music Producer Romek Addams. Main creator for Vibe Music AI Records.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7I02CiSjK39Zl1WEzx1aqF",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@romekaddams",
+    "tiktok": null,
+    "instagram": "romekaddams"
   },
   {
     "id": "ronnie-obriant",
@@ -17790,6 +18248,29 @@
     "youtube": "@stellarcruisemusic",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "storm-chant",
+    "name": "Storm Chant",
+    "dateAdded": "2026-01-23T10:50:20.608Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4kl77CEQby1Pb06oZmDrg1",
+    "apple": "1834758459",
+    "amazon": null,
+    "youtube": "UCnb7TMFIX4V8ZHU1Ngai3OQ",
+    "tiktok": null,
+    "instagram": "stormchantofficial"
   },
   {
     "id": "street-gospel-syndicate",
@@ -20643,6 +21124,30 @@
     "youtube": "@warthogscl",
     "tiktok": "@warthogscl",
     "instagram": "warthogscl"
+  },
+  {
+    "id": "waves-lost",
+    "name": "Waves Lost",
+    "dateAdded": "2026-01-23T11:09:43.690Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "inconsistent-style",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1S6iW5MuRJyYlPjydRAaX8",
+    "apple": null,
+    "amazon": "B0GCVRQ2BD",
+    "youtube": "UCL0Jup9kEIJJf_zBqAl94iw",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "we-are-still-here",
