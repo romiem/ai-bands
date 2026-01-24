@@ -1735,6 +1735,31 @@
     "instagram": "astralbardsofficial"
   },
   {
+    "id": "atlas-untamed",
+    "name": "Atlas Untamed",
+    "dateAdded": "2026-01-24T21:22:47.705Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2acVNiatfP3p96tKG8qH9U",
+    "apple": "1813647161",
+    "amazon": "B0F6JXM923",
+    "youtube": "UCbI1VpTLAoL1wWlgqbmedJw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "atomship",
     "name": "Atomship",
     "dateAdded": "2025-12-19T10:57:54.000Z",
@@ -3725,6 +3750,29 @@
     "amazon": "B0FHWXXXZV",
     "youtube": "@ColterRayne",
     "tiktok": "@colterrayne",
+    "instagram": null
+  },
+  {
+    "id": "conaco",
+    "name": "conaco",
+    "dateAdded": "2026-01-24T19:45:22.287Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "318pAc7ymkSe2l4EIzPINf",
+    "apple": "1763484498",
+    "amazon": "B0DDFFMFKX",
+    "youtube": "@conaco-Orange",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -7765,6 +7813,31 @@
     "instagram": "graceharmonymusic"
   },
   {
+    "id": "grace-wolffe",
+    "name": "Grace Wolffe",
+    "dateAdded": "2026-01-24T23:23:30.790Z",
+    "dateUpdated": null,
+    "comments": "Has collaborations with other known AI artists 'almost real.' and 'Superblack'.",
+    "tags": [
+      "no-social-presence",
+      "minimal-bio",
+      "high-output",
+      "audio-artifacts",
+      "anonymous",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "43G0eLvNoPK2aGFScWkW60",
+    "apple": "1867673651",
+    "amazon": "B0GFTFXCJ4",
+    "youtube": "UCyq7F0Z2QTx-TPjhCSLIVNg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "grave-horizon",
     "name": "Grave Horizon",
     "dateAdded": "2025-12-18T18:15:51.000Z",
@@ -8830,6 +8903,29 @@
     "youtube": "@NeededThisDave",
     "tiktok": "@needthisdave",
     "instagram": "neededthisdave"
+  },
+  {
+    "id": "iaxmusic",
+    "name": "IAXMUSIC",
+    "dateAdded": "2026-01-24T23:28:44.440Z",
+    "dateUpdated": null,
+    "comments": "The artist's TikTok posts uses hashtags such as #aicover and #ai.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "self-disclosed-ai",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1GlWzEuSxQe13cfCZRDYEw",
+    "apple": null,
+    "amazon": null,
+    "youtube": "UCSr2z-x0jhVp1_2wFt7DYjw",
+    "tiktok": "@iaxmusic5",
+    "instagram": "iaxmusic"
   },
   {
     "id": "icy-mattrix",
@@ -10193,6 +10289,29 @@
     "instagram": "kaylakrossmusic"
   },
   {
+    "id": "kc-n-kind",
+    "name": "KC N Kind",
+    "dateAdded": "2026-01-24T23:26:27.374Z",
+    "dateUpdated": null,
+    "comments": "One of the artist's Instagram posts states: \"Music engineered by Kevin Conner using Suno.\"",
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7om8vUuvFYXJtEMxHNI3Tb",
+    "apple": "1782794476",
+    "amazon": null,
+    "youtube": "UCvnIf5R62B-0RCMvZOTHPAg",
+    "tiktok": null,
+    "instagram": "kc_n_kind"
+  },
+  {
     "id": "kealux",
     "name": "Kealux",
     "dateAdded": "2026-01-11T16:19:30.662Z",
@@ -11262,6 +11381,31 @@
     "youtube": "@LockandKeyVibes",
     "tiktok": "@lockandkeyvibes",
     "instagram": "lockandkeyvibes"
+  },
+  {
+    "id": "lofilulla",
+    "name": "LofiLulla",
+    "dateAdded": "2026-01-24T23:29:50.499Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Experience the magic of AI -where virtual artists bring every song to life with passion and precision.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "inconsistent-style",
+      "high-output",
+      "audio-artifacts",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7cNMZuHLHT9eEQ11It1CY5",
+    "apple": "1865654371",
+    "amazon": null,
+    "youtube": "@LoFiLulla",
+    "tiktok": null,
+    "instagram": "lofilulla"
   },
   {
     "id": "logofox",
@@ -12701,6 +12845,31 @@
     "instagram": null
   },
   {
+    "id": "minako",
+    "name": "Minako",
+    "dateAdded": "2026-01-24T23:19:23.992Z",
+    "dateUpdated": null,
+    "comments": "The entity behind this artist is also related to the AI artist Konanoko (the Instagram account for Konanoko features promotional material for Minako).",
+    "tags": [
+      "inconsistent-style",
+      "high-output",
+      "anonymous",
+      "minimal-bio",
+      "ai-visuals",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3cZsAKBrqjtook9HekB5Uy",
+    "apple": "411853702",
+    "amazon": "B09JYVPJW4",
+    "youtube": "UCW9JEdw-kZtFRZ6XLP3nClg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "ministry-of-dark",
     "name": "Ministry of Dark",
     "dateAdded": "2025-12-09T22:25:23.000Z",
@@ -13268,6 +13437,30 @@
     "instagram": null
   },
   {
+    "id": "nanako",
+    "name": "nanako",
+    "dateAdded": "2026-01-24T23:14:59.378Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "inconsistent-style",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3oErpjty6BmygXTjIuNik6",
+    "apple": "1463135915",
+    "amazon": "B0D8HJS5N3",
+    "youtube": "@nanako-Pink",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "narita-metalaw",
     "name": "Narita Metalaw",
     "dateAdded": "2026-01-12T16:24:12.941Z",
@@ -13827,6 +14020,29 @@
     "apple": "1850732093",
     "amazon": null,
     "youtube": "@NobodyKnew00",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "nocco",
+    "name": "nocco",
+    "dateAdded": "2026-01-24T23:13:30.458Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "inconsistent-style",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7bcIRyreNpb6BTHlyPoaik",
+    "apple": "1822665044",
+    "amazon": "B07FPXNQNZ",
+    "youtube": "@nocco-Green",
     "tiktok": null,
     "instagram": null
   },
@@ -15030,6 +15246,28 @@
     "youtube": "UCAipmgXhXrPFtsM5r7gReBA",
     "tiktok": "@porcelainheartsband",
     "instagram": "porcelain.hearts.band"
+  },
+  {
+    "id": "porcelain-sky",
+    "name": "Porcelain Sky",
+    "dateAdded": "2026-01-24T23:30:58.128Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3DspGStRbmyFSYLHjkYEwu",
+    "apple": "1837298883",
+    "amazon": null,
+    "youtube": "@porcelainskyofficial",
+    "tiktok": null,
+    "instagram": "porcelainskyofficial"
   },
   {
     "id": "power-seeker-x",
@@ -21660,6 +21898,28 @@
     "apple": "1824874695",
     "amazon": "B0FGVXP9WJ",
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "wickedai",
+    "name": "WickedAI",
+    "dateAdded": "2026-01-24T23:22:04.051Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"AI Artist | Screenwriter | Gamer\" and \"After more than a decade of writing screenplays, despite taking down the Hollywood Con Queen, I was unable to ever get representation. So I embraced AI.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3djOfsXkWh9Nfaaqa4qdrk",
+    "apple": "1798864104",
+    "amazon": null,
+    "youtube": "@WickedAI",
     "tiktok": null,
     "instagram": null
   },
