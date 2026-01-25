@@ -688,6 +688,28 @@
     "instagram": null
   },
   {
+    "id": "almost-alive",
+    "name": "Almost Alive",
+    "dateAdded": "2026-01-25T12:49:56.185Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Almost Alive is a modern AI-assisted rock band.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "20nwmuhP0VHSPkdpvnuJ87",
+    "apple": null,
+    "amazon": "B0FNLNRBQ1",
+    "youtube": "UC7H25BQuQwPyyGQewhIOFkA",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "almost-real",
     "name": "almost real.",
     "dateAdded": "2025-12-27T13:52:19.000Z",
@@ -3213,6 +3235,28 @@
     "instagram": "caydencruzmusic"
   },
   {
+    "id": "ce-a-zar",
+    "name": "Ce A Zar",
+    "dateAdded": "2026-01-25T12:44:17.013Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Voice is enhanced with AI to get richer tones, cleaner sound, and fresh creative vibes. Every song starts with something real-my voice, my ideas, and my personal expression. Instruments are AI assisted to build the rest of the track.\"",
+    "tags": [
+      "high-output",
+      "partial-ai",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4Rk1IR9U0z7PEUBJvvRsGr",
+    "apple": "1856292668",
+    "amazon": "B0G3JGQJ56",
+    "youtube": "UCUMk4bhiIcN4Yy2_oxvE0HQ",
+    "tiktok": "@ce_a_zar",
+    "instagram": "cez182724"
+  },
+  {
     "id": "celestial-aeon-project",
     "name": "Celestial Aeon Project",
     "dateAdded": "2026-01-07T14:42:29.221Z",
@@ -3322,6 +3366,30 @@
     "youtube": "@celestialvoicesmusic",
     "tiktok": "@celestialvoices.music",
     "instagram": "celestialvoicesmusic"
+  },
+  {
+    "id": "cezk",
+    "name": "ceZk",
+    "dateAdded": "2026-01-25T12:42:30.851Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1kvDLAT3QnCYD9z9R5q0L0",
+    "apple": "1799530584",
+    "amazon": "B0D33Q58BD",
+    "youtube": "UCsS2YfxBHfIzxieY0l6igew",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "chalulumusic",
@@ -5537,6 +5605,29 @@
     "youtube": "UC5wZPVXPbVMYsEzi7cBVCsg",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "eccxo-music",
+    "name": "eccxo Music",
+    "dateAdded": "2026-01-25T12:42:33.669Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Promt-meta-artist. eccxo Music, uses the capabilities of artificial intelligence specialized in music generation (e.g. Suno AI, Udio AI and others).\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "partial-ai",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "01GIRuIZ4AVxvzfmTYH1Ma",
+    "apple": "1725383745",
+    "amazon": "B0CHKKCFBP",
+    "youtube": "@eccxo",
+    "tiktok": "@eccxomusic",
+    "instagram": "eccxomusic"
   },
   {
     "id": "echo-harper",
@@ -7941,6 +8032,28 @@
     "youtube": "@GrimdarkTavern",
     "tiktok": "@grimdarktavern",
     "instagram": "grimdarktavern"
+  },
+  {
+    "id": "groove-monkey",
+    "name": "Groove Monkey",
+    "dateAdded": "2026-01-25T12:45:18.834Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1rwyKY7azx8ucOwJvsSmTZ",
+    "apple": "1803738313",
+    "amazon": "B0C6BQ5WGD",
+    "youtube": "@GrooveMonkeyBeats",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "grotestique",
@@ -17516,6 +17629,28 @@
     "youtube": "@shiftybrentgroup",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "shining-light-music",
+    "name": "Shining Light Music",
+    "dateAdded": "2026-01-25T12:48:00.992Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"While the instruments and vocals are AI-generated, every lyric is written by me.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "human-lyrics"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0RDQPIztTEel1T0n8ksDxd",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@ShiningLightMusic",
+    "tiktok": null,
+    "instagram": "officialshininglightmusic"
   },
   {
     "id": "shonjii",
