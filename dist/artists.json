@@ -3661,6 +3661,29 @@
     "instagram": null
   },
   {
+    "id": "claire-pellegrini",
+    "name": "Claire Pellegrini",
+    "dateAdded": "2026-01-25T21:05:17.757Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2qg77bmAYHTGKfR9EXo0KG",
+    "apple": "1868227324",
+    "amazon": "B0GH6F9ZRP",
+    "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "closure",
     "name": "Closure",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -4371,9 +4394,15 @@
     "id": "dark-cloud",
     "name": "dark_cloud",
     "dateAdded": "2025-12-08T10:34:43.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-25T18:58:55.977Z",
+    "comments": "The YouTube bio states: \"I'll be using this channel to publish all the lyrics and poetry that I've written over the years. Thanks to advances in AI, it's now possible to use services like Suno to finally put these words to music.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "human-lyrics",
+      "ai-visuals",
+      "anonymous",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -6310,6 +6339,28 @@
     "youtube": "@spellcrafthealing",
     "tiktok": "@spellcrafthealing",
     "instagram": "spellcraftbyesmerose"
+  },
+  {
+    "id": "essecer",
+    "name": "Essecer",
+    "dateAdded": "2026-01-25T20:59:21.401Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Because I didn't win the genetic lottery that handed out beautiful voices, I'm assisted by a neural network.\" (translated from Russian)",
+    "tags": [
+      "human-lyrics",
+      "self-disclosed-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "72XvP5hst3hGizsbOe9eZY",
+    "apple": null,
+    "amazon": "B0DWXHB5PL",
+    "youtube": "@essecer96",
+    "tiktok": null,
+    "instagram": "essecer.music"
   },
   {
     "id": "esslll",
@@ -12690,6 +12741,31 @@
     "instagram": "merciless_cult_band"
   },
   {
+    "id": "meridian-shore",
+    "name": "Meridian Shore",
+    "dateAdded": "2026-01-25T21:02:11.689Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"An emotional post-hardcore project combining real, vulnerable lyrics with AI-assisted instrumentation and vocals.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "human-lyrics",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "48Jp2EWuUpwI1FljrLrJZC",
+    "apple": "1859431710",
+    "amazon": "B0G5M7W964",
+    "youtube": "UC4ZiDPLA-nIS5Z3aUZjCjgw",
+    "tiktok": "@meridian.shore",
+    "instagram": null
+  },
+  {
     "id": "mermaidonmars",
     "name": "mermaidonmars",
     "dateAdded": "2026-01-16T17:22:36.912Z",
@@ -14570,6 +14646,30 @@
     "apple": "1864562304",
     "amazon": "B0GCV1SS5B",
     "youtube": null,
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "old-money-music",
+    "name": "Old Money Music",
+    "dateAdded": "2026-01-25T21:00:39.061Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Putting a spin on old classics with AI.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "no-social-presence",
+      "self-disclosed-ai",
+      "audio-artifacts"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7tCo9FI2eH4xKWURh8gcUw",
+    "apple": "1815953211",
+    "amazon": "B0FD94NTYS",
+    "youtube": "@OldMoneyMusic01",
     "tiktok": null,
     "instagram": null
   },
@@ -16967,6 +17067,30 @@
     "instagram": "saintvice.music"
   },
   {
+    "id": "sakura-yuki",
+    "name": "Sakura Yuki",
+    "dateAdded": "2026-01-25T20:56:36.109Z",
+    "dateUpdated": null,
+    "comments": "Note that this project is not to be confused with a non-AI artist by the same name.",
+    "tags": [
+      "no-social-presence",
+      "ai-visuals",
+      "minimal-bio",
+      "partial-ai",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7pvSKl3abgvoACznKIvbnR",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@Sakura_Yuki_NC",
+    "tiktok": null,
+    "instagram": "sakura_yuki_nc"
+  },
+  {
     "id": "salen-records",
     "name": "Salen Records",
     "dateAdded": "2026-01-12T13:34:28.874Z",
@@ -18419,6 +18543,30 @@
     "instagram": null
   },
   {
+    "id": "sombras-del-condor",
+    "name": "Sombras Del Cóndor",
+    "dateAdded": "2026-01-25T20:49:05.962Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Sombras de Cóndor is a Chilean metal band created with artificial intelligence, inspired by myths, legends and dark stories from all over Chile.\" (translated from Spanish)",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "high-output",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1oK5l008shwMBPe8gc9GAj",
+    "apple": "1809862420",
+    "amazon": null,
+    "youtube": "UC-ARv9fWDyhfF87vRzAYA9w",
+    "tiktok": null,
+    "instagram": "sombrasdelcondor.ia"
+  },
+  {
     "id": "son-of-the-dead-sun",
     "name": "Son of the Dead Sun",
     "dateAdded": "2026-01-09T16:05:19.479Z",
@@ -19779,6 +19927,29 @@
     "instagram": null
   },
   {
+    "id": "the-hollows",
+    "name": "The Hollows",
+    "dateAdded": "2026-01-25T20:47:21.255Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6SunRwBDRPd9ljGruF7ZvU",
+    "apple": "1828516808",
+    "amazon": "B08ZYLLJX2",
+    "youtube": "UCNlo5yOliogxzQgRyfIoyOw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "the-jazz-house",
     "name": "The Jazz House",
     "dateAdded": "2026-01-04T16:21:47.000Z",
@@ -20461,6 +20632,29 @@
     "instagram": "timeless60gospel"
   },
   {
+    "id": "timeless-echoes-of-middangeard",
+    "name": "Timeless Echoes of Middangeard",
+    "dateAdded": "2026-01-25T20:52:59.851Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0c2KxtTjtUCRf6W4R9P1Bs",
+    "apple": "1826615870",
+    "amazon": null,
+    "youtube": "@TimelessEchoesMiddangeard",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "timeless-hour",
     "name": "Timeless Hour",
     "dateAdded": "2026-01-04T11:08:07.000Z",
@@ -20482,6 +20676,31 @@
     "youtube": "@timelesshour.official",
     "tiktok": "@timelesshour.official",
     "instagram": "timelesshour.official"
+  },
+  {
+    "id": "timeless-tone",
+    "name": "Timeless Tone",
+    "dateAdded": "2026-01-25T21:06:15.326Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence",
+      "high-output",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6AHZVwvK91KB7sAVXtdrzb",
+    "apple": "1837148159",
+    "amazon": "B0FQ37QQBV",
+    "youtube": "@timelesstone.official",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "tokt",
