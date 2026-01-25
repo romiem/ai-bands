@@ -2,9 +2,15 @@
   "id": "dark-cloud",
   "name": "dark_cloud",
   "dateAdded": "2025-12-08T10:34:43.000Z",
-  "dateUpdated": null,
-  "comments": null,
-  "tags": [],
+  "dateUpdated": "2026-01-25T18:58:55.977Z",
+  "comments": "The YouTube bio states: \"I'll be using this channel to publish all the lyrics and poetry that I've written over the years. Thanks to advances in AI, it's now possible to use services like Suno to finally put these words to music.\"",
+  "tags": [
+    "self-disclosed-ai",
+    "human-lyrics",
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
