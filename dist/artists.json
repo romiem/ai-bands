@@ -554,6 +554,28 @@
     "instagram": null
   },
   {
+    "id": "ai-r-way",
+    "name": "AI/R\\WAY",
+    "dateAdded": "2026-01-26T18:08:43.920Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"AI/R\\WAY is a virtual band fronted by Aime Way-an AI vocalist with a human heart.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "ai-visuals",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4DqQekWotdpMlT6uVwnBoF",
+    "apple": "1724240470",
+    "amazon": null,
+    "youtube": "@ai-r-way-band",
+    "tiktok": null,
+    "instagram": "ai_r_way"
+  },
+  {
     "id": "aiphonic",
     "name": "AIphonic",
     "dateAdded": "2025-12-08T22:37:43.000Z",
@@ -994,6 +1016,29 @@
     "amazon": "B0FWCXL1GM",
     "youtube": "UCGOL_Hjp9yHJe9yjEqteBRA",
     "tiktok": "@andidepressiva_",
+    "instagram": null
+  },
+  {
+    "id": "andrew-lewis",
+    "name": "Andrew Lewis",
+    "dateAdded": "2026-01-26T18:07:08.467Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "inconsistent-style",
+      "minimal-bio",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2UTvf2a3xKuWM4nBXMhwEK",
+    "apple": "1484728962",
+    "amazon": "B001GRW87O",
+    "youtube": "UCRe9qgsv7t4v2PEqXroXkIg",
+    "tiktok": null,
     "instagram": null
   },
   {
@@ -1474,6 +1519,28 @@
     "instagram": "artimus_ion"
   },
   {
+    "id": "ascend-vocals",
+    "name": "Ascend Vocals",
+    "dateAdded": "2026-01-26T17:15:12.817Z",
+    "dateUpdated": null,
+    "comments": "Songs feature AI vocalist Sadie Winters.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4ow8nPS15iu2TY538f4YHs",
+    "apple": "1487228916",
+    "amazon": null,
+    "youtube": "UCGaTxM6wOT1AL9OL0SwSwMg",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "aschensturm",
     "name": "Aschensturm",
     "dateAdded": "2026-01-20T21:46:39.907Z",
@@ -1755,6 +1822,29 @@
     "youtube": "@astralbards",
     "tiktok": "@astralbards",
     "instagram": "astralbardsofficial"
+  },
+  {
+    "id": "atlas-leo-mikkolainen",
+    "name": "Atlas-Leo Mikkolainen",
+    "dateAdded": "2026-01-26T18:17:51.039Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "minimal-bio",
+      "inconsistent-style",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0dIS9vyzdIAmklUcEVe1eb",
+    "apple": "1771137950",
+    "amazon": "B0DJRLHRR3",
+    "youtube": "@saunantitaani",
+    "tiktok": null,
+    "instagram": "atlassees"
   },
   {
     "id": "atlas-untamed",
@@ -8047,6 +8137,29 @@
     "instagram": null
   },
   {
+    "id": "gradient-dystopia",
+    "name": "Gradient Dystopia",
+    "dateAdded": "2026-01-26T18:16:06.851Z",
+    "dateUpdated": null,
+    "comments": "Uses the hashtag #AIHorror on some of their X posts, whilst some Instagram posts use the hashtag #sora2.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3LP6bf4nhoWQ9TYbvP1zxB",
+    "apple": "1848598899",
+    "amazon": "B0FXSSY7WP",
+    "youtube": "UCgk0jWkGnaJk_iJpUs8H5WA",
+    "tiktok": "@gradientdystopia",
+    "instagram": "gradientdystopia"
+  },
+  {
     "id": "grave-horizon",
     "name": "Grave Horizon",
     "dateAdded": "2025-12-18T18:15:51.000Z",
@@ -8975,6 +9088,28 @@
     "instagram": null
   },
   {
+    "id": "hybrid-collapse",
+    "name": "Hybrid Collapse",
+    "dateAdded": "2026-01-26T18:06:19.514Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Hybrid Collapse is an experimental AI-generated music and visual art project.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7LMJ6wOCyMSkKYZCADApQc",
+    "apple": "1796242232",
+    "amazon": "B0DX4WKL2C",
+    "youtube": "@HybridCollapse",
+    "tiktok": "@hybrid.collapse",
+    "instagram": "hybridcollapse"
+  },
+  {
     "id": "hyfi",
     "name": "HyFi",
     "dateAdded": "2026-01-23T10:58:29.567Z",
@@ -9513,6 +9648,29 @@
     "instagram": null
   },
   {
+    "id": "isaa-corva",
+    "name": "Isaa Corva",
+    "dateAdded": "2026-01-26T17:19:38.890Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6Eu0fL4IFsEWzSwSZmgEAj",
+    "apple": "1734136063",
+    "amazon": "B0CVYRSFG6",
+    "youtube": "@isaacorva",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "istatiks",
     "name": "Istatiks",
     "dateAdded": "2026-01-20T21:30:48.067Z",
@@ -9960,6 +10118,30 @@
     "youtube": "@jghorizonmusic",
     "tiktok": "@jghorizonmusic",
     "instagram": "jghorizonmusic"
+  },
+  {
+    "id": "jjjs",
+    "name": "JJJS",
+    "dateAdded": "2026-01-26T17:17:54.133Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "no-social-presence",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3zxL5Ke50bFsDVkfMmvabs",
+    "apple": "1809867380",
+    "amazon": "B0F5V48YH9",
+    "youtube": "UCpMNkDluio5sorc0FNG05Cg",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "joel-binks",
@@ -12589,6 +12771,30 @@
     "instagram": null
   },
   {
+    "id": "meex000",
+    "name": "Meex000",
+    "dateAdded": "2026-01-26T17:51:39.973Z",
+    "dateUpdated": null,
+    "comments": "Ai art and ai music.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "high-output",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5Q8lMUfNrN5xHeoYkqZx0Q",
+    "apple": "1775949708",
+    "amazon": "B0DG394TJJ",
+    "youtube": "UCVkoZM12xxf3rxgnZ2WYaKw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "meid",
     "name": "meid",
     "dateAdded": "2026-01-23T17:11:01.606Z",
@@ -12852,6 +13058,30 @@
     "youtube": "@mermaidonmars",
     "tiktok": "@mermaidonmars",
     "instagram": "mermaidonmars1"
+  },
+  {
+    "id": "metal-in-my-veins",
+    "name": "Metal in My Veins",
+    "dateAdded": "2026-01-26T18:20:15.419Z",
+    "dateUpdated": null,
+    "comments": "On YouTube, the project is credited to 'Damien Cross' who appears to have no online presence.",
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "high-output",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6JTj9nRvNPVplWlf8GLOHJ",
+    "apple": "1862647923",
+    "amazon": "B0G8TPVXBZ",
+    "youtube": "UCKmZq5xON_S1hAOksEkGQeQ",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "metalus-prime",
@@ -13458,6 +13688,29 @@
     "instagram": null
   },
   {
+    "id": "mournwell",
+    "name": "Mournwell",
+    "dateAdded": "2026-01-26T18:10:36.219Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "54VJP6tcoQB9r8wYByLZI6",
+    "apple": "1857648143",
+    "amazon": "B0G4NHJCDQ",
+    "youtube": "@Mournwell-music",
+    "tiktok": "@mournwell.music",
+    "instagram": null
+  },
+  {
     "id": "mvmuro",
     "name": "MVMURO",
     "dateAdded": "2025-12-13T20:22:49.000Z",
@@ -13627,6 +13880,29 @@
     "youtube": "@mythic-harmonies",
     "tiktok": "@mythic.harmonies",
     "instagram": "mythic.harmonies"
+  },
+  {
+    "id": "mythic-melodys",
+    "name": "Mythic Melodys",
+    "dateAdded": "2026-01-26T17:57:18.477Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "70puqVQo1PUzVBjnklT8ZT",
+    "apple": "1806742108",
+    "amazon": "B0F3STPY9R",
+    "youtube": "@MythicMelodys",
+    "tiktok": "@mythicmelodys",
+    "instagram": "mythicmelodys"
   },
   {
     "id": "mythicrealm",
@@ -18029,6 +18305,32 @@
     "instagram": "silasgrimeofficial"
   },
   {
+    "id": "silasch",
+    "name": "SilasCh",
+    "dateAdded": "2026-01-26T17:50:36.200Z",
+    "dateUpdated": null,
+    "comments": "All ai visuals. Sounds AI, even the voices.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "high-output",
+      "inconsistent-style",
+      "no-social-presence",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4TJvSewMf7aIZ6VusU2uL2",
+    "apple": "1802093625",
+    "amazon": null,
+    "youtube": "@SilasxCh",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "silent-echos",
     "name": "Silent Echos",
     "dateAdded": "2025-12-19T11:02:03.000Z",
@@ -21429,6 +21731,28 @@
     "youtube": "@Vaelyn-Music",
     "tiktok": "@vaelyn_music",
     "instagram": "vaelyn_music"
+  },
+  {
+    "id": "valebound",
+    "name": "Valebound",
+    "dateAdded": "2026-01-26T18:09:42.807Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "audio-artifacts",
+      "no-social-presence",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4D2m2nUkv8s2QSylZ1nLtQ",
+    "apple": "1859233121",
+    "amazon": "B0G5HFPB9H",
+    "youtube": "UCB9PYnWok9wcTkAo3X17Y0A",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "valhalla-drums",
