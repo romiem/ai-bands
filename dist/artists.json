@@ -4391,6 +4391,28 @@
     "instagram": null
   },
   {
+    "id": "dark-blues-yt",
+    "name": "Dark Blues YT",
+    "dateAdded": "2026-01-26T14:39:33.557Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Every composition originates through advanced AI generation.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0VD8mh1qWxnA7QanglU9DU",
+    "apple": "1869917905",
+    "amazon": "B0GHGYJYR1",
+    "youtube": "@DarkBluesYT",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "dark-cloud",
     "name": "dark_cloud",
     "dateAdded": "2025-12-08T10:34:43.000Z",
@@ -5565,6 +5587,29 @@
     "instagram": null
   },
   {
+    "id": "dynalectric-orchestra",
+    "name": "Dynalectric Orchestra",
+    "dateAdded": "2026-01-26T14:37:22.564Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio makes reference to \"AI mixing\" whilst the YouTube bio states: \"Immerse yourself in the New Romantic spirit with our unique blend of synthetic rhythms and melodic escapades.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "high-output",
+      "partial-ai",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "3GpOfkus6cq91LqesrYw59",
+    "apple": "1488834594",
+    "amazon": "B07KXFNY99",
+    "youtube": "@dynalectricorchestra",
+    "tiktok": null,
+    "instagram": "dynalectricorchestra"
+  },
+  {
     "id": "dysmn",
     "name": "Dysmn",
     "dateAdded": "2025-12-27T12:46:09.000Z",
@@ -5967,6 +6012,28 @@
     "youtube": "UCoYLFPOzwWzKiKs1uNzJpPg",
     "tiktok": "@eli.ridesss",
     "instagram": "eliridess"
+  },
+  {
+    "id": "elicaie",
+    "name": "Elicaie",
+    "dateAdded": "2026-01-26T09:23:12.128Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7tklgmR0TqbDWh5yYAFYyb",
+    "apple": "1836629263",
+    "amazon": "B0FP5Q4JBM",
+    "youtube": "@ElicaieBand",
+    "tiktok": "@elicaie",
+    "instagram": "elicaie"
   },
   {
     "id": "elijah-abel",
@@ -14757,6 +14824,29 @@
     "instagram": null
   },
   {
+    "id": "orbitost",
+    "name": "OrbitOST",
+    "dateAdded": "2026-01-26T14:20:34.112Z",
+    "dateUpdated": null,
+    "comments": "The YouTube bio states: \"Human Made // AI Assistance (Suno, Midjourney).\"",
+    "tags": [
+      "high-output",
+      "ai-visuals",
+      "anonymous",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4gFtuX28fUDUgR7WDzfNBY",
+    "apple": "1859091825",
+    "amazon": "B0G5G1SNL1",
+    "youtube": "@orbitost",
+    "tiktok": "@orbitost",
+    "instagram": null
+  },
+  {
     "id": "orgavsm",
     "name": "ORGAVSM",
     "dateAdded": "2025-12-29T19:32:41.000Z",
@@ -15086,6 +15176,30 @@
     "youtube": "@PhantomOfTheSynth",
     "tiktok": "@phantomofthesynth",
     "instagram": "phantomofthesynth"
+  },
+  {
+    "id": "phantom-swing",
+    "name": "Phantom Swing",
+    "dateAdded": "2026-01-26T09:16:36.927Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "no-social-presence",
+      "high-output",
+      "ai-visuals",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0cNihMer7NrlB8ULkVD0HB",
+    "apple": "1816370146",
+    "amazon": "B0F9T9LD64",
+    "youtube": "@phantom_swing",
+    "tiktok": null,
+    "instagram": null
   },
   {
     "id": "phantom-veil",
@@ -15624,6 +15738,29 @@
     "youtube": "@project_vii",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "promptgenix",
+    "name": "promptgenix",
+    "dateAdded": "2026-01-26T14:33:52.622Z",
+    "dateUpdated": null,
+    "comments": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5P3dOgV9xFmRFfuuxi1I0O",
+    "apple": "1840464671",
+    "amazon": null,
+    "youtube": "UCVohDTn3JHRDlM3YDPCDm_Q",
+    "tiktok": "@promptgenix",
+    "instagram": "promptgenix_"
   },
   {
     "id": "psalm-of-the-redeemer",
@@ -20844,6 +20981,28 @@
     "instagram": "total.metal.destruction"
   },
   {
+    "id": "trill",
+    "name": "TriLL",
+    "dateAdded": "2026-01-26T15:02:32.875Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2r2pEeVP4Lt3xfs64GHdtU",
+    "apple": "1848435620",
+    "amazon": null,
+    "youtube": "@TriLLmusicreal",
+    "tiktok": "@realtrillofficial",
+    "instagram": "trill4ev"
+  },
+  {
     "id": "tripstone-heathen",
     "name": "Tripstone Heathen",
     "dateAdded": "2026-01-14T23:23:33.235Z",
@@ -21365,6 +21524,30 @@
     "instagram": "vargvegr_music"
   },
   {
+    "id": "varian-vel-aryn",
+    "name": "Varian Vel'Aryn",
+    "dateAdded": "2026-01-26T09:20:36.470Z",
+    "dateUpdated": null,
+    "comments": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "inconsistent-style",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "7n6Yui7bW9D88jRVNLTyXr",
+    "apple": "1824197070",
+    "amazon": "B0FGFBH5PF",
+    "youtube": "UCRqUjEdp0jnxZRFiZwutGxg",
+    "tiktok": "@varian_velaryn",
+    "instagram": "varian_velaryn"
+  },
+  {
     "id": "varianz",
     "name": "Varianz",
     "dateAdded": "2026-01-10T11:09:15.826Z",
@@ -21708,6 +21891,28 @@
     "apple": "1793547332",
     "amazon": "B0DVB2MFZ8",
     "youtube": "UCuJcSEa0W80XlDJ18NiHhMw",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
+    "id": "vibfy",
+    "name": "Vibfy",
+    "dateAdded": "2026-01-26T14:43:46.266Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "partial-ai",
+      "high-output",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "4qqOOXMEHaEcoCQRctbmoU",
+    "apple": "1789170925",
+    "amazon": null,
+    "youtube": "@Vibfy",
     "tiktok": null,
     "instagram": null
   },
@@ -22209,6 +22414,55 @@
     "amazon": "B0FXV6771N",
     "youtube": "@WesternPlains-radio",
     "tiktok": "@westernplainsradio",
+    "instagram": null
+  },
+  {
+    "id": "what-if-music",
+    "name": "What if music",
+    "dateAdded": "2026-01-26T09:09:48.939Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "audio-artifacts",
+      "inconsistent-style",
+      "human-lyrics",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5U0sBfTl2oFDEZZwOd6gXX",
+    "apple": "1867104482",
+    "amazon": null,
+    "youtube": "@what_if_music77",
+    "tiktok": "@whatifmusic77",
+    "instagram": null
+  },
+  {
+    "id": "what-is",
+    "name": "what is ?",
+    "dateAdded": "2026-01-26T14:38:20.202Z",
+    "dateUpdated": null,
+    "comments": null,
+    "tags": [
+      "anonymous",
+      "high-output",
+      "ai-visuals",
+      "no-social-presence",
+      "minimal-bio"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5PRMHOXRr1ePaWNuA8JJ8p",
+    "apple": "1771189812",
+    "amazon": "B0DJ5VRNSK",
+    "youtube": "@whatisblank",
+    "tiktok": null,
     "instagram": null
   },
   {
