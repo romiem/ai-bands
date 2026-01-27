@@ -2,9 +2,15 @@
   "id": "deathly-hours",
   "name": "Deathly Hours",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": null,
-  "comments": "New songs every few days; variation in vocal sound; no band imagery; youtube channel deletes comments alluding to AI.",
-  "tags": [],
+  "dateUpdated": "2026-01-27T23:14:13.631Z",
+  "comments": "The person running their YouTube channel deletes comments alluding to AI.",
+  "tags": [
+    "ai-visuals",
+    "audio-artifacts",
+    "anonymous",
+    "high-output",
+    "inconsistent-style"
+  ],
   "genres": [],
   "popularity": null,
   "followers": null,
