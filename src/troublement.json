@@ -2,10 +2,12 @@
   "id": "troublement",
   "name": "TroubleMent",
   "dateAdded": "2026-01-02T16:34:12.000Z",
-  "dateUpdated": null,
+  "dateUpdated": "2026-01-27T23:14:44.351Z",
   "comments": "Images of artist look AI-generated. Four full-length albums published between 2024-25. No evidence of live shows, both past or future.",
   "tags": [
-    "high-output"
+    "high-output",
+    "ai-visuals",
+    "no-social-presence"
   ],
   "genres": [],
   "popularity": null,
