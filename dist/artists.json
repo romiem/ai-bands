@@ -4112,6 +4112,30 @@
     "instagram": null
   },
   {
+    "id": "courland-static",
+    "name": "Courland Static",
+    "dateAdded": "2026-01-27T23:18:40.676Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"One person writing everything, teaming up with AI to turn Baltic gloom, concrete and late-night thoughts into loud, melodic chaos.\"",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "minimal-bio",
+      "no-social-presence",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2zTn8pnqGFQKo6fDnkrzfj",
+    "apple": null,
+    "amazon": null,
+    "youtube": null,
+    "tiktok": "@courlandstatic",
+    "instagram": "courlandstatic"
+  },
+  {
     "id": "covenant-of-none",
     "name": "Covenant Of None",
     "dateAdded": "2025-11-25T12:12:56.000Z",
@@ -4965,9 +4989,15 @@
     "id": "deathly-hours",
     "name": "Deathly Hours",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": "New songs every few days; variation in vocal sound; no band imagery; youtube channel deletes comments alluding to AI.",
-    "tags": [],
+    "dateUpdated": "2026-01-27T23:14:13.631Z",
+    "comments": "The person running their YouTube channel deletes comments alluding to AI.",
+    "tags": [
+      "ai-visuals",
+      "audio-artifacts",
+      "anonymous",
+      "high-output",
+      "inconsistent-style"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -5268,6 +5298,29 @@
     "youtube": "@ÐiGitaLSouLMusiC",
     "tiktok": "@digital_soul_music",
     "instagram": null
+  },
+  {
+    "id": "disclaimer-without-remarks",
+    "name": "disclaimer without remarks",
+    "dateAdded": "2026-01-27T15:29:10.244Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
+    "tags": [
+      "ai-visuals",
+      "human-lyrics",
+      "audio-artifacts",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "1IUvCqLwMclvB8WF97IEu2",
+    "apple": "1814975275",
+    "amazon": "B0F94BWXYL",
+    "youtube": "@disclaimerwithoutremarks",
+    "tiktok": "@disclaimerwithoutremarks",
+    "instagram": "disclaimerwithoutremarks"
   },
   {
     "id": "divisive-echoes",
@@ -8513,6 +8566,28 @@
     "instagram": "hangover_carousel_music"
   },
   {
+    "id": "harukhel",
+    "name": "Harukhel",
+    "dateAdded": "2026-01-27T23:16:44.261Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"HarukhEL creates gothic Love Metal where AI vocals meet raw human emotion.\"",
+    "tags": [
+      "self-disclosed-ai",
+      "audio-artifacts",
+      "partial-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "00N8r7AVD33mg244c04odY",
+    "apple": "1815151034",
+    "amazon": null,
+    "youtube": "@HarukhEL",
+    "tiktok": "@harukhel",
+    "instagram": "harukhel"
+  },
+  {
     "id": "haus-of-hekate",
     "name": "Haus of Hekate",
     "dateAdded": "2026-01-04T16:56:27.000Z",
@@ -8807,9 +8882,15 @@
     "id": "hexxenmind",
     "name": "HEXXENMIND",
     "dateAdded": "2025-12-09T21:13:42.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-27T23:12:29.484Z",
     "comments": null,
-    "tags": [],
+    "tags": [
+      "ai-visuals",
+      "minimal-bio",
+      "anonymous",
+      "no-social-presence",
+      "high-output"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -15162,12 +15243,16 @@
     "id": "obsidian-swing",
     "name": "Obsidian Swing",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": "2026-01-23T14:15:39.189Z",
-    "comments": null,
+    "dateUpdated": "2026-01-27T23:10:04.514Z",
+    "comments": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
     "tags": [
       "ai-visuals",
       "inconsistent-style",
-      "no-social-presence"
+      "no-social-presence",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai",
+      "audio-artifacts"
     ],
     "genres": [],
     "popularity": null,
@@ -15177,7 +15262,7 @@
     "apple": "1812243634",
     "amazon": null,
     "youtube": "UCFn4m_PRNIJNGBJCW9n9xlw",
-    "tiktok": null,
+    "tiktok": "@obsidian_swing",
     "instagram": null
   },
   {
@@ -19462,6 +19547,31 @@
     "instagram": "sonyagracemusic"
   },
   {
+    "id": "soul-cafe",
+    "name": "Soul Cafe",
+    "dateAdded": "2026-01-27T15:37:29.847Z",
+    "dateUpdated": null,
+    "comments": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "high-output",
+      "anonymous",
+      "inconsistent-style",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "2sWjOfINK4Fl34BU9MLSQM",
+    "apple": "1837868625",
+    "amazon": null,
+    "youtube": "@SoulCafe77",
+    "tiktok": null,
+    "instagram": null
+  },
+  {
     "id": "soul-d-out",
     "name": "Soul'd Out",
     "dateAdded": "2025-12-24T13:43:48.000Z",
@@ -19870,6 +19980,29 @@
     "youtube": "@stellarcruisemusic",
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "steph-stephens",
+    "name": "Steph Stephens",
+    "dateAdded": "2026-01-27T23:20:56.988Z",
+    "dateUpdated": null,
+    "comments": "The Instagram bio states: \"Canadian pop punk musician exploring how AI compliments my creative process.\"",
+    "tags": [
+      "minimal-bio",
+      "self-disclosed-ai",
+      "no-social-presence",
+      "ai-visuals"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "5d1D5NNYFbqUqm1XmnYg05",
+    "apple": null,
+    "amazon": "B0GH5PK3B3",
+    "youtube": "@stephstephens",
+    "tiktok": null,
+    "instagram": "steph.stephens.poser"
   },
   {
     "id": "storm-chant",
@@ -21712,10 +21845,12 @@
     "id": "troublement",
     "name": "TroubleMent",
     "dateAdded": "2026-01-02T16:34:12.000Z",
-    "dateUpdated": null,
+    "dateUpdated": "2026-01-27T23:14:44.351Z",
     "comments": "Images of artist look AI-generated. Four full-length albums published between 2024-25. No evidence of live shows, both past or future.",
     "tags": [
-      "high-output"
+      "high-output",
+      "ai-visuals",
+      "no-social-presence"
     ],
     "genres": [],
     "popularity": null,
@@ -21887,9 +22022,16 @@
     "id": "underworld-vibes",
     "name": "Underworld Vibes",
     "dateAdded": "2025-11-25T12:12:56.000Z",
-    "dateUpdated": null,
-    "comments": null,
-    "tags": [],
+    "dateUpdated": "2026-01-27T23:11:46.858Z",
+    "comments": "The Spotify bio states: \"I write poems and a bunch of ideas and turn them into songs with the amazing power of AI.\"",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai",
+      "anonymous",
+      "no-social-presence",
+      "high-output",
+      "human-lyrics"
+    ],
     "genres": [],
     "popularity": null,
     "followers": null,
@@ -21897,8 +22039,8 @@
     "spotify": "7xDFi8dW3QLrTiuP1OyZrm",
     "apple": "1778838771",
     "amazon": null,
-    "youtube": null,
-    "tiktok": null,
+    "youtube": "@TheUnderworldVibes",
+    "tiktok": "@theunderworldvibes",
     "instagram": null
   },
   {
