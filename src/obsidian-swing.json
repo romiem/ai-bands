@@ -2,12 +2,16 @@
   "id": "obsidian-swing",
   "name": "Obsidian Swing",
   "dateAdded": "2025-11-25T12:12:56.000Z",
-  "dateUpdated": "2026-01-23T14:15:39.189Z",
-  "comments": null,
+  "dateUpdated": "2026-01-27T23:10:04.514Z",
+  "comments": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
   "tags": [
     "ai-visuals",
     "inconsistent-style",
-    "no-social-presence"
+    "no-social-presence",
+    "anonymous",
+    "high-output",
+    "self-disclosed-ai",
+    "audio-artifacts"
   ],
   "genres": [],
   "popularity": null,
@@ -17,6 +21,6 @@
   "apple": "1812243634",
   "amazon": null,
   "youtube": "UCFn4m_PRNIJNGBJCW9n9xlw",
-  "tiktok": null,
+  "tiktok": "@obsidian_swing",
   "instagram": null
 }
