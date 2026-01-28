@@ -158,7 +158,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "See entry for Mando Viking Music (same person behind the project as discovered via YouTube descriptions).",
     "comments": "See entry for Mando Viking Music (same person behind the project as discovered via YouTube descriptions).",
@@ -421,7 +422,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
     "comments": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
@@ -479,7 +481,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
     "comments": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
@@ -1501,7 +1504,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -1848,7 +1852,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "Claims a bluegrass metal style, though the banjo timbre does not align with traditional bluegrass. All imagery appears AI-generated, no lyrics are provided, and song structures lack consistent progression. Online sources further support the conclusion that this is AI-generated content.",
     "comments": "Claims a bluegrass metal style, though the banjo timbre does not align with traditional bluegrass. All imagery appears AI-generated, no lyrics are provided, and song structures lack consistent progression. Online sources further support the conclusion that this is AI-generated content.",
@@ -1912,7 +1917,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -2070,7 +2076,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -2230,7 +2237,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "No background or band members listed, as well as new music releases seemingly at random and above-average frequency of output.",
     "comments": "No background or band members listed, as well as new music releases seemingly at random and above-average frequency of output.",
@@ -2577,7 +2585,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -2826,7 +2835,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -2883,7 +2893,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Very frequent uploads, inconsistent stylistic direction, and changing vocalists across tracks.",
     "comments": "Very frequent uploads, inconsistent stylistic direction, and changing vocalists across tracks.",
@@ -3003,7 +3014,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The artist has acknowledged the use of AI via their Twitch and Discord channels. Also states that their lyrics are human written.",
@@ -3091,7 +3103,8 @@
     "aiUsage": [],
     "indicators": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "AI-generated artwork and videos. Extremely crude lyrics.",
     "comments": "AI-generated artwork and videos. Extremely crude lyrics.",
@@ -3122,7 +3135,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -3269,7 +3283,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -3301,7 +3316,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -3334,7 +3350,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The username acknowledges the use of AI-generated content.",
@@ -3366,7 +3383,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": null,
     "tags": [
@@ -3730,7 +3749,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -3783,7 +3803,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -4029,7 +4050,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "High volume of song releases aligned with the trending \"spicy BookTok\" theme on TikTok.",
     "comments": "High volume of song releases aligned with the trending \"spicy BookTok\" theme on TikTok.",
@@ -4442,7 +4464,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
     "comments": "Over 15 albums released within a single year, each with roughly 10-12 tracks. The YouTube channel openly acknowledges AI involvement, and most songs are capped around 2:30 in length, consistent with common AI generation limits (with few exceptions).",
@@ -4863,7 +4886,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "YouTube bio states: \"AI-generated music across all genres.\"",
     "comments": "YouTube bio states: \"AI-generated music across all genres.\"",
@@ -5107,7 +5131,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -5670,7 +5695,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
     "comments": "It has been observed that they are releasing songs at a rapid pace and have quickly amassed a large following. Their TikTok content appears to rely heavily on AI-generated prompts. Additionally, their TikTok profile states that they \"create dark sound with AI.\"",
@@ -5865,7 +5891,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -5984,7 +6011,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -6200,7 +6228,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The artist has over 2000 song releases in the past 2 years.",
     "comments": "The artist has over 2000 song releases in the past 2 years.",
@@ -6467,7 +6496,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -6615,7 +6645,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
     "comments": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
@@ -6753,7 +6784,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The person running their YouTube channel deletes comments alluding to AI.",
     "comments": "The person running their YouTube channel deletes comments alluding to AI.",
@@ -7381,7 +7413,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -7411,7 +7444,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
     "comments": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
@@ -7944,7 +7978,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "YouTube comments along with those on the artist's website indicate confirmation that the project is a blend of AI and human work.",
     "comments": "YouTube comments along with those on the artist's website indicate confirmation that the project is a blend of AI and human work.",
@@ -8123,7 +8158,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -8516,7 +8552,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -8983,7 +9020,8 @@
     "aiUsage": [],
     "indicators": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",
     "comments": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",
@@ -9294,7 +9332,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "It's very obvious",
     "comments": "It's very obvious",
@@ -9779,7 +9818,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -9994,7 +10034,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
     "comments": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
     "tags": [
@@ -10107,7 +10149,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",
     "comments": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",
@@ -10552,7 +10595,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -10894,7 +10938,9 @@
     "disclosure": "confirmed",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": null,
     "tags": [
@@ -11020,7 +11066,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -11137,7 +11184,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
     "comments": "The creator acknowledges it's AI-generated in some of their Instagram comments.",
@@ -11375,7 +11423,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -11578,7 +11627,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "SubmitHub detects strong AI characteristics in their music.",
     "comments": "SubmitHub detects strong AI characteristics in their music.",
@@ -11694,7 +11744,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",
@@ -12311,7 +12362,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
     "comments": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
@@ -12822,7 +12874,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -13441,7 +13494,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -13660,7 +13714,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "No apparent social media presence, inconsistent sound, and frequent collaborations with Grimdark Tavern (another AI artist). Multiple albums and EPs were released in 2025, with cover art that appears to be AI-generated.",
     "comments": "No apparent social media presence, inconsistent sound, and frequent collaborations with Grimdark Tavern (another AI artist). Multiple albums and EPs were released in 2025, with cover art that appears to be AI-generated.",
@@ -13694,7 +13749,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -13868,7 +13924,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -13900,7 +13957,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",
@@ -14025,7 +14083,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -14147,7 +14206,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
     "comments": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
     "tags": [
@@ -14617,7 +14678,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -14675,7 +14737,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": null,
     "tags": [
@@ -14831,7 +14895,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": "All artist profiles openly acknowledge use of generative AI.",
     "comments": "All artist profiles openly acknowledge use of generative AI.",
@@ -15025,7 +15090,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",
     "comments": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",
@@ -15058,7 +15124,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "Released via Fifty Five Music Group, which is known for hosting AI-based projects. The singer's voice changes noticeably between tracks, suggesting synthetic or generative vocal use.",
     "comments": "Released via Fifty Five Music Group, which is known for hosting AI-based projects. The singer's voice changes noticeably between tracks, suggesting synthetic or generative vocal use.",
@@ -15570,7 +15637,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -15966,7 +16034,8 @@
     "disclosureText": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The Spotify bio states: \"I compose melodies with tools like Ableton Live 12 and Analog Lab V, write lyrics from scratch, and use AI-like Grok 3-to polish their rhythm and flow. Synthesizer V then crafts vocals that bring my vision to life.\"",
@@ -16236,7 +16305,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The YouTube bio states: \"Experience the magic of AI -where virtual artists bring every song to life with passion and precision.\"",
@@ -16519,7 +16589,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The Spotify bio describes Lunar Horizon as an AI project started in 2023, noting that the lyrics are written by the artist with AI assistance bringing the songs to life. The YouTube bio states: \"Everything that you find here is made by AI. To be more specific, I use Suno AI for all of my songs.\"",
     "comments": "The Spotify bio describes Lunar Horizon as an AI project started in 2023, noting that the lyrics are written by the artist with AI assistance bringing the songs to life. The YouTube bio states: \"Everything that you find here is made by AI. To be more specific, I use Suno AI for all of my songs.\"",
@@ -16707,7 +16778,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -16794,7 +16866,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -16983,7 +17056,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -17048,7 +17122,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",
     "comments": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",
@@ -17080,7 +17155,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "YouTube bio acknowledges use of AI-generated content.",
     "comments": "YouTube bio acknowledges use of AI-generated content.",
@@ -17175,7 +17251,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -18076,7 +18153,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -18139,7 +18217,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "This artist appears to be in the same network as the AI artists 'Pasxkal' and 'The Last Spell'.",
     "comments": "This artist appears to be in the same network as the AI artists 'Pasxkal' and 'The Last Spell'.",
@@ -18200,7 +18279,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The discography and social media presence raise significant questions, with the Spotify bio adding further hints of AI involvement.",
     "comments": "The discography and social media presence raise significant questions, with the Spotify bio adding further hints of AI involvement.",
@@ -18231,7 +18311,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -18329,7 +18410,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The entity behind this artist is also related to the AI artist Konanoko (the Instagram account for Konanoko features promotional material for Minako).",
     "comments": "The entity behind this artist is also related to the AI artist Konanoko (the Instagram account for Konanoko features promotional material for Minako).",
@@ -18386,7 +18468,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
@@ -19185,7 +19268,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -19282,7 +19366,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The YouTube bio states \"AI tools were used to enhance the music and vocal quality, ensuring a polished and professional sound.\" However, song credits lists Suliko Kheladze (also listed on AI artists ElenAmor, Imani Shiloh, Aisha Sparkle) which raise suspicions over full AI-generation.",
@@ -19452,7 +19537,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "The artist publicly acknowledges using AI in music creation, particularly in the YouTube description. Unusual rhyme schemes, irregular verse lengths, and the overall sound further suggest AI-generated composition.",
     "comments": "The artist publicly acknowledges using AI in music creation, particularly in the YouTube description. Unusual rhyme schemes, irregular verse lengths, and the overall sound further suggest AI-generated composition.",
@@ -19663,7 +19749,9 @@
     "disclosure": "confirmed",
     "disclosureText": "On the Spotify bio, the artist self describes themselves as \"a virtual artist.\"",
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": "On the Spotify bio, the artist self describes themselves as \"a virtual artist.\"",
     "tags": [
@@ -19795,7 +19883,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -19999,7 +20088,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -20147,7 +20237,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "There also appears to be different voices used for the singer across their tracks.",
     "comments": "There also appears to be different voices used for the singer across their tracks.",
@@ -20335,7 +20426,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
     "comments": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
@@ -20464,7 +20556,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The artist description is generic and resembles common AI band templates. Album art appears AI-generated and inconsistent, with details like tattoos present on some covers but absent on others. Releases are frequent, averaging one album per month.",
     "comments": "The artist description is generic and resembles common AI band templates. Album art appears AI-generated and inconsistent, with details like tattoos present on some covers but absent on others. Releases are frequent, averaging one album per month.",
@@ -20497,7 +20590,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Very crude song themes.",
     "comments": "Very crude song themes.",
@@ -20529,7 +20623,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",
@@ -20563,7 +20658,8 @@
     "aiUsage": [],
     "indicators": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
     "comments": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
@@ -21151,7 +21247,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -21239,7 +21336,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The YouTube bio states: \"I'm An AI Music Producer/Songwriter. I edit and mix arrangements in post production but base sound is generated with Suno AI.\"",
@@ -21715,7 +21813,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -21746,7 +21845,8 @@
     "disclosureText": "They openly admit to using AI in only their art and instrumentals. Some of their vocals seem to have patterns and ranges that sound AI generated too - even if they're human vocals, the notes sound machine made.",
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "They openly admit to using AI in only their art and instrumentals. Some of their vocals seem to have patterns and ranges that sound AI generated too - even if they're human vocals, the notes sound machine made.",
@@ -21997,7 +22097,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "The sound is generic with AI-generated artwork and no available artist bio.",
     "comments": "The sound is generic with AI-generated artwork and no available artist bio.",
@@ -22062,7 +22163,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "The Spotify bio states: \"Prova MI is a digital artist who blends human creativity and artificial intelligence.\" (translated into English)",
@@ -22151,7 +22253,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -22207,7 +22310,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -22240,7 +22344,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -22271,7 +22376,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": "The YouTube bio states that the cover tracks are created with AI.",
     "comments": "The YouTube bio states that the cover tracks are created with AI.",
@@ -22618,7 +22724,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": "Self-declared as AI.",
     "comments": "Self-declared as AI.",
@@ -22764,7 +22871,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
     "comments": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
@@ -22961,7 +23069,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",
     "comments": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",
@@ -22993,7 +23102,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -23477,7 +23587,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": null,
     "tags": [
@@ -24021,7 +24133,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
     "comments": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
@@ -24368,7 +24481,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -25189,7 +25303,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "All ai visuals. Sounds AI, even the voices.",
     "comments": "All ai visuals. Sounds AI, even the voices.",
@@ -25381,7 +25496,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Clear AI, AI images, frequent release schedule.",
     "comments": "Clear AI, AI images, frequent release schedule.",
@@ -25443,7 +25559,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
     "comments": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
@@ -25477,7 +25594,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -25509,7 +25627,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -25841,7 +25960,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "Releases music under a real artist's name but lacks media presence. Features AI-generated cover art with noticeable errors (e.g., text mistakes on \"Best Place to Be Is Next to You\"), inconsistent style and vocals, and low-quality audio.",
     "comments": "Releases music under a real artist's name but lacks media presence. Features AI-generated cover art with noticeable errors (e.g., text mistakes on \"Best Place to Be Is Next to You\"), inconsistent style and vocals, and low-quality audio.",
@@ -26096,7 +26216,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -26266,7 +26387,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -26298,7 +26420,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",
@@ -27180,7 +27303,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -27309,7 +27433,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -27476,7 +27601,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -27618,7 +27744,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -27829,7 +27956,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": "Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
     "comments": "Notably, frequent questions about AI identity have led another band named Black Mammoth to clarify they are not affiliated with this AI project.",
     "tags": [
@@ -28142,7 +28271,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
     "comments": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
@@ -28174,7 +28304,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -28427,7 +28558,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
     "comments": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
@@ -28933,7 +29065,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -29179,7 +29312,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "SubmitHub suggests their music has a high probability of being AI-generated.",
     "comments": "SubmitHub suggests their music has a high probability of being AI-generated.",
@@ -29211,7 +29345,9 @@
     "disclosure": "none",
     "disclosureText": null,
     "aiUsage": [],
-    "indicators": [],
+    "indicators": [
+      "inconsistent-style"
+    ],
     "indicatorsText": null,
     "comments": null,
     "tags": [
@@ -29456,7 +29592,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -29616,7 +29753,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The person behind this project also has another AI project called 'UNFINISH'.",
     "comments": "The person behind this project also has another AI project called 'UNFINISH'.",
@@ -29775,7 +29913,8 @@
     "aiUsage": [],
     "indicators": [
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -30023,7 +30162,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
     "comments": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
@@ -30117,7 +30257,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "ai-visuals"
+      "ai-visuals",
+      "inconsistent-style"
     ],
     "indicatorsText": "The catalog includes over 200 tracks on Spotify, reportedly all released in 2024 and 2025. Artwork appears AI-generated with inconsistent styles. There is no artist bio, no visible social media presence, and no dedicated YouTube channel beyond an auto-generated topic page.",
     "comments": "The catalog includes over 200 tracks on Spotify, reportedly all released in 2024 and 2025. Artwork appears AI-generated with inconsistent styles. There is no artist bio, no visible social media presence, and no dedicated YouTube channel beyond an auto-generated topic page.",
@@ -31093,7 +31234,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31152,7 +31294,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Acknowledges use of AI in Spotify bio.",
     "comments": "Acknowledges use of AI in Spotify bio.",
@@ -31217,7 +31360,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31372,7 +31516,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31469,7 +31614,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31599,7 +31745,8 @@
     "indicators": [
       "ai-visuals",
       "anonymous",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Questionable human presence, with predominantly AI-generated visuals in inconsistent styles. Vocal characteristics vary across songs, suggesting synthetic generation. All releases are AI covers from 2025. In a TikTok comment, the artist states they write the lyrics but use AI for all other aspects.",
     "comments": "Questionable human presence, with predominantly AI-generated visuals in inconsistent styles. Vocal characteristics vary across songs, suggesting synthetic generation. All releases are AI covers from 2025. In a TikTok comment, the artist states they write the lyrics but use AI for all other aspects.",
@@ -31632,7 +31779,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31872,7 +32020,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31904,7 +32053,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31968,7 +32118,8 @@
     "aiUsage": [],
     "indicators": [
       "ai-visuals",
-      "anonymous"
+      "anonymous",
+      "inconsistent-style"
     ],
     "indicatorsText": null,
     "comments": null,
@@ -31998,7 +32149,8 @@
     "disclosureText": null,
     "aiUsage": [],
     "indicators": [
-      "high-output"
+      "high-output",
+      "inconsistent-style"
     ],
     "indicatorsText": "Very high output from a sudden, previously unknown project, accompanied by a large following.",
     "comments": "Very high output from a sudden, previously unknown project, accompanied by a large following.",
