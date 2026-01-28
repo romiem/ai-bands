@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "Multiple videos on their YouTube channel have a description that states: \"All Songs & Image Created by Soul Cafe with AI.\"",

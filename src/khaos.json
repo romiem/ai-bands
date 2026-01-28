@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "anonymous"
+    "anonymous",
+    "inconsistent-style"
   ],
   "indicatorsText": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",
   "comments": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",

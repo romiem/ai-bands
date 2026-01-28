@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
   "comments": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",

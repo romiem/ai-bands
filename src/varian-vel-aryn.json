@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",
   "comments": "The artist has 1800+ uploaded songs, many with AI generated visuals. Their social media displays suspicious activity, with posts focusing on how many plays they have rather than the music.",

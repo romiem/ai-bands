@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The YouTube bio states: \"I'm An AI Music Producer/Songwriter. I edit and mix arrangements in post production but base sound is generated with Suno AI.\"",

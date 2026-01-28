@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "There also appears to be different voices used for the singer across their tracks.",
   "comments": "There also appears to be different voices used for the singer across their tracks.",

@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "anonymous"
+    "anonymous",
+    "inconsistent-style"
   ],
   "indicatorsText": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
   "comments": "Describes itself as \"primarily an AI music project\" on Spotify bio.",

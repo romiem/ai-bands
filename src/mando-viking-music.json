@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",
   "comments": "Produces music in a genre prone to AI-generated content. Vague descriptions; not clear who's in the band. Bio links to multiple other channels hence flagged as \"inconsistent-style\". Linked with Mando Pirate Music, 50 Mark Club and  Cristi din Apus.",

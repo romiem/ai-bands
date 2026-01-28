@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
   "comments": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",

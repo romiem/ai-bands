@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",
   "comments": "Audio quality varies across tracks, with shifts in vocal tone and instability on higher notes commonly associated with AI vocals. The project shows limited public presence, frequent releases, AI-generated visuals, a non-human-sounding bio, and interactions that appear automated.",

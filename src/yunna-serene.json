@@ -7,7 +7,8 @@
   "disclosureText": null,
   "aiUsage": [],
   "indicators": [
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Very high output from a sudden, previously unknown project, accompanied by a large following.",
   "comments": "Very high output from a sudden, previously unknown project, accompanied by a large following.",

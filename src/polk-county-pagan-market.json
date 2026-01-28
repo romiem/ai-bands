@@ -7,7 +7,8 @@
   "disclosureText": "They openly admit to using AI in only their art and instrumentals. Some of their vocals seem to have patterns and ranges that sound AI generated too - even if they're human vocals, the notes sound machine made.",
   "aiUsage": [],
   "indicators": [
-    "ai-visuals"
+    "ai-visuals",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "They openly admit to using AI in only their art and instrumentals. Some of their vocals seem to have patterns and ranges that sound AI generated too - even if they're human vocals, the notes sound machine made.",

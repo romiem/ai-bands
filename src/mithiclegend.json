@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",

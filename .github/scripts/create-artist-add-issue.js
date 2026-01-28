@@ -20,8 +20,9 @@ for (const key of propertyOrder) {
   orderedData[key] = data[key];
 }
 
-// Convert comma-delimited strings to arrays for tags, default to empty array
+// Convert comma-delimited strings to arrays, default to empty array
 orderedData.tags = orderedData.tags && typeof orderedData.tags === 'string' ? orderedData.tags.split(',').map(s => s.trim()) : [];
+orderedData.aiUsage = orderedData.aiUsage && typeof orderedData.aiUsage === 'string' ? orderedData.aiUsage.split(',').map(s => s.trim()) : [];
 
 // Trim strings and set empty to null
 for (const key in orderedData) {

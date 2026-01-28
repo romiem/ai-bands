@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",
   "comments": "The YouTube bio states: \"Every week, I use AI music to reimagine legendary hits in new styles.\"",

@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The person behind this project also has another AI project called 'UNFINISH'.",
   "comments": "The person behind this project also has another AI project called 'UNFINISH'.",

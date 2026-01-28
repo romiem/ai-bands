@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The Spotify bio states: \"Prova MI is a digital artist who blends human creativity and artificial intelligence.\" (translated into English)",

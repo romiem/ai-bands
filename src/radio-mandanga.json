@@ -7,7 +7,8 @@
   "disclosureText": null,
   "aiUsage": [],
   "indicators": [
-    "ai-visuals"
+    "ai-visuals",
+    "inconsistent-style"
   ],
   "indicatorsText": "The YouTube bio states that the cover tracks are created with AI.",
   "comments": "The YouTube bio states that the cover tracks are created with AI.",

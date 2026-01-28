@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "No background or band members listed, as well as new music releases seemingly at random and above-average frequency of output.",
   "comments": "No background or band members listed, as well as new music releases seemingly at random and above-average frequency of output.",

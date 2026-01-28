@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",
   "comments": "The Spotify bio describes the project as \"AI-powered,\" and the tracks appear in AI-focused music playlists.",

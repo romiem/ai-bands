@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Acknowledges use of AI in Spotify bio.",
   "comments": "Acknowledges use of AI in Spotify bio.",

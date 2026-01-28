@@ -62,7 +62,8 @@
           "2024-onwards",
           "ai-visuals",
           "anonymous",
-          "high-output"
+          "high-output",
+          "inconsistent-style"
         ]
       },
       "uniqueItems": true
