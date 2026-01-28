@@ -7,7 +7,8 @@
   "disclosureText": null,
   "aiUsage": [],
   "indicators": [
-    "ai-visuals"
+    "ai-visuals",
+    "inconsistent-style"
   ],
   "indicatorsText": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
   "comments": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",

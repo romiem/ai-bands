@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "anonymous"
+    "anonymous",
+    "inconsistent-style"
   ],
   "indicatorsText": "SubmitHub detects strong AI characteristics in their music.",
   "comments": "SubmitHub detects strong AI characteristics in their music.",

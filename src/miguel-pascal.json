@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "This artist appears to be in the same network as the AI artists 'Pasxkal' and 'The Last Spell'.",
   "comments": "This artist appears to be in the same network as the AI artists 'Pasxkal' and 'The Last Spell'.",

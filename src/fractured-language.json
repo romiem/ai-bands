@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",
   "comments": "The Spotify bio states: \"Each track is brought to life through the use of AI - some feature my own voice, melodies, or lyrics, while others are entirely AI-generated.\"",

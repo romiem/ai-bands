@@ -6,7 +6,9 @@
   "disclosure": "none",
   "disclosureText": null,
   "aiUsage": [],
-  "indicators": [],
+  "indicators": [
+    "inconsistent-style"
+  ],
   "indicatorsText": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
   "comments": "SubmitHub analysis flags strong characteristics commonly associated with AI-generated music across this artist's tracks.",
   "tags": [

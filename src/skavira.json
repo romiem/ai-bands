@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "There are strong indications that the artist is not a real person, with no authentic photographs available.",
   "comments": "There are strong indications that the artist is not a real person, with no authentic photographs available.",

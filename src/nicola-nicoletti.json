@@ -6,7 +6,9 @@
   "disclosure": "confirmed",
   "disclosureText": "On the Spotify bio, the artist self describes themselves as \"a virtual artist.\"",
   "aiUsage": [],
-  "indicators": [],
+  "indicators": [
+    "inconsistent-style"
+  ],
   "indicatorsText": null,
   "comments": "On the Spotify bio, the artist self describes themselves as \"a virtual artist.\"",
   "tags": [

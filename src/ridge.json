@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",
   "comments": "AI-generated artwork, with the Spotify and Facebook bios acknowledging the use of AI. The project also shows an unusually high release output.",

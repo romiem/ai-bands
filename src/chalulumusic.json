@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "YouTube bio states: \"AI-generated music across all genres.\"",
   "comments": "YouTube bio states: \"AI-generated music across all genres.\"",

@@ -7,7 +7,8 @@
   "disclosureText": null,
   "aiUsage": [],
   "indicators": [
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",
   "comments": "Incredibly high number of releases in 2025. Characters in YouTube videos look like AI-generated Anime scenes.",

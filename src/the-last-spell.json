@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",
   "comments": "The artist appears to feature on collaborations with a network of other artists managed by a single entity.",

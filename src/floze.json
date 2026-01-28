@@ -6,7 +6,9 @@
   "disclosure": "none",
   "disclosureText": null,
   "aiUsage": [],
-  "indicators": [],
+  "indicators": [
+    "inconsistent-style"
+  ],
   "indicatorsText": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
   "comments": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
   "tags": [

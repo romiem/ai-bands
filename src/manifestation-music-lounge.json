@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "anonymous"
+    "anonymous",
+    "inconsistent-style"
   ],
   "indicatorsText": "YouTube bio acknowledges use of AI-generated content.",
   "comments": "YouTube bio acknowledges use of AI-generated content.",

@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "All ai visuals. Sounds AI, even the voices.",
   "comments": "All ai visuals. Sounds AI, even the voices.",

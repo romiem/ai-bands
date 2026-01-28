@@ -6,7 +6,9 @@
   "disclosure": "none",
   "disclosureText": null,
   "aiUsage": [],
-  "indicators": [],
+  "indicators": [
+    "inconsistent-style"
+  ],
   "indicatorsText": null,
   "comments": null,
   "tags": [

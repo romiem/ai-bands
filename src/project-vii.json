@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "anonymous"
+    "anonymous",
+    "inconsistent-style"
   ],
   "indicatorsText": "The sound is generic with AI-generated artwork and no available artist bio.",
   "comments": "The sound is generic with AI-generated artwork and no available artist bio.",

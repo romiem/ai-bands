@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The Spotify bio states: \"We explore all kinds of sound and use every tool available - including AI.\"",

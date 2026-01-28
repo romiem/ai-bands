@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",

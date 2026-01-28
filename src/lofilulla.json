@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The YouTube bio states: \"Experience the magic of AI -where virtual artists bring every song to life with passion and precision.\"",

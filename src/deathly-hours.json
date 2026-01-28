@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "The person running their YouTube channel deletes comments alluding to AI.",
   "comments": "The person running their YouTube channel deletes comments alluding to AI.",

@@ -8,7 +8,8 @@
   "aiUsage": [],
   "indicators": [
     "ai-visuals",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": null,
   "comments": "The description on their YouTube channel states they are \"supercharged by AI-assisted music innovation.\"",

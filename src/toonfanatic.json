@@ -9,7 +9,8 @@
   "indicators": [
     "ai-visuals",
     "anonymous",
-    "high-output"
+    "high-output",
+    "inconsistent-style"
   ],
   "indicatorsText": "SubmitHub suggests their music has a high probability of being AI-generated.",
   "comments": "SubmitHub suggests their music has a high probability of being AI-generated.",
