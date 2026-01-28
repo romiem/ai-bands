@@ -958,6 +958,30 @@
     "instagram": null
   },
   {
+    "id": "ames-ives",
+    "name": "Ames Ives",
+    "dateAdded": "2026-01-28T14:36:04.438Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"I'm taking my ideas about the world-the funny, the political, the absurd-and using AI to turn them into music.\"",
+    "tags": [
+      "ai-visuals",
+      "anonymous",
+      "high-output",
+      "self-disclosed-ai",
+      "no-social-presence"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "0o4LcJRWf8k8du7ELfuINg",
+    "apple": null,
+    "amazon": null,
+    "youtube": "@AmesIves",
+    "tiktok": null,
+    "instagram": "amesivesmusic"
+  },
+  {
     "id": "amir-nazari",
     "name": "Amir Nazari",
     "dateAdded": "2026-01-07T23:37:59.496Z",
@@ -2860,6 +2884,30 @@
     "youtube": null,
     "tiktok": null,
     "instagram": null
+  },
+  {
+    "id": "blow-records",
+    "name": "BLOW RECORDS",
+    "dateAdded": "2026-01-28T13:59:07.446Z",
+    "dateUpdated": null,
+    "comments": "The Instagram and TikTok bios state: \"Powered by AI.\"",
+    "tags": [
+      "anonymous",
+      "ai-visuals",
+      "high-output",
+      "minimal-bio",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "6N5PRAVXd4vXyXmKseP3jq",
+    "apple": "1760229976",
+    "amazon": "B0DBRPBCTW",
+    "youtube": "@blowrecordsbr",
+    "tiktok": "@blow.records",
+    "instagram": "blowrecordsbr"
   },
   {
     "id": "blueberryclub",
@@ -14674,6 +14722,27 @@
     "amazon": "B0F1J3GN99",
     "youtube": "@NightIntruderFl",
     "tiktok": "@night.intruder",
+    "instagram": null
+  },
+  {
+    "id": "nightcoreengel",
+    "name": "NightcoreEngel",
+    "dateAdded": "2026-01-28T14:33:43.824Z",
+    "dateUpdated": null,
+    "comments": "The Spotify bio states: \"Since 2024, they have been combining traditional Nightcore techniques with artificial intelligence and modern music processing.\" (translated into English)",
+    "tags": [
+      "ai-visuals",
+      "self-disclosed-ai"
+    ],
+    "genres": [],
+    "popularity": null,
+    "followers": null,
+    "shScore": null,
+    "spotify": "41u2zpj6mkjF7uRYTC6JZB",
+    "apple": "1762483205",
+    "amazon": "B0DD3L9BCC",
+    "youtube": "UCNOyJiRjXZLMqIY85xkwGTA",
+    "tiktok": null,
     "instagram": null
   },
   {
