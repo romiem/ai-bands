@@ -3,6 +3,14 @@
   "name": "Vibfy",
   "dateAdded": "2026-01-26T14:43:46.266Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "partial-ai",

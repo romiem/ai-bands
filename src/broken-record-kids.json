@@ -3,6 +3,14 @@
   "name": "broken record kids",
   "dateAdded": "2026-01-14T21:18:46.746Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "human-lyrics",

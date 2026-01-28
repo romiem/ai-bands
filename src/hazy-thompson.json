@@ -3,6 +3,14 @@
   "name": "Hazy Thompson",
   "dateAdded": "2026-01-18T21:33:29.722Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The artist has a profile under the username @jlpenman on the Suno website.",
   "comments": "The artist has a profile under the username @jlpenman on the Suno website.",
   "tags": [
     "ai-visuals",

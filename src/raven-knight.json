@@ -3,6 +3,14 @@
   "name": "Raven Knight",
   "dateAdded": "2025-11-24T23:56:10.000Z",
   "dateUpdated": "2026-01-19T10:56:29.907Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

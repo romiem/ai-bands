@@ -3,6 +3,14 @@
   "name": "Immunosuppressed",
   "dateAdded": "2026-01-02T13:39:41.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

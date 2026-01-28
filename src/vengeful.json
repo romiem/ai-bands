@@ -3,6 +3,14 @@
   "name": "VENGEFUL",
   "dateAdded": "2026-01-21T14:34:33.763Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"VENGEFUL - that's the name under which I now release completely AI-produced music. What you hear is created through artificial intelligence in combination with my vision, my lyrics, and my energy.\" (translated from German)",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"VENGEFUL - that's the name under which I now release completely AI-produced music. What you hear is created through artificial intelligence in combination with my vision, my lyrics, and my energy.\" (translated from German)",
   "tags": [
     "ai-visuals",

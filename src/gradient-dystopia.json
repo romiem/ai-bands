@@ -3,6 +3,15 @@
   "name": "Gradient Dystopia",
   "dateAdded": "2026-01-26T18:16:06.851Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Uses the hashtag #AIHorror on some of their X posts, whilst some Instagram posts use the hashtag #sora2.",
   "comments": "Uses the hashtag #AIHorror on some of their X posts, whilst some Instagram posts use the hashtag #sora2.",
   "tags": [
     "ai-visuals",

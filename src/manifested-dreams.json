@@ -3,6 +3,14 @@
   "name": "Manifested Dreams",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-23T08:06:12.053Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Created with a mix of AI tools and the artist's original concepts.\"",
   "tags": [
     "self-disclosed-ai",

@@ -3,6 +3,14 @@
   "name": "OKISO",
   "dateAdded": "2026-01-20T21:37:07.527Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
   "comments": "An investigation into OKISO was conducted by members of the Vocaloid community in 2025, which found that he was publishing songs generated with Suno AI.",
   "tags": [
     "audio-artifacts",

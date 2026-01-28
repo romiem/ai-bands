@@ -3,6 +3,14 @@
   "name": "Kairo Mansa",
   "dateAdded": "2025-12-30T19:07:00.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "A new album was released in October 2025 with no accompanying bio, additional photos, or background information. There appears to be no social media presence or further details about the artist.",
   "comments": "A new album was released in October 2025 with no accompanying bio, additional photos, or background information. There appears to be no social media presence or further details about the artist.",
   "tags": [
     "no-social-presence",

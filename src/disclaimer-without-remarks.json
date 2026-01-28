@@ -3,6 +3,13 @@
   "name": "disclaimer without remarks",
   "dateAdded": "2026-01-27T15:29:10.244Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"All my lyrics are written by human, and songs symphoniezed by AI-instruments.\"",
   "tags": [
     "ai-visuals",

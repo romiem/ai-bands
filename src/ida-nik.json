@@ -3,6 +3,14 @@
   "name": "Ida Nik",
   "dateAdded": "2026-01-13T21:57:01.908Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Instagram bio states: \"Building immersive worlds through a fusion of human voice and AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Instagram bio states: \"Building immersive worlds through a fusion of human voice and AI.\"",
   "tags": [
     "ai-visuals",

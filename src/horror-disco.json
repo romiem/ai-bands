@@ -3,6 +3,14 @@
   "name": "Horror Disco",
   "dateAdded": "2026-01-07T12:59:31.356Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
   "comments": "Describes itself as \"primarily an AI music project\" on Spotify bio.",
   "tags": [
     "ai-visuals",

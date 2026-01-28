@@ -3,6 +3,14 @@
   "name": "MelodAI_Official",
   "dateAdded": "2026-01-05T20:29:17.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The artist name itself hints at AI involvement, which is openly confirmed in the YouTube bio.",
   "comments": "The artist name itself hints at AI involvement, which is openly confirmed in the YouTube bio.",
   "tags": [
     "partial-ai",

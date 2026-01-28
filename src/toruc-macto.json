@@ -3,6 +3,11 @@
   "name": "Toruc macto",
   "dateAdded": "2026-01-19T10:32:28.236Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "inconsistent-style",

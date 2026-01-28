@@ -3,6 +3,14 @@
   "name": "Mary of Gold",
   "dateAdded": "2025-12-29T19:34:42.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Minimal public presence, with little verifiable information about the persona available online. Discussions on Reddit reference the project as AI-generated.",
   "comments": "Minimal public presence, with little verifiable information about the persona available online. Discussions on Reddit reference the project as AI-generated.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Mika Akakuma",
   "dateAdded": "2026-01-18T21:15:43.146Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

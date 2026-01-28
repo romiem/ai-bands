@@ -3,6 +3,14 @@
   "name": "Eurozia",
   "dateAdded": "2025-12-21T20:54:24.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Created by the same unknown entity behind Fierlayce.",
   "comments": "Created by the same unknown entity behind Fierlayce.",
   "tags": [
     "high-output",

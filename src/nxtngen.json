@@ -3,6 +3,15 @@
   "name": "NXTNGen",
   "dateAdded": "2026-01-01T16:02:32.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
   "comments": "Multiple songs feature different vocalists, with AI-generated single artwork throughout. No singers are credited, and the release frequency is unusually high for conventional recording or production processes.",
   "tags": [
     "ai-visuals",

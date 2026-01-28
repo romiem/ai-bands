@@ -3,6 +3,13 @@
   "name": "Hyperbaiter",
   "dateAdded": "2026-01-19T11:13:19.351Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "partial-ai",

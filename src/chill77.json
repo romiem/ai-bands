@@ -3,6 +3,14 @@
   "name": "Chill77",
   "dateAdded": "2026-01-02T13:49:18.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Lack of public presence, suspicious release patterns, vocal artifacts consistent with AI generation, and AI-generated visuals. The rapid growth in listeners over a short period suggests possible bots or paid followers.",
   "comments": "Lack of public presence, suspicious release patterns, vocal artifacts consistent with AI generation, and AI-generated visuals. The rapid growth in listeners over a short period suggests possible bots or paid followers.",
   "tags": [
     "ai-visuals",

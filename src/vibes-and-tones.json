@@ -3,6 +3,15 @@
   "name": "Vibes & Tones",
   "dateAdded": "2026-01-09T13:49:46.176Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "All music released in 2025, which includes 12 full albums and several singles. Artist description on Spotify claims they're an Ohio-based \"collective\" of musicians, but does not name any members nor any evidence of live performances.",
   "comments": "All music released in 2025, which includes 12 full albums and several singles. Artist description on Spotify claims they're an Ohio-based \"collective\" of musicians, but does not name any members nor any evidence of live performances.",
   "tags": [
     "ai-visuals",

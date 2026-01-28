@@ -3,6 +3,15 @@
   "name": "Melodia Simples",
   "dateAdded": "2026-01-12T16:18:49.550Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "BoxxBoxx",
   "dateAdded": "2026-01-06T19:50:52.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Spotify bio explicitly confirms AI use, stating the project is an AI influencer that creates music and content for Formula 1 fans.",
   "comments": "Spotify bio explicitly confirms AI use, stating the project is an AI influencer that creates music and content for Formula 1 fans.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,13 @@
   "name": "Operator",
   "dateAdded": "2025-12-18T17:20:04.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": "AI cover art. 6 albums in 2025. No social media.",
   "comments": "AI cover art. 6 albums in 2025. No social media.",
   "tags": [
     "high-output"

@@ -3,6 +3,14 @@
   "name": "DIESEL",
   "dateAdded": "2026-01-03T14:08:40.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

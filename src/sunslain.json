@@ -3,6 +3,14 @@
   "name": "Sunslain",
   "dateAdded": "2025-12-30T17:10:17.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The music appears highly polished despite the project emerging suddenly. There is limited information available online to verify the artist's background.",
   "comments": "The music appears highly polished despite the project emerging suddenly. There is limited information available online to verify the artist's background.",
   "tags": [
     "high-output",

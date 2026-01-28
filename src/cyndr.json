@@ -3,6 +3,13 @@
   "name": "Cyndr",
   "dateAdded": "2026-01-09T20:15:20.307Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

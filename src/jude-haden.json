@@ -3,6 +3,14 @@
   "name": "Jude Haden",
   "dateAdded": "2026-01-19T11:15:14.105Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"I use artificial intelligence tools to produce fresh, one-of-a-kind music while keeping the heart of every song 100% original and personally written by me.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"I use artificial intelligence tools to produce fresh, one-of-a-kind music while keeping the heart of every song 100% original and personally written by me.\"",
   "tags": [
     "ai-visuals",

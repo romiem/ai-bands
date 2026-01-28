@@ -3,6 +3,14 @@
   "name": "Dohaka6",
   "dateAdded": "2026-01-20T13:23:38.853Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "JG Horizon",
   "dateAdded": "2026-01-08T16:02:57.231Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states that they \"use AI tools mainly for creating the instrumental and vocal tuning.\"",
   "tags": [
     "ai-visuals",

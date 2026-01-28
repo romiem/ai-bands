@@ -3,6 +3,13 @@
   "name": "Bitter Ends",
   "dateAdded": "2025-12-11T10:07:45.000Z",
   "dateUpdated": "2026-01-09T00:00:43.682Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output"

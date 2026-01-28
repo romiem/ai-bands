@@ -3,6 +3,13 @@
   "name": "NightcoreEngel",
   "dateAdded": "2026-01-28T14:33:43.824Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Since 2024, they have been combining traditional Nightcore techniques with artificial intelligence and modern music processing.\" (translated into English)",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Since 2024, they have been combining traditional Nightcore techniques with artificial intelligence and modern music processing.\" (translated into English)",
   "tags": [
     "ai-visuals",

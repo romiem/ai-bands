@@ -3,6 +3,14 @@
   "name": "The Hollow",
   "dateAdded": "2025-11-29T10:34:46.000Z",
   "dateUpdated": "2026-01-14T18:12:50.828Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states that the project consists of \"handwritten lyrics echoed through the digital ghost\" and that \"A.I. tools ares used in production.\"",
   "tags": [
     "self-disclosed-ai",

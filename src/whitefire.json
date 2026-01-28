@@ -3,6 +3,13 @@
   "name": "WHITEFIRE",
   "dateAdded": "2026-01-07T14:40:05.752Z",
   "dateUpdated": "2026-01-10T14:40:52.104Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The artist states that all lyrics, melodies, and compositions are written by themselves, with AI tools such as Suno and Moises used to perform and enhance instrumental and vocal elements.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The artist states that all lyrics, melodies, and compositions are written by themselves, with AI tools such as Suno and Moises used to perform and enhance instrumental and vocal elements.",
   "tags": [
     "ai-visuals",

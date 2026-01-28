@@ -3,6 +3,14 @@
   "name": "Solyn",
   "dateAdded": "2026-01-20T21:47:53.707Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Amir Nazari",
   "dateAdded": "2026-01-07T23:37:59.496Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

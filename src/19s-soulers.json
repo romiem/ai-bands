@@ -3,6 +3,14 @@
   "name": "19s Soulers",
   "dateAdded": "2025-12-29T21:45:04.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "AI-generated album cover art, featured almost exclusively on AI cover playlists, with a bio stating \"releasing weekly new covers.\"",
   "comments": "AI-generated album cover art, featured almost exclusively on AI cover playlists, with a bio stating \"releasing weekly new covers.\"",
   "tags": [
     "ai-visuals",

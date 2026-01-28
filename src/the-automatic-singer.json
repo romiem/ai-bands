@@ -3,6 +3,15 @@
   "name": "The Automatic Singer",
   "dateAdded": "2026-01-07T14:44:35.334Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Openly acknowledges to publishing AI-generated music on their Spotify and TikTok profiles.",
   "comments": "Openly acknowledges to publishing AI-generated music on their Spotify and TikTok profiles.",
   "tags": [
     "ai-visuals",

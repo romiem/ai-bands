@@ -3,6 +3,15 @@
   "name": "UNFADΞ",
   "dateAdded": "2026-01-19T10:30:03.359Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The person behind this project also has another AI project called 'UNFINISH'.",
   "comments": "The person behind this project also has another AI project called 'UNFINISH'.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,15 @@
   "name": "Volkan Kuday",
   "dateAdded": "2025-12-07T21:01:10.000Z",
   "dateUpdated": "2026-01-19T12:48:59.140Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Synths, wires, AI, and emotion. Old sounds meeting new machines. Powered by tools like AI voice models, neural synth engines, and generative soundscapes.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Synths, wires, AI, and emotion. Old sounds meeting new machines. Powered by tools like AI voice models, neural synth engines, and generative soundscapes.\"",
   "tags": [
     "anonymous",

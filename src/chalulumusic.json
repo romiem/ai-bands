@@ -3,6 +3,15 @@
   "name": "ChaluluMusic",
   "dateAdded": "2026-01-03T18:43:10.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "YouTube bio states: \"AI-generated music across all genres.\"",
   "comments": "YouTube bio states: \"AI-generated music across all genres.\"",
   "tags": [
     "inconsistent-style",

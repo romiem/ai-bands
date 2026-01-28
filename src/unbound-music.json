@@ -3,6 +3,14 @@
   "name": "Unbound Music",
   "dateAdded": "2026-01-07T15:28:21.901Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Spotify bio states that \"some songs are fully AI-crafted, while others are written entirely by hand.\"",
   "comments": "Spotify bio states that \"some songs are fully AI-crafted, while others are written entirely by hand.\"",
   "tags": [
     "ai-visuals",

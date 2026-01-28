@@ -3,6 +3,13 @@
   "name": "Waves Lost",
   "dateAdded": "2026-01-23T11:09:43.690Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

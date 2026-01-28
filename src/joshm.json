@@ -3,6 +3,14 @@
   "name": "JoshM",
   "dateAdded": "2026-01-08T16:07:35.707Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

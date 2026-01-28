@@ -3,6 +3,14 @@
   "name": "Radio Sex",
   "dateAdded": "2026-01-09T13:02:21.072Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "no-social-presence",

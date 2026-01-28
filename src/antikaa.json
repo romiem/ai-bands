@@ -3,6 +3,14 @@
   "name": "Antikaa",
   "dateAdded": "2026-01-14T21:23:43.457Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Instagram bio states: \"Lyricist meets AI generated music.\"",
   "tags": [
     "ai-visuals",

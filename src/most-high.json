@@ -3,6 +3,14 @@
   "name": "Most High",
   "dateAdded": "2026-01-12T16:13:43.319Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The artist's Spotify bio states that they utilise \"advanced AI and music production software.\"",
   "tags": [
     "ai-visuals",

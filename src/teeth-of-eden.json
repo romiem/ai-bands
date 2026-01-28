@@ -3,6 +3,14 @@
   "name": "Teeth of Eden",
   "dateAdded": "2026-01-18T14:47:55.776Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

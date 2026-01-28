@@ -3,6 +3,14 @@
   "name": "phantomoffire",
   "dateAdded": "2026-01-02T12:27:11.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "no-social-presence",

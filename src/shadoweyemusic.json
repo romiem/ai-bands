@@ -3,6 +3,14 @@
   "name": "ShadowEyeMusic",
   "dateAdded": "2026-01-15T10:08:24.159Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "Acknowledged use of AI on a Facebook post in an AI Music Creators group.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "Acknowledged use of AI on a Facebook post in an AI Music Creators group.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Porcelain Sky",
   "dateAdded": "2026-01-24T23:30:58.128Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

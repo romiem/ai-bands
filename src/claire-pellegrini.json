@@ -3,6 +3,14 @@
   "name": "Claire Pellegrini",
   "dateAdded": "2026-01-25T21:05:17.757Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,13 @@
   "name": "Alex Esseker",
   "dateAdded": "2026-01-01T21:43:41.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "The artist has acknowledged using AI-generated vocals on YouTube and Patreon, and also uses AI-generated artwork for track visuals.",
   "comments": "The artist has acknowledged using AI-generated vocals on YouTube and Patreon, and also uses AI-generated artwork for track visuals.",
   "tags": [
     "partial-ai",

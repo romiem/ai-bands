@@ -3,6 +3,14 @@
   "name": "GamBeat",
   "dateAdded": "2026-01-19T11:02:30.915Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Instagram bio states: \"scrivendo i testi e producendo la musica con l'IA\" (writing the lyrics and producing the music with AI).",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Instagram bio states: \"scrivendo i testi e producendo la musica con l'IA\" (writing the lyrics and producing the music with AI).",
   "tags": [
     "self-disclosed-ai",

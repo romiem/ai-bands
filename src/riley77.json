@@ -3,6 +3,15 @@
   "name": "Riley77",
   "dateAdded": "2026-01-18T14:44:11.454Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states that the artist \"is an AI-assisted music creator.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states that the artist \"is an AI-assisted music creator.\"",
   "tags": [
     "partial-ai",

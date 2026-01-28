@@ -3,6 +3,13 @@
   "name": "Christian Music Creations",
   "dateAdded": "2025-12-18T18:23:59.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": "Openly admits on social media that it's media is AI-generated.",
   "comments": "Openly admits on social media that it's media is AI-generated.",
   "tags": [
     "partial-ai",

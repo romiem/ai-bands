@@ -3,6 +3,15 @@
   "name": "Twisted Reality",
   "dateAdded": "2026-01-21T14:32:25.340Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"AI Creator\" and the the YouTube and TikTok handles allude to AI usage.",
   "tags": [
     "high-output",

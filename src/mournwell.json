@@ -3,6 +3,13 @@
   "name": "Mournwell",
   "dateAdded": "2026-01-26T18:10:36.219Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

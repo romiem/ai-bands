@@ -3,6 +3,14 @@
   "name": "PRELUNE",
   "dateAdded": "2026-01-19T13:01:28.478Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Comments on their TikTok profile asking for clarity on AI-usage go unanswered, whilst comments are disabled on their YouTube profile.",
   "comments": "Comments on their TikTok profile asking for clarity on AI-usage go unanswered, whilst comments are disabled on their YouTube profile.",
   "tags": [
     "anonymous",

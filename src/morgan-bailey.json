@@ -3,6 +3,14 @@
   "name": "Morgan Bailey",
   "dateAdded": "2026-01-23T10:34:25.875Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

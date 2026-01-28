@@ -3,6 +3,15 @@
   "name": "Milla Sofia",
   "dateAdded": "2026-01-02T11:12:29.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The Spotify and Instagram bios mentions AI involvement, and the profile picture appears to be AI-generated.",
   "comments": "The Spotify and Instagram bios mentions AI involvement, and the profile picture appears to be AI-generated.",
   "tags": [
     "ai-visuals",

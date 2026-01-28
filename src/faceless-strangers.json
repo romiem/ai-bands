@@ -3,6 +3,14 @@
   "name": "Faceless Strangers",
   "dateAdded": "2026-01-03T12:51:25.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The Spotify description implies AI involvement with the phrase \"a blend of algorithms and intention,\" while the Instagram bio describes the project as \"a music collective where stories are written collaboratively by humans and machines.\"",
   "comments": "The Spotify description implies AI involvement with the phrase \"a blend of algorithms and intention,\" while the Instagram bio describes the project as \"a music collective where stories are written collaboratively by humans and machines.\"",
   "tags": [
     "audio-artifacts",

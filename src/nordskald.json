@@ -3,6 +3,14 @@
   "name": "NORDSKÁLD",
   "dateAdded": "2026-01-13T21:36:05.295Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

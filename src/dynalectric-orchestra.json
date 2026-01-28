@@ -3,6 +3,14 @@
   "name": "Dynalectric Orchestra",
   "dateAdded": "2026-01-26T14:37:22.564Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio makes reference to \"AI mixing\" whilst the YouTube bio states: \"Immerse yourself in the New Romantic spirit with our unique blend of synthetic rhythms and melodic escapades.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio makes reference to \"AI mixing\" whilst the YouTube bio states: \"Immerse yourself in the New Romantic spirit with our unique blend of synthetic rhythms and melodic escapades.\"",
   "tags": [
     "self-disclosed-ai",

@@ -3,6 +3,15 @@
   "name": "Western Plains Radio",
   "dateAdded": "2026-01-13T22:08:56.744Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The YouTube bio states: \"All songs featured on this channel are fully written, composed, and produced using artificial intelligence. Lyrics, melodies, vocals, and instrumental arrangements are generated with the assistance of advanced AI tools.\"",
   "comments": "The YouTube bio states: \"All songs featured on this channel are fully written, composed, and produced using artificial intelligence. Lyrics, melodies, vocals, and instrumental arrangements are generated with the assistance of advanced AI tools.\"",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Saint Vice",
   "dateAdded": "2026-01-01T16:05:32.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
   "comments": "Album portraits appear AI-generated, vocals sound unnatural, and there is little to no social interaction or public presence.",
   "tags": [
     "no-social-presence",

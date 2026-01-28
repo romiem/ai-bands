@@ -3,6 +3,14 @@
   "name": "PASXKAL",
   "dateAdded": "2026-01-08T15:50:58.963Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "no-social-presence",

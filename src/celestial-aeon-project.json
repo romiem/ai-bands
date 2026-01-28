@@ -3,6 +3,14 @@
   "name": "Celestial Aeon Project",
   "dateAdded": "2026-01-07T14:42:29.221Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Artist has high output volume of individual tracks, uses AI visuals for their album art, and has openly come out in support of using AI. While their history suggests they aren't exclusively using AI, it's reasonable to assume they are using it in their creation process at this point.",
   "comments": "Artist has high output volume of individual tracks, uses AI visuals for their album art, and has openly come out in support of using AI. While their history suggests they aren't exclusively using AI, it's reasonable to assume they are using it in their creation process at this point.",
   "tags": [
     "ai-visuals",

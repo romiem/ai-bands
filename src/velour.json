@@ -3,6 +3,13 @@
   "name": "Velour",
   "dateAdded": "2025-12-19T14:19:08.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": "Generic cover art. Audio artifacts.",
   "comments": "Generic cover art. Audio artifacts.",
   "tags": [
     "anonymous"

@@ -3,6 +3,14 @@
   "name": "Dr Pflaumisan",
   "dateAdded": "2025-12-29T19:46:01.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

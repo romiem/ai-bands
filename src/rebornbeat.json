@@ -3,6 +3,14 @@
   "name": "RebornBeat",
   "dateAdded": "2026-01-20T21:50:24.997Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"With AI as my creative instrument, I blend imagination and feeling, turning ideas into sound.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"With AI as my creative instrument, I blend imagination and feeling, turning ideas into sound.\"",
   "tags": [
     "ai-visuals",

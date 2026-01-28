@@ -3,6 +3,13 @@
   "name": "ZionRay",
   "dateAdded": "2026-01-04T16:59:57.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "Claims to be a real person, but only AI-generated images exist and no verifiable information can be found. A large volume of releases, all dating from 2025.",
   "comments": "Claims to be a real person, but only AI-generated images exist and no verifiable information can be found. A large volume of releases, all dating from 2025.",
   "tags": [
     "ai-visuals",

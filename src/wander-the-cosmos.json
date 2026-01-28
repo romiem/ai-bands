@@ -3,6 +3,14 @@
   "name": "Wander The Cosmos",
   "dateAdded": "2025-12-24T21:29:12.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "AI generated cover art. No song credits listed or any information about the person behind the project.",
   "comments": "AI generated cover art. No song credits listed or any information about the person behind the project.",
   "tags": [
     "ai-visuals",

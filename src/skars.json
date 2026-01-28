@@ -3,6 +3,15 @@
   "name": "SKARS",
   "dateAdded": "2025-12-31T16:19:30.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "High single release volume on Spotify, with AI-generated cover art and no available bio. The music features generic or recycled stylistic elements and riffs.",
   "comments": "High single release volume on Spotify, with AI-generated cover art and no available bio. The music features generic or recycled stylistic elements and riffs.",
   "tags": [
     "ai-visuals",

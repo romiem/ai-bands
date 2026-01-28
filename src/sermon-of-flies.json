@@ -3,6 +3,14 @@
   "name": "Sermon of Flies",
   "dateAdded": "2026-01-17T12:24:47.782Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

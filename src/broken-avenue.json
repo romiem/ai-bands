@@ -3,6 +3,13 @@
   "name": "Broken Avenue",
   "dateAdded": "2025-12-08T11:29:58.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output"

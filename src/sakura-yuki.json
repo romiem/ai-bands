@@ -3,6 +3,14 @@
   "name": "Sakura Yuki",
   "dateAdded": "2026-01-25T20:56:36.109Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Note that this project is not to be confused with a non-AI artist by the same name.",
   "comments": "Note that this project is not to be confused with a non-AI artist by the same name.",
   "tags": [
     "no-social-presence",

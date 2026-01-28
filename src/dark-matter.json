@@ -3,6 +3,13 @@
   "name": "Dark Matter",
   "dateAdded": "2025-12-18T18:49:33.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": "YouTube channel description acknowledges use of AI. Has a second Youtube channel at @darkmatter0896.",
   "comments": "YouTube channel description acknowledges use of AI. Has a second Youtube channel at @darkmatter0896.",
   "tags": [
     "partial-ai",

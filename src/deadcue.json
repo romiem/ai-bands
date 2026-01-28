@@ -3,6 +3,14 @@
   "name": "DEADCUE",
   "dateAdded": "2025-12-08T11:19:47.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "41 tracks released between November 2025 and January 2026, with the project also appearing on the SunoAI subreddit, suggesting use of AI music generation tools.",
   "comments": "41 tracks released between November 2025 and January 2026, with the project also appearing on the SunoAI subreddit, suggesting use of AI music generation tools.",
   "tags": [
     "high-output",

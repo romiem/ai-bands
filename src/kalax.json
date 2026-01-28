@@ -3,6 +3,11 @@
   "name": "Kalax",
   "dateAdded": "2025-11-29T12:13:30.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "partial-ai"

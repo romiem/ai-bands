@@ -3,6 +3,14 @@
   "name": "Sybilanta",
   "dateAdded": "2026-01-16T19:29:14.300Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states that they are a \"digital artist\" but \"all the songs and lyrics were written by human hands.\"",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Khaos",
   "dateAdded": "2026-01-04T10:56:43.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",
   "comments": "SubmitHub flags the songs as strongly showing AI-generated characteristics.",
   "tags": [
     "ai-visuals",

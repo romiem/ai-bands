@@ -3,6 +3,13 @@
   "name": "Eye Empire",
   "dateAdded": "2025-12-19T11:26:31.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": "AI-generated cover art. Three albums released in 2025. No bio or social media presence. Not to be confused with a real band of the same name (last album in 2013). Apple and Amazon links have merged the AI and real band into a single artist page.",
   "comments": "AI-generated cover art. Three albums released in 2025. No bio or social media presence. Not to be confused with a real band of the same name (last album in 2013). Apple and Amazon links have merged the AI and real band into a single artist page.",
   "tags": [
     "high-output"

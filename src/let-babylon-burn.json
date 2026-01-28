@@ -3,6 +3,14 @@
   "name": "Let Babylon Burn",
   "dateAdded": "2026-01-09T12:57:07.365Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "Spotify bio refers to \"AI-enhanced creativity\" with human lyrics.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "Spotify bio refers to \"AI-enhanced creativity\" with human lyrics.",
   "tags": [
     "ai-visuals",

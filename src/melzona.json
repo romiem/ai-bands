@@ -3,6 +3,15 @@
   "name": "Melzona",
   "dateAdded": "2026-01-23T17:14:53.296Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Among a wave of AI artists, she stands out as one of the few to reach the biggest Apple Music, Amazon Music, and YouTube Music playlists, proving that artificial intelligence can craft emotion, rhythm, and identity.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Among a wave of AI artists, she stands out as one of the few to reach the biggest Apple Music, Amazon Music, and YouTube Music playlists, proving that artificial intelligence can craft emotion, rhythm, and identity.\"",
   "tags": [
     "ai-visuals",

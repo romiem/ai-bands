@@ -3,6 +3,14 @@
   "name": "dzbogel",
   "dateAdded": "2026-01-07T09:44:15.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Spot-if-AI indicates the songs as AI-generated.",
   "comments": "Spot-if-AI indicates the songs as AI-generated.",
   "tags": [
     "audio-artifacts",

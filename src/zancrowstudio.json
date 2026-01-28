@@ -3,6 +3,14 @@
   "name": "ZancrowStudio",
   "dateAdded": "2026-01-15T20:37:48.666Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states that all music and artwork is \"created with use of AI, meanwhile remixing, mastering and editing is done by our Studio.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states that all music and artwork is \"created with use of AI, meanwhile remixing, mastering and editing is done by our Studio.\"",
   "tags": [
     "ai-visuals",

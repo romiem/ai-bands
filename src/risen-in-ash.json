@@ -3,6 +3,14 @@
   "name": "Risen In Ash",
   "dateAdded": "2026-01-18T14:48:52.193Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

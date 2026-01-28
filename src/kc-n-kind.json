@@ -3,6 +3,14 @@
   "name": "KC N Kind",
   "dateAdded": "2026-01-24T23:26:27.374Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "One of the artist's Instagram posts states: \"Music engineered by Kevin Conner using Suno.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "One of the artist's Instagram posts states: \"Music engineered by Kevin Conner using Suno.\"",
   "tags": [
     "ai-visuals",

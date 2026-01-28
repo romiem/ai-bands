@@ -3,6 +3,14 @@
   "name": "Nick Hustles",
   "dateAdded": "2026-01-12T13:29:25.821Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "self-disclosed-ai",

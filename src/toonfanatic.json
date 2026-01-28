@@ -3,6 +3,15 @@
   "name": "ToonFanatic",
   "dateAdded": "2026-01-04T16:33:57.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "SubmitHub suggests their music has a high probability of being AI-generated.",
   "comments": "SubmitHub suggests their music has a high probability of being AI-generated.",
   "tags": [
     "no-social-presence",

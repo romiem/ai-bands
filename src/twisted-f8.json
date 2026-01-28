@@ -3,6 +3,14 @@
   "name": "Twisted F8",
   "dateAdded": "2026-01-15T20:27:28.034Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "The YouTube bio states that they use \"new AI-assisted technology to help build the instrumental layers behind the band's vision.\"",
   "comments": "The YouTube bio states that they use \"new AI-assisted technology to help build the instrumental layers behind the band's vision.\"",
   "tags": [
     "ai-visuals",

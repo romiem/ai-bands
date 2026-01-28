@@ -3,6 +3,13 @@
   "name": "Souls Divided",
   "dateAdded": "2025-12-10T17:20:50.000Z",
   "dateUpdated": "2026-01-17T11:46:09.246Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "minimal-bio",

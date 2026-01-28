@@ -3,6 +3,13 @@
   "name": "Antonin Herbeck",
   "dateAdded": "2026-01-15T20:06:20.713Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

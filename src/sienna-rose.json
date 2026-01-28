@@ -3,6 +3,14 @@
   "name": "Sienna Rose",
   "dateAdded": "2025-12-31T16:13:56.000Z",
   "dateUpdated": "2026-01-22T22:58:20.863Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "Generic songs paired with AI-generated visuals across platforms, with no identifiable individuals linked to the project.",
   "comments": "Generic songs paired with AI-generated visuals across platforms, with no identifiable individuals linked to the project.",
   "tags": [
     "ai-visuals",

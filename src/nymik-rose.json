@@ -3,6 +3,15 @@
   "name": "Nymik Rose",
   "dateAdded": "2026-01-17T12:21:14.564Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The artist lists Sophie Powers as a featured artist but the vocals do not match.",
   "comments": "The artist lists Sophie Powers as a featured artist but the vocals do not match.",
   "tags": [
     "ai-visuals",

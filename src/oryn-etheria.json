@@ -3,6 +3,14 @@
   "name": "Oryn Etheria",
   "dateAdded": "2026-01-07T14:14:58.798Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

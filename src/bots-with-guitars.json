@@ -3,6 +3,13 @@
   "name": "Bots with guitars",
   "dateAdded": "2026-01-18T14:42:57.726Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio notes that: \"Facing challenges like limited income and resources, he embraces innovative tools-including AI-to bring his music to life. While technology assists in the production process, every lyric is handcrafted and personally written by the artist himself.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio notes that: \"Facing challenges like limited income and resources, he embraces innovative tools-including AI-to bring his music to life. While technology assists in the production process, every lyric is handcrafted and personally written by the artist himself.\"",
   "tags": [
     "self-disclosed-ai",

@@ -3,6 +3,15 @@
   "name": "Break Me Open",
   "dateAdded": "2025-12-23T15:06:03.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Stereotypical sound and visuals, found on station playlist made up exclusively of other AI \"artists\".  Cover art has the telltale signs, no band socials, no background or previous history.",
   "comments": "Stereotypical sound and visuals, found on station playlist made up exclusively of other AI \"artists\".  Cover art has the telltale signs, no band socials, no background or previous history.",
   "tags": [
     "minimal-bio",

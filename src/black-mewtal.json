@@ -3,6 +3,13 @@
   "name": "Black Mewtal",
   "dateAdded": "2025-12-20T12:01:17.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": "Cat-themed metalcore.",
   "comments": "Cat-themed metalcore.",
   "tags": [
     "anonymous"

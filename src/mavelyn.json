@@ -3,6 +3,14 @@
   "name": "Mavelyn",
   "dateAdded": "2026-01-06T20:05:47.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "They openly admit to being AI-generated in their Spotify bio and previously released music under the name \"Melia.\" Between June 2025 and January 2026, they uploaded over 1,000 tracks to Spotify.",
   "comments": "They openly admit to being AI-generated in their Spotify bio and previously released music under the name \"Melia.\" Between June 2025 and January 2026, they uploaded over 1,000 tracks to Spotify.",
   "tags": [
     "ai-visuals",

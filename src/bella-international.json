@@ -3,6 +3,11 @@
   "name": "Bella International",
   "dateAdded": "2026-01-07T22:53:35.079Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "inconsistent-style",

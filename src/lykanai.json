@@ -3,6 +3,13 @@
   "name": "LykanAI",
   "dateAdded": "2026-01-09T13:44:38.784Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

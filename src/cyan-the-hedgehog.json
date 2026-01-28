@@ -3,6 +3,13 @@
   "name": "Cyan The Hedgehog",
   "dateAdded": "2025-12-16T10:04:05.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output"

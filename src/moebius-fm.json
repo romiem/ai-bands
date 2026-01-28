@@ -3,6 +3,14 @@
   "name": "Moebius FM",
   "dateAdded": "2026-01-14T14:41:13.109Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

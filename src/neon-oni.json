@@ -3,6 +3,11 @@
   "name": "NEON ONI",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-07T09:57:46.179Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [],
+  "indicatorsText": "Began as an AI-generated band, but now performs the songs live with real members.",
   "comments": "Began as an AI-generated band, but now performs the songs live with real members.",
   "tags": [
     "partial-ai"

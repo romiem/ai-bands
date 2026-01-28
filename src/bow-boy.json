@@ -3,6 +3,14 @@
   "name": "Bow Boy",
   "dateAdded": "2026-01-23T10:52:47.252Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "minimal-bio",

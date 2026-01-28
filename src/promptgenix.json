@@ -3,6 +3,14 @@
   "name": "promptgenix",
   "dateAdded": "2026-01-26T14:33:52.622Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "Prompt is in the 'band' name, and they have acknowledged the use of AI on Reddit.",
   "tags": [
     "ai-visuals",

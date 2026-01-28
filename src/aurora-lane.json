@@ -3,6 +3,14 @@
   "name": "Aurora Lane",
   "dateAdded": "2026-01-23T11:08:37.337Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

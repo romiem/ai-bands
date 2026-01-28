@@ -3,6 +3,14 @@
   "name": "Rocking Rebel",
   "dateAdded": "2026-01-10T22:56:35.786Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

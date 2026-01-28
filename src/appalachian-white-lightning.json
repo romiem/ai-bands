@@ -3,6 +3,14 @@
   "name": "Appalachian White Lightning",
   "dateAdded": "2026-01-07T23:42:17.314Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,15 @@
   "name": "MythicRealm",
   "dateAdded": "2026-01-14T10:08:13.060Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Generic AI male vocals, AI visual, anonymous",
   "comments": "Generic AI male vocals, AI visual, anonymous",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,13 @@
   "name": "Nekonoma",
   "dateAdded": "2026-01-14T17:06:06.515Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist's YouTube bio states that they are a \"a mysterious AI singer.\"",
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The artist's YouTube bio states that they are a \"a mysterious AI singer.\"",
   "tags": [
     "self-disclosed-ai",

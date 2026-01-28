@@ -3,6 +3,14 @@
   "name": "Jess Tailor",
   "dateAdded": "2026-01-21T20:39:35.196Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

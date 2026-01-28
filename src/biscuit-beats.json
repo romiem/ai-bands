@@ -3,6 +3,15 @@
   "name": "Biscuit Beats",
   "dateAdded": "2026-01-26T23:04:54.550Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Hit Country Songs Made With AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Hit Country Songs Made With AI.\"",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,13 @@
   "name": "Ashes Remember",
   "dateAdded": "2025-12-19T11:03:17.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": "AI cover art. Fake, low-effort social media.",
   "comments": "AI cover art. Fake, low-effort social media.",
   "tags": [
     "anonymous"

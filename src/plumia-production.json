@@ -3,6 +3,13 @@
   "name": "Plumia production",
   "dateAdded": "2026-01-19T13:09:32.722Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"J'écris des paroles et leurs donne vies\" (I write lyrics and bring them to life).",
   "tags": [
     "self-disclosed-ai",

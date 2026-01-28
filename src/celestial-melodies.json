@@ -3,6 +3,15 @@
   "name": "Celestial Melodies",
   "dateAdded": "2026-01-12T16:21:32.884Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "This artist is linked to another profile titled 'Melodia Simples',",
   "comments": "This artist is linked to another profile titled 'Melodia Simples',",
   "tags": [
     "ai-visuals",

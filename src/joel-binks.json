@@ -3,6 +3,13 @@
   "name": "Joel Binks",
   "dateAdded": "2026-01-07T13:42:33.717Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "Instagram bio states that the lyrics are human-written and the music is produced with AI.",
   "comments": "Instagram bio states that the lyrics are human-written and the music is produced with AI.",
   "tags": [
     "ai-visuals",

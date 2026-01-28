@@ -3,6 +3,15 @@
   "name": "BLOW RECORDS",
   "dateAdded": "2026-01-28T13:59:07.446Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Instagram and TikTok bios state: \"Powered by AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Instagram and TikTok bios state: \"Powered by AI.\"",
   "tags": [
     "anonymous",

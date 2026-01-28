@@ -3,6 +3,15 @@
   "name": "Phantom Of The Synth",
   "dateAdded": "2026-01-19T13:25:06.724Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"I'm An AI Music Producer/Songwriter. I edit and mix arrangements in post production but base sound is generated with Suno AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"I'm An AI Music Producer/Songwriter. I edit and mix arrangements in post production but base sound is generated with Suno AI.\"",
   "tags": [
     "ai-visuals",

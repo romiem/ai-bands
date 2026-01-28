@@ -3,6 +3,14 @@
   "name": "Ruinwell",
   "dateAdded": "2026-01-02T11:51:20.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The TikTok and Instagram bios state: \"Human lyrics. AI music.\"",
   "comments": "The TikTok and Instagram bios state: \"Human lyrics. AI music.\"",
   "tags": [
     "ai-visuals",

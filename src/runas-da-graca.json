@@ -3,6 +3,15 @@
   "name": "Runas da Graça",
   "dateAdded": "2025-12-22T13:18:22.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Viking-themed Brazilian/Portuguese Christian songs.",
   "comments": "Viking-themed Brazilian/Portuguese Christian songs.",
   "tags": [
     "ai-visuals",

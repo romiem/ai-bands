@@ -3,6 +3,14 @@
   "name": "If Rappers Made Blues",
   "dateAdded": "2025-12-22T21:48:25.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

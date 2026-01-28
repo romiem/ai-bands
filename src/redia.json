@@ -3,6 +3,14 @@
   "name": "ReDia",
   "dateAdded": "2026-01-01T15:20:11.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "The Spotify bio describes the project as a \"passionate AI artist\" and states that the music is entirely AI-generated.",
   "comments": "The Spotify bio describes the project as a \"passionate AI artist\" and states that the music is entirely AI-generated.",
   "tags": [
     "ai-visuals",

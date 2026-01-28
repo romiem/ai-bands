@@ -3,6 +3,14 @@
   "name": "Old Money Music",
   "dateAdded": "2026-01-25T21:00:39.061Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Putting a spin on old classics with AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Putting a spin on old classics with AI.\"",
   "tags": [
     "ai-visuals",

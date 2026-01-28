@@ -3,6 +3,13 @@
   "name": "Kelly Boesch",
   "dateAdded": "2026-01-05T20:31:45.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "All artist profiles openly acknowledge use of generative AI.",
   "comments": "All artist profiles openly acknowledge use of generative AI.",
   "tags": [
     "ai-visuals",

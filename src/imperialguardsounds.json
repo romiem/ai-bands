@@ -3,6 +3,14 @@
   "name": "ImperialGuardSounds",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-12T15:03:09.226Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Ola Javis",
   "dateAdded": "2026-01-01T16:09:04.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "No online presence outside of music streaming platforms. Features a collaboration with Kairo Mansa, another AI artist.",
   "comments": "No online presence outside of music streaming platforms. Features a collaboration with Kairo Mansa, another AI artist.",
   "tags": [
     "ai-visuals",

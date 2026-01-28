@@ -3,6 +3,14 @@
   "name": "Collective Mind",
   "dateAdded": "2026-01-07T23:52:06.945Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "AI-looking images and videos, no information about who is behind the project, and an unusually large number of recent releases.",
   "comments": "AI-looking images and videos, no information about who is behind the project, and an unusually large number of recent releases.",
   "tags": [
     "ai-visuals",

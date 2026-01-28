@@ -3,6 +3,13 @@
   "name": "Abercrombie Music",
   "dateAdded": "2026-01-02T19:13:55.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
   "comments": "The Spotify bio states that AI technology is used to fully produce the instrumentation, melodies, and vocals.",
   "tags": [
     "ai-visuals",

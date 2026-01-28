@@ -3,6 +3,15 @@
   "name": "FarshidS",
   "dateAdded": "2025-12-29T19:15:06.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "AI-generated images and bios, with audible vocal artifacts and a very high release volume. The YouTube channel shows characteristics of automated AI content, including repetitive uploads and AI-style comments.",
   "comments": "AI-generated images and bios, with audible vocal artifacts and a very high release volume. The YouTube channel shows characteristics of automated AI content, including repetitive uploads and AI-style comments.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Elina Lisa　絵里奈リサ",
   "dateAdded": "2026-01-05T20:40:32.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
   "comments": "Spotify bio claims that the artist is an \"AI Singer\" and utilises Suno.",
   "tags": [
     "partial-ai",

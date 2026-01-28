@@ -3,6 +3,14 @@
   "name": "Rosie K",
   "dateAdded": "2026-01-16T15:07:25.971Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist's record label, Colossal, describes her as their first AI artist from East Africa.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The artist's record label, Colossal, describes her as their first AI artist from East Africa.",
   "tags": [
     "audio-artifacts",

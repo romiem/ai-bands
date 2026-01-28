@@ -3,6 +3,13 @@
   "name": "Melania Maye",
   "dateAdded": "2026-01-18T09:14:59.170Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

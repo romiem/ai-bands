@@ -3,6 +3,14 @@
   "name": "Rapto Co",
   "dateAdded": "2025-12-31T16:03:26.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Rapid weekly releases of fully produced songs based on anime and game characters, featuring vocals and lyrics. Minimal social media presence prior to 2025. Promotional artwork is inconsistent, with no credited artist or vocalist.",
   "comments": "Rapid weekly releases of fully produced songs based on anime and game characters, featuring vocals and lyrics. Minimal social media presence prior to 2025. Promotional artwork is inconsistent, with no credited artist or vocalist.",
   "tags": [
     "ai-visuals",

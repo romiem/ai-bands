@@ -3,6 +3,13 @@
   "name": "Atlas-Leo Mikkolainen",
   "dateAdded": "2026-01-26T18:17:51.039Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

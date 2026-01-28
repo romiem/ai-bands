@@ -3,6 +3,14 @@
   "name": "YDream",
   "dateAdded": "2026-01-26T22:59:19.391Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

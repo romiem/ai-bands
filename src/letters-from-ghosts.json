@@ -3,6 +3,13 @@
   "name": "Letters From Ghosts",
   "dateAdded": "2026-01-12T22:33:02.760Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "human-lyrics",

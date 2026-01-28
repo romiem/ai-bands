@@ -3,6 +3,15 @@
   "name": "City of the Fallen",
   "dateAdded": "2026-01-07T15:31:24.292Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Appears to be an AI project that co-opted the name of a soundtrack/score artist from 2012-2019. All new music starting in 2024 has an AI Feel and high volume of tracks released for the time period. Socials linked from the artist on Spotify are inactive / removed.",
   "comments": "Appears to be an AI project that co-opted the name of a soundtrack/score artist from 2012-2019. All new music starting in 2024 has an AI Feel and high volume of tracks released for the time period. Socials linked from the artist on Spotify are inactive / removed.",
   "tags": [
     "ai-visuals",

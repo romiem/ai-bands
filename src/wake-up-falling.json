@@ -3,6 +3,14 @@
   "name": "WAKE UP FALLING",
   "dateAdded": "2026-01-10T11:03:34.170Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "self-disclosed-ai",

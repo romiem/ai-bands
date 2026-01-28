@@ -3,6 +3,14 @@
   "name": "Relatone",
   "dateAdded": "2026-01-15T20:36:07.877Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "Relatone has self-disclosed AI usage for vocals and the music itself, but has stated that they write the lyrics.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "Relatone has self-disclosed AI usage for vocals and the music itself, but has stated that they write the lyrics.",
   "tags": [
     "ai-visuals",

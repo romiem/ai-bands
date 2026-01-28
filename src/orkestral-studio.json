@@ -3,6 +3,14 @@
   "name": "Orkestral Studio",
   "dateAdded": "2025-12-22T13:51:48.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

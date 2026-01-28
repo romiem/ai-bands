@@ -3,6 +3,13 @@
   "name": "Rizzers",
   "dateAdded": "2026-01-15T10:05:47.274Z",
   "dateUpdated": "2026-01-18T14:40:57.825Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": "The credits for all songs list just one person: Shai Reuven. The bio lists 5 band members, but no information is available online for any of them.",
   "comments": "The credits for all songs list just one person: Shai Reuven. The bio lists 5 band members, but no information is available online for any of them.",
   "tags": [
     "no-social-presence",

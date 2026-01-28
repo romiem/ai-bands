@@ -3,6 +3,14 @@
   "name": "Joshua Salatandra",
   "dateAdded": "2026-01-08T17:51:20.739Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "self-disclosed-ai",

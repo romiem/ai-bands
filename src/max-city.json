@@ -3,6 +3,14 @@
   "name": "Max City",
   "dateAdded": "2025-12-30T19:11:56.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "At time of writing, all music releases occurred in 2025, with single and album covers lacking consistent art or branding. The bio appears generic and non-specific.",
   "comments": "At time of writing, all music releases occurred in 2025, with single and album covers lacking consistent art or branding. The bio appears generic and non-specific.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Digital Delusions",
   "dateAdded": "2026-01-12T13:46:36.303Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Blurring the Edges of Creativity and AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Blurring the Edges of Creativity and AI.\"",
   "tags": [
     "self-disclosed-ai",

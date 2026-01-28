@@ -3,6 +3,14 @@
   "name": "Inferisborn",
   "dateAdded": "2026-01-21T17:04:23.782Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

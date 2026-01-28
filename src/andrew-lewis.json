@@ -3,6 +3,13 @@
   "name": "Andrew Lewis",
   "dateAdded": "2026-01-26T18:07:08.467Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

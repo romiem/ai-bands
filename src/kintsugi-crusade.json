@@ -3,6 +3,14 @@
   "name": "Kintsugi Crusade",
   "dateAdded": "2026-01-15T20:28:30.401Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states the channel features \"original AI-assisted tracks + lyrics videos.\"",
   "tags": [
     "ai-visuals",

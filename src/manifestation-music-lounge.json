@@ -3,6 +3,14 @@
   "name": "Manifestation Music Lounge",
   "dateAdded": "2026-01-07T14:03:51.558Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "YouTube bio acknowledges use of AI-generated content.",
   "comments": "YouTube bio acknowledges use of AI-generated content.",
   "tags": [
     "ai-visuals",

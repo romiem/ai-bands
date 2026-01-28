@@ -3,6 +3,15 @@
   "name": "Sombras Del Cóndor",
   "dateAdded": "2026-01-25T20:49:05.962Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Sombras de Cóndor is a Chilean metal band created with artificial intelligence, inspired by myths, legends and dark stories from all over Chile.\" (translated from Spanish)",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Sombras de Cóndor is a Chilean metal band created with artificial intelligence, inspired by myths, legends and dark stories from all over Chile.\" (translated from Spanish)",
   "tags": [
     "ai-visuals",

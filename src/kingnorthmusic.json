@@ -3,6 +3,14 @@
   "name": "KingNorthMusic",
   "dateAdded": "2026-01-21T17:10:37.106Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

@@ -3,6 +3,14 @@
   "name": "Action Cop",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-07T14:36:01.919Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
   "comments": "The promotional videos appear to be mostly, if not entirely, AI. Some music tracks just end abruptly, as if they were not finished, and the vocals have many artifacts. The artist has no social media presence outside of promotion.",
   "tags": [
     "ai-visuals",

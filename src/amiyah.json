@@ -3,6 +3,15 @@
   "name": "AMiYAH",
   "dateAdded": "2026-01-02T19:25:14.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "AI-generated visuals, with no information provided about band members.",
   "comments": "AI-generated visuals, with no information provided about band members.",
   "tags": [
     "ai-visuals",

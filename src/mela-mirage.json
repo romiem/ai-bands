@@ -3,6 +3,14 @@
   "name": "Mela Mirage",
   "dateAdded": "2026-01-16T13:49:13.126Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Youtube bio states: \"Concepts and lyrics by Mela Mirage. Audio provided by Suno.com. Mixing and mastering by Mela Mirage/Suno.com.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Youtube bio states: \"Concepts and lyrics by Mela Mirage. Audio provided by Suno.com. Mixing and mastering by Mela Mirage/Suno.com.\"",
   "tags": [
     "partial-ai",

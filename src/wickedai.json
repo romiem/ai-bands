@@ -3,6 +3,14 @@
   "name": "WickedAI",
   "dateAdded": "2026-01-24T23:22:04.051Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"AI Artist | Screenwriter | Gamer\" and \"After more than a decade of writing screenplays, despite taking down the Hollywood Con Queen, I was unable to ever get representation. So I embraced AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"AI Artist | Screenwriter | Gamer\" and \"After more than a decade of writing screenplays, despite taking down the Hollywood Con Queen, I was unable to ever get representation. So I embraced AI.\"",
   "tags": [
     "self-disclosed-ai",

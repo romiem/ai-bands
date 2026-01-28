@@ -3,6 +3,14 @@
   "name": "HexMouth",
   "dateAdded": "2026-01-09T16:02:09.329Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Lyrics and album artwork appear to be AI-recycled from the artist Hexa Moon. Hexa Moon has reportedly taken action to remove HexMouth over copyright issues and false impersonation.",
   "comments": "Lyrics and album artwork appear to be AI-recycled from the artist Hexa Moon. Hexa Moon has reportedly taken action to remove HexMouth over copyright issues and false impersonation.",
   "tags": [
     "ai-visuals",

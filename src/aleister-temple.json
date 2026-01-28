@@ -3,6 +3,14 @@
   "name": "Aleister Temple",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-20T13:18:16.965Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "No information or photos of members; generic AI art",
   "comments": "No information or photos of members; generic AI art",
   "tags": [
     "high-output",

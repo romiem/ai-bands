@@ -3,6 +3,13 @@
   "name": "Sa'Lunara",
   "dateAdded": "2026-01-13T22:04:12.039Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist has stated in TikTok comments that the instrumentals are AI-generated.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The artist has stated in TikTok comments that the instrumentals are AI-generated.",
   "tags": [
     "partial-ai",

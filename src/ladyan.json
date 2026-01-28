@@ -3,6 +3,14 @@
   "name": "LadyAn",
   "dateAdded": "2026-01-02T13:43:20.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "The artist's back catalog consists exclusively of releases from 2025 as of the time of writing, accompanied by AI-generated visuals.",
   "comments": "The artist's back catalog consists exclusively of releases from 2025 as of the time of writing, accompanied by AI-generated visuals.",
   "tags": [
     "ai-visuals",

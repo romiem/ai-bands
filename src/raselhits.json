@@ -3,6 +3,14 @@
   "name": "RASELHITS",
   "dateAdded": "2026-01-23T10:40:13.383Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

@@ -3,6 +3,14 @@
   "name": "take your time",
   "dateAdded": "2026-01-09T13:59:12.483Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Has released almost 40 albums in 2025 alone.",
   "comments": "Has released almost 40 albums in 2025 alone.",
   "tags": [
     "minimal-bio",

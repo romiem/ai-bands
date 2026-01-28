@@ -3,6 +3,14 @@
   "name": "Bad Apples",
   "dateAdded": "2025-11-24T23:56:10.000Z",
   "dateUpdated": "2026-01-19T10:55:16.308Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify and YouTube bio state: \"Crafted by humans, perfected by AI.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify and YouTube bio state: \"Crafted by humans, perfected by AI.\"",
   "tags": [
     "self-disclosed-ai",

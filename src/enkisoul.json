@@ -3,6 +3,14 @@
   "name": "Enkisoul",
   "dateAdded": "2026-01-07T14:07:39.052Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "Self acknowledges as an AI-generated band on YouTube.",
   "comments": "Self acknowledges as an AI-generated band on YouTube.",
   "tags": [
     "ai-visuals",

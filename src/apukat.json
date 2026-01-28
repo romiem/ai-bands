@@ -3,6 +3,14 @@
   "name": "Apukat",
   "dateAdded": "2025-12-09T22:35:10.000Z",
   "dateUpdated": "2026-01-21T20:09:42.940Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output",

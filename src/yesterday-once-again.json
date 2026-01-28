@@ -3,6 +3,14 @@
   "name": "Yesterday Once Again",
   "dateAdded": "2026-01-12T13:36:04.109Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "minimal-bio",

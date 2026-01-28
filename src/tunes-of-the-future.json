@@ -3,6 +3,15 @@
   "name": "Tunes of the Future",
   "dateAdded": "2025-12-29T20:10:23.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Active from 2024 to 2025, with AI-generated visuals and an exceptionally high volume of song releases.",
   "comments": "Active from 2024 to 2025, with AI-generated visuals and an exceptionally high volume of song releases.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Horizon Tunes",
   "dateAdded": "2026-01-14T09:54:46.066Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube channel states that they are \"Blending human creativity with artificial intelligence to create music you've never heard before.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube channel states that they are \"Blending human creativity with artificial intelligence to create music you've never heard before.\"",
   "tags": [
     "anonymous",

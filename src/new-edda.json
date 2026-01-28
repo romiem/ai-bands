@@ -3,6 +3,15 @@
   "name": "New Edda",
   "dateAdded": "2026-01-07T21:24:51.363Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The artist profile contains vague or minimal biographical information and does not reference any identifiable human musicians. SubmitHub flags strong characteristics commonly associated with AI-generated music.",
   "comments": "The artist profile contains vague or minimal biographical information and does not reference any identifiable human musicians. SubmitHub flags strong characteristics commonly associated with AI-generated music.",
   "tags": [
     "ai-visuals",

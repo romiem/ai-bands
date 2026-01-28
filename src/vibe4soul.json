@@ -3,6 +3,14 @@
   "name": "Vibe4Soul",
   "dateAdded": "2026-01-23T23:31:32.570Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

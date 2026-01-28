@@ -3,6 +3,15 @@
   "name": "ORGAVSM",
   "dateAdded": "2025-12-29T19:32:41.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The YouTube bio states that new tracks are released every week.",
   "comments": "The YouTube bio states that new tracks are released every week.",
   "tags": [
     "ai-visuals",

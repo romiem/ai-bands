@@ -3,6 +3,15 @@
   "name": "Rüstung",
   "dateAdded": "2026-01-02T11:25:26.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "AI-generated imagery and synthetic-sounding audio, with multiple albums released within a single year.",
   "comments": "AI-generated imagery and synthetic-sounding audio, with multiple albums released within a single year.",
   "tags": [
     "ai-visuals",

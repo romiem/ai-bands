@@ -3,6 +3,13 @@
   "name": "Otto",
   "dateAdded": "2026-01-23T11:02:41.709Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states \"We are distributing original songs created by AI.\" (translated from Japanese)",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states \"We are distributing original songs created by AI.\" (translated from Japanese)",
   "tags": [
     "ai-visuals",

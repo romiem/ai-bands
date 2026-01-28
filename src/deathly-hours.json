@@ -3,6 +3,15 @@
   "name": "Deathly Hours",
   "dateAdded": "2025-11-25T12:12:56.000Z",
   "dateUpdated": "2026-01-27T23:14:13.631Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The person running their YouTube channel deletes comments alluding to AI.",
   "comments": "The person running their YouTube channel deletes comments alluding to AI.",
   "tags": [
     "ai-visuals",

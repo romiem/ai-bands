@@ -3,6 +3,14 @@
   "name": "Angelina Mormando",
   "dateAdded": "2026-01-15T20:05:01.667Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify description states that the project is \"is a virtual artist.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify description states that the project is \"is a virtual artist.\"",
   "tags": [
     "ai-visuals",

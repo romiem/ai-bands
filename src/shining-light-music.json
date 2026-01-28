@@ -3,6 +3,13 @@
   "name": "Shining Light Music",
   "dateAdded": "2026-01-25T12:48:00.992Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"While the instruments and vocals are AI-generated, every lyric is written by me.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"While the instruments and vocals are AI-generated, every lyric is written by me.\"",
   "tags": [
     "ai-visuals",

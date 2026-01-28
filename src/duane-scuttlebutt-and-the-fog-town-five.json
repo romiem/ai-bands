@@ -3,6 +3,15 @@
   "name": "Duane Scuttlebutt & The Fog-Town Five",
   "dateAdded": "2025-12-29T19:47:15.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The YouTube bio announces a weekly release schedule.",
   "comments": "The YouTube bio announces a weekly release schedule.",
   "tags": [
     "ai-visuals",

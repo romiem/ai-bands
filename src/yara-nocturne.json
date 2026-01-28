@@ -3,6 +3,14 @@
   "name": "Yara Nocturne",
   "dateAdded": "2025-12-16T08:21:41.000Z",
   "dateUpdated": "2026-01-07T20:53:26.380Z",
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "They describe themselves as an \"AI artist\" on their YouTube profile.",
   "comments": "They describe themselves as an \"AI artist\" on their YouTube profile.",
   "tags": [
     "ai-visuals",

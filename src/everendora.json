@@ -3,6 +3,13 @@
   "name": "Everendora",
   "dateAdded": "2026-01-17T12:08:52.662Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states that it is a \"project that fuses heartfelt lyricism with Logic Pro production and AI creativity.\"",
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states that it is a \"project that fuses heartfelt lyricism with Logic Pro production and AI creativity.\"",
   "tags": [
     "minimal-bio",

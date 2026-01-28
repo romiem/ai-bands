@@ -3,6 +3,14 @@
   "name": "Haus of Hekate",
   "dateAdded": "2026-01-04T16:56:27.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "SubmitHub detects strong AI characteristics in their music.",
   "comments": "SubmitHub detects strong AI characteristics in their music.",
   "tags": [
     "ai-visuals",

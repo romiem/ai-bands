@@ -3,6 +3,15 @@
   "name": "Vowless",
   "dateAdded": "2026-01-23T17:12:21.313Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"AI-assisted production.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"AI-assisted production.\"",
   "tags": [
     "anonymous",

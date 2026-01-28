@@ -3,6 +3,14 @@
   "name": "Valor Pulse",
   "dateAdded": "2026-01-21T17:07:59.754Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The YouTube bio states: \"All music created with AI.\"",
   "comments": "The YouTube bio states: \"All music created with AI.\"",
   "tags": [
     "ai-visuals",

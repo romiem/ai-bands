@@ -3,6 +3,14 @@
   "name": "Death Culture",
   "dateAdded": "2026-01-03T14:03:41.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "SubmitHub detects strong AI characteristics in their music.",
   "comments": "SubmitHub detects strong AI characteristics in their music.",
   "tags": [
     "ai-visuals",

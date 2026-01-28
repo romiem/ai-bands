@@ -3,6 +3,14 @@
   "name": "Slick Krugers",
   "dateAdded": "2026-01-21T22:17:29.281Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

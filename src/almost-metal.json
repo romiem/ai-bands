@@ -3,6 +3,13 @@
   "name": "Almost Metal",
   "dateAdded": "2026-01-26T22:58:11.916Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Here, I use AI as my unpredictable lab assistant-generating strange vocals and chaotic instruments.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Here, I use AI as my unpredictable lab assistant-generating strange vocals and chaotic instruments.\"",
   "tags": [
     "ai-visuals",

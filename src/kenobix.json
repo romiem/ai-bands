@@ -3,6 +3,15 @@
   "name": "Kenobix",
   "dateAdded": "2026-01-16T20:58:54.474Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"By blending the shared atmospheres of artificial intelligence and human creativity, we aim to create music that is not only heard, but felt.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"By blending the shared atmospheres of artificial intelligence and human creativity, we aim to create music that is not only heard, but felt.\"",
   "tags": [
     "ai-visuals",

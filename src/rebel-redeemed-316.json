@@ -3,6 +3,14 @@
   "name": "Rebel Redeemed 316",
   "dateAdded": "2026-01-01T15:30:28.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "minimal-bio",

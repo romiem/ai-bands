@@ -3,6 +3,14 @@
   "name": "Moonshine Outlaws",
   "dateAdded": "2025-12-08T10:49:35.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

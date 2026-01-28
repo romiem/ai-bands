@@ -3,6 +3,14 @@
   "name": "Jay Carney",
   "dateAdded": "2026-01-14T21:30:12.269Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

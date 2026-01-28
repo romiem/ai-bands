@@ -3,6 +3,14 @@
   "name": "Rhymes of the Damned",
   "dateAdded": "2026-01-20T22:03:38.085Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Rhymes of the Damned is an experimental AI-driven music project.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Rhymes of the Damned is an experimental AI-driven music project.\"",
   "tags": [
     "ai-visuals",

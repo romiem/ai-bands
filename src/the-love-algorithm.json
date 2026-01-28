@@ -3,6 +3,14 @@
   "name": "The Love Algorithm",
   "dateAdded": "2026-01-10T21:02:51.018Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

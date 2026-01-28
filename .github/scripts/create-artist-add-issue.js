@@ -49,12 +49,12 @@ const params = Object.keys(orderedData)
   .filter(Boolean)
   .join('&');
 
-const link = `[Review changes](https://souloverai.com/add?${params})`;
+const link = `[Review submission](https://souloverai.com/add?${params})`;
 const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n\n${link}`;
 
 // If an issue with the same artist name exists, add a comment instead of creating a new issue
 (async () => {
-  const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "Add Artist: ${data.name}"`;
+  const searchQuery = `repo:${owner}/${repo} is:issue is:open in:title "${data.name} (${data.spotify})"`;
   const searchResults = await octokit.search.issuesAndPullRequests({ q: searchQuery });
 
   // Add comment
@@ -91,12 +91,12 @@ const issueBody = `\`\`\`json\n${JSON.stringify(orderedData, null, 2)}\n\`\`\`\n
     //     console.warn('Failed to fetch Spotify data, defaulting to low priority:', err.message);
     //   }
     // }
-    const label = data.submissionScore >= 3 ? 'add-artist:high' : 'add-artist:low';
+    const label = data.disclosure == 'none' ? 'add-artist:low' : 'add-artist:high';
 
     await octokit.issues.create({
       owner,
       repo,
-      title: `Add Artist: ${data.name}`,
+      title: `${data.name} (${data.spotify})`,
       body: issueBody,
       labels: [label],
     });

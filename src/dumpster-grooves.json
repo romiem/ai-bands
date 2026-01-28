@@ -3,6 +3,15 @@
   "name": "Dumpster Grooves",
   "dateAdded": "2026-01-18T12:24:43.014Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states that \"each song is born from human hands - written, arranged, and produced with care by Dumpster Grooves - then gently shaped with AI to echo the warmth and soul of lost eras.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states that \"each song is born from human hands - written, arranged, and produced with care by Dumpster Grooves - then gently shaped with AI to echo the warmth and soul of lost eras.\"",
   "tags": [
     "ai-visuals",

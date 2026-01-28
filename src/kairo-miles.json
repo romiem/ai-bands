@@ -3,6 +3,13 @@
   "name": "Kairo Miles",
   "dateAdded": "2026-01-23T11:05:37.660Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist (CJ Tuttle) has acknowledged this is is an AI-generated project on his his website.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The artist (CJ Tuttle) has acknowledged this is is an AI-generated project on his his website.",
   "tags": [
     "ai-visuals",

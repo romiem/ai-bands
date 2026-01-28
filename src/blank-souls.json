@@ -3,6 +3,14 @@
   "name": "BLANK SOULS",
   "dateAdded": "2026-01-03T09:28:41.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

@@ -3,6 +3,14 @@
   "name": "Yvora",
   "dateAdded": "2025-12-22T13:32:54.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "No songs older than 2025.",
   "comments": "No songs older than 2025.",
   "tags": [
     "ai-visuals",

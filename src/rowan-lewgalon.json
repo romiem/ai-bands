@@ -3,6 +3,13 @@
   "name": "Rowan Lewgalon",
   "dateAdded": "2026-01-19T12:50:25.133Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"A storyteller and AI-musician blending ancient lore with modern soundscapes.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"A storyteller and AI-musician blending ancient lore with modern soundscapes.\"",
   "tags": [
     "ai-visuals",

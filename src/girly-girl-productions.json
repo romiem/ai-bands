@@ -3,6 +3,14 @@
   "name": "Girly Girl Productions",
   "dateAdded": "2025-12-20T23:47:10.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Barebones website. Has AI audio artifacts.",
   "comments": "Barebones website. Has AI audio artifacts.",
   "tags": [
     "high-output",

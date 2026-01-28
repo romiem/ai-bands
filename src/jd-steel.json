@@ -3,6 +3,13 @@
   "name": "JD Steel",
   "dateAdded": "2025-12-13T20:35:05.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "high-output"

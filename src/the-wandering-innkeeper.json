@@ -3,6 +3,15 @@
   "name": "The Wandering Innkeeper",
   "dateAdded": "2026-01-07T15:01:21.695Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Openly discloses use of AI. Their Spotify profile describes them as a \"synthetic project\" and states that their \"content is altered with the use of AI.\"",
   "comments": "Openly discloses use of AI. Their Spotify profile describes them as a \"synthetic project\" and states that their \"content is altered with the use of AI.\"",
   "tags": [
     "ai-visuals",

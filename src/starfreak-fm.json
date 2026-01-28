@@ -3,6 +3,14 @@
   "name": "Starfreak FM",
   "dateAdded": "2026-01-20T13:20:26.251Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"Now thanks to AI song generators, I can finally give voice to the stories that lived only in my head.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"Now thanks to AI song generators, I can finally give voice to the stories that lived only in my head.\"",
   "tags": [
     "high-output",

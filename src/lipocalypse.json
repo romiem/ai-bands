@@ -3,6 +3,14 @@
   "name": "Lipocalypse",
   "dateAdded": "2026-01-16T20:49:27.721Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "The artist is featured often alongside another AI band called 'Silas Grime'.",
   "comments": "The artist is featured often alongside another AI band called 'Silas Grime'.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,15 @@
   "name": "angelbaby",
   "dateAdded": "2026-01-14T21:43:54.048Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The Instagram bio states \"your favorite virtual artist.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Instagram bio states \"your favorite virtual artist.\"",
   "tags": [
     "ai-visuals",

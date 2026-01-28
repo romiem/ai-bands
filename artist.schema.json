@@ -26,6 +26,54 @@
       "format": "date-time",
       "description": "Date this entry was last updated (ISO 8601 UTC format), or null if never updated"
     },
+    "disclosure": {
+      "type": "string",
+      "enum": ["confirmed", "full", "partial", "none"],
+      "description": "Whether the artist has self-disclosed AI usage: confirmed = yes without context, full = fully AI-generated, partial = uses AI for parts of their process, none = no disclosure"
+    },
+    "disclosureText": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Additional details for the disclosure value, or null if no details provided"
+    },
+    "aiUsage": {
+      "type": "array",
+      "description": "Types of AI usage in the artist's music production",
+      "items": {
+        "type": "string",
+        "enum": [
+          "composition",
+          "instrumentation",
+          "lyrics",
+          "mixing",
+          "vocals"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "indicators": {
+      "type": "array",
+      "description": "Indicators suggesting AI-generated content",
+      "items": {
+        "type": "string",
+        "enum": [
+          "2024-onwards",
+          "ai-visuals",
+          "anonymous",
+          "high-output"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "indicatorsText": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Additional details for the indicators value, or null if no details provided"
+    },
     "comments": {
       "type": [
         "string",
@@ -140,6 +188,11 @@
     "name",
     "dateAdded",
     "dateUpdated",
+    "disclosure",
+    "disclosureText",
+    "aiUsage",
+    "indicators",
+    "indicatorsText",
     "comments",
     "tags",
     "genres",

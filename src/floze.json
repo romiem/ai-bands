@@ -3,6 +3,11 @@
   "name": "Floze",
   "dateAdded": "2026-01-26T22:45:07.040Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [],
+  "indicatorsText": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
   "comments": "It appears this artist is adding AI-generated vocals, as pre-2023 tracks had no vocals.",
   "tags": [
     "audio-artifacts",

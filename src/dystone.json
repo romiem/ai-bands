@@ -3,6 +3,14 @@
   "name": "Dystøne",
   "dateAdded": "2026-01-11T13:12:30.635Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "self-disclosed-ai",

@@ -3,6 +3,14 @@
   "name": "Crowning Flame",
   "dateAdded": "2025-12-08T13:30:38.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "anonymous",

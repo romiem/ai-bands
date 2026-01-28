@@ -3,6 +3,14 @@
   "name": "Fierlayce",
   "dateAdded": "2025-12-21T20:50:38.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "Fully AI-generated, appears to be made by the same unknown party behind the AI-generated artist \"Eurozia\".",
   "comments": "Fully AI-generated, appears to be made by the same unknown party behind the AI-generated artist \"Eurozia\".",
   "tags": [
     "high-output",

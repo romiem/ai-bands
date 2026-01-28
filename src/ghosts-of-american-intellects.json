@@ -3,6 +3,14 @@
   "name": "Ghosts of American Intellects",
   "dateAdded": "2026-01-18T14:46:59.661Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The artist has stated on Facebook that the music is AI generated but the lyrics are written by a human.",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": "The artist has stated on Facebook that the music is AI generated but the lyrics are written by a human.",
   "tags": [
     "ai-visuals",

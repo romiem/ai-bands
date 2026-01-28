@@ -3,6 +3,13 @@
   "name": "Fractured Souls",
   "dateAdded": "2026-01-02T19:29:02.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "All cover artwork and the Spotify profile image appear AI-generated. The single release cadence is unusually dense (four releases within two weeks). The project resembles other recently emerged AI-driven artists and shows little to no social media presence.",
   "comments": "All cover artwork and the Spotify profile image appear AI-generated. The single release cadence is unusually dense (four releases within two weeks). The project resembles other recently emerged AI-driven artists and shows little to no social media presence.",
   "tags": [
     "ai-visuals",

@@ -3,6 +3,14 @@
   "name": "Dream.in.Sanity",
   "dateAdded": "2026-01-20T21:55:35.898Z",
   "dateUpdated": null,
+  "disclosure": "confirmed",
+  "disclosureText": "The YouTube bio states: \"Imaginations manifested in reality by Artificial Intelligence.\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The YouTube bio states: \"Imaginations manifested in reality by Artificial Intelligence.\"",
   "tags": [
     "ai-visuals",

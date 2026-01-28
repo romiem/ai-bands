@@ -3,6 +3,13 @@
   "name": "MAY BEE",
   "dateAdded": "2026-01-17T12:05:50.772Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "audio-artifacts",

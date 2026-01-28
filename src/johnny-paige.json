@@ -3,6 +3,14 @@
   "name": "Johnny Paige",
   "dateAdded": "2026-01-07T23:11:36.898Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "All releases date from 2025 onward, with only a minimal bio and no real artist information. The album artwork appears AI-generated and closely resembles visuals used by other AI-driven music projects.",
   "comments": "All releases date from 2025 onward, with only a minimal bio and no real artist information. The album artwork appears AI-generated and closely resembles visuals used by other AI-driven music projects.",
   "tags": [
     "ai-visuals",

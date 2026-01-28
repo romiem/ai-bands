@@ -3,6 +3,14 @@
   "name": "Midnight In Manhattan",
   "dateAdded": "2026-01-02T14:24:01.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

@@ -3,6 +3,15 @@
   "name": "MithicLegend",
   "dateAdded": "2026-01-02T15:10:19.000Z",
   "dateUpdated": "2026-01-19T10:27:24.600Z",
+  "disclosure": "confirmed",
+  "disclosureText": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": "The Spotify bio states: \"I use Ableton, vocaloid, various AI, and/or my own instruments in a mix to create sounds that I enjoy!\"",
   "tags": [
     "minimal-bio",

@@ -3,6 +3,14 @@
   "name": "Ethereal Chronicles",
   "dateAdded": "2026-01-07T23:09:25.019Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "YouTube bio states that lyrics are human-written, but everything else is AI-generated.",
   "comments": "YouTube bio states that lyrics are human-written, but everything else is AI-generated.",
   "tags": [
     "ai-visuals",

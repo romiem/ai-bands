@@ -3,6 +3,14 @@
   "name": "Groove Monkey",
   "dateAdded": "2026-01-25T12:45:18.834Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": null,
   "comments": null,
   "tags": [
     "ai-visuals",

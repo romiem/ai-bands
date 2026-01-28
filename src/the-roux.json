@@ -3,6 +3,14 @@
   "name": "The Roux",
   "dateAdded": "2026-01-03T18:41:08.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous"
+  ],
+  "indicatorsText": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
   "comments": "No information about the band is available online. All artwork appear AI-generated. Vocals show noticeable inconsistency across different tracks.",
   "tags": [
     "ai-visuals",

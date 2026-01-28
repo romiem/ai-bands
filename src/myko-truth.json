@@ -3,6 +3,13 @@
   "name": "Myko Truth",
   "dateAdded": "2025-12-29T19:18:10.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals"
+  ],
+  "indicatorsText": "YouTube comments allude to AI-generated content being used in the project.",
   "comments": "YouTube comments allude to AI-generated content being used in the project.",
   "tags": [
     "ai-visuals",

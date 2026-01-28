@@ -3,6 +3,14 @@
   "name": "Linhy",
   "dateAdded": "2026-01-04T23:18:07.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "high-output"
+  ],
+  "indicatorsText": "YouTube bio acknowledges use of AI.",
   "comments": "YouTube bio acknowledges use of AI.",
   "tags": [
     "ai-visuals",

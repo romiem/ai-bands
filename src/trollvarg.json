@@ -3,6 +3,15 @@
   "name": "Trollvarg",
   "dateAdded": "2026-01-02T11:20:38.000Z",
   "dateUpdated": null,
+  "disclosure": "none",
+  "disclosureText": null,
+  "aiUsage": [],
+  "indicators": [
+    "ai-visuals",
+    "anonymous",
+    "high-output"
+  ],
+  "indicatorsText": "The audio sounds synthetic, with sudden releases of singles and an album appearing without prior history. All visuals appear AI-generated, with no identifiable human presence.",
   "comments": "The audio sounds synthetic, with sudden releases of singles and an album appearing without prior history. All visuals appear AI-generated, with no identifiable human presence.",
   "tags": [
     "ai-visuals",
