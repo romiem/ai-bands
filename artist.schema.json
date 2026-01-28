@@ -44,9 +44,9 @@
       "items": {
         "type": "string",
         "enum": [
-          "composition",
           "instrumentation",
           "lyrics",
+          "mastering",
           "mixing",
           "vocals"
         ]
